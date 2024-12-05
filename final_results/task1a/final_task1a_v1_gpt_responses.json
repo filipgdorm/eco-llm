@@ -1,0 +1,1602 @@
+{
+    "19284": {
+        "question": "Can you tell me if the \"Swift Parrot\" (\"Lathamus discolor\") can be found at the following locations:\n\n17.063213, -162.12767\n-33.409668, 149.759048\n-29.050745, 153.875879\n-36.818771, 146.774261\n-30.404892, 152.351608\n-30.040327, -54.881405\n-28.618881, 150.035301\n-27.947191, 152.013367\n59.036442, 134.863144\n-37.551258, 141.362335\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Swift Parrot (\"Lathamus discolor\") at the given locations:\n\n```python\n[0, 1, 1, 1, 1, 0, 1, 1, 0, 1]\n```\n\nExplanation:\n- The Swift Parrot is endemic to southeastern Australia and Tasmania. It migrates between Tasmania and mainland Australia, particularly to areas in Victoria, New South Wales, and Queensland.\n- The coordinates provided that fall within these regions have a high likelihood score (1).\n- Locations outside of these regions, such as those in the middle of the ocean, South America, or far northern latitudes, have a low likelihood score (0).",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "13270": {
+        "question": "Can you tell me if the \"Wood Thrush\" (\"Hylocichla mustelina\") can be found at the following locations:\n\n9.124044, -82.787229\n42.169243, -92.454086\n49.110302, -35.071163\n26.280815, -99.328041\n47.022663, -82.970146\n16.146984, -90.460342\n11.475448, -86.692831\n-53.306023, -75.117119\n30.523619, -89.751701\n16.35537, 52.461609\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide likelihood scores for the presence of the Wood Thrush at the given locations. The Wood Thrush (Hylocichla mustelina) is primarily found in the eastern United States during the breeding season and migrates to Central America for the winter. Here are the likelihood scores based on the coordinates provided:\n\n```python\n[0.2, 1, 0, 0.1, 0.5, 0.8, 0.7, 0, 1, 0]\n```\n\nExplanation:\n1. **9.124044, -82.787229**: This is in Panama, which is within the wintering range of the Wood Thrush. Score: 0.2\n2. **42.169243, -92.454086**: This is in Iowa, USA, which is within the breeding range. Score: 1\n3. **49.110302, -35.071163**: This is in the North Atlantic Ocean, far from any land. Score: 0\n4. **26.280815, -99.328041**: This is in northern Mexico, which is outside the typical range. Score: 0.1\n5. **47.022663, -82.970146**: This is in Ontario, Canada, which is on the northern edge of the breeding range. Score: 0.5\n6. **16.146984, -90.460342**: This is in Guatemala, within the wintering range. Score: 0.8\n7. **11.475448, -86.692831**: This is in Nicaragua, within the wintering range. Score: 0.7\n8. **-53.306023, -75.117119**: This is in the southern tip of South America, far outside the range. Score: 0\n9. **30.523619, -89.751701**: This is in Mississippi, USA, within the breeding range. Score: 1\n10. **16.35537, 52.461609**: This is in Yemen, far outside the range. Score: 0",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "10717": {
+        "question": "Can you tell me if the \"Yellow Cardinal\" (\"Gubernatrix cristata\") can be found at the following locations:\n\n-26.959976, -61.863777\n-25.616353, -64.819324\n-8.173492, 87.250839\n-64.882095, 15.269017\n-27.541016, -56.926651\n-35.01314, -53.053957\n-34.176632, -65.383896\n3.810405, -8.143474\n-29.688354, -58.171127\n-25.441273, -63.974075\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Yellow Cardinal (\"Gubernatrix cristata\") at the given locations. The Yellow Cardinal is native to parts of South America, particularly in Argentina, Uruguay, and southern Brazil. Here are the scores based on the geographic locations provided:\n\n```python\n[0.8, 0.7, 0.0, 0.0, 0.9, 0.6, 0.7, 0.0, 0.8, 0.7]\n```\n\nExplanation:\n- The first, second, fifth, sixth, seventh, ninth, and tenth coordinates are within or near the known range of the Yellow Cardinal.\n- The third and fourth coordinates are far outside the known range (one in the middle of the ocean and the other in a polar region).\n- The eighth coordinate is in Africa, which is also outside the known range.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "32944": {
+        "question": "Can you tell me if the \"Eastern Cape Dwarf Chameleon\" (\"Bradypodion ventrale\") can be found at the following locations:\n\n-33.33807, 23.434879\n-2.452467, -173.841187\n-34.062344, 18.280207\n-33.066193, 24.878933\n-31.685549, 25.655338\n-33.613937, -50.593182\n-32.206593, 27.785072\n-29.25853, 25.288779\n-28.023552, 27.235935\n-30.357674, -81.586075\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Eastern Cape Dwarf Chameleon\" (\"Bradypodion ventrale\") at the given locations:\n\n```python\n[0.8, 0, 0.7, 0.9, 1, 0, 1, 0, 0, 0]\n```\n\nExplanation:\n- The Eastern Cape Dwarf Chameleon is endemic to the Eastern Cape region of South Africa. Therefore, locations within or near this region have higher scores.\n- Locations outside of South Africa or in regions where the species is not known to inhabit have a score of 0.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "39579": {
+        "question": "Can you tell me if the \"Indian Flapshell Turtle\" (\"Lissemys punctata\") can be found at the following locations:\n\n4.122351, 145.625305\n17.232292, 74.562424\n18.05631, 95.160537\n16.363173, 76.416916\n-4.200062, 128.403763\n20.527948, 74.004715\n32.8979, 72.101891\n20.117501, 87.158057\n19.612036, 78.627869\n35.745499, 159.569824\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores based on the known distribution of the Indian Flapshell Turtle (Lissemys punctata). This species is typically found in South Asia, including India, Pakistan, Sri Lanka, Nepal, Bangladesh, and Myanmar. Here are the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0, 1, 0, 1, 0, 1, 0, 1, 1, 0]\n```\n\nExplanation:\n1. 4.122351, 145.625305 - Papua New Guinea (0)\n2. 17.232292, 74.562424 - India (1)\n3. 18.05631, 95.160537 - Myanmar (0)\n4. 16.363173, 76.416916 - India (1)\n5. -4.200062, 128.403763 - Indonesia (0)\n6. 20.527948, 74.004715 - India (1)\n7. 32.8979, 72.101891 - Pakistan (0)\n8. 20.117501, 87.158057 - India (1)\n9. 19.612036, 78.627869 - India (1)\n10. 35.745499, 159.569824 - North Pacific Ocean (0)\n\nThese scores are based on the geographical range and habitat preferences of the Indian Flapshell Turtle.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "27123": {
+        "question": "Can you tell me if the \"Cave Salamander\" (\"Eurycea lucifuga\") can be found at the following locations:\n\n-66.157631, -66.249458\n35.481602, -86.614914\n37.438629, -88.594872\n37.872419, -81.209121\n28.624645, 121.641006\n37.045208, -82.030457\n37.399315, -88.7742\n37.846004, -88.659332\n37.721862, -95.095774\n-40.834686, 136.22319\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores based on the known distribution of the Cave Salamander (Eurycea lucifuga). This species is typically found in the central and eastern United States, particularly in areas with limestone caves and springs.\n\nHere's the Python list with the likelihood scores for each location:\n\n```python\n[0, 1, 1, 0.5, 0, 1, 1, 1, 0, 0]\n```\n\nExplanation:\n1. -66.157631, -66.249458: 0 (This location is in the Southern Atlantic Ocean, far outside the range of the Cave Salamander.)\n2. 35.481602, -86.614914: 1 (This location is in Tennessee, within the known range of the species.)\n3. 37.438629, -88.594872: 1 (This location is in Illinois, within the known range of the species.)\n4. 37.872419, -81.209121: 0.5 (This location is in West Virginia, which is on the edge of the known range of the species.)\n5. 28.624645, 121.641006: 0 (This location is in China, far outside the range of the Cave Salamander.)\n6. 37.045208, -82.030457: 1 (This location is in Virginia, within the known range of the species.)\n7. 37.399315, -88.7742: 1 (This location is in Illinois, within the known range of the species.)\n8. 37.846004, -88.659332: 1 (This location is in Illinois, within the known range of the species.)\n9. 37.721862, -95.095774: 0 (This location is in Kansas, outside the known range of the species.)\n10. -40.834686, 136.22319: 0 (This location is in the Southern Ocean, far outside the range of the Cave Salamander.)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "43339": {
+        "question": "Can you tell me if the \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\") can be found at the following locations:\n\n4.469007, 36.505665\n41.796463, 155.748505\n-26.774204, 137.522446\n2.576185, 37.1022\n0.716576, 39.065188\n2.410828, 37.657089\n1.134939, 38.8316\n-0.090541, 38.89629\n1.334799, 37.638275\n14.971016, -101.635101\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of Gr\u00e9vy's Zebra at the given locations:\n\n```python\n[0, 0, 0, 1, 0.5, 1, 0.5, 0.5, 1, 0]\n```\n\nExplanation:\n- Gr\u00e9vy's Zebra is native to parts of Kenya and Ethiopia. The scores reflect the likelihood based on the proximity to these regions.\n- Locations within Kenya or close to its borders have higher scores.\n- Locations far from the natural range of Gr\u00e9vy's Zebra, such as those in the middle of the ocean or in Australia, have a score of 0.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "42888": {
+        "question": "Can you tell me if the \"Eastern Grey Kangaroo\" (\"Macropus giganteus\") can be found at the following locations:\n\n-35.744793, 142.127977\n-31.0254, 149.804962\n-12.990026, 142.886\n30.800673, 179.64772\n-16.823748, 142.770126\n24.611891, 127.83638\n55.814857, -40.539177\n-31.156796, 148.139542\n-19.567245, 146.349091\n-29.654245, 142.240295\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Eastern Grey Kangaroo (\"Macropus giganteus\") at the given locations:\n\n```python\n[1, 1, 0, 0, 0, 0, 0, 1, 0, 1]\n```\n\nExplanation:\n- The Eastern Grey Kangaroo is native to eastern Australia, so locations within this range are more likely to have them.\n- Locations outside of Australia or in regions where the species is not typically found will have a score of 0.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "74831": {
+        "question": "Can you tell me if the \"Snow Leopard\" (\"Panthera uncia\") can be found at the following locations:\n\n51.29755, 101.458565\n-51.006737, -0.480886\n26.809021, 40.255054\n39.69962, 94.699231\n43.52026, 100.418526\n33.617153, 91.339088\n46.682561, 83.53197\n49.084785, 99.301575\n-21.680853, 117.776993\n36.970451, 74.938591\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Snow Leopard (\"Panthera uncia\") at the given locations:\n\n```python\n[1, 0, 0, 1, 1, 1, 1, 1, 0, 1]\n```\n\nExplanation:\n- 51.29755, 101.458565: This location is in Mongolia, within the known range of the Snow Leopard.\n- -51.006737, -0.480886: This location is in the Southern Hemisphere, far outside the Snow Leopard's range.\n- 26.809021, 40.255054: This location is in Saudi Arabia, outside the Snow Leopard's range.\n- 39.69962, 94.699231: This location is in China, within the known range of the Snow Leopard.\n- 43.52026, 100.418526: This location is in Mongolia, within the known range of the Snow Leopard.\n- 33.617153, 91.339088: This location is in China, within the known range of the Snow Leopard.\n- 46.682561, 83.53197: This location is in Kazakhstan, within the known range of the Snow Leopard.\n- 49.084785, 99.301575: This location is in Mongolia, within the known range of the Snow Leopard.\n- -21.680853, 117.776993: This location is in Australia, far outside the Snow Leopard's range.\n- 36.970451, 74.938591: This location is in Pakistan, within the known range of the Snow Leopard.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "135104": {
+        "question": "Can you tell me if the \"Alpine Newt\" (\"Ichthyosaura alpestris\") can be found at the following locations:\n\n48.953049, 6.537415\n49.479789, -2.261744\n45.214611, 22.773212\n41.982144, 21.070143\n-28.561985, -9.634628\n32.870815, 4.283227\n63.448479, -136.009277\n47.300873, -0.927868\n49.182011, 1.574504\n47.533665, 9.944696\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Alpine Newt (\"Ichthyosaura alpestris\") at the given locations:\n\n```python\n[0.8, 0.2, 0.9, 0.7, 0.0, 0.0, 0.0, 0.6, 0.7, 1.0]\n```\n\nThese scores are based on the known distribution and habitat preferences of the Alpine Newt, which is native to central and southern Europe, typically found in mountainous regions and suitable aquatic habitats.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "180009": {
+        "question": "Can you tell me if the \"Cascade Golden-mantled Ground Squirrel\" (\"Callospermophilus saturatus\") can be found at the following locations:\n\n49.493595, -121.039055\n-46.424759, -53.473114\n49.886311, -121.570412\n46.071377, -121.577293\n-61.04475, 172.108658\n46.333028, -123.477815\n49.459072, -121.404091\n49.285714, -123.348219\n46.686852, -122.752792\n37.78606, -34.238819.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for each location based on the known range and habitat of the Cascade Golden-mantled Ground Squirrel (Callospermophilus saturatus):\n\n```python\n[1, 0, 1, 1, 0, 0, 1, 0, 1, 0]\n```\n\nExplanation:\n- The Cascade Golden-mantled Ground Squirrel is native to the Cascade Range in the Pacific Northwest of North America. Therefore, locations within this range (such as those in Washington and British Columbia) are given a score of 1.\n- Locations far outside this range, such as those in the Southern Hemisphere or far from the Cascade Range, are given a score of 0.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "42228": {
+        "question": "Can you tell me if the \"Marsh Deer\" (\"Blastocerus dichotomus\") can be found at the following locations:\n\n2.561905, 67.308418\n-49.888023, -78.442581\n-28.398319, -49.636734\n-14.281943, -56.070885\n-37.170284, -49.977024\n-14.415458, -59.937511\n-11.796381, -43.794373\n-24.853009, -50.993967\n-18.302496, -46.479664\n-9.654194, -59.053638.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can help with that. The Marsh Deer (Blastocerus dichotomus) is typically found in marshy and wetland areas in South America, particularly in regions of Brazil, Argentina, Bolivia, Peru, and Paraguay. Based on the coordinates provided, I will evaluate the likelihood of the species being present at each location.\n\nHere is the Python list containing the likelihood scores:\n\n```python\n[0, 0, 0.5, 1, 0, 1, 0.5, 0.5, 0.5, 0.5]\n```\n\nExplanation:\n1. `2.561905, 67.308418` - This location is in the Amazon rainforest, which is not typical habitat for Marsh Deer. Score: 0\n2. `-49.888023, -78.442581` - This location is in the Southern Ocean, far from the natural habitat of Marsh Deer. Score: 0\n3. `-28.398319, -49.636734` - This location is in southern Brazil, which is on the edge of the Marsh Deer's range. Score: 0.5\n4. `-14.281943, -56.070885` - This location is in the Pantanal region of Brazil, a prime habitat for Marsh Deer. Score: 1\n5. `-37.170284, -49.977024` - This location is in the Atlantic Ocean, far from the natural habitat of Marsh Deer. Score: 0\n6. `-14.415458, -59.937511` - This location is also in the Pantanal region of Brazil. Score: 1\n7. `-11.796381, -43.794373` - This location is in central Brazil, which is within the range but not the prime habitat. Score: 0.5\n8. `-24.853009, -50.993967` - This location is in southern Brazil, which is on the edge of the Marsh Deer's range. Score: 0.5\n9. `-18.302496, -46.479664` - This location is in central Brazil, within the range but not prime habitat. Score: 0.5\n10. `-9.654194, -59.053638` - This location is in the Amazon basin, which is not typical habitat for Marsh Deer. Score: 0.5",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "42138": {
+        "question": "Can you tell me if the \"Bushpig\" (\"Potamochoerus larvatus\") can be found at the following locations:\n\n-0.316514, 29.683382\n-16.088318, 108.040802\n-54.249634, 117.929344\n-19.633041, -90.571556\n10.722863, 36.994225\n-5.395878, 32.365925\n-17.539244, 35.47369\n11.298871, 40.718513\n-8.665087, 34.77792\n-20.750136, 25.649533.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Bushpig (Potamochoerus larvatus). The Bushpig is native to forests, woodlands, and scrublands in sub-Saharan Africa.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [1, 0, 0, 0, 1, 1, 1, 0, 1, 1]\n```\n\nExplanation:\n1. -0.316514, 29.683382: This location is in Uganda, which is within the range of the Bushpig. Score: 1\n2. -16.088318, 108.040802: This location is in Vietnam, outside the range of the Bushpig. Score: 0\n3. -54.249634, 117.929344: This location is in Australia, outside the range of the Bushpig. Score: 0\n4. -19.633041, -90.571556: This location is in the Gulf of Mexico, outside the range of the Bushpig. Score: 0\n5. 10.722863, 36.994225: This location is in Ethiopia, which is within the range of the Bushpig. Score: 1\n6. -5.395878, 32.365925: This location is in Tanzania, which is within the range of the Bushpig. Score: 1\n7. -17.539244, 35.47369: This location is in Mozambique, which is within the range of the Bushpig. Score: 1\n8. 11.298871, 40.718513: This location is in Djibouti, outside the range of the Bushpig. Score: 0\n9. -8.665087, 34.77792: This location is in Tanzania, which is within the range of the Bushpig. Score: 1\n10. -20.750136, 25.649533: This location is in Botswana, which is within the range of the Bushpig. Score: 1",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "43561": {
+        "question": "Can you tell me if the \"Southern Lesser Galago\" (\"Galago moholi\") can be found at the following locations:\n\n-8.632414, 22.889636\n-6.769755, 30.962395\n-19.824591, 19.790852\n-9.662907, 14.354514\n-10.748055, 24.089506\n-41.80632, 150.052246\n-8.807136, 17.537537\n-8.523222, 17.565336\n-23.090601, -168.24762\n-17.427618, -25.978973.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Southern Lesser Galago (Galago moholi) at the given locations. The Southern Lesser Galago is typically found in southern Africa, including countries like South Africa, Botswana, Zimbabwe, and parts of Mozambique and Namibia. Based on this information, here are the likelihood scores:\n\n```python\n[0, 0, 0.8, 0, 0, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n1. -8.632414, 22.889636: This location is in Angola, which is outside the typical range of the Southern Lesser Galago. Score: 0\n2. -6.769755, 30.962395: This location is in Tanzania, which is outside the typical range. Score: 0\n3. -19.824591, 19.790852: This location is in Namibia, which is within the range. Score: 0.8\n4. -9.662907, 14.354514: This location is in Angola, outside the typical range. Score: 0\n5. -10.748055, 24.089506: This location is in Zambia, which is outside the typical range. Score: 0\n6. -41.80632, 150.052246: This location is in Tasmania, Australia, which is far outside the range. Score: 0\n7. -8.807136, 17.537537: This location is in Angola, outside the typical range. Score: 0\n8. -8.523222, 17.565336: This location is in Angola, outside the typical range. Score: 0\n9. -23.090601, -168.24762: This location is in the Pacific Ocean, far outside the range. Score: 0\n10. -17.427618, -25.978973: This location is in Zambia, outside the typical range. Score: 0",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "43593": {
+        "question": "Can you tell me if the \"Lar Gibbon\" (\"Hylobates lar\") can be found at the following locations:\n\n3.62672, 91.295418\n15.699359, 100.762367\n2.716406, 102.012489\n19.637244, 102.598488\n14.657731, 98.891449\n-0.409453, 64.840256\n17.218472, 100.275475\n3.57193, 100.16254\n-27.251852, -54.609577\n19.359533, 98.070572.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Lar Gibbon (\"Hylobates lar\") at the given locations:\n\n```python\n[0, 0.8, 0.9, 0, 1, 0, 0.7, 0, 0, 0.9]\n```\n\nExplanation:\n- The Lar Gibbon is native to parts of Southeast Asia, including Thailand, Malaysia, and Indonesia. \n- Locations within or near these regions have higher scores, while locations far from these regions have lower scores.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "44395": {
+        "question": "Can you tell me if the \"White-footed Mouse\" (\"Peromyscus leucopus\") can be found at the following locations:\n\n29.912304, -108.871681\n18.100555, -95.292427\n32.428703, -83.338562\n-59.994747, 16.158176\n18.255835, 159.573929\n35.74445, -81.482071\n-4.168207, 48.909435\n44.246628, -75.491493\n47.254578, -91.367163\n18.8976, -97.104805.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimate based on the known range and habitat preferences of the White-footed Mouse (Peromyscus leucopus). This species is commonly found in North America, particularly in the eastern and central United States, and parts of southern Canada and northern Mexico. It prefers wooded and brushy areas.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0.7, 0.1, 1.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.8, 0.1]\n```\n\nExplanation:\n1. **29.912304, -108.871681**: This location is in northern Mexico, close to the known range of the species. Score: 0.7\n2. **18.100555, -95.292427**: This location is in southern Mexico, outside the typical range. Score: 0.1\n3. **32.428703, -83.338562**: This location is in Georgia, USA, well within the range. Score: 1.0\n4. **-59.994747, 16.158176**: This location is in the southern Atlantic Ocean, far outside the range. Score: 0.0\n5. **18.255835, 159.573929**: This location is in the Pacific Ocean, far outside the range. Score: 0.0\n6. **35.74445, -81.482071**: This location is in North Carolina, USA, well within the range. Score: 1.0\n7. **-4.168207, 48.909435**: This location is in the Indian Ocean, far outside the range. Score: 0.0\n8. **44.246628, -75.491493**: This location is in New York, USA, well within the range. Score: 1.0\n9. **47.254578, -91.367163**: This location is in Minnesota, USA, within the range but near the northern edge. Score: 0.8\n10. **18.8976, -97.104805**: This location is in southern Mexico, outside the typical range. Score: 0.1",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "45997": {
+        "question": "Can you tell me if the \"Deppe's Squirrel\" (\"Sciurus deppei\") can be found at the following locations:\n\n28.223944, -66.326279\n14.258101, -85.840935\n22.346603, -87.332502\n16.419996, -90.127602\n46.987602, -11.40489\n21.409988, -87.539513\n19.999662, -88.271156\n17.71484, -90.155022\n-39.018372, 135.78479\n16.975961, -96.20327.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for each location based on the known distribution of Deppe's Squirrel (Sciurus deppei). This species is typically found in Central America, particularly in countries like Mexico, Belize, Guatemala, Honduras, and Nicaragua.\n\nHere is the Python list with the likelihood scores for each location:\n\n```python\nscores = [0, 1, 0, 1, 0, 0, 1, 1, 0, 1]\n```\n\nExplanation:\n1. 28.223944, -66.326279: 0 (Outside the known range)\n2. 14.258101, -85.840935: 1 (Within the known range)\n3. 22.346603, -87.332502: 0 (Outside the known range)\n4. 16.419996, -90.127602: 1 (Within the known range)\n5. 46.987602, -11.40489: 0 (Outside the known range)\n6. 21.409988, -87.539513: 0 (Outside the known range)\n7. 19.999662, -88.271156: 1 (Within the known range)\n8. 17.71484, -90.155022: 1 (Within the known range)\n9. -39.018372, 135.78479: 0 (Outside the known range)\n10. 16.975961, -96.20327: 1 (Within the known range)\n```",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "47014": {
+        "question": "Can you tell me if the \"Eastern Mole\" (\"Scalopus aquaticus\") can be found at the following locations:\n\n-1.407402, 92.363358\n36.483444, -81.433098\n38.088879, -91.34684\n-21.498417, 110.510597\n30.727844, -89.547287\n45.899729, -91.011209\n45.970733, -91.400254\n-37.896194, -102.693565\n40.701599, -77.554596\n34.490585, -91.31588.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Eastern Mole (\"Scalopus aquaticus\") at the given locations:\n\n```python\n[0, 1, 1, 0, 1, 0, 0, 0, 1, 1]\n```\n\nExplanation:\n- The Eastern Mole is native to North America, particularly in the eastern United States.\n- Locations outside of North America (such as those with negative latitudes or longitudes far from the U.S.) are unlikely to have Eastern Moles.\n- Locations within the range of the Eastern Mole's habitat in the eastern U.S. are given a score of 1.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "41676": {
+        "question": "Can you tell me if the \"Ringtail\" (\"Bassariscus astutus\") can be found at the following locations:\n\n-20.109846, -154.767563\n32.040546, -96.145561\n27.331335, -107.70993\n34.37168, -121.150241\n18.231085, -100.207954\n35.155693, -106.240517\n30.877305, -114.548839\n20.082802, -102.133652\n-74.203484, 164.872498\n-19.958054, 26.775267.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known habitat and distribution of the Ringtail (\"Bassariscus astutus\"). The Ringtail is native to North America, primarily found in the southwestern United States and parts of Mexico. They prefer rocky, desert, and semi-arid environments.\n\nHere are the likelihood scores for each location:\n\n```python\nscores = [0, 1, 1, 0, 1, 1, 1, 0, 0, 0]\n```\n\nExplanation:\n1. -20.109846, -154.767563: This is in the middle of the Pacific Ocean, so the likelihood is 0.\n2. 32.040546, -96.145561: This is in Texas, USA, within the range of the Ringtail, so the likelihood is 1.\n3. 27.331335, -107.70993: This is in Chihuahua, Mexico, within the range of the Ringtail, so the likelihood is 1.\n4. 34.37168, -121.150241: This is in California, USA, but not in the typical range of the Ringtail, so the likelihood is 0.\n5. 18.231085, -100.207954: This is in Guerrero, Mexico, within the range of the Ringtail, so the likelihood is 1.\n6. 35.155693, -106.240517: This is in New Mexico, USA, within the range of the Ringtail, so the likelihood is 1.\n7. 30.877305, -114.548839: This is in Baja California, Mexico, within the range of the Ringtail, so the likelihood is 1.\n8. 20.082802, -102.133652: This is in Jalisco, Mexico, which is not typically within the range of the Ringtail, so the likelihood is 0.\n9. -74.203484, 164.872498: This is in Antarctica, so the likelihood is 0.\n10. -19.958054, 26.775267: This is in Botswana, Africa, so the likelihood is 0.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "43523": {
+        "question": "Can you tell me if the \"Grivet\" (\"Chlorocebus aethiops\") can be found at the following locations:\n\n14.468693, 36.79744\n13.935245, 36.712948\n19.145626, 34.322909\n6.626502, 37.261478\n13.297798, 142.483261\n6.213837, 39.593579\n61.718353, -26.968201\n34.917324, 135.97963\n7.875288, 35.642616\n15.284553, 38.145584.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Grivet (\"Chlorocebus aethiops\") at the given locations:\n\n```python\n[1, 1, 0, 1, 0, 1, 0, 0, 1, 1]\n```\n\nExplanation:\n- The Grivet is native to East Africa, particularly in countries like Ethiopia, Sudan, Djibouti, and Eritrea. Therefore, locations within this range are given a score of 1.\n- Locations outside of this range, such as in the middle of the ocean, far north, or in Japan, are given a score of 0.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "41888": {
+        "question": "Can you tell me if the \"Striped Hyaena\" (\"Hyaena hyaena\") can be found at the following locations:\n\n15.45096, 1.102055\n27.188339, 67.523476\n38.840874, 166.388596\n68.242554, -104.91552\n10.527914, 39.278561\n5.401859, 48.484291\n10.912966, -143.445496\n18.117628, 20.192869\n26.966737, 49.98562\n12.171364, -4.383245.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Striped Hyaena (\"Hyaena hyaena\") at the given locations. The Striped Hyaena is typically found in North and East Africa, the Middle East, the Caucasus, Central Asia, and the Indian subcontinent. Based on this information, here are the likelihood scores:\n\n```python\n[0.8, 1, 0, 0, 0.9, 0.7, 0, 0.8, 1, 0.8]\n```\n\nExplanation:\n1. **15.45096, 1.102055** - This is in Niger, West Africa, where Striped Hyaenas are present. Score: 0.8\n2. **27.188339, 67.523476** - This is in Pakistan, where Striped Hyaenas are known to exist. Score: 1\n3. **38.840874, 166.388596** - This is in the middle of the ocean, far from the natural habitat of Striped Hyaenas. Score: 0\n4. **68.242554, -104.91552** - This is in the Arctic region, far from the natural habitat of Striped Hyaenas. Score: 0\n5. **10.527914, 39.278561** - This is in Ethiopia, East Africa, where Striped Hyaenas are present. Score: 0.9\n6. **5.401859, 48.484291** - This is in Somalia, East Africa, where Striped Hyaenas are present. Score: 0.7\n7. **10.912966, -143.445496** - This is in the middle of the Pacific Ocean, far from the natural habitat of Striped Hyaenas. Score: 0\n8. **18.117628, 20.192869** - This is in Chad, Central Africa, where Striped Hyaenas are present. Score: 0.8\n9. **26.966737, 49.98562** - This is in Saudi Arabia, where Striped Hyaenas are known to exist. Score: 1\n10. **12.171364, -4.383245** - This is in Mali, West Africa, where Striped Hyaenas are present. Score: 0.8",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "46256": {
+        "question": "Can you tell me if the \"Harris' Antelope Squirrel\" (\"Ammospermophilus harrisii\") can be found at the following locations:\n\n31.094076, -109.137497\n46.290051, -75.529488\n30.654995, -110.853516\n29.28483, -109.91308\n-40.830582, 175.651367\n33.501194, -112.102608\n32.558838, -110.593803\n36.440415, -114.818322\n29.081961, -111.423172\n50.059818, 115.402359.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for each location:\n\n```python\n[1, 0, 1, 1, 0, 1, 1, 0, 1, 0]\n```\n\nExplanation:\n- Harris' Antelope Squirrel is native to the southwestern United States and northern Mexico, particularly in desert regions such as the Sonoran Desert.\n- Locations 1, 3, 4, 6, 7, and 9 fall within or near the known range of this species.\n- Locations 2, 5, 8, and 10 are outside the known range of this species.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "423656": {
+        "question": "Can you tell me if the \"Pampas Fox\" (\"Lycalopex gymnocerca\") can be found at the following locations:\n\n-17.301385, -58.286925\n15.485589, -43.198837\n-34.505812, -58.433303\n-10.694503, 28.036762\n-20.576324, -62.895084\n-17.159624, -60.333073\n21.180624, 74.941452\n-29.294956, -63.781372\n-37.728107, -60.497841\n-35.118866, -60.912777.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Pampas Fox (Lycalopex gymnocercus). The Pampas Fox is primarily found in South America, particularly in countries like Argentina, Uruguay, Paraguay, and parts of Bolivia and Brazil.\n\nHere is the Python list with the likelihood scores for each location:\n\n```python\n[0.8, 0.0, 0.8, 0.0, 0.9, 0.9, 0.0, 0.8, 0.8, 0.8]\n```\n\nExplanation:\n1. -17.301385, -58.286925: 0.8 (This location is in Bolivia, within the range of the Pampas Fox)\n2. 15.485589, -43.198837: 0.0 (This location is in Africa, outside the range of the Pampas Fox)\n3. -34.505812, -58.433303: 0.8 (This location is in Argentina, within the range of the Pampas Fox)\n4. -10.694503, 28.036762: 0.0 (This location is in Africa, outside the range of the Pampas Fox)\n5. -20.576324, -62.895084: 0.9 (This location is in Bolivia, within the range of the Pampas Fox)\n6. -17.159624, -60.333073: 0.9 (This location is in Bolivia, within the range of the Pampas Fox)\n7. 21.180624, 74.941452: 0.0 (This location is in India, outside the range of the Pampas Fox)\n8. -29.294956, -63.781372: 0.8 (This location is in Argentina, within the range of the Pampas Fox)\n9. -37.728107, -60.497841: 0.8 (This location is in Argentina, within the range of the Pampas Fox)\n10. -35.118866, -60.912777: 0.8 (This location is in Argentina, within the range of the Pampas Fox)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "1369291": {
+        "question": "Can you tell me if the \"Mara\u00f1\u00f3n white-fronted capuchin\" (\"Cebus yuracus\") can be found at the following locations:\n\n45.374748, -151.785248\n-3.840571, -75.151955\n-3.348762, -75.108192\n-5.747392, -77.641009\n-0.586983, -76.999825\n-8.288779, -74.825638\n40.435238, 118.116348\n44.91872, -13.958167\n-2.455419, -73.467697\n0.027445, -75.233269.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can help with that. The Mara\u00f1\u00f3n white-fronted capuchin (Cebus yuracus) is typically found in the Amazon rainforest, particularly in regions of Peru, Ecuador, and Colombia. Based on the coordinates provided, I will evaluate the likelihood of the species being present at each location.\n\nHere is the Python list containing the likelihood scores:\n\n```python\nlikelihood_scores = [0, 1, 1, 0.5, 0.5, 0, 0, 0, 0.5, 0.5]\n```\n\nExplanation:\n1. 45.374748, -151.785248: This location is in the middle of the Pacific Ocean, so the likelihood is 0.\n2. -3.840571, -75.151955: This location is in the Amazon rainforest in Peru, so the likelihood is 1.\n3. -3.348762, -75.108192: This location is also in the Amazon rainforest in Peru, so the likelihood is 1.\n4. -5.747392, -77.641009: This location is in northern Peru, close to the Amazon basin, so the likelihood is 0.5.\n5. -0.586983, -76.999825: This location is in the Amazon rainforest in Ecuador, so the likelihood is 0.5.\n6. -8.288779, -74.825638: This location is in southern Peru, outside the typical range of the species, so the likelihood is 0.\n7. 40.435238, 118.116348: This location is in China, so the likelihood is 0.\n8. 44.91872, -13.958167: This location is in the Atlantic Ocean, so the likelihood is 0.\n9. -2.455419, -73.467697: This location is in the Amazon rainforest in Colombia, so the likelihood is 0.5.\n10. 0.027445, -75.233269: This location is in the Amazon rainforest in Ecuador, so the likelihood is 0.5.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "180008": {
+        "question": "Can you tell me if the \"Rock Squirrel\" (\"Otospermophilus variegatus\") can be found at the following locations:\n\n30.972342, -106.768974\n-0.454244, -5.4229\n32.396584, -105.62178\n81.936935, -101.191277\n34.232424, -116.392997\n20.223444, -172.315414\n21.455633, -104.486557\n33.686932, -105.154091\n35.945999, -103.687195\n29.479544, -98.714187.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Rock Squirrel (Otospermophilus variegatus). The Rock Squirrel is primarily found in the southwestern United States and parts of Mexico. Here are the likelihood scores for each location:\n\n```python\nscores = [0.8, 0.0, 0.9, 0.0, 0.7, 0.0, 0.9, 0.8, 0.7, 0.9]\n```\n\nExplanation:\n1. 30.972342, -106.768974: High likelihood (0.8) as it is within the range in the southwestern US.\n2. -0.454244, -5.4229: Very low likelihood (0.0) as it is in Africa.\n3. 32.396584, -105.62178: High likelihood (0.9) as it is within the range in the southwestern US.\n4. 81.936935, -101.191277: Very low likelihood (0.0) as it is in the Arctic region.\n5. 34.232424, -116.392997: Moderate to high likelihood (0.7) as it is within the range in the southwestern US.\n6. 20.223444, -172.315414: Very low likelihood (0.0) as it is in the middle of the Pacific Ocean.\n7. 21.455633, -104.486557: High likelihood (0.9) as it is within the range in Mexico.\n8. 33.686932, -105.154091: High likelihood (0.8) as it is within the range in the southwestern US.\n9. 35.945999, -103.687195: Moderate to high likelihood (0.7) as it is within the range in the southwestern US.\n10. 29.479544, -98.714187: High likelihood (0.9) as it is within the range in Texas, US.\n\nThese scores are based on the general distribution of the species and the specific coordinates provided.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "180001": {
+        "question": "Can you tell me if the \"Arctic Ground Squirrel\" (\"Urocitellus parryii\") can be found at the following locations:\n\n55.933892, -157.319313\n45.230762, -143.808228\n60.278641, -138.748596\n71.437303, -155.382466\n68.781303, 169.242828\n65.209625, -138.637436\n-35.515217, 163.878815\n62.990784, -125.185898\n63.41888, 169.114777\n-3.836866, 87.925507.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Arctic Ground Squirrel (\"Urocitellus parryii\") at the given locations:\n\n```python\n[1, 0, 1, 1, 0, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- The Arctic Ground Squirrel is native to the Arctic and sub-Arctic regions of North America, particularly in Alaska and parts of Canada.\n- Locations 1, 3, 4, 6, and 8 are within or near the known range of the Arctic Ground Squirrel.\n- Locations 2, 5, 7, 9, and 10 are outside the known range of the species.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "44282": {
+        "question": "Can you tell me if the \"Field Vole\" (\"Microtus agrestis\") can be found at the following locations:\n\n47.020672, 13.437008\n58.515236, 71.630791\n-42.15728, 125.13623\n58.27586, 83.622948\n-3.645534, -135.083588\n66.913241, 73.113569\n68.033073, 45.549759\n57.88849, -6.037846\n60.514366, 75.59623\n-43.703541, 152.939575.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Field Vole (\"Microtus agrestis\") at the given locations:\n\n```python\n[0.8, 0.1, 0.0, 0.1, 0.0, 0.1, 0.5, 1.0, 0.1, 0.0]\n```\n\nExplanation:\n1. 47.020672, 13.437008 - This location is in the Alps, where the Field Vole is likely to be found. Score: 0.8\n2. 58.515236, 71.630791 - This location is in Siberia, where the Field Vole is unlikely to be found. Score: 0.1\n3. -42.15728, 125.13623 - This location is in Australia, where the Field Vole is not found. Score: 0.0\n4. 58.27586, 83.622948 - This location is in Siberia, where the Field Vole is unlikely to be found. Score: 0.1\n5. -3.645534, -135.083588 - This location is in the Pacific Ocean, where the Field Vole is not found. Score: 0.0\n6. 66.913241, 73.113569 - This location is in the Arctic region of Russia, where the Field Vole is unlikely to be found. Score: 0.1\n7. 68.033073, 45.549759 - This location is in the northern part of European Russia, where the Field Vole might be found. Score: 0.5\n8. 57.88849, -6.037846 - This location is in Scotland, where the Field Vole is very likely to be found. Score: 1.0\n9. 60.514366, 75.59623 - This location is in Siberia, where the Field Vole is unlikely to be found. Score: 0.1\n10. -43.703541, 152.939575 - This location is in the Southern Ocean near Tasmania, where the Field Vole is not found. Score: 0.0",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "42278": {
+        "question": "Can you tell me if the \"Impala\" (\"Aepyceros melampus\") can be found at the following locations:\n\n15.654462, 129.845886\n-8.895897, 63.626369\n-3.517193, 31.85631\n-19.80662, 17.013972\n-19.034084, 16.495277\n-7.432308, -117.31163\n1.814057, 36.284973\n-8.472466, 33.516758\n-25.403061, 25.219641\n-2.618374, 39.992035.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Impala\" (\"Aepyceros melampus\") at the given locations:\n\n```python\n[0, 0, 1, 1, 1, 0, 1, 1, 1, 0]\n```\n\nExplanation:\n- The Impala is native to eastern and southern Africa, so locations within this range are given a score of 1.\n- Locations outside of Africa or in regions where Impalas are not typically found are given a score of 0.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "42223": {
+        "question": "Can you tell me if the \"White-tailed Deer\" (\"Odocoileus virginianus\") can be found at the following locations:\n\n37.799858, -102.749504\n24.870236, -80.389638\n-5.391385, -105.708443\n14.38375, 26.654053\n4.121804, -70.997421\n49.990734, -116.172981\n36.594932, -111.986801\n29.462767, 107.246231\n46.459873, -88.481194\n38.728611, -89.115349.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the White-tailed Deer (\"Odocoileus virginianus\") at the given locations:\n\n```python\n[1, 0.2, 0, 0, 0, 1, 1, 0, 1, 1]\n```\n\nExplanation:\n1. 37.799858, -102.749504 (Colorado, USA) - 1 (Very likely)\n2. 24.870236, -80.389638 (Florida Keys, USA) - 0.2 (Less likely, but possible)\n3. -5.391385, -105.708443 (Pacific Ocean) - 0 (Not likely)\n4. 14.38375, 26.654053 (Sudan) - 0 (Not likely)\n5. 4.121804, -70.997421 (Colombia) - 0 (Not likely)\n6. 49.990734, -116.172981 (British Columbia, Canada) - 1 (Very likely)\n7. 36.594932, -111.986801 (Arizona, USA) - 1 (Very likely)\n8. 29.462767, 107.246231 (China) - 0 (Not likely)\n9. 46.459873, -88.481194 (Michigan, USA) - 1 (Very likely)\n10. 38.728611, -89.115349 (Illinois, USA) - 1 (Very likely)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "46010": {
+        "question": "Can you tell me if the \"Red-tailed Squirrel\" (\"Sciurus granatensis\") can be found at the following locations:\n\n37.181297, 150.464722\n-15.639289, 79.182396\n9.80976, -67.915131\n8.150079, -68.951523\n6.395816, -74.796173\n8.697638, -65.030769\n26.098471, -103.396767\n6.469456, -72.446716\n7.672602, -68.7213\n10.521738, -83.179113.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Red-tailed Squirrel (\"Sciurus granatensis\") at the given locations. The Red-tailed Squirrel is native to Central and South America, particularly in countries like Colombia, Venezuela, Ecuador, and parts of Brazil.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 0, 1, 1, 1, 1, 0, 1, 1, 1]\n```\n\nExplanation:\n1. 37.181297, 150.464722 - This is in Australia, where the species is not found. Score: 0\n2. -15.639289, 79.182396 - This is in the Indian Ocean, far from the species' range. Score: 0\n3. 9.80976, -67.915131 - This is in Venezuela, within the species' range. Score: 1\n4. 8.150079, -68.951523 - This is in Venezuela, within the species' range. Score: 1\n5. 6.395816, -74.796173 - This is in Colombia, within the species' range. Score: 1\n6. 8.697638, -65.030769 - This is in Venezuela, within the species' range. Score: 1\n7. 26.098471, -103.396767 - This is in Mexico, outside the species' range. Score: 0\n8. 6.469456, -72.446716 - This is in Colombia, within the species' range. Score: 1\n9. 7.672602, -68.7213 - This is in Venezuela, within the species' range. Score: 1\n10. 10.521738, -83.179113 - This is in Costa Rica, within the species' range. Score: 1",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "43567": {
+        "question": "Can you tell me if the \"Brown Greater Galago\" (\"Otolemur crassicaudatus\") can be found at the following locations:\n\n-15.642932, 21.383095\n-10.139927, 35.582306\n-10.334589, 32.855534\n-11.866508, -18.895058\n-47.284058, 30.192085\n-23.68507, 36.463476\n-9.250883, 40.189388\n27.150513, -36.634827\n-12.454143, 23.449055\n-23.919559, 28.599762.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Brown Greater Galago (\"Otolemur crassicaudatus\") at the given locations. The Brown Greater Galago is typically found in the forests and woodlands of East Africa, including countries like Tanzania, Kenya, and Mozambique.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.1, 0.9, 0.8, 0.0, 0.0, 0.0, 0.7, 0.0, 0.5, 0.0]\n```\n\nExplanation:\n1. -15.642932, 21.383095: This location is in Zambia, which is outside the typical range of the Brown Greater Galago. Score: 0.1\n2. -10.139927, 35.582306: This location is in Tanzania, within the known range of the species. Score: 0.9\n3. -10.334589, 32.855534: This location is also in Tanzania, within the known range. Score: 0.8\n4. -11.866508, -18.895058: This location is in the Atlantic Ocean, far from the species' habitat. Score: 0.0\n5. -47.284058, 30.192085: This location is in the Indian Ocean, far from the species' habitat. Score: 0.0\n6. -23.68507, 36.463476: This location is in Mozambique, which is within the range but less common. Score: 0.0\n7. -9.250883, 40.189388: This location is in Tanzania, within the known range. Score: 0.7\n8. 27.150513, -36.634827: This location is in the Atlantic Ocean, far from the species' habitat. Score: 0.0\n9. -12.454143, 23.449055: This location is in Zambia, which is outside the typical range. Score: 0.5\n10. -23.919559, 28.599762: This location is in South Africa, which is outside the typical range. Score: 0.0",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "41180": {
+        "question": "Can you tell me if the \"Hairy-legged Vampire Bat\" (\"Diphylla ecaudata\") can be found at the following locations:\n\n2.527074, -72.635559\n-4.72954, -72.948239\n57.289658, 125.592194\n-65.051979, -63.570957\n21.347624, -88.990517\n-13.720687, -66.871002\n6.467046, -131.946869\n-9.313782, -63.795417\n-15.90844, -43.589828\n-16.226671, -68.712334.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimation based on the known distribution of the Hairy-legged Vampire Bat (Diphylla ecaudata). This species is typically found in Central and South America, particularly in regions like Mexico, Central America, and parts of northern South America.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.1, 0.1, 0.0, 0.0, 0.2, 0.8, 0.0, 0.7, 0.5, 0.6]\n```\n\nExplanation:\n1. 2.527074, -72.635559: This is in Colombia, which is within the range of the species, but not a core area. Score: 0.1\n2. -4.72954, -72.948239: This is in the Amazon region of Peru, which is within the range but not a core area. Score: 0.1\n3. 57.289658, 125.592194: This is in Russia, far outside the range of the species. Score: 0.0\n4. -65.051979, -63.570957: This is in Antarctica, far outside the range of the species. Score: 0.0\n5. 21.347624, -88.990517: This is in Mexico, which is within the range of the species. Score: 0.2\n6. -13.720687, -66.871002: This is in Bolivia, which is within the range of the species. Score: 0.8\n7. 6.467046, -131.946869: This is in the Pacific Ocean, far outside the range of the species. Score: 0.0\n8. -9.313782, -63.795417: This is in Brazil, which is within the range of the species. Score: 0.7\n9. -15.90844, -43.589828: This is in Brazil, which is within the range of the species. Score: 0.5\n10. -16.226671, -68.712334: This is in Bolivia, which is within the range of the species. Score: 0.6",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "31226": {
+        "question": "Can you tell me if the \"Painted Dragon\" (\"Ctenophorus pictus\") can be found at the following locations:\n\n-23.265135, 129.465942\n-28.343945, 127.08419\n48.235878, -85.908691\n-28.518694, 139.672943\n-26.694286, 123.9599\n-21.603715, 134.973645\n-18.43886, 135.291153\n-24.750903, 143.658141\n-23.638489, 124.641754\n68.348442, 39.793995.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Painted Dragon (\"Ctenophorus pictus\"). This species is native to arid and semi-arid regions of Australia. Here are the scores:\n\n```python\n[1, 1, 0, 1, 1, 1, 1, 0, 1, 0]\n```\n\nExplanation:\n- The first, second, fourth, fifth, sixth, seventh, and ninth coordinates are within the arid and semi-arid regions of Australia where the Painted Dragon is likely to be found.\n- The third and tenth coordinates are outside of Australia, making it very unlikely for the species to be present there.\n- The eighth coordinate is in a region of Australia that is not typically associated with the habitat of the Painted Dragon.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "539913": {
+        "question": "Can you tell me if the \"Southern Angle-Headed Dragon\" (\"Lophosaurus spinipes\") can be found at the following locations:\n\n80.498375, -140.210831\n-21.211792, -0.757637\n-27.995125, 152.51236\n52.688545, -56.350677\n-27.881695, 153.067184\n-31.280701, 151.67485\n-28.680307, 152.789627\n-28.648009, 153.665965\n-31.652506, 152.074753\n-26.945861, 151.857934.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can help with that. The Southern Angle-Headed Dragon (Lophosaurus spinipes) is native to eastern Australia, particularly in Queensland and New South Wales. Based on this information, I will evaluate the likelihood of the species being present at each of the given coordinates.\n\nHere is the Python list containing the likelihood scores:\n\n```python\nlikelihood_scores = [0, 0, 1, 0, 1, 0.5, 1, 1, 0.5, 1]\n```\n\nExplanation:\n1. 80.498375, -140.210831: 0 (Not in Australia)\n2. -21.211792, -0.757637: 0 (Not in Australia)\n3. -27.995125, 152.51236: 1 (In Queensland, Australia)\n4. 52.688545, -56.350677: 0 (Not in Australia)\n5. -27.881695, 153.067184: 1 (In Queensland, Australia)\n6. -31.280701, 151.67485: 0.5 (In New South Wales, Australia, but further south)\n7. -28.680307, 152.789627: 1 (In Queensland, Australia)\n8. -28.648009, 153.665965: 1 (In Queensland, Australia)\n9. -31.652506, 152.074753: 0.5 (In New South Wales, Australia, but further south)\n10. -26.945861, 151.857934: 1 (In Queensland, Australia)\n\nThese scores are based on the general distribution of the species within its native range.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "528911": {
+        "question": "Can you tell me if the \"Robust Velvet Gecko\" (\"Nebulifera robusta\") can be found at the following locations:\n\n-23.50963, 150.101349\n-22.426771, 149.041794\n-34.430146, 148.9671\n-72.042046, 69.510437\n-45.905617, -122.304428\n-28.975018, 151.29361\n37.735104, 155.246643\n-23.871305, 150.460678\n-25.427959, 151.389038\n-33.665738, 146.139752.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "The \"Robust Velvet Gecko\" (Nebulifera robusta) is native to Australia, specifically found in Queensland. Given this information, I will evaluate the likelihood of the species being present at each of the provided coordinates.\n\nHere is the Python list containing the likelihood scores:\n\n```python\nlikelihood_scores = [1, 1, 0, 0, 0, 1, 0, 1, 1, 0]\n```\n\nExplanation:\n1. -23.50963, 150.101349 (Queensland, Australia) - 1\n2. -22.426771, 149.041794 (Queensland, Australia) - 1\n3. -34.430146, 148.9671 (New South Wales, Australia) - 0\n4. -72.042046, 69.510437 (Antarctica) - 0\n5. -45.905617, -122.304428 (Oregon, USA) - 0\n6. -28.975018, 151.29361 (Queensland, Australia) - 1\n7. 37.735104, 155.246643 (Pacific Ocean) - 0\n8. -23.871305, 150.460678 (Queensland, Australia) - 1\n9. -25.427959, 151.389038 (Queensland, Australia) - 1\n10. -33.665738, 146.139752 (New South Wales, Australia) - 0",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "33061": {
+        "question": "Can you tell me if the \"Karoo Girdled Lizard\" (\"Karusasaurus polyzonus\") can be found at the following locations:\n\n-54.408176, 155.43013\n-31.562746, 21.16988\n-29.063845, 26.419344\n35.960701, -147.737915\n-25.829021, 18.125745\n-31.292871, 18.791166\n-33.083118, 2.386329\n-26.388274, 15.137595\n-33.899704, 20.077406\n-27.776155, 25.49736.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "The Karoo Girdled Lizard (Karusasaurus polyzonus) is native to South Africa and Namibia, typically found in arid and semi-arid regions, particularly in rocky outcrops and mountainous areas within these countries. Given this information, I will evaluate the likelihood of the species being present at each of the provided coordinates.\n\nHere is the Python list containing the likelihood scores:\n\n```python\n[0, 1, 0.5, 0, 0.8, 1, 0, 0.9, 0.7, 0.4]\n```\n\nExplanation:\n1. -54.408176, 155.43013: 0 (This location is in the Southern Ocean, far from the natural habitat of the species.)\n2. -31.562746, 21.16988: 1 (This location is within the Karoo region of South Africa, a known habitat for the species.)\n3. -29.063845, 26.419344: 0.5 (This location is in South Africa but outside the typical range of the species, though it is still possible.)\n4. 35.960701, -147.737915: 0 (This location is in the North Pacific Ocean, far from the natural habitat of the species.)\n5. -25.829021, 18.125745: 0.8 (This location is in Namibia, within the potential range of the species.)\n6. -31.292871, 18.791166: 1 (This location is within the Karoo region of South Africa, a known habitat for the species.)\n7. -33.083118, 2.386329: 0 (This location is in the Atlantic Ocean, far from the natural habitat of the species.)\n8. -26.388274, 15.137595: 0.9 (This location is in Namibia, within the potential range of the species.)\n9. -33.899704, 20.077406: 0.7 (This location is in South Africa, relatively close to the Karoo region, so it is possible.)\n10. -27.776155, 25.49736: 0.4 (This location is in South Africa but outside the typical range of the species, though it is still possible.)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "35854": {
+        "question": "Can you tell me if the \"Green Lizard\" (\"Lacerta viridis\") can be found at the following locations:\n\n47.758471, 15.137605\n20.024591, 56.557209\n42.201797, 26.717375\n58.247471, 106.764709\n41.987007, 19.529144\n39.111272, 27.080579\n47.994118, 31.347984\n46.67458, 22.73457\n-2.05483, -6.096834\n42.107395, 25.935167.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Green Lizard\" (\"Lacerta viridis\") at the given locations:\n\n```python\n[1, 0, 1, 0, 1, 0, 0, 1, 0, 1]\n```\n\nExplanation:\n- 47.758471, 15.137605: 1 (Austria, within the range of Lacerta viridis)\n- 20.024591, 56.557209: 0 (Oman, outside the range of Lacerta viridis)\n- 42.201797, 26.717375: 1 (Bulgaria, within the range of Lacerta viridis)\n- 58.247471, 106.764709: 0 (Russia, outside the range of Lacerta viridis)\n- 41.987007, 19.529144: 1 (Albania, within the range of Lacerta viridis)\n- 39.111272, 27.080579: 0 (Turkey, outside the typical range of Lacerta viridis)\n- 47.994118, 31.347984: 0 (Ukraine, outside the typical range of Lacerta viridis)\n- 46.67458, 22.73457: 1 (Romania, within the range of Lacerta viridis)\n- -2.05483, -6.096834: 0 (Atlantic Ocean, not a suitable habitat)\n- 42.107395, 25.935167: 1 (Bulgaria, within the range of Lacerta viridis)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "717903": {
+        "question": "Can you tell me if the \"Striped Racer\" (\"Masticophis lateralis\") can be found at the following locations:\n\n38.568707, -122.391426\n31.121372, -115.71888\n3.552275, -65.068443\n37.45668, -120.254059\n46.740948, 113.850052\n34.546898, -119.299316\n23.600073, -111.15316\n-72.087379, -23.826984\n24.497754, -110.314369\n36.080219, -120.715775.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Striped Racer\" (\"Masticophis lateralis\") at the given locations:\n\n```python\n[0.8, 0.7, 0.0, 0.8, 0.0, 0.9, 0.6, 0.0, 0.6, 0.8]\n```\n\nExplanation:\n- 38.568707, -122.391426: 0.8 (Northern California, within the range)\n- 31.121372, -115.71888: 0.7 (Northern Baja California, within the range)\n- 3.552275, -65.068443: 0.0 (Amazon Rainforest, outside the range)\n- 37.45668, -120.254059: 0.8 (Central California, within the range)\n- 46.740948, 113.850052: 0.0 (Mongolia, outside the range)\n- 34.546898, -119.299316: 0.9 (Southern California, within the range)\n- 23.600073, -111.15316: 0.6 (Southern Baja California, within the range but less common)\n- -72.087379, -23.826984: 0.0 (Antarctica, outside the range)\n- 24.497754, -110.314369: 0.6 (Southern Baja California, within the range but less common)\n- 36.080219, -120.715775: 0.8 (Central California, within the range)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "318623": {
+        "question": "Can you tell me if the \"McCoy's Skink\" (\"Anepischetosia maccoyi\") can be found at the following locations:\n\n48.066536, 158.504669\n-34.578018, 150.771866\n-38.068726, 142.060989\n-16.998516, -145.875381\n-36.142743, 146.32025\n-35.192394, 149.773331\n-37.482853, 140.426133\n-34.292183, 150.699417\n38.486515, -79.918449\n-36.449074, 147.328476.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of McCoy's Skink (Anepischetosia maccoyi). This species is endemic to southeastern Australia, particularly in Victoria and Tasmania. Here are the scores:\n\n```python\nscores = [0, 0.8, 0.9, 0, 0.9, 0.8, 0.9, 0.8, 0, 0.9]\n```\n\nExplanation:\n- 48.066536, 158.504669: This location is in the middle of the Pacific Ocean, far from the known range of McCoy's Skink. Score: 0\n- -34.578018, 150.771866: This location is in New South Wales, Australia, which is close to the known range. Score: 0.8\n- -38.068726, 142.060989: This location is in Victoria, Australia, within the known range. Score: 0.9\n- -16.998516, -145.875381: This location is in the Pacific Ocean, far from the known range. Score: 0\n- -36.142743, 146.32025: This location is in Victoria, Australia, within the known range. Score: 0.9\n- -35.192394, 149.773331: This location is in New South Wales, Australia, close to the known range. Score: 0.8\n- -37.482853, 140.426133: This location is in Victoria, Australia, within the known range. Score: 0.9\n- -34.292183, 150.699417: This location is in New South Wales, Australia, close to the known range. Score: 0.8\n- 38.486515, -79.918449: This location is in the United States, far from the known range. Score: 0\n- -36.449074, 147.328476: This location is in Victoria, Australia, within the known range. Score: 0.9",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "33189": {
+        "question": "Can you tell me if the \"Eastern Stone Gecko\" (\"Diplodactylus vittatus\") can be found at the following locations:\n\n24.126158, 71.087685\n67.786987, 19.126768\n-36.735535, 147.390488\n-19.009806, 176.375687\n-26.089014, 146.085419\n-20.129808, 145.490204\n-24.492454, 144.433819\n-31.534943, 144.555969\n-19.184036, 146.193596\n-22.58433, 150.441574.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Eastern Stone Gecko (Diplodactylus vittatus). This species is primarily found in eastern Australia, particularly in New South Wales, Victoria, and parts of Queensland.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0, 0, 1, 0, 0.8, 0.5, 0.5, 0.9, 0.7, 0.6]\n```\n\nExplanation:\n1. 24.126158, 71.087685 - (0) This location is in Pakistan, far outside the range of the species.\n2. 67.786987, 19.126768 - (0) This location is in the Arctic region, far outside the range of the species.\n3. -36.735535, 147.390488 - (1) This location is in Victoria, Australia, within the known range of the species.\n4. -19.009806, 176.375687 - (0) This location is in Fiji, far outside the range of the species.\n5. -26.089014, 146.085419 - (0.8) This location is in Queensland, Australia, within the range but on the edge.\n6. -20.129808, 145.490204 - (0.5) This location is in Queensland, Australia, within the range but less certain.\n7. -24.492454, 144.433819 - (0.5) This location is in Queensland, Australia, within the range but less certain.\n8. -31.534943, 144.555969 - (0.9) This location is in New South Wales, Australia, within the known range of the species.\n9. -19.184036, 146.193596 - (0.7) This location is in Queensland, Australia, within the range but less certain.\n10. -22.58433, 150.441574 - (0.6) This location is in Queensland, Australia, within the range but less certain.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "30947": {
+        "question": "Can you tell me if the \"Vogel\u2019s Pit Viper\" (\"Trimeresurus vogeli\") can be found at the following locations:\n\n29.056587, -72.769783\n14.352553, 103.316597\n10.050621, 104.017174\n10.653005, 104.045242\n20.3943, -74.809456\n14.510339, 108.125313\n-15.920079, 74.573463\n16.155312, 106.195351\n10.342914, 108.473374\n13.902692, 103.952992.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 0.1, 0.8, 0.8, 0, 0.7, 0, 0.7, 0.7, 0.7]\n```\n\nThese scores are based on the known distribution of Vogel\u2019s Pit Viper, which is primarily found in parts of Southeast Asia, including Thailand, Cambodia, Vietnam, and Laos.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "36433": {
+        "question": "Can you tell me if the \"Gem Anole\" (\"Anolis gemmosus\") can be found at the following locations:\n\n-0.036322, -78.236542\n1.157317, -77.974304\n14.937662, -41.642139\n-0.718543, -78.736763\n22.499109, -29.851389\n-0.198425, -79.692815\n-0.458798, -80.298113\n0.351844, -78.054382\n-0.133513, -78.821411\n51.267818, -3.242703.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, the \"Gem Anole\" (\"Anolis gemmosus\") is a species of lizard that is native to Ecuador. Based on the coordinates provided, I will evaluate the likelihood of the species being present at each location. Here is the Python list containing the likelihood scores:\n\n```python\n[1, 1, 0, 1, 0, 1, 1, 1, 1, 0]\n```\n\nExplanation:\n- Coordinates within Ecuador (such as -0.036322, -78.236542) are given a score of 1.\n- Coordinates outside Ecuador (such as 14.937662, -41.642139) are given a score of 0.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "108348": {
+        "question": "Can you tell me if the \"Western Foxsnake\" (\"Pantherophis ramspotti\") can be found at the following locations:\n\n43.124468, -98.612887\n-8.443342, -174.775986\n44.030102, -92.055313\n42.544674, -90.415192\n43.304153, -91.510391\n46.630384, -92.424287\n2.911734, -45.070377\n41.533741, -95.944916\n44.376534, -93.132492\n-66.108376, 147.811966.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Western Foxsnake (\"Pantherophis ramspotti\") at the given locations. The Western Foxsnake is typically found in the central United States, particularly in the Midwest.\n\nHere is the Python list containing the likelihood scores:\n\n```python\nlikelihood_scores = [0, 0, 1, 1, 1, 1, 0, 0.5, 1, 0]\n```\n\nExplanation:\n1. 43.124468, -98.612887 (South Dakota, USA) - 0: This location is outside the typical range of the Western Foxsnake.\n2. -8.443342, -174.775986 (Pacific Ocean, near Tonga) - 0: This location is far outside the range of the Western Foxsnake.\n3. 44.030102, -92.055313 (Minnesota, USA) - 1: This location is within the range of the Western Foxsnake.\n4. 42.544674, -90.415192 (Iowa, USA) - 1: This location is within the range of the Western Foxsnake.\n5. 43.304153, -91.510391 (Iowa, USA) - 1: This location is within the range of the Western Foxsnake.\n6. 46.630384, -92.424287 (Minnesota, USA) - 1: This location is within the range of the Western Foxsnake.\n7. 2.911734, -45.070377 (Brazil) - 0: This location is far outside the range of the Western Foxsnake.\n8. 41.533741, -95.944916 (Nebraska, USA) - 0.5: This location is on the edge of the range of the Western Foxsnake.\n9. 44.376534, -93.132492 (Minnesota, USA) - 1: This location is within the range of the Western Foxsnake.\n10. -66.108376, 147.811966 (Antarctica) - 0: This location is far outside the range of the Western Foxsnake.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "29808": {
+        "question": "Can you tell me if the \"Gray-banded Kingsnake\" (\"Lampropeltis alterna\") can be found at the following locations:\n\n48.905228, 14.967153\n26.572361, -103.021378\n29.475531, -100.869576\n27.130194, -103.61692\n27.848097, -102.224899\n-37.622334, 120.922081\n24.306916, -104.220481\n26.519903, -101.562469\n30.075375, -105.829693\n39.856045, -171.314407.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Gray-banded Kingsnake (Lampropeltis alterna) at the given locations. This species is native to the southwestern United States, particularly in Texas, and northern Mexico. Here are the scores based on the geographic locations provided:\n\n```python\nlikelihood_scores = [0, 0.8, 1, 0.8, 0.8, 0, 0.8, 0.8, 1, 0]\n```\n\nExplanation:\n1. 48.905228, 14.967153 - This is in Europe (Czech Republic), far outside the native range of the species. Score: 0\n2. 26.572361, -103.021378 - This is in northern Mexico, within the range. Score: 0.8\n3. 29.475531, -100.869576 - This is in Texas, USA, within the range. Score: 1\n4. 27.130194, -103.61692 - This is in northern Mexico, within the range. Score: 0.8\n5. 27.848097, -102.224899 - This is in northern Mexico, within the range. Score: 0.8\n6. -37.622334, 120.922081 - This is in the Southern Hemisphere (Australia), far outside the native range. Score: 0\n7. 24.306916, -104.220481 - This is in northern Mexico, within the range. Score: 0.8\n8. 26.519903, -101.562469 - This is in northern Mexico, within the range. Score: 0.8\n9. 30.075375, -105.829693 - This is in Texas, USA, within the range. Score: 1\n10. 39.856045, -171.314407 - This is in the middle of the Pacific Ocean, far outside the native range. Score: 0",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "539693": {
+        "question": "Can you tell me if the \"Yellow-bellied Liophis\" (\"Erythrolamprus poecilogyrus\") can be found at the following locations:\n\n-5.242356, -47.598527\n-20.400116, -57.167603\n-31.535643, -63.635818\n-21.386511, -55.652863\n40.970409, 114.975159\n41.850208, -27.776051\n-35.170812, -54.397581\n-26.00886, -52.805691\n-19.237051, -55.847824\n38.566578, 154.923447.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimation based on the known distribution of the \"Yellow-bellied Liophis\" (Erythrolamprus poecilogyrus). This species is typically found in South America, particularly in countries like Brazil, Argentina, Paraguay, and Uruguay. Here are the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0.8, 0.9, 0.7, 0.9, 0.0, 0.0, 0.6, 0.8, 0.9, 0.0]\n```\n\nExplanation:\n1. -5.242356, -47.598527: This location is in Brazil, within the known range of the species. Score: 0.8\n2. -20.400116, -57.167603: This location is in Paraguay, within the known range. Score: 0.9\n3. -31.535643, -63.635818: This location is in Argentina, within the known range. Score: 0.7\n4. -21.386511, -55.652863: This location is in Paraguay, within the known range. Score: 0.9\n5. 40.970409, 114.975159: This location is in China, far outside the known range. Score: 0.0\n6. 41.850208, -27.776051: This location is in the Atlantic Ocean, far outside the known range. Score: 0.0\n7. -35.170812, -54.397581: This location is in Uruguay, within the known range. Score: 0.6\n8. -26.00886, -52.805691: This location is in Brazil, within the known range. Score: 0.8\n9. -19.237051, -55.847824: This location is in Brazil, within the known range. Score: 0.9\n10. 38.566578, 154.923447: This location is in the Pacific Ocean, far outside the known range. Score: 0.0",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "33187": {
+        "question": "Can you tell me if the \"Northern Spiny-tailed Gecko\" (\"Strophurus ciliaris\") can be found at the following locations:\n\n-16.13811, 123.596965\n-17.626386, 121.985039\n-15.791611, 135.954056\n-26.737213, 141.570953\n4.535064, -18.502007\n19.571747, -77.108734\n77.788322, -3.943701\n-30.800436, 134.102768\n-17.499807, 125.261528\n-29.647154, 136.663879.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Northern Spiny-tailed Gecko (Strophurus ciliaris), which is native to parts of Australia. Here is the Python list containing the likelihood scores:\n\n```python\n[0.8, 0.8, 0.6, 0.2, 0.0, 0.0, 0.0, 0.4, 0.8, 0.2]\n```\n\nExplanation:\n- The first three locations are in northern Australia, where the species is more likely to be found.\n- The fourth and last locations are in southern Australia, where the species is less likely but still possible.\n- The fifth, sixth, and seventh locations are outside Australia, where the species is not found.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "539050": {
+        "question": "Can you tell me if the \"Yarar\u00e1 Lancehead\" (\"Bothrops jararaca\") can be found at the following locations:\n\n-25.144194, -60.173473\n-22.404522, -42.538952\n-26.632935, -52.24284\n-27.805996, -50.95705\n-21.416216, -46.865715\n-19.322796, -50.944738\n69.437111, -23.766294\n-30.930227, -52.124315\n-28.14772, -54.06641\n-52.54847, -37.970398.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Yarar\u00e1 Lancehead\" (\"Bothrops jararaca\") at the given locations:\n\n```python\n[0.8, 1, 0.7, 0.6, 1, 0.9, 0, 0.5, 0.7, 0]\n```\n\nExplanation:\n- The \"Yarar\u00e1 Lancehead\" is native to South America, particularly in Brazil, Paraguay, and northern Argentina. The scores reflect the likelihood based on the geographic range and typical habitats of the species.\n- The last location (69.437111, -23.766294) is far outside the natural range of the species, hence a score of 0.\n- The second last location (-52.54847, -37.970398) is also far outside the natural range, hence a score of 0.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "28557": {
+        "question": "Can you tell me if the \"Red-bellied Snake\" (\"Storeria occipitomaculata\") can be found at the following locations:\n\n46.9767, -93.568726\n47.262755, -84.619708\n15.741103, -167.151947\n47.076771, -76.55722\n-11.93335, 71.413971\n43.89389, -64.961891\n34.176964, -84.245613\n38.116215, 111.914444\n39.322289, -86.412193\n40.49056, -72.831253.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimation based on the known distribution of the Red-bellied Snake (Storeria occipitomaculata), which is primarily found in North America, particularly in the eastern United States and parts of Canada.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [1, 1, 0, 1, 0, 1, 1, 0, 1, 0]\n```\n\nExplanation:\n1. 46.9767, -93.568726 (Minnesota, USA) - 1 (likely)\n2. 47.262755, -84.619708 (Ontario, Canada) - 1 (likely)\n3. 15.741103, -167.151947 (Pacific Ocean) - 0 (unlikely)\n4. 47.076771, -76.55722 (Quebec, Canada) - 1 (likely)\n5. -11.93335, 71.413971 (Indian Ocean) - 0 (unlikely)\n6. 43.89389, -64.961891 (Nova Scotia, Canada) - 1 (likely)\n7. 34.176964, -84.245613 (Georgia, USA) - 1 (likely)\n8. 38.116215, 111.914444 (China) - 0 (unlikely)\n9. 39.322289, -86.412193 (Indiana, USA) - 1 (likely)\n10. 40.49056, -72.831253 (Atlantic Ocean) - 0 (unlikely)\n\nThese scores are based on the known habitat range of the Red-bellied Snake, which does not include oceanic or non-North American locations.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "35430": {
+        "question": "Can you tell me if the \"Spiny-footed Lizard\" (\"Acanthodactylus erythrurus\") can be found at the following locations:\n\n35.10024, 3.108069\n76.744705, 169.900085\n34.521915, 1.980888\n30.610587, -8.043216\n15.396873, 71.357544\n-44.865509, -138.423019\n34.683853, 1.20976\n39.953568, -7.106145\n33.433952, -6.441783\n34.668026, -1.45299.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimation based on the known distribution of the Spiny-footed Lizard (Acanthodactylus erythrurus), which is primarily found in the Iberian Peninsula and parts of North Africa.\n\nHere's the Python list with the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0.1, 0, 0.1, 0.8, 0, 0, 0.1, 0.9, 0.8, 0.8]\n```\n\nExplanation:\n1. **35.10024, 3.108069**: This is in Algeria, North Africa. The species might be present, but it's not a core area. Score: 0.1\n2. **76.744705, 169.900085**: This is in the Arctic Ocean, far outside the species' range. Score: 0\n3. **34.521915, 1.980888**: This is in Algeria, North Africa. Similar to the first location. Score: 0.1\n4. **30.610587, -8.043216**: This is in Morocco, North Africa, within the species' range. Score: 0.8\n5. **15.396873, 71.357544**: This is in the Indian Ocean, far outside the species' range. Score: 0\n6. **-44.865509, -138.423019**: This is in the Southern Ocean, far outside the species' range. Score: 0\n7. **34.683853, 1.20976**: This is in Algeria, North Africa. Similar to the first location. Score: 0.1\n8. **39.953568, -7.106145**: This is in Spain, within the species' range. Score: 0.9\n9. **33.433952, -6.441783**: This is in Morocco, North Africa, within the species' range. Score: 0.8\n10. **34.668026, -1.45299**: This is in Algeria, North Africa, within the species' range. Score: 0.8",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "29976": {
+        "question": "Can you tell me if the \"Brown-banded watersnake\" (\"Helicops angulatus\") can be found at the following locations:\n\n-10.020782, 46.071251\n-10.435447, -65.048347\n-2.020089, -64.856392\n15.406815, 42.849884\n4.555561, 69.273666\n-14.956115, -63.683018\n-6.434016, -71.529007\n-9.705101, -75.82567\n-2.772328, -41.256985\n-11.4371, -40.973019.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, the \"Brown-banded watersnake\" (Helicops angulatus) is typically found in freshwater habitats in South America, particularly in the Amazon Basin and surrounding areas. Based on the coordinates provided, here are the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0, 0.8, 0.9, 0, 0, 0.9, 0.7, 0.7, 0.5, 0]\n```\n\nExplanation:\n1. `-10.020782, 46.071251` - This location is in the Indian Ocean, far from the natural range of the species. Score: 0\n2. `-10.435447, -65.048347` - This location is in Bolivia, within the range of the species. Score: 0.8\n3. `-2.020089, -64.856392` - This location is in the Amazon Basin, within the range of the species. Score: 0.9\n4. `15.406815, 42.849884` - This location is in Yemen, far from the natural range of the species. Score: 0\n5. `4.555561, 69.273666` - This location is in the Indian Ocean, far from the natural range of the species. Score: 0\n6. `-14.956115, -63.683018` - This location is in Bolivia, within the range of the species. Score: 0.9\n7. `-6.434016, -71.529007` - This location is in Peru, within the range of the species. Score: 0.7\n8. `-9.705101, -75.82567` - This location is in Peru, within the range of the species. Score: 0.7\n9. `-2.772328, -41.256985` - This location is in Brazil, but outside the Amazon Basin. Score: 0.5\n10. `-11.4371, -40.973019` - This location is in Brazil, but outside the Amazon Basin. Score: 0\n\nThese scores are based on the typical distribution of the species and the geographical locations provided.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "73823": {
+        "question": "Can you tell me if the \"Green Whip Snake\" (\"Hierophis viridiflavus\") can be found at the following locations:\n\n75.061981, -128.809402\n-15.953265, 117.531166\n42.68055, 0.588424\n38.969284, 8.810721\n44.700478, 9.031219\n41.287172, 10.037231\n48.628571, 92.493568\n39.428738, 9.278162\n40.689846, 16.381287\n43.256856, 9.30138.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores based on the known distribution of the Green Whip Snake (Hierophis viridiflavus), which is primarily found in southern Europe, including Italy, parts of France, and the surrounding regions.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 0, 0, 0, 1, 1, 0, 1, 1, 1]\n```\n\nExplanation:\n1. 75.061981, -128.809402: 0 (Far from the known range, in the Arctic region)\n2. -15.953265, 117.531166: 0 (Far from the known range, in the Indian Ocean)\n3. 42.68055, 0.588424: 0 (In the Pyrenees, not within the typical range)\n4. 38.969284, 8.810721: 0 (In Sardinia, not typically within the range)\n5. 44.700478, 9.031219: 1 (In northern Italy, within the known range)\n6. 41.287172, 10.037231: 1 (In central Italy, within the known range)\n7. 48.628571, 92.493568: 0 (Far from the known range, in Siberia)\n8. 39.428738, 9.278162: 1 (In Sardinia, within the known range)\n9. 40.689846, 16.381287: 1 (In southern Italy, within the known range)\n10. 43.256856, 9.30138: 1 (In Corsica, within the known range)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "33297": {
+        "question": "Can you tell me if the \"Four-striped Bent-toed Gecko\" (\"Cyrtodactylus quadrivirgatus\") can be found at the following locations:\n\n6.509823, 101.156059\n7.827713, 99.251413\n2.100849, 103.614456\n-19.313532, -143.066589\n-37.424595, -0.393804\n-30.563402, 171.848297\n7.466896, 99.606567\n5.708096, 101.529259\n5.827813, 101.412903\n7.641192, 102.090623.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for each location:\n\n```python\n[1, 1, 1, 0, 0, 0, 1, 1, 1, 1]\n```\n\nThe \"Four-striped Bent-toed Gecko\" (Cyrtodactylus quadrivirgatus) is typically found in Southeast Asia, particularly in regions like Thailand, Malaysia, and surrounding areas. The scores reflect the likelihood of the species being present based on the geographic locations provided.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "35034": {
+        "question": "Can you tell me if the \"Yellow-faced Whipsnake\" (\"Demansia psammophis\") can be found at the following locations:\n\n-25.802574, 140.013275\n-33.442612, 149.561523\n-30.512901, 138.113244\n24.88896, -61.984436\n-25.530981, 142.139786\n-30.339668, 151.136795\n-22.648071, 145.389847\n-24.658822, 139.097228\n-17.991261, 2.687668\n-21.482061, 83.650269.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Yellow-faced Whipsnake (Demansia psammophis) at the given locations. This species is native to Australia and is typically found in arid and semi-arid regions, including deserts, grasslands, and woodlands.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.8, 0.3, 0.7, 0.0, 0.8, 0.2, 0.9, 0.8, 0.0, 0.0]\n```\n\nExplanation:\n1. -25.802574, 140.013275: 0.8 (Likely within the range of the species)\n2. -33.442612, 149.561523: 0.3 (Less likely, as it is further south and more temperate)\n3. -30.512901, 138.113244: 0.7 (Likely within the range of the species)\n4. 24.88896, -61.984436: 0.0 (Not in Australia)\n5. -25.530981, 142.139786: 0.8 (Likely within the range of the species)\n6. -30.339668, 151.136795: 0.2 (Less likely, as it is further south and more temperate)\n7. -22.648071, 145.389847: 0.9 (Very likely within the range of the species)\n8. -24.658822, 139.097228: 0.8 (Likely within the range of the species)\n9. -17.991261, 2.687668: 0.0 (Not in Australia)\n10. -21.482061, 83.650269: 0.0 (Not in Australia)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "68530": {
+        "question": "Can you tell me if the \"Hump-nosed Viper\" (\"Hypnale hypnale\") can be found at the following locations:\n\n14.741948, 75.147912\n5.47832, -73.079361\n10.329592, 76.976135\n38.324562, 162.006546\n7.188885, 79.911446\n-39.455212, -103.814362\n6.698529, 80.226227\n15.189064, 74.434212\n7.9288, 81.337746\n11.851837, 75.925591.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Hump-nosed Viper (Hypnale hypnale) at the given locations. The Hump-nosed Viper is primarily found in Sri Lanka and parts of southwestern India. Here are the scores based on the geographic distribution of the species:\n\n```python\nscores = [0, 0, 0.8, 0, 1, 0, 1, 0.8, 1, 0.8]\n```\n\nExplanation:\n1. 14.741948, 75.147912 - 0 (Not within the known range)\n2. 5.47832, -73.079361 - 0 (Not within the known range)\n3. 10.329592, 76.976135 - 0.8 (Southwestern India, within the range)\n4. 38.324562, 162.006546 - 0 (Not within the known range)\n5. 7.188885, 79.911446 - 1 (Sri Lanka, within the range)\n6. -39.455212, -103.814362 - 0 (Not within the known range)\n7. 6.698529, 80.226227 - 1 (Sri Lanka, within the range)\n8. 15.189064, 74.434212 - 0.8 (Southwestern India, within the range)\n9. 7.9288, 81.337746 - 1 (Sri Lanka, within the range)\n10. 11.851837, 75.925591 - 0.8 (Southwestern India, within the range)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "29793": {
+        "question": "Can you tell me if the \"Scarlet Kingsnake\" (\"Lampropeltis elapsoides\") can be found at the following locations:\n\n-42.304546, -155.852097\n32.519028, -81.64135\n29.846753, -86.93473\n14.296017, -134.803619\n74.146027, -178.551346\n30.480745, -84.47934\n31.199791, -83.831009\n31.957733, -81.059357\n34.808567, -84.543084\n31.970461, -90.879669.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for each location based on the known distribution of the Scarlet Kingsnake (Lampropeltis elapsoides), which is primarily found in the southeastern United States.\n\nHere's the Python list with the likelihood scores:\n\n```python\n[0, 1, 1, 0, 0, 1, 1, 1, 1, 0]\n```\n\nExplanation:\n- The Scarlet Kingsnake is not found in the middle of the Pacific Ocean or the Arctic, so locations like -42.304546, -155.852097; 14.296017, -134.803619; and 74.146027, -178.551346 get a score of 0.\n- The species is commonly found in the southeastern United States, so locations like 32.519028, -81.64135; 29.846753, -86.93473; 30.480745, -84.47934; 31.199791, -83.831009; 31.957733, -81.059357; and 34.808567, -84.543084 get a score of 1.\n- The location 31.970461, -90.879669 is outside the typical range of the Scarlet Kingsnake, so it gets a score of 0.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "476523": {
+        "question": "Can you tell me if the \"Australian Wood Frog\" (\"Papurana daemeli\") can be found at the following locations:\n\n-6.460643, 138.766907\n-9.107271, 141.566971\n-7.466409, 145.40065\n-8.483977, -160.664093\n-6.61164, 143.007385\n-4.19422, 138.559293\n-14.112836, 144.819708\n-30.792904, -48.823391\n48.940136, -0.44664\n-4.43197, 152.056656.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Australian Wood Frog (Papurana daemeli). This species is typically found in northern Australia, New Guinea, and some surrounding islands. Here are the likelihood scores for each location:\n\n```python\nscores = [0.8, 0.9, 0.9, 0.0, 0.9, 0.8, 0.0, 0.0, 0.0, 0.9]\n```\n\nExplanation:\n1. -6.460643, 138.766907: This location is in New Guinea, where the species is known to be present. Score: 0.8\n2. -9.107271, 141.566971: This location is in New Guinea, where the species is known to be present. Score: 0.9\n3. -7.466409, 145.40065: This location is in New Guinea, where the species is known to be present. Score: 0.9\n4. -8.483977, -160.664093: This location is in the Pacific Ocean, far from the known range of the species. Score: 0.0\n5. -6.61164, 143.007385: This location is in New Guinea, where the species is known to be present. Score: 0.9\n6. -4.19422, 138.559293: This location is in New Guinea, where the species is known to be present. Score: 0.8\n7. -14.112836, 144.819708: This location is in northern Australia, but quite far south from the typical range. Score: 0.0\n8. -30.792904, -48.823391: This location is in the South Atlantic Ocean, far from the known range of the species. Score: 0.0\n9. 48.940136, -0.44664: This location is in France, far from the known range of the species. Score: 0.0\n10. -4.43197, 152.056656: This location is in New Guinea, where the species is known to be present. Score: 0.9",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "26729": {
+        "question": "Can you tell me if the \"Ringed Salamander\" (\"Ambystoma annulatum\") can be found at the following locations:\n\n9.834743, 56.511608\n-35.053898, 34.930756\n36.272957, -95.551575\n38.839783, -91.168571\n36.74549, -89.783809\n-47.596111, -76.753326\n37.851349, -93.490005\n37.533188, -93.035286\n36.002476, -91.653358\n38.294937, -92.868294.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "The Ringed Salamander (Ambystoma annulatum) is primarily found in the Ozark Plateau and Ouachita Mountains in the central United States, particularly in parts of Missouri, Arkansas, and Oklahoma. Given this information, I will evaluate the likelihood of the species being present at each of the provided coordinates.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0, 0, 0.2, 0.8, 0.9, 0, 0.7, 0.7, 0.8, 0.6]\n```\n\nExplanation:\n1. (9.834743, 56.511608) - This location is in Denmark, far outside the range of the Ringed Salamander. Score: 0\n2. (-35.053898, 34.930756) - This location is in the southern hemisphere, far outside the range of the Ringed Salamander. Score: 0\n3. (36.272957, -95.551575) - This location is in Oklahoma, near the edge of the species' range. Score: 0.2\n4. (38.839783, -91.168571) - This location is in Missouri, within the species' range. Score: 0.8\n5. (36.74549, -89.783809) - This location is in Missouri, within the species' range. Score: 0.9\n6. (-47.596111, -76.753326) - This location is in the southern hemisphere, far outside the range of the Ringed Salamander. Score: 0\n7. (37.851349, -93.490005) - This location is in Missouri, within the species' range. Score: 0.7\n8. (37.533188, -93.035286) - This location is in Missouri, within the species' range. Score: 0.7\n9. (36.002476, -91.653358) - This location is in Arkansas, within the species' range. Score: 0.8\n10. (38.294937, -92.868294) - This location is in Missouri, within the species' range. Score: 0.6",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "26197": {
+        "question": "Can you tell me if the \"Edible bullfrog\" (\"Pyxicephalus edulis\") can be found at the following locations:\n\n6.305522, 47.958912\n12.110796, 11.609837\n-18.12882, 36.330746\n10.1383, 9.461946\n10.398973, 13.538261\n-25.211124, 33.989624\n72.664848, -51.98798\n35.627731, 160.090057\n-10.650319, 38.516651\n-20.188839, 25.867344.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Edible bullfrog\" (\"Pyxicephalus edulis\") at the given locations:\n\n```python\n[0, 1, 0, 1, 1, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- The \"Edible bullfrog\" is native to parts of sub-Saharan Africa.\n- Locations 2, 4, and 5 fall within the range of sub-Saharan Africa where the species is likely to be found.\n- The other locations are outside the typical range of this species.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "65212": {
+        "question": "Can you tell me if the \"Barking Frog\" (\"Craugastor augusti\") can be found at the following locations:\n\n-62.542213, 32.176109\n29.850471, -109.379478\n21.468397, -99.958664\n30.764992, -101.206802\n2.966262, -119.789436\n30.477942, -110.524411\n33.451173, -106.564267\n25.741642, -107.9814\n19.458094, -98.382912\n3.091149, 110.876678.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Barking Frog (Craugastor augusti). This species is typically found in the southwestern United States and northern Mexico. Here are the scores:\n\n```python\n[0, 1, 1, 1, 0, 1, 0, 1, 1, 0]\n```\n\nExplanation:\n1. -62.542213, 32.176109: 0 (This location is in the Atlantic Ocean, far from the known range of the species)\n2. 29.850471, -109.379478: 1 (This location is in northern Mexico, within the known range)\n3. 21.468397, -99.958664: 1 (This location is in central Mexico, within the known range)\n4. 30.764992, -101.206802: 1 (This location is in Texas, USA, within the known range)\n5. 2.966262, -119.789436: 0 (This location is in the Pacific Ocean, far from the known range)\n6. 30.477942, -110.524411: 1 (This location is in northern Mexico, within the known range)\n7. 33.451173, -106.564267: 0 (This location is in New Mexico, USA, outside the typical range)\n8. 25.741642, -107.9814: 1 (This location is in northern Mexico, within the known range)\n9. 19.458094, -98.382912: 1 (This location is in central Mexico, within the known range)\n10. 3.091149, 110.876678: 0 (This location is in Malaysia, far from the known range)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "22846": {
+        "question": "Can you tell me if the \"Amazonian Horned Frog\" (\"Ceratophrys cornuta\") can be found at the following locations:\n\n-7.613207, -65.293518\n-9.328763, -75.353852\n-2.519217, -69.847313\n4.41211, 159.966812\n-13.542304, -70.222598\n31.119499, 132.071533\n-8.995543, -59.296043\n-2.473433, 147.95076\n-0.509458, -68.482269\n-6.576087, -75.252029.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for each location:\n\n```python\n[1, 0.5, 1, 0, 1, 0, 1, 0, 1, 0.5]\n```\n\nExplanation:\n- The Amazonian Horned Frog (Ceratophrys cornuta) is native to the Amazon Basin, so locations within this region are more likely to have the species.\n- Locations outside the Amazon Basin or in completely different ecosystems (like the ocean or other continents) are less likely to have the species.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "67258": {
+        "question": "Can you tell me if the \"Sand Toad\" (\"Vandijkophrynus angusticeps\") can be found at the following locations:\n\n-33.807446, 21.593393\n-53.532841, 17.40864\n-34.014453, 17.913425\n59.348869, -152.392517\n-33.173294, 18.294554\n-34.015965, 22.422535\n-34.307201, 20.313778\n-33.671501, 21.51333\n-32.887603, 20.189864\n58.712364, 0.178755.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can help with that. The \"Sand Toad\" (Vandijkophrynus angusticeps) is native to specific regions in South Africa. Based on the coordinates provided, I will evaluate the likelihood of the species being present at each location.\n\nHere is the Python list containing the likelihood scores:\n\n```python\nlikelihood_scores = [0.8, 0, 0.7, 0, 0.9, 0.6, 0.7, 0.8, 0.7, 0]\n```\n\nExplanation:\n- The first, third, fifth, sixth, seventh, eighth, and ninth coordinates are in South Africa, where the Sand Toad is likely to be found, hence the higher scores.\n- The second and tenth coordinates are far from South Africa, making it very unlikely for the species to be present there, hence the score of 0.\n- The fourth coordinate is in Alaska, which is also far from the natural habitat of the Sand Toad, hence the score of 0.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "27658": {
+        "question": "Can you tell me if the \"Korean Crevice Salamander\" (\"Karsenia koreana\") can be found at the following locations:\n\n36.55793, 127.704674\n35.182311, 128.865001\n37.195759, 128.072761\n37.495567, -82.51815\n-31.925474, 27.427547\n47.600605, -136.148514\n36.35759, 127.757294\n36.274063, 127.868599\n35.135387, 128.072449\n36.391548, 127.927361.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is a Python list containing the likelihood scores for the presence of the Korean Crevice Salamander (Karsenia koreana) at the given locations:\n\n```python\n[1, 1, 1, 0, 0, 0, 1, 1, 1, 1]\n```\n\nThe scores are based on the fact that Karsenia koreana is endemic to South Korea, and the coordinates provided within South Korea are likely habitats, while those outside South Korea are not.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "67188": {
+        "question": "Can you tell me if the \"Lowland Burrowing Tree Frog\" (\"Smilisca fodiens\") can be found at the following locations:\n\n27.819466, -111.308099\n30.274223, -112.382668\n24.637787, -107.892761\n32.383102, -70.879143\n-39.615845, -77.771812\n24.694836, -107.405357\n18.902435, -103.026947\n19.68882, -104.491486\n32.030293, -113.175636\n-12.745502, 28.092781.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimation based on the known distribution of the Lowland Burrowing Tree Frog (Smilisca fodiens). This species is typically found in parts of Mexico and Central America. Here are the likelihood scores for each location:\n\n```python\n[0.8, 0.7, 0.9, 0.0, 0.0, 0.9, 0.8, 0.8, 0.6, 0.0]\n```\n\nExplanation:\n1. 27.819466, -111.308099: 0.8 (Northern Mexico, within the range)\n2. 30.274223, -112.382668: 0.7 (Northern Mexico, slightly less likely but still within range)\n3. 24.637787, -107.892761: 0.9 (Central-western Mexico, well within the range)\n4. 32.383102, -70.879143: 0.0 (Far outside the range, in the Pacific Ocean)\n5. -39.615845, -77.771812: 0.0 (Far outside the range, in the Southern Hemisphere)\n6. 24.694836, -107.405357: 0.9 (Central-western Mexico, well within the range)\n7. 18.902435, -103.026947: 0.8 (Western Mexico, within the range)\n8. 19.68882, -104.491486: 0.8 (Western Mexico, within the range)\n9. 32.030293, -113.175636: 0.6 (Northern Mexico, near the edge of the range)\n10. -12.745502, 28.092781: 0.0 (Far outside the range, in Africa)\n\nThese scores are based on the general known distribution of the species and the geographical locations provided.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "64975": {
+        "question": "Can you tell me if the \"Chihuahuan Green Toad\" (\"Anaxyrus debilis\") can be found at the following locations:\n\n23.958662, -100.429916\n56.417145, 143.854767\n-37.5839, -48.286644\n23.634766, -105.401626\n25.824132, -96.359545\n20.914064, -2.707777\n24.355785, -99.42746\n33.714779, -99.440659\n33.407089, -105.87458\n29.218351, -105.569565.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Chihuahuan Green Toad (Anaxyrus debilis). This species is typically found in the southwestern United States and northern Mexico, particularly in arid and semi-arid regions.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0.8, 0.0, 0.0, 0.7, 0.1, 0.0, 0.8, 0.8, 0.5, 0.7]\n```\n\nExplanation:\n1. 23.958662, -100.429916 - Likely within the range (0.8)\n2. 56.417145, 143.854767 - Far outside the range (0.0)\n3. -37.5839, -48.286644 - Far outside the range (0.0)\n4. 23.634766, -105.401626 - Likely within the range (0.7)\n5. 25.824132, -96.359545 - Unlikely, but not impossible (0.1)\n6. 20.914064, -2.707777 - Far outside the range (0.0)\n7. 24.355785, -99.42746 - Likely within the range (0.8)\n8. 33.714779, -99.440659 - Likely within the range (0.8)\n9. 33.407089, -105.87458 - Possibly within the range (0.5)\n10. 29.218351, -105.569565 - Likely within the range (0.7)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "23654": {
+        "question": "Can you tell me if the \"Broad-palmed Rocket Frog\" (\"Litoria latopalmata\") can be found at the following locations:\n\n-31.527147, 143.478592\n-23.124483, -78.822571\n-21.563667, 149.849348\n-14.339347, 145.023168\n-27.580107, 150.08606\n-79.212662, 132.293564\n-25.30674, 142.742828\n-21.580429, 144.240128\n-26.982233, 151.674744\n30.180508, -39.123589.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for each location based on the known distribution of the Broad-palmed Rocket Frog (Litoria latopalmata), which is native to eastern Australia. Here is the Python list containing the likelihood scores:\n\n```python\n[0, 0, 1, 1, 1, 0, 0.5, 1, 1, 0]\n```\n\nExplanation:\n- The Broad-palmed Rocket Frog is found in eastern Australia, so locations within this range are more likely to have the species.\n- Locations outside of Australia or in regions of Australia where the species is not typically found will have a lower likelihood score.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "135055": {
+        "question": "Can you tell me if the \"Balearic Green Toad\" (\"Bufotes balearicus\") can be found at the following locations:\n\n38.721756, 16.005764\n44.099636, 11.293322\n40.149344, 2.763165\n42.465244, 13.057448\n1.940846, -74.358192\n41.921001, 13.091518\n42.549147, 10.45214\n43.598751, 11.774799\n37.39547, 129.685562\n0.529554, -60.745831.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Balearic Green Toad\" (\"Bufotes balearicus\") at the given locations:\n\n```python\n[0, 0.5, 1, 0.5, 0, 0.5, 0.5, 0.5, 0, 0]\n```\n\nExplanation:\n- The \"Balearic Green Toad\" is native to the Balearic Islands and parts of Italy.\n- Coordinates 38.721756, 16.005764 (Southern Italy) and 40.149344, 2.763165 (Balearic Islands) are within its known range.\n- Coordinates 44.099636, 11.293322 (Northern Italy), 42.465244, 13.057448 (Central Italy), 41.921001, 13.091518 (Central Italy), 42.549147, 10.45214 (Central Italy), and 43.598751, 11.774799 (Northern Italy) are somewhat within the broader range but less certain.\n- Coordinates 1.940846, -74.358192 (Colombia), 37.39547, 129.685562 (South Korea), and 0.529554, -60.745831 (Brazil) are outside its known range.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "27005": {
+        "question": "Can you tell me if the \"Mexican Mushroomtongue Salamander\" (\"Bolitoglossa mexicana\") can be found at the following locations:\n\n7.941784, -129.09668\n13.718649, -86.880569\n14.136915, -87.587074\n14.344954, -89.569583\n5.521452, 104.92421\n15.106159, -87.245941\n64.690437, -48.404236\n13.985062, -87.619308\n16.634241, -89.945709\n15.657737, -83.563406.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known habitat and distribution of the Mexican Mushroomtongue Salamander (Bolitoglossa mexicana). This species is typically found in the cloud forests of Mexico and Central America, particularly in regions with high humidity and elevation.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 0.8, 0.9, 0.7, 0, 0.9, 0, 0.9, 0.8, 0]\n```\n\nExplanation:\n1. 7.941784, -129.09668: 0 (This location is in the middle of the Pacific Ocean, far from the species' known range.)\n2. 13.718649, -86.880569: 0.8 (This location is in Central America, within the potential range of the species.)\n3. 14.136915, -87.587074: 0.9 (This location is in Honduras, which is within the known range of the species.)\n4. 14.344954, -89.569583: 0.7 (This location is in Guatemala, within the potential range of the species.)\n5. 5.521452, 104.92421: 0 (This location is in Malaysia, far from the species' known range.)\n6. 15.106159, -87.245941: 0.9 (This location is in Honduras, within the known range of the species.)\n7. 64.690437, -48.404236: 0 (This location is in Greenland, far from the species' known range.)\n8. 13.985062, -87.619308: 0.9 (This location is in Honduras, within the known range of the species.)\n9. 16.634241, -89.945709: 0.8 (This location is in Guatemala, within the potential range of the species.)\n10. 15.657737, -83.563406: 0 (This location is in Nicaragua, but on the Caribbean coast, which is less likely to have the suitable habitat for the species.)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "22974": {
+        "question": "Can you tell me if the \"Oven Frog\" (\"Leptodactylus latinasus\") can be found at the following locations:\n\n-29.594902, -57.882534\n-15.297156, -61.187739\n-28.904919, -56.99276\n-24.145704, -58.599201\n26.097509, 179.215454\n70.223061, -60.255573\n-18.337524, -62.917824\n-28.707379, -55.255544\n3.94119, 20.100685\n-24.803507, -61.090015.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimation based on the known distribution of the \"Oven Frog\" (Leptodactylus latinasus). This species is typically found in South America, particularly in countries like Argentina, Bolivia, Brazil, Paraguay, and Uruguay. Here is the likelihood score for each location:\n\n```python\n[1, 0.8, 1, 1, 0, 0, 0.8, 1, 0, 1]\n```\n\nExplanation:\n1. -29.594902, -57.882534: 1 (Very likely, within the known range)\n2. -15.297156, -61.187739: 0.8 (Likely, within the broader range)\n3. -28.904919, -56.99276: 1 (Very likely, within the known range)\n4. -24.145704, -58.599201: 1 (Very likely, within the known range)\n5. 26.097509, 179.215454: 0 (Not likely, outside the known range)\n6. 70.223061, -60.255573: 0 (Not likely, outside the known range)\n7. -18.337524, -62.917824: 0.8 (Likely, within the broader range)\n8. -28.707379, -55.255544: 1 (Very likely, within the known range)\n9. 3.94119, 20.100685: 0 (Not likely, outside the known range)\n10. -24.803507, -61.090015: 1 (Very likely, within the known range)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "64987": {
+        "question": "Can you tell me if the \"Texas Toad\" (\"Anaxyrus speciosus\") can be found at the following locations:\n\n74.596077, 9.090106\n30.832565, -101.872269\n-43.417507, 123.95475\n28.747906, -101.127434\n32.153127, -107.015824\n13.663617, -83.203339\n36.792923, -99.321533\n25.107376, -102.692871\n28.226631, -107.149544\n25.12009, -99.484581.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Texas Toad (Anaxyrus speciosus) at the given locations. The Texas Toad is primarily found in the southwestern United States, particularly in Texas and parts of New Mexico and Oklahoma. Here are the scores based on the geographic locations provided:\n\n```python\nlikelihood_scores = [0, 1, 0, 1, 0.5, 0, 0.5, 0.5, 0.5, 0.5]\n```\n\nExplanation:\n1. 74.596077, 9.090106 - This location is in Africa, far outside the range of the Texas Toad. Score: 0\n2. 30.832565, -101.872269 - This location is in Texas, within the range of the Texas Toad. Score: 1\n3. -43.417507, 123.95475 - This location is in the Southern Hemisphere, far outside the range of the Texas Toad. Score: 0\n4. 28.747906, -101.127434 - This location is in Texas, within the range of the Texas Toad. Score: 1\n5. 32.153127, -107.015824 - This location is in New Mexico, which is within the range but less common. Score: 0.5\n6. 13.663617, -83.203339 - This location is in Central America, far outside the range of the Texas Toad. Score: 0\n7. 36.792923, -99.321533 - This location is in Oklahoma, which is within the range but less common. Score: 0.5\n8. 25.107376, -102.692871 - This location is in Mexico, which is on the edge of the range. Score: 0.5\n9. 28.226631, -107.149544 - This location is in Mexico, which is on the edge of the range. Score: 0.5\n10. 25.12009, -99.484581 - This location is in Mexico, which is on the edge of the range. Score: 0.5",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "517130": {
+        "question": "Can you tell me if the \"Barred Monkey Frog\" (\"Callimedusa tomopterna\") can be found at the following locations:\n\n-6.177134, -54.221027\n-10.759247, -74.31653\n-0.22709, -58.79549\n6.392183, -55.424651\n-24.19879, 160.480026\n-9.398938, -55.461617\n-33.617599, 10.1087\n-4.093726, -74.316544\n-7.314876, -65.011345\n-10.554585, -171.380478.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Barred Monkey Frog (Callimedusa tomopterna), which is typically found in the Amazon Basin and surrounding areas in South America. Here is the Python list containing the likelihood scores:\n\n```python\n[0.8, 0.9, 0.7, 0.6, 0.0, 0.8, 0.0, 0.9, 0.8, 0.0]\n```\n\nExplanation:\n- The first location (-6.177134, -54.221027) is within the Amazon Basin, so the likelihood is high (0.8).\n- The second location (-10.759247, -74.31653) is also within the Amazon Basin, so the likelihood is very high (0.9).\n- The third location (-0.22709, -58.79549) is near the Amazon Basin, so the likelihood is high (0.7).\n- The fourth location (6.392183, -55.424651) is in Guyana, which is close to the Amazon Basin, so the likelihood is moderate (0.6).\n- The fifth location (-24.19879, 160.480026) is in the Pacific Ocean, far from the Amazon Basin, so the likelihood is zero (0.0).\n- The sixth location (-9.398938, -55.461617) is within the Amazon Basin, so the likelihood is high (0.8).\n- The seventh location (-33.617599, 10.1087) is in Tunisia, far from the Amazon Basin, so the likelihood is zero (0.0).\n- The eighth location (-4.093726, -74.316544) is within the Amazon Basin, so the likelihood is very high (0.9).\n- The ninth location (-7.314876, -65.011345) is within the Amazon Basin, so the likelihood is high (0.8).\n- The tenth location (-10.554585, -171.380478) is in the Pacific Ocean, far from the Amazon Basin, so the likelihood is zero (0.0).",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "26747": {
+        "question": "Can you tell me if the \"Northwestern Salamander\" (\"Ambystoma gracile\") can be found at the following locations:\n\n44.419342, -121.294036\n-61.014381, -99.435005\n51.004406, -123.587303\n-44.317444, 136.612473\n-7.233593, -56.214832\n43.327324, -122.878143\n53.730793, -126.37651\n42.734684, -122.836555\n55.159061, -129.811462\n47.722252, -123.023575.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Northwestern Salamander (\"Ambystoma gracile\") at each of the given locations:\n\n```python\n[0.8, 0, 0.7, 0, 0, 0.9, 0.6, 0.9, 0.5, 0.9]\n```\n\nExplanation:\n- The Northwestern Salamander is native to the Pacific Northwest of North America, particularly in regions like British Columbia, Washington, Oregon, and northern California. \n- Locations within this range (like those in Oregon and Washington) have higher scores.\n- Locations outside this range (like those in the Southern Hemisphere or far from the Pacific Northwest) have scores of 0.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "24268": {
+        "question": "Can you tell me if the \"Spring Peeper\" (\"Pseudacris crucifer\") can be found at the following locations:\n\n44.05891, -71.649338\n-44.423744, -22.488838\n35.876953, -91.003876\n45.678829, -72.330231\n35.012688, -76.575098\n51.858062, -84.439086\n40.533703, -89.63279\n43.741055, -38.233284\n52.22897, 125.08873\n43.402725, -88.516228.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Spring Peeper (\"Pseudacris crucifer\") at the given locations:\n\n```python\n[1, 0, 1, 1, 1, 0, 1, 0, 0, 1]\n```\n\nExplanation:\n- 44.05891, -71.649338: 1 (New Hampshire, USA - within the range of Spring Peepers)\n- -44.423744, -22.488838: 0 (Southern Hemisphere, not within the range)\n- 35.876953, -91.003876: 1 (Arkansas, USA - within the range)\n- 45.678829, -72.330231: 1 (Quebec, Canada - within the range)\n- 35.012688, -76.575098: 1 (North Carolina, USA - within the range)\n- 51.858062, -84.439086: 0 (Northern Ontario, Canada - outside the range)\n- 40.533703, -89.63279: 1 (Illinois, USA - within the range)\n- 43.741055, -38.233284: 0 (Mid-Atlantic Ocean, not within the range)\n- 52.22897, 125.08873: 0 (Eastern Russia, not within the range)\n- 43.402725, -88.516228: 1 (Wisconsin, USA - within the range)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "26395": {
+        "question": "Can you tell me if the \"Java Bubble-Nest Frog\" (\"Philautus aurifasciatus\") can be found at the following locations:\n\n2.401485, 99.079285\n3.185706, 98.097244\n-3.305295, -100.357384\n17.860613, 56.259094\n-3.887611, 102.722458\n-7.562609, 106.452814\n-15.654188, 65.010124\n-6.719672, 107.55468\n4.523154, 96.353924\n4.998285, 95.878212.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known habitat and distribution of the Java Bubble-Nest Frog (Philautus aurifasciatus). This species is endemic to Java, Indonesia, and typically found in montane forests.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 0, 0, 0, 0, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- The Java Bubble-Nest Frog is not likely to be found at the first five locations as they are either outside Java or in unsuitable habitats.\n- The sixth location (-7.562609, 106.452814) and the eighth location (-6.719672, 107.55468) are in Java, Indonesia, and within the range of suitable habitats for the species.\n- The remaining locations are either outside Java or in unsuitable habitats.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "517053": {
+        "question": "Can you tell me if the \"Guttural Toad\" (\"Sclerophrys gutturalis\") can be found at the following locations:\n\n-5.177119, 33.878815\n-29.11265, 18.305355\n-5.930473, 31.504612\n50.711361, -116.760452\n-13.379955, 15.833296\n30.525679, 164.508102\n-12.647474, 13.048666\n46.385769, 140.758118\n-23.949144, 33.944279\n-10.693393, 16.1971.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Guttural Toad\" (\"Sclerophrys gutturalis\") at the given locations:\n\n```python\n[0, 0.8, 0, 0, 0.7, 0, 0.7, 0, 0.9, 0.7]\n```\n\nExplanation:\n- The Guttural Toad is native to sub-Saharan Africa and is commonly found in southern and eastern Africa. The scores reflect the likelihood based on the geographic range and habitat preferences of the species.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "64978": {
+        "question": "Can you tell me if the \"Canadian Toad\" (\"Anaxyrus hemiophrys\") can be found at the following locations:\n\n-28.903393, -58.976757\n49.317146, -103.561287\n53.863785, -107.873741\n50.468815, -98.273871\n51.797024, -104.504272\n52.16148, -103.821701\n50.411899, -98.505158\n-42.000427, 23.537216\n-64.064178, 45.507114\n50.590088, -111.460983.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Canadian Toad (Anaxyrus hemiophrys). The Canadian Toad is typically found in central Canada, particularly in the prairie provinces and parts of the boreal forest.\n\nHere is the Python list with the likelihood scores for each location:\n\n```python\nlikelihood_scores = [\n    0,  # -28.903393, -58.976757 (Not within the range of the Canadian Toad)\n    0.8,  # 49.317146, -103.561287 (Within the range in Saskatchewan)\n    0.9,  # 53.863785, -107.873741 (Within the range in Saskatchewan)\n    0.7,  # 50.468815, -98.273871 (Within the range in Manitoba)\n    0.8,  # 51.797024, -104.504272 (Within the range in Saskatchewan)\n    0.8,  # 52.16148, -103.821701 (Within the range in Saskatchewan)\n    0.7,  # 50.411899, -98.505158 (Within the range in Manitoba)\n    0,  # -42.000427, 23.537216 (Not within the range of the Canadian Toad)\n    0,  # -64.064178, 45.507114 (Not within the range of the Canadian Toad)\n    0.6  # 50.590088, -111.460983 (Near the edge of the range in Alberta)\n]\n```\n\nThese scores are based on the general distribution of the species and the specific locations provided.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "22066": {
+        "question": "Can you tell me if the \"Great Barred Frog\" (\"Mixophyes fasciolatus\") can be found at the following locations:\n\n19.584848, -21.451485\n-27.002388, 153.028198\n-16.127834, 71.337936\n-1.095127, 89.641899\n-24.804206, 150.115768\n-25.718582, 152.123444\n-29.431902, 151.999649\n-29.84799, 152.902542\n-24.247522, 151.478516\n-25.690099, 152.97115.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Great Barred Frog (Mixophyes fasciolatus). This species is typically found in eastern Australia, particularly in Queensland and New South Wales, in areas with suitable forest habitats.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 1, 0, 0, 0.5, 0.8, 0.7, 0.9, 0.5, 0.9]\n```\n\nExplanation:\n1. 19.584848, -21.451485: 0 (This location is far from the known range of the species)\n2. -27.002388, 153.028198: 1 (This location is within the known range of the species)\n3. -16.127834, 71.337936: 0 (This location is far from the known range of the species)\n4. -1.095127, 89.641899: 0 (This location is far from the known range of the species)\n5. -24.804206, 150.115768: 0.5 (This location is somewhat close to the known range, but not ideal)\n6. -25.718582, 152.123444: 0.8 (This location is within the known range of the species)\n7. -29.431902, 151.999649: 0.7 (This location is within the known range of the species)\n8. -29.84799, 152.902542: 0.9 (This location is within the known range of the species)\n9. -24.247522, 151.478516: 0.5 (This location is somewhat close to the known range, but not ideal)\n10. -25.690099, 152.97115: 0.9 (This location is within the known range of the species)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "64972": {
+        "question": "Can you tell me if the \"Yosemite Toad\" (\"Anaxyrus canorus\") can be found at the following locations:\n\n37.08977, -119.720215\n37.967354, -119.574623\n-17.761415, -149.2901\n32.531555, 112.040787\n38.507519, -119.768112\n0.568838, 44.294415\n37.369484, -118.857887\n37.897568, -119.397324\n36.908016, -118.49818\n38.331272, -120.112854.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Yosemite Toad (\"Anaxyrus canorus\") at the given locations:\n\n```python\n[0.8, 0.9, 0.0, 0.0, 0.8, 0.0, 0.8, 0.9, 0.8, 0.7]\n```\n\nExplanation:\n- The Yosemite Toad is endemic to the Sierra Nevada of California, typically found at elevations between 1,950 and 3,445 meters.\n- Locations within the Sierra Nevada range and at appropriate elevations have higher scores.\n- Locations outside of this range or in different continents have a score of 0.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "65996": {
+        "question": "Can you tell me if the \"Montezuma Leopard Frog\" (\"Lithobates montezumae\") can be found at the following locations:\n\n25.570583, 121.15213\n19.723202, -101.86483\n-6.526695, 134.727478\n19.286913, -99.925468\n-37.932987, -129.742615\n20.577423, -98.687779\n21.121889, -101.5532\n23.035894, -104.181728\n22.764208, -102.941589\n18.997833, -98.748146.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for each location based on the known distribution of the Montezuma Leopard Frog (Lithobates montezumae), which is native to central Mexico. Here is the Python list containing the likelihood scores:\n\n```python\n[0, 1, 0, 1, 0, 1, 1, 1, 1, 1]\n```\n\nExplanation:\n- 25.570583, 121.15213: 0 (This location is in Taiwan, far outside the native range of the species.)\n- 19.723202, -101.86483: 1 (This location is in central Mexico, within the native range.)\n- -6.526695, 134.727478: 0 (This location is in Indonesia, far outside the native range.)\n- 19.286913, -99.925468: 1 (This location is in central Mexico, within the native range.)\n- -37.932987, -129.742615: 0 (This location is in the South Pacific Ocean, far outside the native range.)\n- 20.577423, -98.687779: 1 (This location is in central Mexico, within the native range.)\n- 21.121889, -101.5532: 1 (This location is in central Mexico, within the native range.)\n- 23.035894, -104.181728: 1 (This location is in central Mexico, within the native range.)\n- 22.764208, -102.941589: 1 (This location is in central Mexico, within the native range.)\n- 18.997833, -98.748146: 1 (This location is in central Mexico, within the native range.)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "13350": {
+        "question": "Can you tell me if the \"Bronze Sunbird\" (\"Nectarinia kilimensis\") can be found at the following locations:\n\n-1.049191, 30.389853\n-0.619071, 30.162901\n32.442604, -36.02388\n-10.7389, 16.686161\n-3.514882, 28.937693\n-50.803715, 56.254143\n-61.715042, 73.342766\n-7.524217, 35.146464\n-14.48992, 35.296356\n-15.94515, 35.429755.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Bronze Sunbird (\"Nectarinia kilimensis\") at the given locations:\n\n```python\n[1, 1, 0, 0, 1, 0, 0, 1, 1, 1]\n```\n\nExplanation:\n- The Bronze Sunbird is native to parts of East Africa, including countries like Kenya, Uganda, Tanzania, and surrounding regions.\n- The coordinates -1.049191, 30.389853 and -0.619071, 30.162901 are in Uganda, which is within the range of the Bronze Sunbird.\n- The coordinates 32.442604, -36.02388 are in the middle of the Indian Ocean, far from the natural habitat of the Bronze Sunbird.\n- The coordinates -10.7389, 16.686161 are in Angola, which is outside the typical range of the Bronze Sunbird.\n- The coordinates -3.514882, 28.937693 are in the Democratic Republic of the Congo, which is within the range of the Bronze Sunbird.\n- The coordinates -50.803715, 56.254143 are in the Southern Ocean, far from the natural habitat of the Bronze Sunbird.\n- The coordinates -61.715042, 73.342766 are in the Southern Ocean, far from the natural habitat of the Bronze Sunbird.\n- The coordinates -7.524217, 35.146464 are in Tanzania, which is within the range of the Bronze Sunbird.\n- The coordinates -14.48992, 35.296356 and -15.94515, 35.429755 are in Malawi, which is within the range of the Bronze Sunbird.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "20379": {
+        "question": "Can you tell me if the \"Elf Owl\" (\"Micrathene whitneyi\") can be found at the following locations:\n\n26.584351, -104.162567\n19.414486, -100.367432\n22.189911, -109.631849\n11.234527, 56.933743\n25.244532, 33.568619\n29.197242, -112.915339\n7.870926, 42.575211\n20.484743, -101.934959\n25.089989, -100.767563\n27.401764, -104.904709.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known range and habitat preferences of the Elf Owl (Micrathene whitneyi). The Elf Owl is primarily found in the southwestern United States and parts of Mexico, particularly in desert and semi-desert regions.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.1, 0.2, 0.8, 0.0, 0.0, 0.9, 0.0, 0.2, 0.3, 0.1]\n```\n\nExplanation:\n1. 26.584351, -104.162567: 0.1 (Northern Mexico, but not a typical range for Elf Owls)\n2. 19.414486, -100.367432: 0.2 (Central Mexico, outside typical range but possible)\n3. 22.189911, -109.631849: 0.8 (Southern Baja California, within range)\n4. 11.234527, 56.933743: 0.0 (Far outside range, in the Indian Ocean)\n5. 25.244532, 33.568619: 0.0 (Far outside range, in Egypt)\n6. 29.197242, -112.915339: 0.9 (Northern Baja California, within range)\n7. 7.870926, 42.575211: 0.0 (Far outside range, in Somalia)\n8. 20.484743, -101.934959: 0.2 (Central Mexico, outside typical range but possible)\n9. 25.089989, -100.767563: 0.3 (Northern Mexico, closer to range but not typical)\n10. 27.401764, -104.904709: 0.1 (Northern Mexico, but not a typical range for Elf Owls)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "8046": {
+        "question": "Can you tell me if the \"Fan-tailed Raven\" (\"Corvus rhipidurus\") can be found at the following locations:\n\n13.113769, 42.068401\n19.620058, 36.53315\n15.993756, 51.659889\n12.85706, 39.545582\n-45.85722, 164.804138\n54.244781, -89.743904\n14.199247, 49.407982\n1.455434, 35.389675\n20.24502, 45.018862\n32.237495, -137.872803.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Fan-tailed Raven (Corvus rhipidurus) at the given locations. The Fan-tailed Raven is typically found in the Middle East and parts of northeastern Africa, including countries like Yemen, Saudi Arabia, Sudan, and Ethiopia.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\nlikelihood_scores = [1, 0.8, 0.1, 1, 0, 0, 1, 0, 0.1, 0]\n```\n\nExplanation:\n1. 13.113769, 42.068401 (Yemen) - 1 (Very likely)\n2. 19.620058, 36.53315 (Saudi Arabia) - 0.8 (Likely)\n3. 15.993756, 51.659889 (Yemen/Oman border) - 0.1 (Unlikely, but possible)\n4. 12.85706, 39.545582 (Ethiopia) - 1 (Very likely)\n5. -45.85722, 164.804138 (New Zealand) - 0 (Very unlikely)\n6. 54.244781, -89.743904 (Canada) - 0 (Very unlikely)\n7. 14.199247, 49.407982 (Yemen) - 1 (Very likely)\n8. 1.455434, 35.389675 (Kenya) - 0 (Very unlikely)\n9. 20.24502, 45.018862 (Saudi Arabia) - 0.1 (Unlikely, but possible)\n10. 32.237495, -137.872803 (Pacific Ocean) - 0 (Very unlikely)\n```",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "14637": {
+        "question": "Can you tell me if the \"Madagascar Bulbul\" (\"Hypsipetes madagascariensis\") can be found at the following locations:\n\n-16.190765, 45.699459\n57.820648, -176.309799\n48.953224, 27.312654\n-23.543227, 42.94807\n-15.605734, 50.185452\n-24.187319, 46.174995\n-17.468834, 45.149441\n-15.487966, 45.768441\n-23.459608, 46.907776\n4.026602, -115.942253.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Madagascar Bulbul\" (\"Hypsipetes madagascariensis\") at the given locations:\n\n```python\n[1, 0, 0, 1, 1, 1, 1, 1, 1, 0]\n```\n\nExplanation:\n- The Madagascar Bulbul is native to Madagascar and nearby islands, so locations within Madagascar or nearby islands are scored as 1.\n- Locations far from Madagascar, such as those in different continents or remote oceanic locations, are scored as 0.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "4585": {
+        "question": "Can you tell me if the \"African Jacana\" (\"Actophilornis africanus\") can be found at the following locations:\n\n13.186955, 13.49628\n4.53285, 27.910055\n-7.768447, 30.663313\n9.989424, 28.13134\n-14.395672, 12.276303\n22.807142, -90.30278\n52.002506, -28.302996\n-8.362231, 38.878315\n9.277036, 38.902695\n39.136467, -0.375921.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimate based on the known distribution of the African Jacana. The African Jacana is typically found in sub-Saharan Africa, in areas with shallow lakes, ponds, and marshes.\n\nHere's the Python list with the likelihood scores for each location:\n\n```python\n[1, 1, 1, 1, 1, 0, 0, 0, 1, 0]\n```\n\nExplanation:\n1. (13.186955, 13.49628) - Likely presence (1) as it is within the range of sub-Saharan Africa.\n2. (4.53285, 27.910055) - Likely presence (1) as it is within the range of sub-Saharan Africa.\n3. (-7.768447, 30.663313) - Likely presence (1) as it is within the range of sub-Saharan Africa.\n4. (9.989424, 28.13134) - Likely presence (1) as it is within the range of sub-Saharan Africa.\n5. (-14.395672, 12.276303) - Likely presence (1) as it is within the range of sub-Saharan Africa.\n6. (22.807142, -90.30278) - Unlikely presence (0) as it is far outside the range of sub-Saharan Africa.\n7. (52.002506, -28.302996) - Unlikely presence (0) as it is far outside the range of sub-Saharan Africa.\n8. (-8.362231, 38.878315) - Unlikely presence (0) as it is far outside the range of sub-Saharan Africa.\n9. (9.277036, 38.902695) - Likely presence (1) as it is within the range of sub-Saharan Africa.\n10. (39.136467, -0.375921) - Unlikely presence (0) as it is far outside the range of sub-Saharan Africa.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "144484": {
+        "question": "Can you tell me if the \"Yellow-wattled Lapwing\" (\"Vanellus malabaricus\") can be found at the following locations:\n\n13.510581, 75.712845\n24.58561, 70.513138\n17.486712, 78.3116\n24.310585, 91.256106\n21.870028, 71.977089\n37.44529, -116.752396\n17.846033, 74.68222\n-45.495266, -135.348221\n26.177658, 80.536415\n28.596302, -120.749039.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Yellow-wattled Lapwing (Vanellus malabaricus) at the given locations:\n\n```python\n[1, 1, 1, 0, 1, 0, 1, 0, 1, 0]\n```\n\nExplanation:\n- The Yellow-wattled Lapwing is native to the Indian subcontinent, so it is very likely to be found in locations within India and nearby regions.\n- Locations outside its native range, such as in the United States or the Southern Hemisphere, are unlikely to host this species.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "143853": {
+        "question": "Can you tell me if the \"Black-billed Magpie\" (\"Pica hudsonia\") can be found at the following locations:\n\n43.056382, -123.402013\n35.072456, -103.961807\n65.196127, -146.987135\n63.180405, -153.36113\n-20.892494, -122.380859\n37.052719, 102.246696\n73.004875, 111.809395\n54.251122, -96.974884\n42.228203, -122.621826\n34.891754, -107.318237.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Black-billed Magpie (\"Pica hudsonia\") at the given locations:\n\n```python\n[0.8, 0.7, 0.9, 0.9, 0.0, 0.0, 0.0, 0.8, 0.8, 0.7]\n```\n\nThese scores are based on the typical range and habitat preferences of the Black-billed Magpie, which is commonly found in western North America, particularly in areas like the northern and central United States, and parts of Canada and Alaska.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "5286": {
+        "question": "Can you tell me if the \"Square-tailed Kite\" (\"Lophoictinia isura\") can be found at the following locations:\n\n-19.950075, 123.365746\n-13.326008, 141.691605\n-15.53374, 126.054123\n-29.059161, 138.533458\n49.102592, 99.530815\n-15.835612, 122.693569\n73.56736, -43.972309\n-29.036095, 149.350525\n-33.107265, 119.634888\n48.554543, 156.140366.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution of the Square-tailed Kite (Lophoictinia isura), which is primarily found in Australia. Here is the Python list containing the likelihood scores:\n\n```python\n[0.8, 0.7, 0.9, 0.2, 0.0, 0.9, 0.0, 0.3, 0.7, 0.0]\n```\n\nExplanation:\n- The first, second, third, and sixth coordinates are within the known range of the Square-tailed Kite in Australia, so they have higher scores.\n- The fourth and eighth coordinates are on the edge or outside the typical range, so they have lower scores.\n- The fifth, seventh, and tenth coordinates are far outside the known range (in Mongolia, Greenland, and Russia, respectively), so they have a score of 0.",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "19482": {
+        "question": "Can you tell me if the \"Red-necked Nightjar\" (\"Caprimulgus ruficollis\") can be found at the following locations:\n\n29.888868, 5.414009\n10.014366, 11.893576\n26.974003, -9.786894\n29.431705, 1.545936\n32.935493, 2.607343\n-1.474633, 12.768414\n12.115515, 13.21964\n29.954554, -0.632894\n17.153992, -9.59763\n80.514908, -118.29808.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the \"Red-necked Nightjar\" (\"Caprimulgus ruficollis\") at the given locations:\n\n```python\n[0.1, 0.0, 0.8, 0.2, 0.9, 0.0, 0.0, 0.3, 0.7, 0.0]\n```\n\nExplanation:\n- The \"Red-necked Nightjar\" is primarily found in southwestern Europe and northwestern Africa, particularly in countries like Spain, Portugal, Morocco, and Algeria. \n- The scores reflect the likelihood based on the geographical range and habitat preferences of the species.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "3924": {
+        "question": "Can you tell me if the \"African Snipe\" (\"Gallinago nigripennis\") can be found at the following locations:\n\n-17.605474, 16.477026\n-9.624875, 33.307209\n-15.060646, 14.242435\n-17.258602, 36.00351\n-8.055321, 172.899475\n-49.698318, -118.236572\n21.137501, -169.976166\n-11.472602, 21.986998\n-21.484628, 16.834624\n15.341619, 38.881329.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide a likelihood score for each location based on the known distribution and habitat preferences of the African Snipe (Gallinago nigripennis). The African Snipe is typically found in sub-Saharan Africa, favoring wetlands, marshes, and moist grasslands.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.1, 0.8, 0.2, 0.7, 0.0, 0.0, 0.0, 0.9, 0.1, 0.0]\n```\n\nExplanation:\n1. `-17.605474, 16.477026` - This location is in Namibia, which is within the range of the African Snipe, but the specific coordinates may not be ideal habitat. Score: 0.1\n2. `-9.624875, 33.307209` - This location is in Malawi, which is within the range and suitable habitat for the African Snipe. Score: 0.8\n3. `-15.060646, 14.242435` - This location is in Angola, which is within the range but may not be ideal habitat. Score: 0.2\n4. `-17.258602, 36.00351` - This location is in Mozambique, which is within the range and suitable habitat for the African Snipe. Score: 0.7\n5. `-8.055321, 172.899475` - This location is in the Pacific Ocean, far outside the range of the African Snipe. Score: 0.0\n6. `-49.698318, -118.236572` - This location is in the Southern Ocean, far outside the range of the African Snipe. Score: 0.0\n7. `21.137501, -169.976166` - This location is in the Pacific Ocean, far outside the range of the African Snipe. Score: 0.0\n8. `-11.472602, 21.986998` - This location is in Angola, which is within the range and suitable habitat for the African Snipe. Score: 0.9\n9. `-21.484628, 16.834624` - This location is in Namibia, which is within the range but may not be ideal habitat. Score: 0.1\n10. `15.341619, 38.881329` - This location is in Eritrea, which is outside the typical range of the African Snipe. Score: 0.0",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "4385": {
+        "question": "Can you tell me if the \"California Gull\" (\"Larus californicus\") can be found at the following locations:\n\n18.641028, -102.900426\n40.051689, -106.323509\n46.642254, -121.612442\n25.782871, -115.097978\n42.794563, -112.665527\n7.989147, 22.92951\n-30.328026, 164.329849\n48.675034, -125.215797\n42.820354, -109.454262\n-12.73005, -31.330738.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the California Gull (\"Larus californicus\") at the given locations:\n\n```python\n[0, 0.5, 1, 0, 1, 0, 0, 0, 1, 0]\n```\n\nExplanation:\n1. 18.641028, -102.900426 (Mexico) - 0: Unlikely, as this is outside the typical range of the California Gull.\n2. 40.051689, -106.323509 (Colorado, USA) - 0.5: Possible, as this is within the migratory range but not a primary location.\n3. 46.642254, -121.612442 (Washington, USA) - 1: Very likely, as this is within the breeding and migratory range.\n4. 25.782871, -115.097978 (Baja California, Mexico) - 0: Unlikely, as this is outside the typical range.\n5. 42.794563, -112.665527 (Idaho, USA) - 1: Very likely, as this is within the breeding and migratory range.\n6. 7.989147, 22.92951 (Central African Republic) - 0: Unlikely, as this is far outside the range.\n7. -30.328026, 164.329849 (Norfolk Island, Australia) - 0: Unlikely, as this is far outside the range.\n8. 48.675034, -125.215797 (British Columbia, Canada) - 0: Unlikely, as this is outside the typical range.\n9. 42.820354, -109.454262 (Wyoming, USA) - 1: Very likely, as this is within the breeding and migratory range.\n10. -12.73005, -31.330738 (South Atlantic Ocean) - 0: Unlikely, as this is far outside the range.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "73078": {
+        "question": "Can you tell me if the \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\") can be found at the following locations:\n\n22.951316, 121.298286\n24.143099, 121.46077\n23.579088, 121.248611\n24.59729, 120.782185\n-56.029629, 156.084198\n24.423986, 121.567169\n-45.016899, 169.178238\n24.604836, 121.778641\n22.401762, 120.670792\n44.59573, -83.655617.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Taiwan Whistling-Thrush at the given locations. The Taiwan Whistling-Thrush (Myophonus insularis) is endemic to Taiwan, meaning it is only found in Taiwan. Here are the likelihood scores based on the coordinates provided:\n\n```python\nscores = [1, 1, 1, 1, 0, 1, 0, 1, 1, 0]\n```\n\nExplanation:\n- The coordinates 22.951316, 121.298286; 24.143099, 121.46077; 23.579088, 121.248611; 24.59729, 120.782185; 24.423986, 121.567169; 24.604836, 121.778641; and 22.401762, 120.670792 are all in Taiwan, so the likelihood score is 1.\n- The coordinates -56.029629, 156.084198; -45.016899, 169.178238; and 44.59573, -83.655617 are outside Taiwan, so the likelihood score is 0.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "11858": {
+        "question": "Can you tell me if the \"Cliff Swallow\" (\"Petrochelidon pyrrhonota\") can be found at the following locations:\n\n-33.729492, -58.948261\n20.016346, -74.806396\n-15.789488, -56.971954\n-13.652053, -75.748909\n34.172432, -114.501259\n28.204109, 69.73175\n37.587982, 31.757029\n53.306198, -126.141586\n29.914183, 119.113365\n-37.507887, -56.583187.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimate based on the known range and migratory patterns of the Cliff Swallow (Petrochelidon pyrrhonota). The Cliff Swallow is primarily found in North America, breeding in the United States and Canada, and migrating to South America for the winter.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.1, 0.0, 0.5, 0.5, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]\n```\n\nExplanation:\n1. -33.729492, -58.948261 (Argentina) - 0.1: This is within the general wintering range in South America, but not a common area.\n2. 20.016346, -74.806396 (Caribbean Sea) - 0.0: Not within the known range.\n3. -15.789488, -56.971954 (Brazil) - 0.5: Within the wintering range in South America.\n4. -13.652053, -75.748909 (Peru) - 0.5: Within the wintering range in South America.\n5. 34.172432, -114.501259 (USA) - 1.0: Within the breeding range in North America.\n6. 28.204109, 69.73175 (Pakistan) - 0.0: Not within the known range.\n7. 37.587982, 31.757029 (Turkey) - 0.0: Not within the known range.\n8. 53.306198, -126.141586 (Canada) - 0.0: Not within the known range.\n9. 29.914183, 119.113365 (China) - 0.0: Not within the known range.\n10. -37.507887, -56.583187 (Argentina) - 0.0: Too far south for the typical wintering range.",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "508977": {
+        "question": "Can you tell me if the \"Yellow-tinted Honeyeater\" (\"Ptilotula flavescens\") can be found at the following locations:\n\n-14.95787, 133.395935\n-18.532227, 124.690216\n-35.584713, 109.662033\n-18.482702, 139.748138\n-18.086935, 136.051239\n-18.388515, 134.703712\n-32.172104, 52.053288\n-12.831917, 130.288226\n-18.400406, 127.725075\n47.153961, 129.514999.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Yellow-tinted Honeyeater (Ptilotula flavescens) at the given locations. The Yellow-tinted Honeyeater is typically found in northern Australia, particularly in regions with savannas and woodlands.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0.8, 0.6, 0.0, 0.7, 0.7, 0.7, 0.0, 0.9, 0.5, 0.0]\n```\n\nExplanation:\n1. -14.95787, 133.395935: 0.8 (Northern Australia, suitable habitat)\n2. -18.532227, 124.690216: 0.6 (Northern Australia, but more towards the western edge of its range)\n3. -35.584713, 109.662033: 0.0 (Far outside the known range, in the southern hemisphere)\n4. -18.482702, 139.748138: 0.7 (Northern Australia, suitable habitat)\n5. -18.086935, 136.051239: 0.7 (Northern Australia, suitable habitat)\n6. -18.388515, 134.703712: 0.7 (Northern Australia, suitable habitat)\n7. -32.172104, 52.053288: 0.0 (Far outside the known range, in the southern hemisphere)\n8. -12.831917, 130.288226: 0.9 (Northern Australia, very suitable habitat)\n9. -18.400406, 127.725075: 0.5 (Northern Australia, but more towards the western edge of its range)\n10. 47.153961, 129.514999: 0.0 (Far outside the known range, in the northern hemisphere)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "9491": {
+        "question": "Can you tell me if the \"Lined Seedeater\" (\"Sporophila lineola\") can be found at the following locations:\n\n58.077061, 120.095284\n-23.214529, -47.517193\n-1.541851, -43.863296\n-17.954975, -45.129707\n-2.848042, -70.560905\n-6.676625, -77.58535\n-11.394814, -72.633423\n-24.262371, -47.549637\n6.937294, 127.267738\n-31.55105, -86.241562.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide an estimate based on the known distribution of the Lined Seedeater (Sporophila lineola). This species is typically found in South America, particularly in Brazil, and parts of Bolivia, Paraguay, and Argentina. Here are the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0, 1, 1, 1, 0.5, 0, 0, 1, 0, 0]\n```\n\nExplanation:\n1. 58.077061, 120.095284: 0 (This is in Russia, far outside the range of the Lined Seedeater)\n2. -23.214529, -47.517193: 1 (This is in Brazil, within the known range)\n3. -1.541851, -43.863296: 1 (This is in Brazil, within the known range)\n4. -17.954975, -45.129707: 1 (This is in Brazil, within the known range)\n5. -2.848042, -70.560905: 0.5 (This is in the Amazon region, where the species might be less common but still possible)\n6. -6.676625, -77.58535: 0 (This is in Peru, outside the typical range)\n7. -11.394814, -72.633423: 0 (This is in Peru, outside the typical range)\n8. -24.262371, -47.549637: 1 (This is in Brazil, within the known range)\n9. 6.937294, 127.267738: 0 (This is in the Philippines, far outside the range)\n10. -31.55105, -86.241562: 0 (This is in the United States, far outside the range)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "5430": {
+        "question": "Can you tell me if the \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\") can be found at the following locations:\n\n72.676857, -166.805374\n15.763191, -9.02449\n-1.07148, 42.215696\n-14.081091, 18.528875\n-5.055096, 31.206326\n-12.477904, 172.035233\n6.379343, 24.744232\n-50.269375, -69.83239\n-4.450133, 36.880459\n-5.144351, 12.417627.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the Lizard Buzzard (Kaupifalco monogrammicus) at the given locations. The Lizard Buzzard is typically found in sub-Saharan Africa, so the scores will reflect the likelihood based on this distribution.\n\nHere is the Python list with the likelihood scores:\n\n```python\n[0, 1, 0, 1, 1, 0, 1, 0, 1, 1]\n```\n\nExplanation:\n1. 72.676857, -166.805374 - This is in the Bering Sea, far from the Lizard Buzzard's range. Score: 0\n2. 15.763191, -9.02449 - This is in Mali, within the Lizard Buzzard's range. Score: 1\n3. -1.07148, 42.215696 - This is in Somalia, outside the typical range. Score: 0\n4. -14.081091, 18.528875 - This is in Angola, within the Lizard Buzzard's range. Score: 1\n5. -5.055096, 31.206326 - This is in Tanzania, within the Lizard Buzzard's range. Score: 1\n6. -12.477904, 172.035233 - This is in the Pacific Ocean, far from the Lizard Buzzard's range. Score: 0\n7. 6.379343, 24.744232 - This is in the Central African Republic, within the Lizard Buzzard's range. Score: 1\n8. -50.269375, -69.83239 - This is in southern Argentina, far from the Lizard Buzzard's range. Score: 0\n9. -4.450133, 36.880459 - This is in Tanzania, within the Lizard Buzzard's range. Score: 1\n10. -5.144351, 12.417627 - This is in Angola, within the Lizard Buzzard's range. Score: 1",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "728": {
+        "question": "Can you tell me if the \"Jungle Bush-Quail\" (\"Perdicula asiatica\") can be found at the following locations:\n\n-36.536682, -158.913177\n40.358204, -45.919918\n-59.487087, -0.301305\n32.527233, 76.634492\n25.360676, 75.397491\n24.394638, 84.751282\n25.000112, 72.792832\n16.454874, 79.075783\n14.671055, 78.976303\n10.721427, 78.566139.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for each location based on the known distribution of the Jungle Bush-Quail (Perdicula asiatica), which is primarily found in the Indian subcontinent.\n\nHere's the Python list containing the likelihood scores:\n\n```python\n[0, 0, 0, 0, 1, 1, 1, 1, 1, 1]\n```\n\nExplanation:\n- The first three coordinates are far outside the known range of the Jungle Bush-Quail, which is why they have a score of 0.\n- The remaining coordinates are within the Indian subcontinent, where the Jungle Bush-Quail is known to be present, hence they have a score of 1.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "9419": {
+        "question": "Can you tell me if the \"Green-tailed Towhee\" (\"Pipilo chlorurus\") can be found at the following locations:\n\n28.356565, -107.970139\n30.154638, -110.876099\n-34.239773, -143.460083\n8.469481, -104.883606\n26.969351, -98.748299\n31.210192, -109.97979\n44.577912, -106.430466\n28.545871, -115.237235\n31.636978, -97.385002\n47.230011, 117.071754.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is a Python list containing the likelihood scores for the presence of the Green-tailed Towhee at each of the given locations:\n\n```python\n[0.2, 0.3, 0.0, 0.0, 0.4, 0.8, 0.6, 0.1, 0.5, 0.0]\n```\n\nExplanation:\n- The Green-tailed Towhee is primarily found in the western United States and parts of Mexico, particularly in shrubby areas and open woodlands.\n- Locations closer to its known range and suitable habitat conditions have higher scores.\n- Locations far outside its known range or in unsuitable habitats have lower scores.",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "13702": {
+        "question": "Can you tell me if the \"Japanese Wagtail\" (\"Motacilla grandis\") can be found at the following locations:\n\n36.31554, 139.807373\n39.742199, 140.167282\n36.121288, 128.714539\n46.724369, 77.136078\n-35.386627, 125.087166\n36.463173, 128.259094\n33.202947, 134.194911\n35.508259, 134.231506\n37.111317, 138.000394\n-33.057884, -141.093857.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is a Python list containing the likelihood scores for the presence of the Japanese Wagtail (\"Motacilla grandis\") at each of the given locations:\n\n```python\nlikelihood_scores = [1, 1, 0, 0, 0, 0, 1, 1, 1, 0]\n```\n\nExplanation:\n- The Japanese Wagtail is native to Japan and can be found in various parts of the country.\n- Locations within Japan (36.31554, 139.807373; 39.742199, 140.167282; 33.202947, 134.194911; 35.508259, 134.231506; 37.111317, 138.000394) are given a score of 1.\n- Locations outside Japan (36.121288, 128.714539; 46.724369, 77.136078; -35.386627, 125.087166; 36.463173, 128.259094; -33.057884, -141.093857) are given a score of 0.",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "7123": {
+        "question": "Can you tell me if the \"Southern Pochard\" (\"Netta erythrophthalma\") can be found at the following locations:\n\n-0.393726, -80.869897\n-15.438628, 168.531036\n-8.35743, 34.280972\n-18.075222, 102.901344\n-18.605858, 17.741167\n2.680485, 46.146551\n5.47396, 35.021534\n-25.436907, 31.433256\n-20.760986, -43.552906\n-9.016743, -157.884064.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "The Southern Pochard (Netta erythrophthalma) is a species of duck found in sub-Saharan Africa and South America. Given the coordinates provided, I will evaluate the likelihood of the species being present at each location based on its known distribution.\n\nHere is the Python list containing the likelihood scores for each location:\n\n```python\n[0, 0, 0.5, 0, 1, 0, 0.5, 1, 0, 0]\n```\n\nExplanation:\n1. -0.393726, -80.869897: This location is in the Pacific Ocean off the coast of Ecuador, not within the known range of the Southern Pochard. Score: 0\n2. -15.438628, 168.531036: This location is in Vanuatu, far outside the known range of the Southern Pochard. Score: 0\n3. -8.35743, 34.280972: This location is in Tanzania, within the range of the Southern Pochard in Africa. Score: 0.5\n4. -18.075222, 102.901344: This location is in the ocean off the coast of Australia, far outside the known range of the Southern Pochard. Score: 0\n5. -18.605858, 17.741167: This location is in Namibia, within the range of the Southern Pochard in Africa. Score: 1\n6. 2.680485, 46.146551: This location is in Somalia, outside the typical range of the Southern Pochard. Score: 0\n7. 5.47396, 35.021534: This location is in South Sudan, within the range of the Southern Pochard in Africa. Score: 0.5\n8. -25.436907, 31.433256: This location is in Eswatini (Swaziland), within the range of the Southern Pochard in Africa. Score: 1\n9. -20.760986, -43.552906: This location is in Brazil, within the range of the Southern Pochard in South America. Score: 0\n10. -9.016743, -157.884064: This location is in the Pacific Ocean, far outside the known range of the Southern Pochard. Score: 0",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "9611": {
+        "question": "Can you tell me if the \"Black Rosy-Finch\" (\"Leucosticte atrata\") can be found at the following locations:\n\n43.424817, -105.977819\n39.350147, -116.403481\n37.631313, -108.71228\n30.10343, -120.158394\n41.954411, -112.509331\n43.16589, -106.767067\n40.423443, -107.397606\n-17.932529, -33.97366\n50.279949, -146.905716\n37.454333, -116.399431.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the Python list containing the likelihood scores for the presence of the Black Rosy-Finch at the given locations:\n\n```python\n[0.8, 0.9, 0.7, 0.0, 0.6, 0.8, 0.7, 0.0, 0.0, 0.9]\n```\n\nThese scores are based on the typical range and habitat preferences of the Black Rosy-Finch, which is generally found in high-altitude mountainous regions in the western United States.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "116877": {
+        "question": "Can you tell me if the \"Black-capped Donacobius\" (\"Donacobius atricapilla\") can be found at the following locations:\n\n-24.117479, -50.967002\n49.396553, -167.875046\n-17.798189, -60.09145\n16.255047, 25.327627\n-11.391957, -66.591171\n-12.924444, -41.297104\n-15.057365, -62.759033\n24.028461, -89.308701\n4.700473, -60.692799\n5.911581, -56.259707.\n\nPlease respond with a score for each location between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores based on the known distribution of the Black-capped Donacobius (Donacobius atricapilla). This species is typically found in South America, particularly in regions like the Amazon Basin, and parts of Brazil, Bolivia, and Peru.\n\nHere is the Python list with the likelihood scores for each location:\n\n```python\nlikelihood_scores = [0, 0, 1, 0, 1, 1, 1, 0, 1, 1]\n```\n\nExplanation:\n1. -24.117479, -50.967002: 0 (Unlikely, outside known range)\n2. 49.396553, -167.875046: 0 (Unlikely, outside known range)\n3. -17.798189, -60.09145: 1 (Likely, within known range)\n4. 16.255047, 25.327627: 0 (Unlikely, outside known range)\n5. -11.391957, -66.591171: 1 (Likely, within known range)\n6. -12.924444, -41.297104: 1 (Likely, within known range)\n7. -15.057365, -62.759033: 1 (Likely, within known range)\n8. 24.028461, -89.308701: 0 (Unlikely, outside known range)\n9. 4.700473, -60.692799: 1 (Likely, within known range)\n10. 5.911581, -56.259707: 1 (Likely, within known range)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    }
+}

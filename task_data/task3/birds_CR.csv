@@ -1,0 +1,797 @@
+,taxonid,scientific_name,subspecies,rank,subpopulation,category,group,full_name,index,common_name
+88029,103780118,Acrocephalus hiwae,,,,CR,birds,Northern Mariana Islands,MP,Saipan Reed-warbler
+88031,22735588,Acrocephalus longirostris,,,,CR,birds,French Polynesia,PF,Moorea Reed-warbler
+88253,22714826,Acrocephalus rimitarae,,,,CR,birds,French Polynesia,PF,Rimatara Reed-warbler
+88503,22714704,Acrocephalus sorghophilus,,,,CR,birds,Philippines,PH,Streaked Reed-warbler
+88504,22714704,Acrocephalus sorghophilus,,,,CR,birds,China,CN,Streaked Reed-warbler
+88505,22714704,Acrocephalus sorghophilus,,,,CR,birds,"Taiwan, Province of China",TW,Streaked Reed-warbler
+89091,22689559,Aegotheles savesi,,,,CR,birds,New Caledonia,NC,New Caledonian Owlet-nightjar
+89926,22717428,Alauda razae,,,,CR,birds,Cabo Verde,CV,Raso Lark
+90071,22726971,Alcedo euryzona,,,,CR,birds,Indonesia,ID,Javan Blue-banded Kingfisher
+90780,119194112,Amazilia alfaroana,,,,CR,birds,Costa Rica,CR,Guanacaste Hummingbird
+90838,22686342,Amazona auropalliata,,,,CR,birds,Guatemala,GT,Yellow-naped Amazon
+90839,22686342,Amazona auropalliata,,,,CR,birds,Belize,BZ,Yellow-naped Amazon
+90840,22686342,Amazona auropalliata,,,,CR,birds,El Salvador,SV,Yellow-naped Amazon
+90841,22686342,Amazona auropalliata,,,,CR,birds,Mexico,MX,Yellow-naped Amazon
+90842,22686342,Amazona auropalliata,,,,CR,birds,Costa Rica,CR,Yellow-naped Amazon
+90843,22686342,Amazona auropalliata,,,,CR,birds,Honduras,HN,Yellow-naped Amazon
+90844,22686342,Amazona auropalliata,,,,CR,birds,Nicaragua,NI,Yellow-naped Amazon
+90891,22686411,Amazona imperialis,,,,CR,birds,Dominica,DM,Imperial Amazon
+90896,22728296,Amazona lilacina,,,,CR,birds,Ecuador,EC,Lilacine Amazon
+90937,22686239,Amazona vittata,,,,CR,birds,Puerto Rico,PR,Puerto Rican Amazon
+91777,22680203,Anas laysanensis,,,,CR,birds,United States of America,US,Laysan Duck
+92259,22685527,Anodorhynchus glaucus,,,,CR,birds,Uruguay,UY,Glaucous Macaw
+92260,22685527,Anodorhynchus glaucus,,,,CR,birds,Paraguay,PY,Glaucous Macaw
+92261,22685527,Anodorhynchus glaucus,,,,CR,birds,Brazil,BR,Glaucous Macaw
+92262,22685527,Anodorhynchus glaucus,,,,CR,birds,Argentina,AR,Glaucous Macaw
+93008,22704415,Anthochaera phrygia,,,,CR,birds,Australia,AU,Regent Honeyeater
+93104,22682447,Anthracoceros montani,,,,CR,birds,Philippines,PH,Sulu Hornbill
+94419,22728410,Antilophia bokermanni,,,,CR,birds,Brazil,BR,Araripe Manakin
+94600,22713719,Apalis fuscigularis,,,,CR,birds,Kenya,KE,Taita Apalis
+94768,22702156,Aphrastura masafuerae,,,,CR,birds,Chile,CL,Masafuera Rayadito
+94831,22710490,Aplonis pelzelni,,,,CR,birds,"Micronesia, Federated States of ",FM,Pohnpei Starling
+95858,22685553,Ara ambiguus,,,,CR,birds,Panama,PA,Great Green Macaw
+95859,22685553,Ara ambiguus,,,,CR,birds,Colombia,CO,Great Green Macaw
+95860,22685553,Ara ambiguus,,,,CR,birds,Ecuador,EC,Great Green Macaw
+95861,22685553,Ara ambiguus,,,,CR,birds,Costa Rica,CR,Great Green Macaw
+95862,22685553,Ara ambiguus,,,,CR,birds,Honduras,HN,Great Green Macaw
+95863,22685553,Ara ambiguus,,,,CR,birds,Nicaragua,NI,Great Green Macaw
+95951,22685542,Ara glaucogularis,,,,CR,birds,"Bolivia, Plurinational State of",BO,Blue-throated Macaw
+96064,22685572,Ara rubrogenys,,,,CR,birds,"Bolivia, Plurinational State of",BO,Red-fronted Macaw
+96710,22697021,Ardea insignis,,,,CR,birds,Bangladesh,BD,White-bellied Heron
+96711,22697021,Ardea insignis,,,,CR,birds,Bhutan,BT,White-bellied Heron
+96712,22697021,Ardea insignis,,,,CR,birds,Nepal,NP,White-bellied Heron
+96713,22697021,Ardea insignis,,,,CR,birds,India,IN,White-bellied Heron
+96714,22697021,Ardea insignis,,,,CR,birds,Myanmar,MM,White-bellied Heron
+97588,22691932,Ardeotis nigriceps,,,,CR,birds,Pakistan,PK,Great Indian Bustard
+97589,22691932,Ardeotis nigriceps,,,,CR,birds,India,IN,Great Indian Bustard
+98064,103771879,Artisornis moreaui,,,,CR,birds,"Tanzania, United Republic of",TZ,Long-billed Forest-warbler
+98719,22735460,Atlapetes blancae,,,,CR,birds,Colombia,CO,Antioquia Brush-finch
+99112,22680384,Aythya baeri,,,,CR,birds,Pakistan,PK,Baer's Pochard
+99113,22680384,Aythya baeri,,,,CR,birds,Viet Nam,VN,Baer's Pochard
+99114,22680384,Aythya baeri,,,,CR,birds,Philippines,PH,Baer's Pochard
+99115,22680384,Aythya baeri,,,,CR,birds,Bangladesh,BD,Baer's Pochard
+99116,22680384,Aythya baeri,,,,CR,birds,Bhutan,BT,Baer's Pochard
+99117,22680384,Aythya baeri,,,,CR,birds,Thailand,TH,Baer's Pochard
+99118,22680384,Aythya baeri,,,,CR,birds,Nepal,NP,Baer's Pochard
+99119,22680384,Aythya baeri,,,,CR,birds,Lao People's Democratic Republic,LA,Baer's Pochard
+99120,22680384,Aythya baeri,,,,CR,birds,India,IN,Baer's Pochard
+99121,22680384,Aythya baeri,,,,CR,birds,Myanmar,MM,Baer's Pochard
+99122,22680384,Aythya baeri,,,,CR,birds,Mongolia,MN,Baer's Pochard
+99123,22680384,Aythya baeri,,,,CR,birds,Hong Kong,HK,Baer's Pochard
+99124,22680384,Aythya baeri,,,,CR,birds,"Korea, Democratic People's Republic of",KP,Baer's Pochard
+99125,22680384,Aythya baeri,,,,CR,birds,"Korea, Republic of",KR,Baer's Pochard
+99126,22680384,Aythya baeri,,,,CR,birds,Russian Federation,RU,Baer's Pochard
+99127,22680384,Aythya baeri,,,,CR,birds,China,CN,Baer's Pochard
+99128,22680384,Aythya baeri,,,,CR,birds,"Taiwan, Province of China",TW,Baer's Pochard
+99129,22680384,Aythya baeri,,,,CR,birds,Japan,JP,Baer's Pochard
+99429,22680380,Aythya innotata,,,,CR,birds,Madagascar,MG,Madagascar Pochard
+100365,22697478,Bostrychia bocagei,,,,CR,birds,Sao Tome and Principe,ST,Dwarf Ibis
+102891,22695886,Buteo ridgwayi,,,,CR,birds,Haiti,HT,Ridgway's Hawk
+102892,22695886,Buteo ridgwayi,,,,CR,birds,Dominican Republic,DO,Ridgway's Hawk
+103264,200296433,Cacatua citrinocristata,,,,CR,birds,Indonesia,ID,Citron-crested Cockatoo
+103277,22684795,Cacatua haematuropygia,,,,CR,birds,Philippines,PH,Philippine Cockatoo
+103285,200296187,Cacatua sulphurea,,,,CR,birds,Timor-Leste,TL,Yellow-crested Cockatoo
+103286,200296187,Cacatua sulphurea,,,,CR,birds,Singapore,SG,Yellow-crested Cockatoo
+103287,200296187,Cacatua sulphurea,,,,CR,birds,Indonesia,ID,Yellow-crested Cockatoo
+103288,200296187,Cacatua sulphurea,,,,CR,birds,Hong Kong,HK,Yellow-crested Cockatoo
+103289,200296187,Cacatua sulphurea,,,,CR,birds,China,CN,Yellow-crested Cockatoo
+105567,22693452,Calidris pygmaea,,,,CR,birds,Viet Nam,VN,Spoon-billed Sandpiper
+105568,22693452,Calidris pygmaea,,,,CR,birds,Philippines,PH,Spoon-billed Sandpiper
+105569,22693452,Calidris pygmaea,,,,CR,birds,Bangladesh,BD,Spoon-billed Sandpiper
+105570,22693452,Calidris pygmaea,,,,CR,birds,Cambodia,KH,Spoon-billed Sandpiper
+105571,22693452,Calidris pygmaea,,,,CR,birds,Singapore,SG,Spoon-billed Sandpiper
+105572,22693452,Calidris pygmaea,,,,CR,birds,Sri Lanka,LK,Spoon-billed Sandpiper
+105573,22693452,Calidris pygmaea,,,,CR,birds,Thailand,TH,Spoon-billed Sandpiper
+105574,22693452,Calidris pygmaea,,,,CR,birds,Malaysia,MY,Spoon-billed Sandpiper
+105575,22693452,Calidris pygmaea,,,,CR,birds,India,IN,Spoon-billed Sandpiper
+105576,22693452,Calidris pygmaea,,,,CR,birds,Indonesia,ID,Spoon-billed Sandpiper
+105577,22693452,Calidris pygmaea,,,,CR,birds,Myanmar,MM,Spoon-billed Sandpiper
+105578,22693452,Calidris pygmaea,,,,CR,birds,Hong Kong,HK,Spoon-billed Sandpiper
+105579,22693452,Calidris pygmaea,,,,CR,birds,"Korea, Democratic People's Republic of",KP,Spoon-billed Sandpiper
+105580,22693452,Calidris pygmaea,,,,CR,birds,"Korea, Republic of",KR,Spoon-billed Sandpiper
+105581,22693452,Calidris pygmaea,,,,CR,birds,Russian Federation,RU,Spoon-billed Sandpiper
+105582,22693452,Calidris pygmaea,,,,CR,birds,China,CN,Spoon-billed Sandpiper
+105583,22693452,Calidris pygmaea,,,,CR,birds,"Taiwan, Province of China",TW,Spoon-billed Sandpiper
+105584,22693452,Calidris pygmaea,,,,CR,birds,Japan,JP,Spoon-billed Sandpiper
+105585,22693452,Calidris pygmaea,,,,CR,birds,Canada,CA,Spoon-billed Sandpiper
+105586,22693452,Calidris pygmaea,,,,CR,birds,United States of America,US,Spoon-billed Sandpiper
+105977,103730380,Callaeas cinereus,,,,CR,birds,New Zealand,NZ,South Island Kokako
+106269,22700827,Calyptura cristata,,,,CR,birds,Brazil,BR,Kinglet Calyptura
+106440,22681417,Campephilus imperialis,,,,CR,birds,Mexico,MX,Imperial Woodpecker
+106465,22681425,Campephilus principalis,,,,CR,birds,United States of America,US,Ivory-billed Woodpecker
+106710,22687086,Campylopterus phainopeplus,,,,CR,birds,Colombia,CO,Santa Marta Sabrewing
+107682,22724459,Carpococcyx viridis,,,,CR,birds,Indonesia,ID,Sumatran Ground-cuckoo
+109007,22684225,Centropus steerii,,,,CR,birds,Philippines,PH,Black-hooded Coucal
+109198,22701686,Cercomacra carbonaria,,,,CR,birds,Guyana,GY,Rio Branco Antbird
+109199,22701686,Cercomacra carbonaria,,,,CR,birds,Brazil,BR,Rio Branco Antbird
+109804,45355856,Ceyx sangirensis,,,,CR,birds,Indonesia,ID,Sangihe Dwarf-kingfisher
+111098,62290750,Charadrius obscurus,,,,CR,birds,New Zealand,NZ,Southern Red-breasted Plover
+111420,22684693,Charmosyna amabilis,,,,CR,birds,Fiji,FJ,Red-throated Lorikeet
+111421,22684689,Charmosyna diadema,,,,CR,birds,New Caledonia,NC,New Caledonian Lorikeet
+111442,22684671,Charmosyna toxopei,,,,CR,birds,Indonesia,ID,Blue-fronted Lorikeet
+112671,22728485,Chondrohierax wilsonii,,,,CR,birds,Cuba,CU,Cuban Kite
+113624,22724402,Cinclodes aricomae,,,,CR,birds,Peru,PE,Royal Cinclodes
+113625,22724402,Cinclodes aricomae,,,,CR,birds,"Bolivia, Plurinational State of",BO,Royal Cinclodes
+113645,22702117,Cinclodes palliatus,,,,CR,birds,Peru,PE,White-bellied Cinclodes
+115122,22724821,Cissa thalassina,,,,CR,birds,Indonesia,ID,Javan Green Magpie
+117065,22690195,Columba argentina,,,,CR,birds,Malaysia,MY,Silvery Pigeon
+117066,22690195,Columba argentina,,,,CR,birds,Indonesia,ID,Silvery Pigeon
+117636,22690804,Columbina cyanopis,,,,CR,birds,Brazil,BR,Blue-eyed Ground-dove
+118408,22724568,Coracornis sanghirensis,,,,CR,birds,Indonesia,ID,Sangihe Whistler
+118824,22705959,Corvus kubaryi,,,,CR,birds,Guam,GU,Mariana Crow
+118825,22705959,Corvus kubaryi,,,,CR,birds,Northern Mariana Islands,MP,Mariana Crow
+119055,22705953,Corvus unicolor,,,,CR,birds,Indonesia,ID,Banggai Crow
+119390,22700886,Cotinga maculata,,,,CR,birds,Brazil,BR,Banded Cotinga
+119682,22678525,Crax alberti,,,,CR,birds,Colombia,CO,Blue-billed Curassow
+119701,45092131,Crax pinima,,,,CR,birds,Brazil,BR,Belem Curassow
+120060,22720310,Crithagra concolor,,,,CR,birds,Sao Tome and Principe,ST,Sao Tome Grosbeak
+122056,22692737,Cyanolimnas cerverai,,,,CR,birds,Cuba,CU,Zapata Rail
+122248,22724562,Cyanoramphus malherbi,,,,CR,birds,New Zealand,NZ,Malherbe's Parakeet
+122280,22727593,Cyclopsitta coxeni,,,,CR,birds,Australia,AU,Coxen's Fig-parrot
+122562,216915083,Cyornis banyumas,,,,CR,birds,Indonesia,ID,Javan Blue-flycatcher
+122637,22709502,Cyornis ruckii,,,,CR,birds,Indonesia,ID,Rück's Blue-flycatcher
+123506,22681531,Dendrocopos noguchii,,,,CR,birds,Japan,JP,Okinawa Woodpecker
+124267,22717507,Dicaeum quadricolor,,,,CR,birds,Philippines,PH,Cebu Flowerpecker
+124541,22691890,Didunculus strigirostris,,,,CR,birds,Samoa,WS,Tooth-billed Pigeon
+124640,22728364,Diomedea dabbenena,,,,CR,birds,Uruguay,UY,Tristan Albatross
+124641,22728364,Diomedea dabbenena,,,,CR,birds,Brazil,BR,Tristan Albatross
+124642,22728364,Diomedea dabbenena,,,,CR,birds,Argentina,AR,Tristan Albatross
+124643,22728364,Diomedea dabbenena,,,,CR,birds,South Africa,ZA,Tristan Albatross
+124644,22728364,Diomedea dabbenena,,,,CR,birds,Angola,AO,Tristan Albatross
+124645,22728364,Diomedea dabbenena,,,,CR,birds,Namibia,NA,Tristan Albatross
+124646,22728364,Diomedea dabbenena,,,,CR,birds,"Saint Helena, Ascension and Tristan da Cunha",SH,Tristan Albatross
+126501,22720966,Emberiza aureola,,,,CR,birds,Saudi Arabia,SA,Yellow-breasted Bunting
+126502,22720966,Emberiza aureola,,,,CR,birds,Bahrain,BH,Yellow-breasted Bunting
+126503,22720966,Emberiza aureola,,,,CR,birds,Cyprus,CY,Yellow-breasted Bunting
+126504,22720966,Emberiza aureola,,,,CR,birds,Syrian Arab Republic,SY,Yellow-breasted Bunting
+126505,22720966,Emberiza aureola,,,,CR,birds,United Arab Emirates,AE,Yellow-breasted Bunting
+126506,22720966,Emberiza aureola,,,,CR,birds,"Iran, Islamic Republic of",IR,Yellow-breasted Bunting
+126507,22720966,Emberiza aureola,,,,CR,birds,Oman,OM,Yellow-breasted Bunting
+126508,22720966,Emberiza aureola,,,,CR,birds,Pakistan,PK,Yellow-breasted Bunting
+126509,22720966,Emberiza aureola,,,,CR,birds,Israel,IL,Yellow-breasted Bunting
+126510,22720966,Emberiza aureola,,,,CR,birds,Jordan,JO,Yellow-breasted Bunting
+126511,22720966,Emberiza aureola,,,,CR,birds,Kazakhstan,KZ,Yellow-breasted Bunting
+126512,22720966,Emberiza aureola,,,,CR,birds,Viet Nam,VN,Yellow-breasted Bunting
+126513,22720966,Emberiza aureola,,,,CR,birds,Philippines,PH,Yellow-breasted Bunting
+126514,22720966,Emberiza aureola,,,,CR,birds,Bangladesh,BD,Yellow-breasted Bunting
+126515,22720966,Emberiza aureola,,,,CR,birds,Brunei Darussalam,BN,Yellow-breasted Bunting
+126516,22720966,Emberiza aureola,,,,CR,birds,Cambodia,KH,Yellow-breasted Bunting
+126517,22720966,Emberiza aureola,,,,CR,birds,Singapore,SG,Yellow-breasted Bunting
+126518,22720966,Emberiza aureola,,,,CR,birds,Thailand,TH,Yellow-breasted Bunting
+126519,22720966,Emberiza aureola,,,,CR,birds,Nepal,NP,Yellow-breasted Bunting
+126520,22720966,Emberiza aureola,,,,CR,birds,Lao People's Democratic Republic,LA,Yellow-breasted Bunting
+126521,22720966,Emberiza aureola,,,,CR,birds,Malaysia,MY,Yellow-breasted Bunting
+126522,22720966,Emberiza aureola,,,,CR,birds,India,IN,Yellow-breasted Bunting
+126523,22720966,Emberiza aureola,,,,CR,birds,Myanmar,MM,Yellow-breasted Bunting
+126524,22720966,Emberiza aureola,,,,CR,birds,Malta,MT,Yellow-breasted Bunting
+126525,22720966,Emberiza aureola,,,,CR,birds,Poland,PL,Yellow-breasted Bunting
+126526,22720966,Emberiza aureola,,,,CR,birds,Latvia,LV,Yellow-breasted Bunting
+126527,22720966,Emberiza aureola,,,,CR,birds,Belgium,BE,Yellow-breasted Bunting
+126528,22720966,Emberiza aureola,,,,CR,birds,Denmark,DK,Yellow-breasted Bunting
+126529,22720966,Emberiza aureola,,,,CR,birds,Estonia,EE,Yellow-breasted Bunting
+126530,22720966,Emberiza aureola,,,,CR,birds,Finland,FI,Yellow-breasted Bunting
+126531,22720966,Emberiza aureola,,,,CR,birds,Germany,DE,Yellow-breasted Bunting
+126532,22720966,Emberiza aureola,,,,CR,birds,Sweden,SE,Yellow-breasted Bunting
+126533,22720966,Emberiza aureola,,,,CR,birds,Netherlands,NL,Yellow-breasted Bunting
+126534,22720966,Emberiza aureola,,,,CR,birds,Norway,NO,Yellow-breasted Bunting
+126535,22720966,Emberiza aureola,,,,CR,birds,Ireland,IE,Yellow-breasted Bunting
+126536,22720966,Emberiza aureola,,,,CR,birds,Belarus,BY,Yellow-breasted Bunting
+126537,22720966,Emberiza aureola,,,,CR,birds,Mongolia,MN,Yellow-breasted Bunting
+126538,22720966,Emberiza aureola,,,,CR,birds,Hong Kong,HK,Yellow-breasted Bunting
+126539,22720966,Emberiza aureola,,,,CR,birds,"Korea, Democratic People's Republic of",KP,Yellow-breasted Bunting
+126540,22720966,Emberiza aureola,,,,CR,birds,"Korea, Republic of",KR,Yellow-breasted Bunting
+126541,22720966,Emberiza aureola,,,,CR,birds,Portugal,PT,Yellow-breasted Bunting
+126542,22720966,Emberiza aureola,,,,CR,birds,France,FR,Yellow-breasted Bunting
+126543,22720966,Emberiza aureola,,,,CR,birds,Greece,GR,Yellow-breasted Bunting
+126544,22720966,Emberiza aureola,,,,CR,birds,Spain,ES,Yellow-breasted Bunting
+126545,22720966,Emberiza aureola,,,,CR,birds,Italy,IT,Yellow-breasted Bunting
+126546,22720966,Emberiza aureola,,,,CR,birds,Egypt,EG,Yellow-breasted Bunting
+126547,22720966,Emberiza aureola,,,,CR,birds,Russian Federation,RU,Yellow-breasted Bunting
+126548,22720966,Emberiza aureola,,,,CR,birds,China,CN,Yellow-breasted Bunting
+126549,22720966,Emberiza aureola,,,,CR,birds,"Taiwan, Province of China",TW,Yellow-breasted Bunting
+126550,22720966,Emberiza aureola,,,,CR,birds,Japan,JP,Yellow-breasted Bunting
+126551,22720966,Emberiza aureola,,,,CR,birds,Czechia,CZ,Yellow-breasted Bunting
+126552,22720966,Emberiza aureola,,,,CR,birds,United Kingdom of Great Britain and Northern Ireland,GB,Yellow-breasted Bunting
+126553,22720966,Emberiza aureola,,,,CR,birds,United States of America,US,Yellow-breasted Bunting
+126554,22720966,Emberiza aureola,,,,CR,birds,Türkiye,TR,Yellow-breasted Bunting
+128373,22687922,Eriocnemis godini,,,,CR,birds,Ecuador,EC,Turquoise-throated Puffleg
+128374,22735457,Eriocnemis isabellae,,,,CR,birds,Colombia,CO,Gorgeted Puffleg
+129090,22688244,Eulidia yarrellii,,,,CR,birds,Peru,PE,Chilean Woodstar
+129091,22688244,Eulidia yarrellii,,,,CR,birds,Chile,CL,Chilean Woodstar
+129894,22712042,Eurochelidon sirintarae,,,,CR,birds,Thailand,TH,White-eyed River Martin
+129900,22726340,Eurostopodus exul,,,,CR,birds,New Caledonia,NC,New Caledonian Nightjar
+130082,22707085,Eutrichomyias rowleyi,,,,CR,birds,Indonesia,ID,Cerulean Flycatcher
+132212,103657434,Formicivora paludicola,,,,CR,birds,Brazil,BR,Marsh Antwren
+132751,22728808,Fregetta maoriana,,,,CR,birds,Australia,AU,New Zealand Storm-petrel
+132752,22728808,Fregetta maoriana,,,,CR,birds,New Zealand,NZ,New Zealand Storm-petrel
+133523,22690988,Gallicolumba keayi,,,,CR,birds,Philippines,PH,Negros Bleeding-heart
+133525,22691005,Gallicolumba menagei,,,,CR,birds,Philippines,PH,Sulu Bleeding-heart
+133526,22690985,Gallicolumba platenae,,,,CR,birds,Philippines,PH,Mindoro Bleeding-heart
+134230,22692388,Gallirallus lafresnayanus,,,,CR,birds,New Caledonia,NC,New Caledonian Rail
+134362,22715592,Garrulax rufifrons,,,,CR,birds,Indonesia,ID,Rufous-fronted Laughingthrush
+135053,22723786,Geospiza heliobates,,,,CR,birds,Ecuador,EC,Mangrove Finch
+135057,22723773,Geospiza pauper,,,,CR,birds,Ecuador,EC,Medium Tree-finch
+135907,22733081,Glaucidium mooreorum,,,,CR,birds,Brazil,BR,Pernambuco Pygmy-owl
+136132,103878817,Gracula robusta,,,,CR,birds,Indonesia,ID,Nias Hill Myna
+136146,103890801,Gracupica jalla,,,,CR,birds,Indonesia,ID,Javan Pied Starling
+136174,22703255,Grallaria chthonia,,,,CR,birds,"Venezuela, Bolivarian Republic of",VE,Tachira Antpitta
+136183,22736345,Grallaria fenwickorum,,,,CR,birds,Colombia,CO,Urrao Antpitta
+136722,22697636,Gymnogyps californianus,,,,CR,birds,Mexico,MX,California Condor
+136723,22697636,Gymnogyps californianus,,,,CR,birds,United States of America,US,California Condor
+136733,22704320,Gymnomyza aubryana,,,,CR,birds,New Caledonia,NC,Crow Honeyeater
+136929,22695189,Gyps africanus,,,,CR,birds,Zambia,ZM,White-backed Vulture
+136930,22695189,Gyps africanus,,,,CR,birds,Zimbabwe,ZW,White-backed Vulture
+136931,22695189,Gyps africanus,,,,CR,birds,Guinea,GN,White-backed Vulture
+136932,22695189,Gyps africanus,,,,CR,birds,Guinea-Bissau,GW,White-backed Vulture
+136933,22695189,Gyps africanus,,,,CR,birds,Mali,ML,White-backed Vulture
+136934,22695189,Gyps africanus,,,,CR,birds,Mauritania,MR,White-backed Vulture
+136935,22695189,Gyps africanus,,,,CR,birds,Rwanda,RW,White-backed Vulture
+136936,22695189,Gyps africanus,,,,CR,birds,Senegal,SN,White-backed Vulture
+136937,22695189,Gyps africanus,,,,CR,birds,Sierra Leone,SL,White-backed Vulture
+136938,22695189,Gyps africanus,,,,CR,birds,Lesotho,LS,White-backed Vulture
+136939,22695189,Gyps africanus,,,,CR,birds,Liberia,LR,White-backed Vulture
+136940,22695189,Gyps africanus,,,,CR,birds,Malawi,MW,White-backed Vulture
+136941,22695189,Gyps africanus,,,,CR,birds,Benin,BJ,White-backed Vulture
+136942,22695189,Gyps africanus,,,,CR,birds,Botswana,BW,White-backed Vulture
+136943,22695189,Gyps africanus,,,,CR,birds,Burkina Faso,BF,White-backed Vulture
+136944,22695189,Gyps africanus,,,,CR,birds,Burundi,BI,White-backed Vulture
+136945,22695189,Gyps africanus,,,,CR,birds,Cameroon,CM,White-backed Vulture
+136946,22695189,Gyps africanus,,,,CR,birds,Central African Republic,CF,White-backed Vulture
+136947,22695189,Gyps africanus,,,,CR,birds,Chad,TD,White-backed Vulture
+136948,22695189,Gyps africanus,,,,CR,birds,"Congo, The Democratic Republic of the",CD,White-backed Vulture
+136949,22695189,Gyps africanus,,,,CR,birds,Côte d'Ivoire,CI,White-backed Vulture
+136950,22695189,Gyps africanus,,,,CR,birds,Eritrea,ER,White-backed Vulture
+136951,22695189,Gyps africanus,,,,CR,birds,Ethiopia,ET,White-backed Vulture
+136952,22695189,Gyps africanus,,,,CR,birds,Gambia,GM,White-backed Vulture
+136953,22695189,Gyps africanus,,,,CR,birds,Ghana,GH,White-backed Vulture
+136954,22695189,Gyps africanus,,,,CR,birds,Somalia,SO,White-backed Vulture
+136955,22695189,Gyps africanus,,,,CR,birds,Sudan,SD,White-backed Vulture
+136956,22695189,Gyps africanus,,,,CR,birds,"Tanzania, United Republic of",TZ,White-backed Vulture
+136957,22695189,Gyps africanus,,,,CR,birds,Togo,TG,White-backed Vulture
+136958,22695189,Gyps africanus,,,,CR,birds,Uganda,UG,White-backed Vulture
+136959,22695189,Gyps africanus,,,,CR,birds,Mozambique,MZ,White-backed Vulture
+136960,22695189,Gyps africanus,,,,CR,birds,Kenya,KE,White-backed Vulture
+136961,22695189,Gyps africanus,,,,CR,birds,South Africa,ZA,White-backed Vulture
+136962,22695189,Gyps africanus,,,,CR,birds,Angola,AO,White-backed Vulture
+136963,22695189,Gyps africanus,,,,CR,birds,Namibia,NA,White-backed Vulture
+136964,22695189,Gyps africanus,,,,CR,birds,South Sudan,SS,White-backed Vulture
+136965,22695189,Gyps africanus,,,,CR,birds,Eswatini,SZ,White-backed Vulture
+136966,22695194,Gyps bengalensis,,,,CR,birds,Afghanistan,AF,White-rumped Vulture
+136967,22695194,Gyps bengalensis,,,,CR,birds,"Iran, Islamic Republic of",IR,White-rumped Vulture
+136968,22695194,Gyps bengalensis,,,,CR,birds,Pakistan,PK,White-rumped Vulture
+136969,22695194,Gyps bengalensis,,,,CR,birds,Viet Nam,VN,White-rumped Vulture
+136970,22695194,Gyps bengalensis,,,,CR,birds,Bangladesh,BD,White-rumped Vulture
+136971,22695194,Gyps bengalensis,,,,CR,birds,Bhutan,BT,White-rumped Vulture
+136972,22695194,Gyps bengalensis,,,,CR,birds,Brunei Darussalam,BN,White-rumped Vulture
+136973,22695194,Gyps bengalensis,,,,CR,birds,Cambodia,KH,White-rumped Vulture
+136974,22695194,Gyps bengalensis,,,,CR,birds,Thailand,TH,White-rumped Vulture
+136975,22695194,Gyps bengalensis,,,,CR,birds,Nepal,NP,White-rumped Vulture
+136976,22695194,Gyps bengalensis,,,,CR,birds,Lao People's Democratic Republic,LA,White-rumped Vulture
+136977,22695194,Gyps bengalensis,,,,CR,birds,Malaysia,MY,White-rumped Vulture
+136978,22695194,Gyps bengalensis,,,,CR,birds,India,IN,White-rumped Vulture
+136979,22695194,Gyps bengalensis,,,,CR,birds,Myanmar,MM,White-rumped Vulture
+136980,22695194,Gyps bengalensis,,,,CR,birds,Russian Federation,RU,White-rumped Vulture
+136981,22695194,Gyps bengalensis,,,,CR,birds,China,CN,White-rumped Vulture
+137089,22729731,Gyps indicus,,,,CR,birds,Afghanistan,AF,Indian Vulture
+137090,22729731,Gyps indicus,,,,CR,birds,Pakistan,PK,Indian Vulture
+137091,22729731,Gyps indicus,,,,CR,birds,Nepal,NP,Indian Vulture
+137092,22729731,Gyps indicus,,,,CR,birds,India,IN,Indian Vulture
+137111,22695207,Gyps rueppelli,,,,CR,birds,Saudi Arabia,SA,Rüppell's Vulture
+137112,22695207,Gyps rueppelli,,,,CR,birds,Gibraltar,GI,Rüppell's Vulture
+137113,22695207,Gyps rueppelli,,,,CR,birds,Algeria,DZ,Rüppell's Vulture
+137114,22695207,Gyps rueppelli,,,,CR,birds,Morocco,MA,Rüppell's Vulture
+137115,22695207,Gyps rueppelli,,,,CR,birds,Zambia,ZM,Rüppell's Vulture
+137116,22695207,Gyps rueppelli,,,,CR,birds,Zimbabwe,ZW,Rüppell's Vulture
+137117,22695207,Gyps rueppelli,,,,CR,birds,Guinea,GN,Rüppell's Vulture
+137118,22695207,Gyps rueppelli,,,,CR,birds,Guinea-Bissau,GW,Rüppell's Vulture
+137119,22695207,Gyps rueppelli,,,,CR,birds,Mali,ML,Rüppell's Vulture
+137120,22695207,Gyps rueppelli,,,,CR,birds,Mauritania,MR,Rüppell's Vulture
+137121,22695207,Gyps rueppelli,,,,CR,birds,Rwanda,RW,Rüppell's Vulture
+137122,22695207,Gyps rueppelli,,,,CR,birds,Senegal,SN,Rüppell's Vulture
+137123,22695207,Gyps rueppelli,,,,CR,birds,Sierra Leone,SL,Rüppell's Vulture
+137124,22695207,Gyps rueppelli,,,,CR,birds,Lesotho,LS,Rüppell's Vulture
+137125,22695207,Gyps rueppelli,,,,CR,birds,Malawi,MW,Rüppell's Vulture
+137126,22695207,Gyps rueppelli,,,,CR,birds,Benin,BJ,Rüppell's Vulture
+137127,22695207,Gyps rueppelli,,,,CR,birds,Botswana,BW,Rüppell's Vulture
+137128,22695207,Gyps rueppelli,,,,CR,birds,Burkina Faso,BF,Rüppell's Vulture
+137129,22695207,Gyps rueppelli,,,,CR,birds,Burundi,BI,Rüppell's Vulture
+137130,22695207,Gyps rueppelli,,,,CR,birds,Cameroon,CM,Rüppell's Vulture
+137131,22695207,Gyps rueppelli,,,,CR,birds,Central African Republic,CF,Rüppell's Vulture
+137132,22695207,Gyps rueppelli,,,,CR,birds,Chad,TD,Rüppell's Vulture
+137133,22695207,Gyps rueppelli,,,,CR,birds,"Congo, The Democratic Republic of the",CD,Rüppell's Vulture
+137134,22695207,Gyps rueppelli,,,,CR,birds,Côte d'Ivoire,CI,Rüppell's Vulture
+137135,22695207,Gyps rueppelli,,,,CR,birds,Djibouti,DJ,Rüppell's Vulture
+137136,22695207,Gyps rueppelli,,,,CR,birds,Eritrea,ER,Rüppell's Vulture
+137137,22695207,Gyps rueppelli,,,,CR,birds,Ethiopia,ET,Rüppell's Vulture
+137138,22695207,Gyps rueppelli,,,,CR,birds,Gambia,GM,Rüppell's Vulture
+137139,22695207,Gyps rueppelli,,,,CR,birds,Ghana,GH,Rüppell's Vulture
+137140,22695207,Gyps rueppelli,,,,CR,birds,Somalia,SO,Rüppell's Vulture
+137141,22695207,Gyps rueppelli,,,,CR,birds,Sudan,SD,Rüppell's Vulture
+137142,22695207,Gyps rueppelli,,,,CR,birds,"Tanzania, United Republic of",TZ,Rüppell's Vulture
+137143,22695207,Gyps rueppelli,,,,CR,birds,Togo,TG,Rüppell's Vulture
+137144,22695207,Gyps rueppelli,,,,CR,birds,Uganda,UG,Rüppell's Vulture
+137145,22695207,Gyps rueppelli,,,,CR,birds,Mozambique,MZ,Rüppell's Vulture
+137146,22695207,Gyps rueppelli,,,,CR,birds,Niger,NE,Rüppell's Vulture
+137147,22695207,Gyps rueppelli,,,,CR,birds,Nigeria,NG,Rüppell's Vulture
+137148,22695207,Gyps rueppelli,,,,CR,birds,Kenya,KE,Rüppell's Vulture
+137149,22695207,Gyps rueppelli,,,,CR,birds,Portugal,PT,Rüppell's Vulture
+137150,22695207,Gyps rueppelli,,,,CR,birds,Spain,ES,Rüppell's Vulture
+137151,22695207,Gyps rueppelli,,,,CR,birds,Egypt,EG,Rüppell's Vulture
+137152,22695207,Gyps rueppelli,,,,CR,birds,South Africa,ZA,Rüppell's Vulture
+137153,22695207,Gyps rueppelli,,,,CR,birds,Namibia,NA,Rüppell's Vulture
+137154,22695207,Gyps rueppelli,,,,CR,birds,South Sudan,SS,Rüppell's Vulture
+137155,22729460,Gyps tenuirostris,,,,CR,birds,Viet Nam,VN,Slender-billed Vulture
+137156,22729460,Gyps tenuirostris,,,,CR,birds,Bangladesh,BD,Slender-billed Vulture
+137157,22729460,Gyps tenuirostris,,,,CR,birds,Cambodia,KH,Slender-billed Vulture
+137158,22729460,Gyps tenuirostris,,,,CR,birds,Thailand,TH,Slender-billed Vulture
+137159,22729460,Gyps tenuirostris,,,,CR,birds,Nepal,NP,Slender-billed Vulture
+137160,22729460,Gyps tenuirostris,,,,CR,birds,Lao People's Democratic Republic,LA,Slender-billed Vulture
+137161,22729460,Gyps tenuirostris,,,,CR,birds,Malaysia,MY,Slender-billed Vulture
+137162,22729460,Gyps tenuirostris,,,,CR,birds,India,IN,Slender-billed Vulture
+137163,22729460,Gyps tenuirostris,,,,CR,birds,Myanmar,MM,Slender-billed Vulture
+137853,22695121,Haliaeetus vociferoides,,,,CR,birds,Madagascar,MG,Madagascar Fish-eagle
+137854,22695121,Haliaeetus vociferoides,,,,CR,birds,Mauritius,MU,Madagascar Fish-eagle
+138208,22692181,Heliopais personatus,,,,CR,birds,Viet Nam,VN,Masked Finfoot
+138209,22692181,Heliopais personatus,,,,CR,birds,Bangladesh,BD,Masked Finfoot
+138210,22692181,Heliopais personatus,,,,CR,birds,Cambodia,KH,Masked Finfoot
+138211,22692181,Heliopais personatus,,,,CR,birds,Lao People's Democratic Republic,LA,Masked Finfoot
+138212,22692181,Heliopais personatus,,,,CR,birds,Myanmar,MM,Masked Finfoot
+138362,103823664,Hemignathus affinis,,,,CR,birds,United States of America,US,Maui Nukupuu
+138363,103823616,Hemignathus hanapepe,,,,CR,birds,United States of America,US,Kauai Nukupuu
+138666,84543703,Heteromirafra archeri,,,,CR,birds,Ethiopia,ET,Liben Lark
+138667,84543703,Heteromirafra archeri,,,,CR,birds,Somalia,SO,Liben Lark
+139210,22693690,Himantopus novaezelandiae,,,,CR,birds,New Zealand,NZ,Black Stilt
+140069,22692015,Houbaropsis bengalensis,,,,CR,birds,Viet Nam,VN,Bengal Florican
+140070,22692015,Houbaropsis bengalensis,,,,CR,birds,Bangladesh,BD,Bengal Florican
+140071,22692015,Houbaropsis bengalensis,,,,CR,birds,Cambodia,KH,Bengal Florican
+140072,22692015,Houbaropsis bengalensis,,,,CR,birds,Nepal,NP,Bengal Florican
+140073,22692015,Houbaropsis bengalensis,,,,CR,birds,India,IN,Bengal Florican
+140239,22698530,Hydrobates macrodactylus,,,,CR,birds,Mexico,MX,Guadalupe Storm-petrel
+140731,22698628,Hydrornis gurneyi,,,,CR,birds,Thailand,TH,Gurney's Pitta
+140732,22698628,Hydrornis gurneyi,,,,CR,birds,Myanmar,MM,Gurney's Pitta
+141146,22692441,Hypotaenidia owstoni,,,,CR,birds,Guam,GU,Guam Rail
+141238,103842251,Hypsipetes platenae,,,,CR,birds,Indonesia,ID,Sangihe Golden Bulbul
+143378,22706569,Lalage newtoni,,,,CR,birds,Réunion,RE,Reunion Cuckooshrike
+144460,22705080,Lanius newtoni,,,,CR,birds,Sao Tome and Principe,ST,Newton's Fiscal
+146406,22685219,Lathamus discolor,,,,CR,birds,Australia,AU,Swift Parrot
+146999,22690874,Leptotila wellsi,,,,CR,birds,Grenada,GD,Grenada Dove
+147057,22696861,Leucocarbo onslowi,,,,CR,birds,New Zealand,NZ,Chatham Islands Shag
+147065,22692053,Leucogeranus leucogeranus,,,,CR,birds,Uzbekistan,UZ,Siberian Crane
+147066,22692053,Leucogeranus leucogeranus,,,,CR,birds,Afghanistan,AF,Siberian Crane
+147067,22692053,Leucogeranus leucogeranus,,,,CR,birds,Turkmenistan,TM,Siberian Crane
+147068,22692053,Leucogeranus leucogeranus,,,,CR,birds,"Iran, Islamic Republic of",IR,Siberian Crane
+147069,22692053,Leucogeranus leucogeranus,,,,CR,birds,Pakistan,PK,Siberian Crane
+147070,22692053,Leucogeranus leucogeranus,,,,CR,birds,Jordan,JO,Siberian Crane
+147071,22692053,Leucogeranus leucogeranus,,,,CR,birds,Kazakhstan,KZ,Siberian Crane
+147072,22692053,Leucogeranus leucogeranus,,,,CR,birds,Azerbaijan,AZ,Siberian Crane
+147073,22692053,Leucogeranus leucogeranus,,,,CR,birds,India,IN,Siberian Crane
+147074,22692053,Leucogeranus leucogeranus,,,,CR,birds,Mongolia,MN,Siberian Crane
+147075,22692053,Leucogeranus leucogeranus,,,,CR,birds,Hong Kong,HK,Siberian Crane
+147076,22692053,Leucogeranus leucogeranus,,,,CR,birds,"Korea, Republic of",KR,Siberian Crane
+147077,22692053,Leucogeranus leucogeranus,,,,CR,birds,Russian Federation,RU,Siberian Crane
+147078,22692053,Leucogeranus leucogeranus,,,,CR,birds,China,CN,Siberian Crane
+147079,22692053,Leucogeranus leucogeranus,,,,CR,birds,Japan,JP,Siberian Crane
+147118,22721873,Leucopeza semperi,,,,CR,birds,Saint Lucia,LC,Semper's Warbler
+147119,22710912,Leucopsar rothschildi,,,,CR,birds,Indonesia,ID,Bali Myna
+147938,22734628,Liocichla bugunorum,,,,CR,birds,India,IN,Bugun Liocichla
+147992,22729457,Lipaugus weberi,,,,CR,birds,Colombia,CO,Chestnut-capped Piha
+148795,22687196,Lophornis brachylophus,,,,CR,birds,Mexico,MX,Short-crested Coquette
+148929,45354985,Lophura edwardsi,,,,CR,birds,Viet Nam,VN,Vietnam Pheasant
+148930,22727411,Lophura erythrophthalma,,,,CR,birds,Singapore,SG,Malay Crestless Fireback
+148931,22727411,Lophura erythrophthalma,,,,CR,birds,Malaysia,MY,Malay Crestless Fireback
+148932,22727411,Lophura erythrophthalma,,,,CR,birds,Indonesia,ID,Malay Crestless Fireback
+149160,22720742,Loxioides bailleui,,,,CR,birds,United States of America,US,Palila
+149162,22720832,Loxops caeruleirostris,,,,CR,birds,United States of America,US,Akekee
+149164,103824084,Loxops ochraceus,,,,CR,birds,United States of America,US,Maui Akepa
+149898,22678576,Macrocephalon maleo,,,,CR,birds,Indonesia,ID,Maleo
+152095,216918514,Melopyrrha grandis,,,,CR,birds,Saint Kitts and Nevis,KN,Saint Kitts Bullfinch
+152319,22680482,Mergus octosetaceus,,,,CR,birds,Paraguay,PY,Brazilian Merganser
+152320,22680482,Mergus octosetaceus,,,,CR,birds,Brazil,BR,Brazilian Merganser
+152321,22680482,Mergus octosetaceus,,,,CR,birds,Argentina,AR,Brazilian Merganser
+153040,22703477,Merulaxis stresemanni,,,,CR,birds,Brazil,BR,Stresemann's Bristlefront
+153890,22711084,Mimus graysoni,,,,CR,birds,Mexico,MX,Socorro Mockingbird
+155901,22708574,Myadestes lanaiensis,,,,CR,birds,United States of America,US,Olomao
+155911,22708583,Myadestes palmeri,,,,CR,birds,United States of America,US,Puaiohi
+156989,22724407,Myrmotherula snowi,,,,CR,birds,Brazil,BR,Alagoas Antwren
+157203,22695185,Necrosyrtes monachus,,,,CR,birds,Morocco,MA,Hooded Vulture
+157204,22695185,Necrosyrtes monachus,,,,CR,birds,Zambia,ZM,Hooded Vulture
+157205,22695185,Necrosyrtes monachus,,,,CR,birds,Zimbabwe,ZW,Hooded Vulture
+157206,22695185,Necrosyrtes monachus,,,,CR,birds,Guinea,GN,Hooded Vulture
+157207,22695185,Necrosyrtes monachus,,,,CR,birds,Guinea-Bissau,GW,Hooded Vulture
+157208,22695185,Necrosyrtes monachus,,,,CR,birds,Mali,ML,Hooded Vulture
+157209,22695185,Necrosyrtes monachus,,,,CR,birds,Mauritania,MR,Hooded Vulture
+157210,22695185,Necrosyrtes monachus,,,,CR,birds,Rwanda,RW,Hooded Vulture
+157211,22695185,Necrosyrtes monachus,,,,CR,birds,Senegal,SN,Hooded Vulture
+157212,22695185,Necrosyrtes monachus,,,,CR,birds,Sierra Leone,SL,Hooded Vulture
+157213,22695185,Necrosyrtes monachus,,,,CR,birds,Liberia,LR,Hooded Vulture
+157214,22695185,Necrosyrtes monachus,,,,CR,birds,Malawi,MW,Hooded Vulture
+157215,22695185,Necrosyrtes monachus,,,,CR,birds,Benin,BJ,Hooded Vulture
+157216,22695185,Necrosyrtes monachus,,,,CR,birds,Botswana,BW,Hooded Vulture
+157217,22695185,Necrosyrtes monachus,,,,CR,birds,Burkina Faso,BF,Hooded Vulture
+157218,22695185,Necrosyrtes monachus,,,,CR,birds,Burundi,BI,Hooded Vulture
+157219,22695185,Necrosyrtes monachus,,,,CR,birds,Cameroon,CM,Hooded Vulture
+157220,22695185,Necrosyrtes monachus,,,,CR,birds,Central African Republic,CF,Hooded Vulture
+157221,22695185,Necrosyrtes monachus,,,,CR,birds,Chad,TD,Hooded Vulture
+157222,22695185,Necrosyrtes monachus,,,,CR,birds,"Congo, The Democratic Republic of the",CD,Hooded Vulture
+157223,22695185,Necrosyrtes monachus,,,,CR,birds,Côte d'Ivoire,CI,Hooded Vulture
+157224,22695185,Necrosyrtes monachus,,,,CR,birds,Djibouti,DJ,Hooded Vulture
+157225,22695185,Necrosyrtes monachus,,,,CR,birds,Eritrea,ER,Hooded Vulture
+157226,22695185,Necrosyrtes monachus,,,,CR,birds,Ethiopia,ET,Hooded Vulture
+157227,22695185,Necrosyrtes monachus,,,,CR,birds,Gambia,GM,Hooded Vulture
+157228,22695185,Necrosyrtes monachus,,,,CR,birds,Ghana,GH,Hooded Vulture
+157229,22695185,Necrosyrtes monachus,,,,CR,birds,Somalia,SO,Hooded Vulture
+157230,22695185,Necrosyrtes monachus,,,,CR,birds,Sudan,SD,Hooded Vulture
+157231,22695185,Necrosyrtes monachus,,,,CR,birds,"Tanzania, United Republic of",TZ,Hooded Vulture
+157232,22695185,Necrosyrtes monachus,,,,CR,birds,Togo,TG,Hooded Vulture
+157233,22695185,Necrosyrtes monachus,,,,CR,birds,Uganda,UG,Hooded Vulture
+157234,22695185,Necrosyrtes monachus,,,,CR,birds,Mozambique,MZ,Hooded Vulture
+157235,22695185,Necrosyrtes monachus,,,,CR,birds,Niger,NE,Hooded Vulture
+157236,22695185,Necrosyrtes monachus,,,,CR,birds,Nigeria,NG,Hooded Vulture
+157237,22695185,Necrosyrtes monachus,,,,CR,birds,Kenya,KE,Hooded Vulture
+157238,22695185,Necrosyrtes monachus,,,,CR,birds,South Africa,ZA,Hooded Vulture
+157239,22695185,Necrosyrtes monachus,,,,CR,birds,Angola,AO,Hooded Vulture
+157240,22695185,Necrosyrtes monachus,,,,CR,birds,Namibia,NA,Hooded Vulture
+157241,22695185,Necrosyrtes monachus,,,,CR,birds,South Sudan,SS,Hooded Vulture
+157242,22695185,Necrosyrtes monachus,,,,CR,birds,Eswatini,SZ,Hooded Vulture
+157302,22722293,Nemosia rourei,,,,CR,birds,Brazil,BR,Cherry-throated Tanager
+157465,22685203,Neophema chrysogaster,,,,CR,birds,Australia,AU,Orange-bellied Parrot
+157717,22735949,Nesospiza wilkinsi,,,,CR,birds,"Saint Helena, Ascension and Tristan da Cunha",SH,Wilkins's Finch
+158227,22732096,Nisaetus floris,,,,CR,birds,Indonesia,ID,Flores Hawk-eagle
+158657,22693170,Numenius borealis,,,,CR,birds,Uruguay,UY,Eskimo Curlew
+158658,22693170,Numenius borealis,,,,CR,birds,Paraguay,PY,Eskimo Curlew
+158659,22693170,Numenius borealis,,,,CR,birds,Barbados,BB,Eskimo Curlew
+158660,22693170,Numenius borealis,,,,CR,birds,Brazil,BR,Eskimo Curlew
+158661,22693170,Numenius borealis,,,,CR,birds,Chile,CL,Eskimo Curlew
+158662,22693170,Numenius borealis,,,,CR,birds,Argentina,AR,Eskimo Curlew
+158663,22693170,Numenius borealis,,,,CR,birds,Mexico,MX,Eskimo Curlew
+158664,22693170,Numenius borealis,,,,CR,birds,Canada,CA,Eskimo Curlew
+158665,22693170,Numenius borealis,,,,CR,birds,United States of America,US,Eskimo Curlew
+158971,22693185,Numenius tenuirostris,,,,CR,birds,Uzbekistan,UZ,Slender-billed Curlew
+158972,22693185,Numenius tenuirostris,,,,CR,birds,Saudi Arabia,SA,Slender-billed Curlew
+158973,22693185,Numenius tenuirostris,,,,CR,birds,Cyprus,CY,Slender-billed Curlew
+158974,22693185,Numenius tenuirostris,,,,CR,birds,"Iran, Islamic Republic of",IR,Slender-billed Curlew
+158975,22693185,Numenius tenuirostris,,,,CR,birds,Iraq,IQ,Slender-billed Curlew
+158976,22693185,Numenius tenuirostris,,,,CR,birds,Israel,IL,Slender-billed Curlew
+158977,22693185,Numenius tenuirostris,,,,CR,birds,Kazakhstan,KZ,Slender-billed Curlew
+158978,22693185,Numenius tenuirostris,,,,CR,birds,Kuwait,KW,Slender-billed Curlew
+158979,22693185,Numenius tenuirostris,,,,CR,birds,Yemen,YE,Slender-billed Curlew
+158980,22693185,Numenius tenuirostris,,,,CR,birds,Azerbaijan,AZ,Slender-billed Curlew
+158981,22693185,Numenius tenuirostris,,,,CR,birds,Malta,MT,Slender-billed Curlew
+158982,22693185,Numenius tenuirostris,,,,CR,birds,Poland,PL,Slender-billed Curlew
+158983,22693185,Numenius tenuirostris,,,,CR,birds,Romania,RO,Slender-billed Curlew
+158984,22693185,Numenius tenuirostris,,,,CR,birds,Albania,AL,Slender-billed Curlew
+158985,22693185,Numenius tenuirostris,,,,CR,birds,Bosnia and Herzegovina,BA,Slender-billed Curlew
+158986,22693185,Numenius tenuirostris,,,,CR,birds,Bulgaria,BG,Slender-billed Curlew
+158987,22693185,Numenius tenuirostris,,,,CR,birds,Croatia,HR,Slender-billed Curlew
+158988,22693185,Numenius tenuirostris,,,,CR,birds,Germany,DE,Slender-billed Curlew
+158989,22693185,Numenius tenuirostris,,,,CR,birds,Switzerland,CH,Slender-billed Curlew
+158990,22693185,Numenius tenuirostris,,,,CR,birds,Austria,AT,Slender-billed Curlew
+158991,22693185,Numenius tenuirostris,,,,CR,birds,Hungary,HU,Slender-billed Curlew
+158992,22693185,Numenius tenuirostris,,,,CR,birds,Netherlands,NL,Slender-billed Curlew
+158993,22693185,Numenius tenuirostris,,,,CR,birds,Montenegro,ME,Slender-billed Curlew
+158994,22693185,Numenius tenuirostris,,,,CR,birds,Algeria,DZ,Slender-billed Curlew
+158995,22693185,Numenius tenuirostris,,,,CR,birds,Tunisia,TN,Slender-billed Curlew
+158996,22693185,Numenius tenuirostris,,,,CR,birds,Morocco,MA,Slender-billed Curlew
+158997,22693185,Numenius tenuirostris,,,,CR,birds,Libya,LY,Slender-billed Curlew
+158998,22693185,Numenius tenuirostris,,,,CR,birds,Portugal,PT,Slender-billed Curlew
+158999,22693185,Numenius tenuirostris,,,,CR,birds,France,FR,Slender-billed Curlew
+159000,22693185,Numenius tenuirostris,,,,CR,birds,Greece,GR,Slender-billed Curlew
+159001,22693185,Numenius tenuirostris,,,,CR,birds,Spain,ES,Slender-billed Curlew
+159002,22693185,Numenius tenuirostris,,,,CR,birds,Italy,IT,Slender-billed Curlew
+159003,22693185,Numenius tenuirostris,,,,CR,birds,Serbia,RS,Slender-billed Curlew
+159004,22693185,Numenius tenuirostris,,,,CR,birds,Egypt,EG,Slender-billed Curlew
+159005,22693185,Numenius tenuirostris,,,,CR,birds,Russian Federation,RU,Slender-billed Curlew
+159006,22693185,Numenius tenuirostris,,,,CR,birds,Ukraine,UA,Slender-billed Curlew
+159007,22693185,Numenius tenuirostris,,,,CR,birds,Japan,JP,Slender-billed Curlew
+159008,22693185,Numenius tenuirostris,,,,CR,birds,Canada,CA,Slender-billed Curlew
+159009,22693185,Numenius tenuirostris,,,,CR,birds,"Palestine, State of",PS,Slender-billed Curlew
+159010,22693185,Numenius tenuirostris,,,,CR,birds,Czechia,CZ,Slender-billed Curlew
+159011,22693185,Numenius tenuirostris,,,,CR,birds,North Macedonia,MK,Slender-billed Curlew
+159012,22693185,Numenius tenuirostris,,,,CR,birds,United Kingdom of Great Britain and Northern Ireland,GB,Slender-billed Curlew
+159013,22693185,Numenius tenuirostris,,,,CR,birds,Türkiye,TR,Slender-billed Curlew
+161070,22679141,Ophrysia superciliosa,,,,CR,birds,India,IN,Himalayan Quail
+161135,22720809,Oreomystis bairdi,,,,CR,birds,United States of America,US,Akikiki
+161177,200250452,Oreotrochilus cyanolaemus,,,,CR,birds,Ecuador,EC,Blue-throated Hillstar
+161294,22706378,Oriolus isabellae,,,,CR,birds,Philippines,PH,Isabela Oriole
+161791,22726273,Otidiphaps insularis,,,,CR,birds,Papua New Guinea,PG,Black-naped Pheasant-pigeon
+161862,230025085,Otus bikegila,,,,CR,birds,Sao Tome and Principe,ST,Principe Scops-owl
+161894,61915272,Otus feae,,,,CR,birds,Equatorial Guinea,GQ,Annobon Scops-owl
+161907,22688667,Otus insularis,,,,CR,birds,Seychelles,SC,Seychelles Scops-owl
+162108,22728599,Otus siaoensis,,,,CR,birds,Indonesia,ID,Siau Scops-owl
+162464,104062579,Pachyptila macgillivrayi,,,,CR,birds,"Saint Helena, Ascension and Tristan da Cunha",SH,MacGillivray's Prion
+162465,104062579,Pachyptila macgillivrayi,,,,CR,birds,French Southern Territories,TF,MacGillivray's Prion
+162715,22720855,Palmeria dolei,,,,CR,birds,United States of America,US,Akohekohe
+162739,22691030,Pampusana erythroptera,,,,CR,birds,French Polynesia,PF,Polynesian Ground-dove
+163084,22690819,Paraclaravis geoffroyi,,,,CR,birds,Paraguay,PY,Purple-winged Ground-dove
+163085,22690819,Paraclaravis geoffroyi,,,,CR,birds,Brazil,BR,Purple-winged Ground-dove
+163086,22690819,Paraclaravis geoffroyi,,,,CR,birds,Argentina,AR,Purple-winged Ground-dove
+163297,22692854,Pareudiastes pacificus,,,,CR,birds,Samoa,WS,Samoan Moorhen
+163298,22692857,Pareudiastes silvestris,,,,CR,birds,Solomon Islands,SB,Makira Moorhen
+163441,22720827,Paroreomyza maculata,,,,CR,birds,United States of America,US,Oahu Alauahio
+164440,45090459,Pauxi koepckeae,,,,CR,birds,Peru,PE,Sira Curassow
+164443,45090397,Pauxi unicornis,,,,CR,birds,"Bolivia, Plurinational State of",BO,Horned Curassow
+164574,155187257,Pelecanoides whenuahouensis,,,,CR,birds,New Zealand,NZ,Whenua Hou Diving-petrel
+165693,22685237,Pezoporus occidentalis,,,,CR,birds,Australia,AU,Night Parrot
+166665,60543516,Phapitreron frontalis,,,,CR,birds,Philippines,PH,Cebu Brown-dove
+167065,22698320,Phoebastria irrorata,,,,CR,birds,Peru,PE,Waved Albatross
+167066,22698320,Phoebastria irrorata,,,,CR,birds,Panama,PA,Waved Albatross
+167067,22698320,Phoebastria irrorata,,,,CR,birds,Chile,CL,Waved Albatross
+167068,22698320,Phoebastria irrorata,,,,CR,birds,Colombia,CO,Waved Albatross
+167069,22698320,Phoebastria irrorata,,,,CR,birds,Ecuador,EC,Waved Albatross
+167994,22699516,Phylloscartes ceciliae,,,,CR,birds,Brazil,BR,Alagoas Tyrannulet
+169845,22678401,Pipile pipile,,,,CR,birds,Trinidad and Tobago,TT,Trinidad Piping-guan
+170129,22696012,Pithecophaga jefferyi,,,,CR,birds,Philippines,PH,Philippine Eagle
+172317,22696628,Podiceps gallardoi,,,,CR,birds,Chile,CL,Hooded Grebe
+172318,22696628,Podiceps gallardoi,,,,CR,birds,Argentina,AR,Hooded Grebe
+173408,22734314,Pomarea iphis,,,,CR,birds,French Polynesia,PF,Iphis Monarch
+173410,22732931,Pomarea mira,,,,CR,birds,French Polynesia,PF,Ua Pou Monarch
+173411,22707178,Pomarea nigra,,,,CR,birds,French Polynesia,PF,Tahiti Monarch
+173414,22707192,Pomarea whitneyi,,,,CR,birds,French Polynesia,PF,Fatu Hiva Monarch
+174218,22684986,Prioniturus verticalis,,,,CR,birds,Philippines,PH,Sulu Racquet-tail
+175091,22697531,Pseudibis davisoni,,,,CR,birds,Viet Nam,VN,White-shouldered Ibis
+175092,22697531,Pseudibis davisoni,,,,CR,birds,Cambodia,KH,White-shouldered Ibis
+175093,22697531,Pseudibis davisoni,,,,CR,birds,Thailand,TH,White-shouldered Ibis
+175094,22697531,Pseudibis davisoni,,,,CR,birds,Lao People's Democratic Republic,LA,White-shouldered Ibis
+175095,22697531,Pseudibis davisoni,,,,CR,birds,Malaysia,MY,White-shouldered Ibis
+175096,22697531,Pseudibis davisoni,,,,CR,birds,Indonesia,ID,White-shouldered Ibis
+175097,22697531,Pseudibis davisoni,,,,CR,birds,Myanmar,MM,White-shouldered Ibis
+175098,22697531,Pseudibis davisoni,,,,CR,birds,China,CN,White-shouldered Ibis
+175106,22697896,Pseudobulweria aterrima,,,,CR,birds,Réunion,RE,Mascarene Petrel
+175107,22697896,Pseudobulweria aterrima,,,,CR,birds,Mauritius,MU,Mascarene Petrel
+175108,22697913,Pseudobulweria becki,,,,CR,birds,Vanuatu,VU,Beck's Petrel
+175109,22697913,Pseudobulweria becki,,,,CR,birds,Wallis and Futuna,WF,Beck's Petrel
+175110,22697913,Pseudobulweria becki,,,,CR,birds,Solomon Islands,SB,Beck's Petrel
+175111,22697913,Pseudobulweria becki,,,,CR,birds,Papua New Guinea,PG,Beck's Petrel
+175112,22697935,Pseudobulweria macgillivrayi,,,,CR,birds,Fiji,FJ,Fiji Petrel
+175203,22720753,Pseudonestor xanthophrys,,,,CR,birds,United States of America,US,Maui Parrotbill
+175526,22720734,Psittirostra psittacea,,,,CR,birds,United States of America,US,Ou
+175542,45470702,Psophia obscura,,,,CR,birds,Brazil,BR,Black-winged Trumpeter
+175680,22678869,Pternistis ochropectus,,,,CR,birds,Djibouti,DJ,Djibouti Francolin
+176014,22698097,Pterodroma caribbaea,,,,CR,birds,Guadeloupe,GP,Jamaican Petrel
+176015,22698097,Pterodroma caribbaea,,,,CR,birds,Dominica,DM,Jamaican Petrel
+176016,22698097,Pterodroma caribbaea,,,,CR,birds,Bahamas,BS,Jamaican Petrel
+176017,22698097,Pterodroma caribbaea,,,,CR,birds,Jamaica,JM,Jamaican Petrel
+176278,22698049,Pterodroma magentae,,,,CR,birds,New Zealand,NZ,Magenta Petrel
+176360,22698020,Pterodroma phaeopygia,,,,CR,birds,Philippines,PH,Galapagos Petrel
+176361,22698020,Pterodroma phaeopygia,,,,CR,birds,Peru,PE,Galapagos Petrel
+176362,22698020,Pterodroma phaeopygia,,,,CR,birds,Guatemala,GT,Galapagos Petrel
+176363,22698020,Pterodroma phaeopygia,,,,CR,birds,El Salvador,SV,Galapagos Petrel
+176364,22698020,Pterodroma phaeopygia,,,,CR,birds,Panama,PA,Galapagos Petrel
+176365,22698020,Pterodroma phaeopygia,,,,CR,birds,Colombia,CO,Galapagos Petrel
+176366,22698020,Pterodroma phaeopygia,,,,CR,birds,Ecuador,EC,Galapagos Petrel
+176367,22698020,Pterodroma phaeopygia,,,,CR,birds,Mexico,MX,Galapagos Petrel
+176368,22698020,Pterodroma phaeopygia,,,,CR,birds,Costa Rica,CR,Galapagos Petrel
+176369,22698020,Pterodroma phaeopygia,,,,CR,birds,Nicaragua,NI,Galapagos Petrel
+176370,22698020,Pterodroma phaeopygia,,,,CR,birds,French Southern Territories,TF,Galapagos Petrel
+176544,22732350,Pterorhinus courtoisi,,,,CR,birds,China,CN,Blue-crowned Laughingthrush
+176647,22691568,Ptilinopus arcanus,,,,CR,birds,Philippines,PH,Negros Fruit-dove
+176670,22691470,Ptilinopus huttoni,,,,CR,birds,French Polynesia,PF,Rapa Fruit-dove
+177017,22698235,Puffinus auricularis,,,,CR,birds,Guam,GU,Townsend's Shearwater
+177018,22698235,Puffinus auricularis,,,,CR,birds,Northern Mariana Islands,MP,Townsend's Shearwater
+177019,22698235,Puffinus auricularis,,,,CR,birds,Panama,PA,Townsend's Shearwater
+177020,22698235,Puffinus auricularis,,,,CR,birds,United States Minor Outlying Islands,UM,Townsend's Shearwater
+177021,22698235,Puffinus auricularis,,,,CR,birds,Mexico,MX,Townsend's Shearwater
+177022,22698235,Puffinus auricularis,,,,CR,birds,French Southern Territories,TF,Townsend's Shearwater
+177067,45354718,Puffinus bryani,,,,CR,birds,United States Minor Outlying Islands,UM,Bryan's Shearwater
+177068,45354718,Puffinus bryani,,,,CR,birds,Japan,JP,Bryan's Shearwater
+177069,45354718,Puffinus bryani,,,,CR,birds,United States of America,US,Bryan's Shearwater
+177143,22728432,Puffinus mauretanicus,,,,CR,birds,Israel,IL,Balearic Shearwater
+177144,22728432,Puffinus mauretanicus,,,,CR,birds,Malta,MT,Balearic Shearwater
+177145,22728432,Puffinus mauretanicus,,,,CR,birds,Monaco,MC,Balearic Shearwater
+177146,22728432,Puffinus mauretanicus,,,,CR,birds,Poland,PL,Balearic Shearwater
+177147,22728432,Puffinus mauretanicus,,,,CR,birds,Albania,AL,Balearic Shearwater
+177148,22728432,Puffinus mauretanicus,,,,CR,birds,Belgium,BE,Balearic Shearwater
+177149,22728432,Puffinus mauretanicus,,,,CR,birds,Bosnia and Herzegovina,BA,Balearic Shearwater
+177150,22728432,Puffinus mauretanicus,,,,CR,birds,Croatia,HR,Balearic Shearwater
+177151,22728432,Puffinus mauretanicus,,,,CR,birds,Denmark,DK,Balearic Shearwater
+177152,22728432,Puffinus mauretanicus,,,,CR,birds,Faroe Islands,FO,Balearic Shearwater
+177153,22728432,Puffinus mauretanicus,,,,CR,birds,Germany,DE,Balearic Shearwater
+177154,22728432,Puffinus mauretanicus,,,,CR,birds,Gibraltar,GI,Balearic Shearwater
+177155,22728432,Puffinus mauretanicus,,,,CR,birds,Slovenia,SI,Balearic Shearwater
+177156,22728432,Puffinus mauretanicus,,,,CR,birds,Sweden,SE,Balearic Shearwater
+177157,22728432,Puffinus mauretanicus,,,,CR,birds,Netherlands,NL,Balearic Shearwater
+177158,22728432,Puffinus mauretanicus,,,,CR,birds,Norway,NO,Balearic Shearwater
+177159,22728432,Puffinus mauretanicus,,,,CR,birds,Ireland,IE,Balearic Shearwater
+177160,22728432,Puffinus mauretanicus,,,,CR,birds,Montenegro,ME,Balearic Shearwater
+177161,22728432,Puffinus mauretanicus,,,,CR,birds,Algeria,DZ,Balearic Shearwater
+177162,22728432,Puffinus mauretanicus,,,,CR,birds,Tunisia,TN,Balearic Shearwater
+177163,22728432,Puffinus mauretanicus,,,,CR,birds,Morocco,MA,Balearic Shearwater
+177164,22728432,Puffinus mauretanicus,,,,CR,birds,Libya,LY,Balearic Shearwater
+177165,22728432,Puffinus mauretanicus,,,,CR,birds,Portugal,PT,Balearic Shearwater
+177166,22728432,Puffinus mauretanicus,,,,CR,birds,France,FR,Balearic Shearwater
+177167,22728432,Puffinus mauretanicus,,,,CR,birds,Greece,GR,Balearic Shearwater
+177168,22728432,Puffinus mauretanicus,,,,CR,birds,Spain,ES,Balearic Shearwater
+177169,22728432,Puffinus mauretanicus,,,,CR,birds,Italy,IT,Balearic Shearwater
+177170,22728432,Puffinus mauretanicus,,,,CR,birds,United Kingdom of Great Britain and Northern Ireland,GB,Balearic Shearwater
+177171,132468585,Puffinus myrtae,,,,CR,birds,French Polynesia,PF,Rapa Shearwater
+177191,132467692,Puffinus newelli,,,,CR,birds,American Samoa,AS,Newell's Shearwater
+177192,132467692,Puffinus newelli,,,,CR,birds,United States Minor Outlying Islands,UM,Newell's Shearwater
+177193,132467692,Puffinus newelli,,,,CR,birds,Australia,AU,Newell's Shearwater
+177194,132467692,Puffinus newelli,,,,CR,birds,Kiribati,KI,Newell's Shearwater
+177195,132467692,Puffinus newelli,,,,CR,birds,United States of America,US,Newell's Shearwater
+177555,22712603,Pycnonotus zeylanicus,,,,CR,birds,Brunei Darussalam,BN,Straw-headed Bulbul
+177556,22712603,Pycnonotus zeylanicus,,,,CR,birds,Singapore,SG,Straw-headed Bulbul
+177557,22712603,Pycnonotus zeylanicus,,,,CR,birds,Malaysia,MY,Straw-headed Bulbul
+177558,22712603,Pycnonotus zeylanicus,,,,CR,birds,Indonesia,ID,Straw-headed Bulbul
+177559,22712603,Pycnonotus zeylanicus,,,,CR,birds,Myanmar,MM,Straw-headed Bulbul
+178000,45422401,Pyrrhura subandina,,,,CR,birds,Colombia,CO,Sinu Parakeet
+179014,22682517,Rhabdotorrhinus waldeni,,,,CR,birds,Philippines,PH,Rufous-headed Hornbill
+179063,200035703,Rheinardia ocellata,,,,CR,birds,Viet Nam,VN,Annamite Crested Argus
+179064,200035703,Rheinardia ocellata,,,,CR,birds,Lao People's Democratic Republic,LA,Annamite Crested Argus
+179068,22682464,Rhinoplax vigil,,,,CR,birds,Brunei Darussalam,BN,Helmeted Hornbill
+179069,22682464,Rhinoplax vigil,,,,CR,birds,Singapore,SG,Helmeted Hornbill
+179070,22682464,Rhinoplax vigil,,,,CR,birds,Thailand,TH,Helmeted Hornbill
+179071,22682464,Rhinoplax vigil,,,,CR,birds,Malaysia,MY,Helmeted Hornbill
+179072,22682464,Rhinoplax vigil,,,,CR,birds,Indonesia,ID,Helmeted Hornbill
+179073,22682464,Rhinoplax vigil,,,,CR,birds,Myanmar,MM,Helmeted Hornbill
+179137,22694103,Rhinoptilus bitorquatus,,,,CR,birds,India,IN,Jerdon's Courser
+179331,22680344,Rhodonessa caryophyllacea,,,,CR,birds,Bangladesh,BD,Pink-headed Duck
+179332,22680344,Rhodonessa caryophyllacea,,,,CR,birds,Nepal,NP,Pink-headed Duck
+179333,22680344,Rhodonessa caryophyllacea,,,,CR,birds,India,IN,Pink-headed Duck
+179334,22680344,Rhodonessa caryophyllacea,,,,CR,birds,Myanmar,MM,Pink-headed Duck
+180029,22723149,Rowettia goughensis,,,,CR,birds,"Saint Helena, Ascension and Tristan da Cunha",SH,Gough Island Finch
+180396,22695254,Sarcogyps calvus,,,,CR,birds,Pakistan,PK,Red-headed Vulture
+180397,22695254,Sarcogyps calvus,,,,CR,birds,Viet Nam,VN,Red-headed Vulture
+180398,22695254,Sarcogyps calvus,,,,CR,birds,Bangladesh,BD,Red-headed Vulture
+180399,22695254,Sarcogyps calvus,,,,CR,birds,Bhutan,BT,Red-headed Vulture
+180400,22695254,Sarcogyps calvus,,,,CR,birds,Cambodia,KH,Red-headed Vulture
+180401,22695254,Sarcogyps calvus,,,,CR,birds,Thailand,TH,Red-headed Vulture
+180402,22695254,Sarcogyps calvus,,,,CR,birds,Nepal,NP,Red-headed Vulture
+180403,22695254,Sarcogyps calvus,,,,CR,birds,Lao People's Democratic Republic,LA,Red-headed Vulture
+180404,22695254,Sarcogyps calvus,,,,CR,birds,Malaysia,MY,Red-headed Vulture
+180405,22695254,Sarcogyps calvus,,,,CR,birds,India,IN,Red-headed Vulture
+180406,22695254,Sarcogyps calvus,,,,CR,birds,Myanmar,MM,Red-headed Vulture
+180407,22695254,Sarcogyps calvus,,,,CR,birds,China,CN,Red-headed Vulture
+180517,22692245,Sarothrura ayresi,,,,CR,birds,Zambia,ZM,White-winged Flufftail
+180518,22692245,Sarothrura ayresi,,,,CR,birds,Zimbabwe,ZW,White-winged Flufftail
+180519,22692245,Sarothrura ayresi,,,,CR,birds,Ethiopia,ET,White-winged Flufftail
+180520,22692245,Sarothrura ayresi,,,,CR,birds,South Africa,ZA,White-winged Flufftail
+181715,22687863,Sephanoides fernandensis,,,,CR,birds,Chile,CL,Juan Fernandez Firecrown
+182927,22689738,Siphonorhis americana,,,,CR,birds,Jamaica,JM,Jamaican Poorwill
+183071,103881687,Sitta insularis,,,,CR,birds,Bahamas,BS,Bahama Nuthatch
+187093,22685245,Strigops habroptilus,,,,CR,birds,New Zealand,NZ,Kakapo
+188286,22715107,Sylvietta chapini,,,,CR,birds,"Congo, The Democratic Republic of the",CD,Lendu Crombec
+188403,22707294,Symposiachrus boanensis,,,,CR,birds,Indonesia,ID,Black-chinned Monarch
+188510,22702393,Synallaxis kollari,,,,CR,birds,Guyana,GY,Hoary-throated Spinetail
+188511,22702393,Synallaxis kollari,,,,CR,birds,Brazil,BR,Hoary-throated Spinetail
+188517,22702350,Synallaxis maranonica,,,,CR,birds,Peru,PE,Maranon Spinetail
+188518,22702350,Synallaxis maranonica,,,,CR,birds,Ecuador,EC,Maranon Spinetail
+188657,22692024,Sypheotides indicus,,,,CR,birds,Pakistan,PK,Lesser Florican
+188658,22692024,Sypheotides indicus,,,,CR,birds,Nepal,NP,Lesser Florican
+188659,22692024,Sypheotides indicus,,,,CR,birds,India,IN,Lesser Florican
+189217,22680021,Tadorna cristata,,,,CR,birds,"Korea, Republic of",KR,Crested Shelduck
+189218,22680021,Tadorna cristata,,,,CR,birds,Russian Federation,RU,Crested Shelduck
+189219,22680021,Tadorna cristata,,,,CR,birds,China,CN,Crested Shelduck
+189220,22680021,Tadorna cristata,,,,CR,birds,Japan,JP,Crested Shelduck
+190064,22720722,Telespiza ultima,,,,CR,birds,United States of America,US,Nihoa Finch
+190195,22701646,Terenura sicki,,,,CR,birds,Brazil,BR,Orange-bellied Antwren
+190834,22694585,Thalasseus bernsteini,,,,CR,birds,Philippines,PH,Chinese Crested Tern
+190835,22694585,Thalasseus bernsteini,,,,CR,birds,Thailand,TH,Chinese Crested Tern
+190836,22694585,Thalasseus bernsteini,,,,CR,birds,Malaysia,MY,Chinese Crested Tern
+190837,22694585,Thalasseus bernsteini,,,,CR,birds,Indonesia,ID,Chinese Crested Tern
+190838,22694585,Thalasseus bernsteini,,,,CR,birds,"Korea, Republic of",KR,Chinese Crested Tern
+190839,22694585,Thalasseus bernsteini,,,,CR,birds,China,CN,Chinese Crested Tern
+190840,22694585,Thalasseus bernsteini,,,,CR,birds,"Taiwan, Province of China",TW,Chinese Crested Tern
+191364,22697536,Thaumatibis gigantea,,,,CR,birds,Viet Nam,VN,Giant Ibis
+191365,22697536,Thaumatibis gigantea,,,,CR,birds,Cambodia,KH,Giant Ibis
+191366,22697536,Thaumatibis gigantea,,,,CR,birds,Thailand,TH,Giant Ibis
+191367,22697536,Thaumatibis gigantea,,,,CR,birds,Lao People's Democratic Republic,LA,Giant Ibis
+191600,22711458,Thryophilus nicefori,,,,CR,birds,Colombia,CO,Niceforo's Wren
+191998,22683499,Todiramphus gambieri,,,,CR,birds,French Polynesia,PF,Tuamotu Kingfisher
+191999,22683487,Todiramphus godeffroyi,,,,CR,birds,French Polynesia,PF,Marquesas Kingfisher
+192251,22711105,Toxostoma guttatum,,,,CR,birds,Mexico,MX,Cozumel Thrasher
+192656,22695250,Trigonoceps occipitalis,,,,CR,birds,Zambia,ZM,White-headed Vulture
+192657,22695250,Trigonoceps occipitalis,,,,CR,birds,Zimbabwe,ZW,White-headed Vulture
+192658,22695250,Trigonoceps occipitalis,,,,CR,birds,Guinea,GN,White-headed Vulture
+192659,22695250,Trigonoceps occipitalis,,,,CR,birds,Guinea-Bissau,GW,White-headed Vulture
+192660,22695250,Trigonoceps occipitalis,,,,CR,birds,Mali,ML,White-headed Vulture
+192661,22695250,Trigonoceps occipitalis,,,,CR,birds,Mauritania,MR,White-headed Vulture
+192662,22695250,Trigonoceps occipitalis,,,,CR,birds,Rwanda,RW,White-headed Vulture
+192663,22695250,Trigonoceps occipitalis,,,,CR,birds,Senegal,SN,White-headed Vulture
+192664,22695250,Trigonoceps occipitalis,,,,CR,birds,Malawi,MW,White-headed Vulture
+192665,22695250,Trigonoceps occipitalis,,,,CR,birds,Benin,BJ,White-headed Vulture
+192666,22695250,Trigonoceps occipitalis,,,,CR,birds,Botswana,BW,White-headed Vulture
+192667,22695250,Trigonoceps occipitalis,,,,CR,birds,Burkina Faso,BF,White-headed Vulture
+192668,22695250,Trigonoceps occipitalis,,,,CR,birds,Burundi,BI,White-headed Vulture
+192669,22695250,Trigonoceps occipitalis,,,,CR,birds,Cameroon,CM,White-headed Vulture
+192670,22695250,Trigonoceps occipitalis,,,,CR,birds,Central African Republic,CF,White-headed Vulture
+192671,22695250,Trigonoceps occipitalis,,,,CR,birds,Chad,TD,White-headed Vulture
+192672,22695250,Trigonoceps occipitalis,,,,CR,birds,"Congo, The Democratic Republic of the",CD,White-headed Vulture
+192673,22695250,Trigonoceps occipitalis,,,,CR,birds,Côte d'Ivoire,CI,White-headed Vulture
+192674,22695250,Trigonoceps occipitalis,,,,CR,birds,Djibouti,DJ,White-headed Vulture
+192675,22695250,Trigonoceps occipitalis,,,,CR,birds,Eritrea,ER,White-headed Vulture
+192676,22695250,Trigonoceps occipitalis,,,,CR,birds,Ethiopia,ET,White-headed Vulture
+192677,22695250,Trigonoceps occipitalis,,,,CR,birds,Gabon,GA,White-headed Vulture
+192678,22695250,Trigonoceps occipitalis,,,,CR,birds,Gambia,GM,White-headed Vulture
+192679,22695250,Trigonoceps occipitalis,,,,CR,birds,Ghana,GH,White-headed Vulture
+192680,22695250,Trigonoceps occipitalis,,,,CR,birds,Somalia,SO,White-headed Vulture
+192681,22695250,Trigonoceps occipitalis,,,,CR,birds,Sudan,SD,White-headed Vulture
+192682,22695250,Trigonoceps occipitalis,,,,CR,birds,"Tanzania, United Republic of",TZ,White-headed Vulture
+192683,22695250,Trigonoceps occipitalis,,,,CR,birds,Togo,TG,White-headed Vulture
+192684,22695250,Trigonoceps occipitalis,,,,CR,birds,Uganda,UG,White-headed Vulture
+192685,22695250,Trigonoceps occipitalis,,,,CR,birds,Mozambique,MZ,White-headed Vulture
+192686,22695250,Trigonoceps occipitalis,,,,CR,birds,Niger,NE,White-headed Vulture
+192687,22695250,Trigonoceps occipitalis,,,,CR,birds,Kenya,KE,White-headed Vulture
+192688,22695250,Trigonoceps occipitalis,,,,CR,birds,South Africa,ZA,White-headed Vulture
+192689,22695250,Trigonoceps occipitalis,,,,CR,birds,Angola,AO,White-headed Vulture
+192690,22695250,Trigonoceps occipitalis,,,,CR,birds,Namibia,NA,White-headed Vulture
+192691,22695250,Trigonoceps occipitalis,,,,CR,birds,South Sudan,SS,White-headed Vulture
+194143,22711503,Troglodytes monticola,,,,CR,birds,Colombia,CO,Santa Marta Wren
+195588,22736414,Turdus xanthorhynchus,,,,CR,birds,Sao Tome and Principe,ST,Principe Thrush
+195623,22734789,Turnix novaecaledoniae,,,,CR,birds,New Caledonia,NC,New Caledonian Buttonquail
+195625,22680572,Turnix olivii,,,,CR,birds,Australia,AU,Buff-breasted Buttonquail
+196979,22694053,Vanellus gregarius,,,,CR,birds,Uzbekistan,UZ,Sociable Lapwing
+196980,22694053,Vanellus gregarius,,,,CR,birds,Qatar,QA,Sociable Lapwing
+196981,22694053,Vanellus gregarius,,,,CR,birds,Saudi Arabia,SA,Sociable Lapwing
+196982,22694053,Vanellus gregarius,,,,CR,birds,Afghanistan,AF,Sociable Lapwing
+196983,22694053,Vanellus gregarius,,,,CR,birds,Lebanon,LB,Sociable Lapwing
+196984,22694053,Vanellus gregarius,,,,CR,birds,Bahrain,BH,Sociable Lapwing
+196985,22694053,Vanellus gregarius,,,,CR,birds,Cyprus,CY,Sociable Lapwing
+196986,22694053,Vanellus gregarius,,,,CR,birds,Syrian Arab Republic,SY,Sociable Lapwing
+196987,22694053,Vanellus gregarius,,,,CR,birds,Tajikistan,TJ,Sociable Lapwing
+196988,22694053,Vanellus gregarius,,,,CR,birds,Turkmenistan,TM,Sociable Lapwing
+196989,22694053,Vanellus gregarius,,,,CR,birds,United Arab Emirates,AE,Sociable Lapwing
+196990,22694053,Vanellus gregarius,,,,CR,birds,"Iran, Islamic Republic of",IR,Sociable Lapwing
+196991,22694053,Vanellus gregarius,,,,CR,birds,Iraq,IQ,Sociable Lapwing
+196992,22694053,Vanellus gregarius,,,,CR,birds,Oman,OM,Sociable Lapwing
+196993,22694053,Vanellus gregarius,,,,CR,birds,Pakistan,PK,Sociable Lapwing
+196994,22694053,Vanellus gregarius,,,,CR,birds,Israel,IL,Sociable Lapwing
+196995,22694053,Vanellus gregarius,,,,CR,birds,Jordan,JO,Sociable Lapwing
+196996,22694053,Vanellus gregarius,,,,CR,birds,Kazakhstan,KZ,Sociable Lapwing
+196997,22694053,Vanellus gregarius,,,,CR,birds,Kuwait,KW,Sociable Lapwing
+196998,22694053,Vanellus gregarius,,,,CR,birds,Kyrgyzstan,KG,Sociable Lapwing
+196999,22694053,Vanellus gregarius,,,,CR,birds,Maldives,MV,Sociable Lapwing
+197000,22694053,Vanellus gregarius,,,,CR,birds,Sri Lanka,LK,Sociable Lapwing
+197001,22694053,Vanellus gregarius,,,,CR,birds,Yemen,YE,Sociable Lapwing
+197002,22694053,Vanellus gregarius,,,,CR,birds,Georgia,GE,Sociable Lapwing
+197003,22694053,Vanellus gregarius,,,,CR,birds,Armenia,AM,Sociable Lapwing
+197004,22694053,Vanellus gregarius,,,,CR,birds,Azerbaijan,AZ,Sociable Lapwing
+197005,22694053,Vanellus gregarius,,,,CR,birds,India,IN,Sociable Lapwing
+197006,22694053,Vanellus gregarius,,,,CR,birds,Malta,MT,Sociable Lapwing
+197007,22694053,Vanellus gregarius,,,,CR,birds,Poland,PL,Sociable Lapwing
+197008,22694053,Vanellus gregarius,,,,CR,birds,Romania,RO,Sociable Lapwing
+197009,22694053,Vanellus gregarius,,,,CR,birds,Luxembourg,LU,Sociable Lapwing
+197010,22694053,Vanellus gregarius,,,,CR,birds,Belgium,BE,Sociable Lapwing
+197011,22694053,Vanellus gregarius,,,,CR,birds,Bulgaria,BG,Sociable Lapwing
+197012,22694053,Vanellus gregarius,,,,CR,birds,Denmark,DK,Sociable Lapwing
+197013,22694053,Vanellus gregarius,,,,CR,birds,Finland,FI,Sociable Lapwing
+197014,22694053,Vanellus gregarius,,,,CR,birds,Germany,DE,Sociable Lapwing
+197015,22694053,Vanellus gregarius,,,,CR,birds,Slovakia,SK,Sociable Lapwing
+197016,22694053,Vanellus gregarius,,,,CR,birds,Slovenia,SI,Sociable Lapwing
+197017,22694053,Vanellus gregarius,,,,CR,birds,Sweden,SE,Sociable Lapwing
+197018,22694053,Vanellus gregarius,,,,CR,birds,Switzerland,CH,Sociable Lapwing
+197019,22694053,Vanellus gregarius,,,,CR,birds,Austria,AT,Sociable Lapwing
+197020,22694053,Vanellus gregarius,,,,CR,birds,Hungary,HU,Sociable Lapwing
+197021,22694053,Vanellus gregarius,,,,CR,birds,Netherlands,NL,Sociable Lapwing
+197022,22694053,Vanellus gregarius,,,,CR,birds,Ireland,IE,Sociable Lapwing
+197023,22694053,Vanellus gregarius,,,,CR,birds,Morocco,MA,Sociable Lapwing
+197024,22694053,Vanellus gregarius,,,,CR,birds,Cameroon,CM,Sociable Lapwing
+197025,22694053,Vanellus gregarius,,,,CR,birds,Central African Republic,CF,Sociable Lapwing
+197026,22694053,Vanellus gregarius,,,,CR,birds,Chad,TD,Sociable Lapwing
+197027,22694053,Vanellus gregarius,,,,CR,birds,Eritrea,ER,Sociable Lapwing
+197028,22694053,Vanellus gregarius,,,,CR,birds,Ethiopia,ET,Sociable Lapwing
+197029,22694053,Vanellus gregarius,,,,CR,birds,Somalia,SO,Sociable Lapwing
+197030,22694053,Vanellus gregarius,,,,CR,birds,Sudan,SD,Sociable Lapwing
+197031,22694053,Vanellus gregarius,,,,CR,birds,Belarus,BY,Sociable Lapwing
+197032,22694053,Vanellus gregarius,,,,CR,birds,Portugal,PT,Sociable Lapwing
+197033,22694053,Vanellus gregarius,,,,CR,birds,France,FR,Sociable Lapwing
+197034,22694053,Vanellus gregarius,,,,CR,birds,Greece,GR,Sociable Lapwing
+197035,22694053,Vanellus gregarius,,,,CR,birds,Spain,ES,Sociable Lapwing
+197036,22694053,Vanellus gregarius,,,,CR,birds,Italy,IT,Sociable Lapwing
+197037,22694053,Vanellus gregarius,,,,CR,birds,Egypt,EG,Sociable Lapwing
+197038,22694053,Vanellus gregarius,,,,CR,birds,Seychelles,SC,Sociable Lapwing
+197039,22694053,Vanellus gregarius,,,,CR,birds,Russian Federation,RU,Sociable Lapwing
+197040,22694053,Vanellus gregarius,,,,CR,birds,"Palestine, State of",PS,Sociable Lapwing
+197041,22694053,Vanellus gregarius,,,,CR,birds,Czechia,CZ,Sociable Lapwing
+197042,22694053,Vanellus gregarius,,,,CR,birds,United Kingdom of Great Britain and Northern Ireland,GB,Sociable Lapwing
+197043,22694053,Vanellus gregarius,,,,CR,birds,Türkiye,TR,Sociable Lapwing
+197155,22693962,Vanellus macropterus,,,,CR,birds,Indonesia,ID,Javan Lapwing
+197527,22721607,Vermivora bachmanii,,,,CR,birds,Cuba,CU,Bachman's Warbler
+197528,22721607,Vermivora bachmanii,,,,CR,birds,United States of America,US,Bachman's Warbler
+197874,22684647,Vini ultramarina,,,,CR,birds,French Polynesia,PF,Ultramarine Lorikeet
+198763,22684727,Zanda baudinii,,,,CR,birds,Australia,AU,Baudin's Black-cockatoo
+199439,22714229,Zosterops albogularis,,,,CR,birds,Norfolk Island,NF,White-chested White-eye
+199455,22714005,Zosterops chloronothos,,,,CR,birds,Mauritius,MU,Mauritius Olive White-eye
+199551,22728605,Zosterops nehrkorni,,,,CR,birds,Indonesia,ID,Sangihe White-eye
+199581,22714047,Zosterops rotensis,,,,CR,birds,Northern Mariana Islands,MP,Rota White-eye

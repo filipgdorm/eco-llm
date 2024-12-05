@@ -1,0 +1,3154 @@
+{
+    "AE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in United Arab Emirates.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Socotra Cormorant']\n```\n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Vanellus gregarius"
+        ]
+    },
+    "AF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Afghanistan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-rumped Vulture', 'Indian Vulture']\n```",
+        "correct_common_names": [
+            "White-rumped Vulture",
+            "Indian Vulture",
+            "Siberian Crane",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps bengalensis",
+            "Gyps indicus",
+            "Leucogeranus leucogeranus",
+            "Vanellus gregarius"
+        ]
+    },
+    "AL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Albania.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[\"Balearic Shearwater\", \"Sociable Lapwing\", \"Egyptian Vulture\"]\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "AM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Armenia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n```",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "AO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Angola.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue Swallow']\n```",
+        "correct_common_names": [
+            "Tristan Albatross",
+            "White-backed Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Diomedea dabbenena",
+            "Gyps africanus",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "AR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Argentina.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Hooded Grebe', 'Yellow-breasted Finch']\n```",
+        "correct_common_names": [
+            "Glaucous Macaw",
+            "Tristan Albatross",
+            "Brazilian Merganser",
+            "Eskimo Curlew",
+            "Purple-winged Ground-dove",
+            "Hooded Grebe"
+        ],
+        "correct_scientific_names": [
+            "Anodorhynchus glaucus",
+            "Diomedea dabbenena",
+            "Mergus octosetaceus",
+            "Numenius borealis",
+            "Paraclaravis geoffroyi",
+            "Podiceps gallardoi"
+        ]
+    },
+    "AS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in American Samoa.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Samoan Wood Rail', 'Tooth-billed Pigeon']\n```",
+        "correct_common_names": [
+            "Newell's Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Puffinus newelli"
+        ]
+    },
+    "AT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Austria.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are currently **no bird species classified as Critically Endangered in Austria.** \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "AU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Australia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Orange-bellied Parrot', 'Western Ground Parrot', 'Plains-wanderer', 'Regent Honeyeater', 'Swift Parrot', 'Southern Cassowary']\n```",
+        "correct_common_names": [
+            "Regent Honeyeater",
+            "Coxen's Fig-parrot",
+            "New Zealand Storm-petrel",
+            "Swift Parrot",
+            "Orange-bellied Parrot",
+            "Night Parrot",
+            "Newell's Shearwater",
+            "Buff-breasted Buttonquail",
+            "Baudin's Black-cockatoo"
+        ],
+        "correct_scientific_names": [
+            "Anthochaera phrygia",
+            "Cyclopsitta coxeni",
+            "Fregetta maoriana",
+            "Lathamus discolor",
+            "Neophema chrysogaster",
+            "Pezoporus occidentalis",
+            "Puffinus newelli",
+            "Turnix olivii",
+            "Zanda baudinii"
+        ]
+    },
+    "AZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Azerbaijan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n```",
+        "correct_common_names": [
+            "Siberian Crane",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Leucogeranus leucogeranus",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "BA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bosnia and Herzegovina.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "BB": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Barbados.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are **no** bird species classified as Critically Endangered in Barbados. \n\nTherefore, the Python list would be empty:\n`[]` \n",
+        "correct_common_names": [
+            "Eskimo Curlew"
+        ],
+        "correct_scientific_names": [
+            "Numenius borealis"
+        ]
+    },
+    "BD": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bangladesh.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper', 'White-rumped Vulture', 'Slender-billed Vulture', 'Indian Vulture', 'Red-headed Vulture']\n```",
+        "correct_common_names": [
+            "White-bellied Heron",
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Masked Finfoot",
+            "Bengal Florican",
+            "Pink-headed Duck",
+            "Red-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Ardea insignis",
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Heliopais personatus",
+            "Houbaropsis bengalensis",
+            "Rhodonessa caryophyllacea",
+            "Sarcogyps calvus"
+        ]
+    },
+    "BE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Belgium.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "After checking the IUCN Red List and bird species found in Belgium, I can confirm that there are **no Critically Endangered bird species** found in Belgium. \n \nTherefore, the Python list would be empty:\n \n `[]` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "BF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Burkina Faso.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-winged Flufftail']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "BG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bulgaria.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Slender-billed Curlew']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "BH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bahrain.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Socotra Cormorant']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Vanellus gregarius"
+        ]
+    },
+    "BI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Burundi.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Shoebill']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "BJ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Benin.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "I do not have access to external websites or specific files online, including the IUCN Red List. Therefore, I cannot provide you with a list of critically endangered birds in Benin. \n\nTo find this information, I recommend visiting the official IUCN Red List website or searching for reputable sources on avian biodiversity in Benin. \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "BN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Brunei Darussalam.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Straw-headed Bulbul",
+            "Helmeted Hornbill"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Pycnonotus zeylanicus",
+            "Rhinoplax vigil"
+        ]
+    },
+    "BO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bolivia, Plurinational State of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-throated Macaw']\n```",
+        "correct_common_names": [
+            "Blue-throated Macaw",
+            "Red-fronted Macaw",
+            "Royal Cinclodes",
+            "Horned Curassow"
+        ],
+        "correct_scientific_names": [
+            "Ara glaucogularis",
+            "Ara rubrogenys",
+            "Cinclodes aricomae",
+            "Pauxi unicornis"
+        ]
+    },
+    "BR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Brazil.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Alagoas Antwren', 'Alagoas Curassow', 'Alagoas Foliage-gleaner', 'Araripe Manakin', 'Blue-eyed Ground-dove', 'Brazilian Merganser', 'Cherry-throated Tanager', 'Forbes's Blackbird', 'Grey-breasted Parakeet', 'Indigo Macaw', 'Kinglet Calyptura', 'Orange-bellied Antwren', 'Pernambuco Foliage-gleaner', 'Pernambuco Pygmy-owl', 'Pinto's Spinetail', 'Red-tailed Parrot', 'Sao Francisco Cotinga', 'Stresemann's Bristlefront', 'White-winged Potoo']\n```",
+        "correct_common_names": [
+            "Glaucous Macaw",
+            "Araripe Manakin",
+            "Kinglet Calyptura",
+            "Rio Branco Antbird",
+            "Blue-eyed Ground-dove",
+            "Banded Cotinga",
+            "Belem Curassow",
+            "Tristan Albatross",
+            "Marsh Antwren",
+            "Pernambuco Pygmy-owl",
+            "Brazilian Merganser",
+            "Stresemann's Bristlefront",
+            "Alagoas Antwren",
+            "Cherry-throated Tanager",
+            "Eskimo Curlew",
+            "Purple-winged Ground-dove",
+            "Alagoas Tyrannulet",
+            "Black-winged Trumpeter",
+            "Hoary-throated Spinetail",
+            "Orange-bellied Antwren"
+        ],
+        "correct_scientific_names": [
+            "Anodorhynchus glaucus",
+            "Antilophia bokermanni",
+            "Calyptura cristata",
+            "Cercomacra carbonaria",
+            "Columbina cyanopis",
+            "Cotinga maculata",
+            "Crax pinima",
+            "Diomedea dabbenena",
+            "Formicivora paludicola",
+            "Glaucidium mooreorum",
+            "Mergus octosetaceus",
+            "Merulaxis stresemanni",
+            "Myrmotherula snowi",
+            "Nemosia rourei",
+            "Numenius borealis",
+            "Paraclaravis geoffroyi",
+            "Phylloscartes ceciliae",
+            "Psophia obscura",
+            "Synallaxis kollari",
+            "Terenura sicki"
+        ]
+    },
+    "BS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bahamas.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Bahama Oriole']\n```",
+        "correct_common_names": [
+            "Jamaican Petrel",
+            "Bahama Nuthatch"
+        ],
+        "correct_scientific_names": [
+            "Pterodroma caribbaea",
+            "Sitta insularis"
+        ]
+    },
+    "BT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Bhutan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-bellied Heron', 'Bengal Florican', 'Pink-headed Duck']\n```",
+        "correct_common_names": [
+            "White-bellied Heron",
+            "Baer's Pochard",
+            "White-rumped Vulture",
+            "Red-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Ardea insignis",
+            "Aythya baeri",
+            "Gyps bengalensis",
+            "Sarcogyps calvus"
+        ]
+    },
+    "BW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Botswana.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-backed Vulture', 'Hooded Vulture', 'Lappet-faced Vulture']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "BY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Belarus.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[\"Aquatic Warbler\"]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Vanellus gregarius"
+        ]
+    },
+    "BZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Belize.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-throated Macaw']\n``` \n",
+        "correct_common_names": [
+            "Yellow-naped Amazon"
+        ],
+        "correct_scientific_names": [
+            "Amazona auropalliata"
+        ]
+    },
+    "CA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Canada.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Eskimo Curlew']\n```",
+        "correct_common_names": [
+            "Spoon-billed Sandpiper",
+            "Eskimo Curlew",
+            "Slender-billed Curlew"
+        ],
+        "correct_scientific_names": [
+            "Calidris pygmaea",
+            "Numenius borealis",
+            "Numenius tenuirostris"
+        ]
+    },
+    "CD": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Congo, The Democratic Republic of the.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Lake Lufira weaver', 'Grauer's swamp warbler', 'Yellow-crested helmet-shrike']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "Lendu Crombec",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Sylvietta chapini",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "CF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Central African Republic.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Bannerman's Weaver', 'Yellow-crested Helmet-shrike']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "CH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Switzerland.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are no bird species found in Switzerland that are classified as Critically Endangered. \n \n Therefore, the Python list would be empty:\n \n `[]` \n \n It's important to note that while there are no Critically Endangered species, Switzerland still faces conservation challenges for certain bird populations. You can find more information about bird conservation in Switzerland on the websites of organizations like BirdLife Switzerland. \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "CI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in C\u00f4te d'Ivoire.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-breasted Guineafowl', 'Timneh Parrot', 'Yellow-casqued Hornbill']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "CL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Chile.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Masafuera Rayadito', 'Chilean Woodstar']\n```",
+        "correct_common_names": [
+            "Masafuera Rayadito",
+            "Chilean Woodstar",
+            "Eskimo Curlew",
+            "Waved Albatross",
+            "Hooded Grebe",
+            "Juan Fernandez Firecrown"
+        ],
+        "correct_scientific_names": [
+            "Aphrastura masafuerae",
+            "Eulidia yarrellii",
+            "Numenius borealis",
+            "Phoebastria irrorata",
+            "Podiceps gallardoi",
+            "Sephanoides fernandensis"
+        ]
+    },
+    "CM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Cameroon.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Bannerman's Turaco']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "CN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in China.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Spoonbill', 'Baer's Pochard', 'Yellow-breasted Bunting', 'Chinese Crested Tern']\n```",
+        "correct_common_names": [
+            "Streaked Reed-warbler",
+            "Baer's Pochard",
+            "Yellow-crested Cockatoo",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Siberian Crane",
+            "White-shouldered Ibis",
+            "Blue-crowned Laughingthrush",
+            "Red-headed Vulture",
+            "Crested Shelduck",
+            "Chinese Crested Tern"
+        ],
+        "correct_scientific_names": [
+            "Acrocephalus sorghophilus",
+            "Aythya baeri",
+            "Cacatua sulphurea",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Leucogeranus leucogeranus",
+            "Pseudibis davisoni",
+            "Pterorhinus courtoisi",
+            "Sarcogyps calvus",
+            "Tadorna cristata",
+            "Thalasseus bernsteini"
+        ]
+    },
+    "CO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Colombia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow', 'Baudo Guan', 'White-chested Swift', 'Grey-throated Warbler', 'Antioquia Bristle-Tyrant', 'Niceforo's Wren', 'Hooded Tinamou', 'Sooty-capped Puffbird', 'Yellow-eared Parrot', 'Blue-bearded Helmetcrest', 'Sinu Parakeet', 'Santa Marta Parakeet', 'Fuertes's Parrot', 'Indigo-capped Hummingbird']\n```",
+        "correct_common_names": [
+            "Great Green Macaw",
+            "Antioquia Brush-finch",
+            "Santa Marta Sabrewing",
+            "Blue-billed Curassow",
+            "Gorgeted Puffleg",
+            "Urrao Antpitta",
+            "Chestnut-capped Piha",
+            "Waved Albatross",
+            "Galapagos Petrel",
+            "Sinu Parakeet",
+            "Niceforo's Wren",
+            "Santa Marta Wren"
+        ],
+        "correct_scientific_names": [
+            "Ara ambiguus",
+            "Atlapetes blancae",
+            "Campylopterus phainopeplus",
+            "Crax alberti",
+            "Eriocnemis isabellae",
+            "Grallaria fenwickorum",
+            "Lipaugus weberi",
+            "Phoebastria irrorata",
+            "Pterodroma phaeopygia",
+            "Pyrrhura subandina",
+            "Thryophilus nicefori",
+            "Troglodytes monticola"
+        ]
+    },
+    "CR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Costa Rica.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Mangrove Hummingbird', 'Yellow-billed Cotinga', 'Great Green Macaw']\n```",
+        "correct_common_names": [
+            "Guanacaste Hummingbird",
+            "Yellow-naped Amazon",
+            "Great Green Macaw",
+            "Galapagos Petrel"
+        ],
+        "correct_scientific_names": [
+            "Amazilia alfaroana",
+            "Amazona auropalliata",
+            "Ara ambiguus",
+            "Pterodroma phaeopygia"
+        ]
+    },
+    "CU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Cuba.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-eyed Ground-dove', 'Zapata Rail', 'Ivory-billed Woodpecker']\n```",
+        "correct_common_names": [
+            "Cuban Kite",
+            "Zapata Rail",
+            "Bachman's Warbler"
+        ],
+        "correct_scientific_names": [
+            "Chondrohierax wilsonii",
+            "Cyanolimnas cerverai",
+            "Vermivora bachmanii"
+        ]
+    },
+    "CV": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Cabo Verde.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Rasos Lark']\n``` \n",
+        "correct_common_names": [
+            "Raso Lark"
+        ],
+        "correct_scientific_names": [
+            "Alauda razae"
+        ]
+    },
+    "CY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Cyprus.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "CZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Czechia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are **no** bird species classified as Critically Endangered that are found in Czechia. \n\nTherefore, the Python list would be empty:\n```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "DE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Germany.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are **no bird species found in Germany that are classified as Critically Endangered**. \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "DJ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Djibouti.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Djibouti Francolin']\n```",
+        "correct_common_names": [
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "Djibouti Francolin",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Pternistis ochropectus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "DK": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Denmark.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are **no** bird species classified as Critically Endangered that are found in Denmark. \n\nTherefore, the Python list would be empty:\n```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "DM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Dominica.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Imperial Parrot', 'Red-necked Parrot']\n``` \n",
+        "correct_common_names": [
+            "Imperial Amazon",
+            "Jamaican Petrel"
+        ],
+        "correct_scientific_names": [
+            "Amazona imperialis",
+            "Pterodroma caribbaea"
+        ]
+    },
+    "DO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Dominican Republic.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Hispaniolan Amazon', 'Bay-breasted Cuckoo']\n```",
+        "correct_common_names": [
+            "Ridgway's Hawk"
+        ],
+        "correct_scientific_names": [
+            "Buteo ridgwayi"
+        ]
+    },
+    "DZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Algeria.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis']\n```",
+        "correct_common_names": [
+            "R\u00fcppell's Vulture",
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Gyps rueppelli",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "EC": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Ecuador.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow', 'Esmeraldas Woodstar', 'Mangrove Finch', 'Pink-throated Brilliant']\n```",
+        "correct_common_names": [
+            "Lilacine Amazon",
+            "Great Green Macaw",
+            "Turquoise-throated Puffleg",
+            "Mangrove Finch",
+            "Medium Tree-finch",
+            "Blue-throated Hillstar",
+            "Waved Albatross",
+            "Galapagos Petrel",
+            "Maranon Spinetail"
+        ],
+        "correct_scientific_names": [
+            "Amazona lilacina",
+            "Ara ambiguus",
+            "Eriocnemis godini",
+            "Geospiza heliobates",
+            "Geospiza pauper",
+            "Oreotrochilus cyanolaemus",
+            "Phoebastria irrorata",
+            "Pterodroma phaeopygia",
+            "Synallaxis maranonica"
+        ]
+    },
+    "EE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Estonia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Aquatic Warbler']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola"
+        ]
+    },
+    "EG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Egypt.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-headed Duck']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "R\u00fcppell's Vulture",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Gyps rueppelli",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "ER": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Eritrea.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Archipelago Lark']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "ES": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Spain.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "R\u00fcppell's Vulture",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Gyps rueppelli",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "ET": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Ethiopia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[\n'White-winged Flufftail', \n'Liben Lark', \n'Sidamo Lark', \n'R\u00fcppell's Vulture', \n'Yellow-throated Serin'\n]\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Liben Lark",
+            "Hooded Vulture",
+            "White-winged Flufftail",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Heteromirafra archeri",
+            "Necrosyrtes monachus",
+            "Sarothrura ayresi",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "FI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Finland.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Aquatic Warbler']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Vanellus gregarius"
+        ]
+    },
+    "FJ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Fiji.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Fiji Petrel']\n``` \n",
+        "correct_common_names": [
+            "Red-throated Lorikeet",
+            "Fiji Petrel"
+        ],
+        "correct_scientific_names": [
+            "Charmosyna amabilis",
+            "Pseudobulweria macgillivrayi"
+        ]
+    },
+    "FM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Micronesia, Federated States of .\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Pohnpei Lorikeet', 'Citrine White-eye', 'Sonsorol Starling', 'Mariana Crow', 'Yap Monarch', 'Caroline Islands Ground-Dove']\n```",
+        "correct_common_names": [
+            "Pohnpei Starling"
+        ],
+        "correct_scientific_names": [
+            "Aplonis pelzelni"
+        ]
+    },
+    "FO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Faroe Islands.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Puffinus mauretanicus"
+        ]
+    },
+    "FR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in France.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Amsterdam Albatross', 'Balearic Shearwater']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "GA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Gabon.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Grey Parrot']\n``` \n",
+        "correct_common_names": [
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "GB": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in United Kingdom of Great Britain and Northern Ireland.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "GD": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Grenada.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Grenada Dove']\n```",
+        "correct_common_names": [
+            "Grenada Dove"
+        ],
+        "correct_scientific_names": [
+            "Leptotila wellsi"
+        ]
+    },
+    "GE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Georgia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "It seems you're interested in birds found specifically within the country of Georgia. However, there are no bird species classified as Critically Endangered by the IUCN Red List within the country of Georgia. \n\nPlease note that if you were interested in a different geographical region called \"Georgia\" (like the US state), you would need to specify that for a different result. \n\nLet me know if you have any other questions. \n",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "GH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Ghana.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-necked Picathartes', 'Yellow-billed Turaco']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "GI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Gibraltar.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are **no** Critically Endangered bird species found in Gibraltar. \n\nTherefore, your Python list would be empty:\n\n`[]` \n",
+        "correct_common_names": [
+            "R\u00fcppell's Vulture",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Gyps rueppelli",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "GM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Gambia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Atlantic Humpback Dolphin']\n```\n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "GN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Guinea.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-necked Picathartes']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "GP": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Guadeloupe.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Guadeloupe Woodpecker']\n``` \n",
+        "correct_common_names": [
+            "Jamaican Petrel"
+        ],
+        "correct_scientific_names": [
+            "Pterodroma caribbaea"
+        ]
+    },
+    "GQ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Equatorial Guinea.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Grey Parrot']\n``` \n",
+        "correct_common_names": [
+            "Annobon Scops-owl"
+        ],
+        "correct_scientific_names": [
+            "Otus feae"
+        ]
+    },
+    "GR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Greece.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Balearic Shearwater']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "GT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Guatemala.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow', 'Belted Flycatcher']\n```",
+        "correct_common_names": [
+            "Yellow-naped Amazon",
+            "Galapagos Petrel"
+        ],
+        "correct_scientific_names": [
+            "Amazona auropalliata",
+            "Pterodroma phaeopygia"
+        ]
+    },
+    "GU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Guam.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Guam Rail', 'Mariana Crow', 'Siberian Crane']\n```",
+        "correct_common_names": [
+            "Mariana Crow",
+            "Guam Rail",
+            "Townsend's Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Corvus kubaryi",
+            "Hypotaenidia owstoni",
+            "Puffinus auricularis"
+        ]
+    },
+    "GW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Guinea-Bissau.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Atlantic Humpback Dolphin']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "GY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Guyana.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sun parakeet']\n``` \n",
+        "correct_common_names": [
+            "Rio Branco Antbird",
+            "Hoary-throated Spinetail"
+        ],
+        "correct_scientific_names": [
+            "Cercomacra carbonaria",
+            "Synallaxis kollari"
+        ]
+    },
+    "HK": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Hong Kong.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Black-faced Spoonbill', 'Yellow-breasted Bunting']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Yellow-crested Cockatoo",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "Siberian Crane"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Cacatua sulphurea",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Leucogeranus leucogeranus"
+        ]
+    },
+    "HN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Honduras.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow']\n```",
+        "correct_common_names": [
+            "Yellow-naped Amazon",
+            "Great Green Macaw"
+        ],
+        "correct_scientific_names": [
+            "Amazona auropalliata",
+            "Ara ambiguus"
+        ]
+    },
+    "HR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Croatia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing']\n``` \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "HT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Haiti.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Hispaniolan Amazon', 'Black-capped Petrel']\n```",
+        "correct_common_names": [
+            "Ridgway's Hawk"
+        ],
+        "correct_scientific_names": [
+            "Buteo ridgwayi"
+        ]
+    },
+    "HU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Hungary.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "ID": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Indonesia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sangihe Shrikethrush', 'Sangihe Whistler', 'Cerulean Paradise-flycatcher', 'Blue-fronted Lorikeet', 'Silvery Woodpigeon', 'Javan Hawk-eagle', 'Black-winged Myna', 'Rueck\\'s Blue-flycatcher', 'Bawean Serpent-eagle', 'Helmeted Hornbill']\n```",
+        "correct_common_names": [
+            "Javan Blue-banded Kingfisher",
+            "Citron-crested Cockatoo",
+            "Yellow-crested Cockatoo",
+            "Spoon-billed Sandpiper",
+            "Sumatran Ground-cuckoo",
+            "Sangihe Dwarf-kingfisher",
+            "Blue-fronted Lorikeet",
+            "Javan Green Magpie",
+            "Silvery Pigeon",
+            "Sangihe Whistler",
+            "Banggai Crow",
+            "Javan Blue-flycatcher",
+            "R\u00fcck's Blue-flycatcher",
+            "Cerulean Flycatcher",
+            "Rufous-fronted Laughingthrush",
+            "Nias Hill Myna",
+            "Javan Pied Starling",
+            "Sangihe Golden Bulbul",
+            "Bali Myna",
+            "Malay Crestless Fireback",
+            "Maleo",
+            "Flores Hawk-eagle",
+            "Siau Scops-owl",
+            "White-shouldered Ibis",
+            "Straw-headed Bulbul",
+            "Helmeted Hornbill",
+            "Black-chinned Monarch",
+            "Chinese Crested Tern",
+            "Javan Lapwing",
+            "Sangihe White-eye"
+        ],
+        "correct_scientific_names": [
+            "Alcedo euryzona",
+            "Cacatua citrinocristata",
+            "Cacatua sulphurea",
+            "Calidris pygmaea",
+            "Carpococcyx viridis",
+            "Ceyx sangirensis",
+            "Charmosyna toxopei",
+            "Cissa thalassina",
+            "Columba argentina",
+            "Coracornis sanghirensis",
+            "Corvus unicolor",
+            "Cyornis banyumas",
+            "Cyornis ruckii",
+            "Eutrichomyias rowleyi",
+            "Garrulax rufifrons",
+            "Gracula robusta",
+            "Gracupica jalla",
+            "Hypsipetes platenae",
+            "Leucopsar rothschildi",
+            "Lophura erythrophthalma",
+            "Macrocephalon maleo",
+            "Nisaetus floris",
+            "Otus siaoensis",
+            "Pseudibis davisoni",
+            "Pycnonotus zeylanicus",
+            "Rhinoplax vigil",
+            "Symposiachrus boanensis",
+            "Thalasseus bernsteini",
+            "Vanellus macropterus",
+            "Zosterops nehrkorni"
+        ]
+    },
+    "IE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Ireland.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "There are **no** Critically Endangered bird species on the IUCN Red List that are found in Ireland. \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "IL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Israel.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Vulture', 'Saker Falcon']\n```\n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "IN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in India.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Great Indian Bustard', 'Bengal Florican', 'Spoon-billed Sandpiper', 'Jerdon's Courser', 'White-rumped Vulture', 'Indian Vulture', 'Slender-billed Vulture', 'Red-headed Vulture', 'Sociable Lapwing', 'Pink-headed Duck']\n```\n",
+        "correct_common_names": [
+            "White-bellied Heron",
+            "Great Indian Bustard",
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Indian Vulture",
+            "Slender-billed Vulture",
+            "Bengal Florican",
+            "Siberian Crane",
+            "Bugun Liocichla",
+            "Himalayan Quail",
+            "Jerdon's Courser",
+            "Pink-headed Duck",
+            "Red-headed Vulture",
+            "Lesser Florican",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Ardea insignis",
+            "Ardeotis nigriceps",
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps indicus",
+            "Gyps tenuirostris",
+            "Houbaropsis bengalensis",
+            "Leucogeranus leucogeranus",
+            "Liocichla bugunorum",
+            "Ophrysia superciliosa",
+            "Rhinoptilus bitorquatus",
+            "Rhodonessa caryophyllacea",
+            "Sarcogyps calvus",
+            "Sypheotides indicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "IQ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Iraq.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis', 'White-headed Duck']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "IR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Iran, Islamic Republic of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck', 'Siberian Crane', 'Spotted Redshank']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Siberian Crane",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Leucogeranus leucogeranus",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "IT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Italy.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Balearic Shearwater']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "JM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Jamaica.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Jamaican Blackbird', 'Orange-breasted Fruiteater']\n```",
+        "correct_common_names": [
+            "Jamaican Petrel",
+            "Jamaican Poorwill"
+        ],
+        "correct_scientific_names": [
+            "Pterodroma caribbaea",
+            "Siphonorhis americana"
+        ]
+    },
+    "JO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Jordan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Northern Bald Ibis']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Siberian Crane",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Leucogeranus leucogeranus",
+            "Vanellus gregarius"
+        ]
+    },
+    "JP": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Japan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Okinawa Rail', 'Japanese Crested Ibis']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Okinawa Woodpecker",
+            "Yellow-breasted Bunting",
+            "Siberian Crane",
+            "Slender-billed Curlew",
+            "Bryan's Shearwater",
+            "Crested Shelduck"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Dendrocopos noguchii",
+            "Emberiza aureola",
+            "Leucogeranus leucogeranus",
+            "Numenius tenuirostris",
+            "Puffinus bryani",
+            "Tadorna cristata"
+        ]
+    },
+    "KE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Kenya.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Tana River Cisticola', 'Aberdare Cisticola', 'Sokoke Scops Owl', 'Taita Thrush', 'Taita Apalis', 'Clarke's Weaver']\n```",
+        "correct_common_names": [
+            "Taita Apalis",
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Apalis fuscigularis",
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "KG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Kyrgyzstan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n```",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "KH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Cambodia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-shouldered Ibis', 'Giant Ibis', 'White-rumped Vulture', 'Slender-billed Vulture', 'Red-headed Vulture']\n```",
+        "correct_common_names": [
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Masked Finfoot",
+            "Bengal Florican",
+            "White-shouldered Ibis",
+            "Red-headed Vulture",
+            "Giant Ibis"
+        ],
+        "correct_scientific_names": [
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Heliopais personatus",
+            "Houbaropsis bengalensis",
+            "Pseudibis davisoni",
+            "Sarcogyps calvus",
+            "Thaumatibis gigantea"
+        ]
+    },
+    "KI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Kiribati.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Kiritimati Reed-warbler', 'Rimatara Lorikeet']\n```",
+        "correct_common_names": [
+            "Newell's Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Puffinus newelli"
+        ]
+    },
+    "KN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Saint Kitts and Nevis.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Saint Kitts Bullfinch"
+        ],
+        "correct_scientific_names": [
+            "Melopyrrha grandis"
+        ]
+    },
+    "KP": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Korea, Democratic People's Republic of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "I do not have access to real-time information, including dynamic databases like the IUCN Red List. To get the most up-to-date list of Critically Endangered bird species in the Democratic People's Republic of Korea, I recommend visiting the IUCN Red List website directly. \n",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola"
+        ]
+    },
+    "KR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Korea, Republic of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper', 'Chinese Crested Tern']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "Siberian Crane",
+            "Crested Shelduck",
+            "Chinese Crested Tern"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Leucogeranus leucogeranus",
+            "Tadorna cristata",
+            "Thalasseus bernsteini"
+        ]
+    },
+    "KW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Kuwait.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n``` \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "KZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Kazakhstan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Siberian Crane",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Leucogeranus leucogeranus",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "LA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Lao People's Democratic Republic.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Giant Ibis', 'White-shouldered Ibis', 'White-rumped Vulture', 'Slender-billed Vulture', 'Red-headed Vulture']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Masked Finfoot",
+            "White-shouldered Ibis",
+            "Annamite Crested Argus",
+            "Red-headed Vulture",
+            "Giant Ibis"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Heliopais personatus",
+            "Pseudibis davisoni",
+            "Rheinardia ocellata",
+            "Sarcogyps calvus",
+            "Thaumatibis gigantea"
+        ]
+    },
+    "LB": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Lebanon.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Northern Bald Ibis']\n```",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "LC": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Saint Lucia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Saint Lucia Amazon', 'Saint Lucia Black Finch', 'Saint Lucia Oriole', 'Saint Lucia Pewee', 'Saint Lucia Whip-tail']\n```",
+        "correct_common_names": [
+            "Semper's Warbler"
+        ],
+        "correct_scientific_names": [
+            "Leucopeza semperi"
+        ]
+    },
+    "LK": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Sri Lanka.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sri Lanka White-eye', 'Blue-faced Malkoha']\n```",
+        "correct_common_names": [
+            "Spoon-billed Sandpiper",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Calidris pygmaea",
+            "Vanellus gregarius"
+        ]
+    },
+    "LR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Liberia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-necked Picathartes']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "Hooded Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Necrosyrtes monachus"
+        ]
+    },
+    "LS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Lesotho.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-winged Flufftail']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli"
+        ]
+    },
+    "LU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Luxembourg.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "After checking the IUCN Red List and resources on birdlife in Luxembourg, I can confirm that there are **no** Critically Endangered bird species currently found in Luxembourg. \n\nTherefore, the Python list would be empty:\n```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "LV": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Latvia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola"
+        ]
+    },
+    "LY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Libya.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Northern Bald Ibis']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "MA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Morocco.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis']\n``` \n",
+        "correct_common_names": [
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "MC": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Monaco.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "It's tricky to definitively say which Critically Endangered birds are present in Monaco without conducting extensive field research. Here's why:\n\n* **Monaco's Size:** Monaco is incredibly small, making it less likely to host a resident population of Critically Endangered birds, which often require specific and sometimes rare habitats.\n* **Migratory Patterns:** Birds listed as Critically Endangered might pass through Monaco during migration, but this doesn't mean they are residents. \n* **Data Specificity:** The IUCN Red List provides regional and global assessments, not country-specific lists for every nation.\n\n**Therefore, it's highly probable that the list is empty.  However, to get a potentially relevant list, you would need to:**\n\n1. **Consult BirdLife International:** They often have more detailed range maps.\n2. **Contact Local Ornithological Societies:** Organizations in Monaco or nearby France would have the most accurate information on local bird sightings. \n\nRemember, protecting all bird species, regardless of their conservation status, is crucial for a healthy ecosystem. \n",
+        "correct_common_names": [
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Puffinus mauretanicus"
+        ]
+    },
+    "ME": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Montenegro.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Atlantic Puffin']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "MG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Madagascar.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Madagascar Pochard', 'Madagascar Fish Eagle', 'Alaotra Grebe', 'Madagascar Serpent Eagle', 'Bernardius's Vanga']\n```",
+        "correct_common_names": [
+            "Madagascar Pochard",
+            "Madagascar Fish-eagle"
+        ],
+        "correct_scientific_names": [
+            "Aythya innotata",
+            "Haliaeetus vociferoides"
+        ]
+    },
+    "MK": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in North Macedonia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Egyptian Vulture']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris"
+        ]
+    },
+    "ML": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Mali.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-collared Oliveback', 'Timbuktu Oliveback']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "MM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Myanmar.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper', 'White-rumped Vulture', 'Slender-billed Vulture', 'Red-headed Vulture', 'White-throated Bushchat']\n```",
+        "correct_common_names": [
+            "White-bellied Heron",
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Masked Finfoot",
+            "Gurney's Pitta",
+            "White-shouldered Ibis",
+            "Straw-headed Bulbul",
+            "Helmeted Hornbill",
+            "Pink-headed Duck",
+            "Red-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Ardea insignis",
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Heliopais personatus",
+            "Hydrornis gurneyi",
+            "Pseudibis davisoni",
+            "Pycnonotus zeylanicus",
+            "Rhinoplax vigil",
+            "Rhodonessa caryophyllacea",
+            "Sarcogyps calvus"
+        ]
+    },
+    "MN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Mongolia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-throated Bushchat', 'Relict Gull', 'Yellow-breasted Bunting']\n``` \n",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Yellow-breasted Bunting",
+            "Siberian Crane"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Emberiza aureola",
+            "Leucogeranus leucogeranus"
+        ]
+    },
+    "MP": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Northern Mariana Islands.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Marianas Megapode', 'Rufous Fantail', 'Nightingale Reed Warbler']\n```",
+        "correct_common_names": [
+            "Saipan Reed-warbler",
+            "Mariana Crow",
+            "Townsend's Shearwater",
+            "Rota White-eye"
+        ],
+        "correct_scientific_names": [
+            "Acrocephalus hiwae",
+            "Corvus kubaryi",
+            "Puffinus auricularis",
+            "Zosterops rotensis"
+        ]
+    },
+    "MR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Mauritania.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Atlantic Humpback Dolphin']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "MT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Malta.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Balearic Shearwater']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "MU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Mauritius.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Pink Pigeon', 'Mauritius Olive White-eye', 'Mauritius Cuckoo-shrike']\n```",
+        "correct_common_names": [
+            "Madagascar Fish-eagle",
+            "Mascarene Petrel",
+            "Mauritius Olive White-eye"
+        ],
+        "correct_scientific_names": [
+            "Haliaeetus vociferoides",
+            "Pseudobulweria aterrima",
+            "Zosterops chloronothos"
+        ]
+    },
+    "MV": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Maldives.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-collared Kingfisher', \"Grey-backed Tern\"]\n```",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "MW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Malawi.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-winged Flufftail']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "MX": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Mexico.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Townsend's Shearwater', 'Blue-billed Curassow', 'Horned Guan', 'Eskimo Curlew', 'Marbled Wood-Quail', 'Red-billed Pigeon', 'Tula Masked Bobwhite', 'Socorro Dove', 'Black-capped Vireo', 'Yellow-headed Amazon', 'Lilac-crowned Amazon', 'Red-crowned Amazon']\n```",
+        "correct_common_names": [
+            "Yellow-naped Amazon",
+            "Imperial Woodpecker",
+            "California Condor",
+            "Guadalupe Storm-petrel",
+            "Short-crested Coquette",
+            "Socorro Mockingbird",
+            "Eskimo Curlew",
+            "Galapagos Petrel",
+            "Townsend's Shearwater",
+            "Cozumel Thrasher"
+        ],
+        "correct_scientific_names": [
+            "Amazona auropalliata",
+            "Campephilus imperialis",
+            "Gymnogyps californianus",
+            "Hydrobates macrodactylus",
+            "Lophornis brachylophus",
+            "Mimus graysoni",
+            "Numenius borealis",
+            "Pterodroma phaeopygia",
+            "Puffinus auricularis",
+            "Toxostoma guttatum"
+        ]
+    },
+    "MY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Malaysia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Helmeted Hornbill', 'Spoon-billed Sandpiper', 'Christmas Island Frigatebird', 'Rufa Red Knot']\n```",
+        "correct_common_names": [
+            "Spoon-billed Sandpiper",
+            "Silvery Pigeon",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Malay Crestless Fireback",
+            "White-shouldered Ibis",
+            "Straw-headed Bulbul",
+            "Helmeted Hornbill",
+            "Red-headed Vulture",
+            "Chinese Crested Tern"
+        ],
+        "correct_scientific_names": [
+            "Calidris pygmaea",
+            "Columba argentina",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Lophura erythrophthalma",
+            "Pseudibis davisoni",
+            "Pycnonotus zeylanicus",
+            "Rhinoplax vigil",
+            "Sarcogyps calvus",
+            "Thalasseus bernsteini"
+        ]
+    },
+    "MZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Mozambique.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Madagascar Pond-heron', 'White-winged Flufftail']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "NC": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in New Caledonia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['New Caledonian Owlet-nightjar', 'New Caledonian Lorikeet', 'Crow Honeyeater', 'Yellow-bellied Robin', 'New Caledonian Rail']\n```",
+        "correct_common_names": [
+            "New Caledonian Owlet-nightjar",
+            "New Caledonian Lorikeet",
+            "New Caledonian Nightjar",
+            "New Caledonian Rail",
+            "Crow Honeyeater",
+            "New Caledonian Buttonquail"
+        ],
+        "correct_scientific_names": [
+            "Aegotheles savesi",
+            "Charmosyna diadema",
+            "Eurostopodus exul",
+            "Gallirallus lafresnayanus",
+            "Gymnomyza aubryana",
+            "Turnix novaecaledoniae"
+        ]
+    },
+    "NE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Niger.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-collared Plover', 'Neumann's Starling', 'Scioto Sparrow']\n```",
+        "correct_common_names": [
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "NF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Norfolk Island.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Norfolk Ground-dove']\n```",
+        "correct_common_names": [
+            "White-chested White-eye"
+        ],
+        "correct_scientific_names": [
+            "Zosterops albogularis"
+        ]
+    },
+    "NG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Nigeria.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sciophylax Swift']\n``` \n",
+        "correct_common_names": [
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps rueppelli",
+            "Necrosyrtes monachus"
+        ]
+    },
+    "NI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Nicaragua.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow']\n```",
+        "correct_common_names": [
+            "Yellow-naped Amazon",
+            "Great Green Macaw",
+            "Galapagos Petrel"
+        ],
+        "correct_scientific_names": [
+            "Amazona auropalliata",
+            "Ara ambiguus",
+            "Pterodroma phaeopygia"
+        ]
+    },
+    "NL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Netherlands.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "After checking the IUCN Red List and cross-referencing with bird species found in the Netherlands, I can confirm that there are **no** Critically Endangered bird species on the IUCN Red List that are found in the Netherlands. \n\nTherefore, the Python list would be empty:\n```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "NO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Norway.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Atlantic Puffin']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "NP": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Nepal.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Bengal Florican', 'Pink-headed Duck', 'Slender-billed Vulture', 'White-rumped Vulture', 'Indian Vulture']\n```",
+        "correct_common_names": [
+            "White-bellied Heron",
+            "Baer's Pochard",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Indian Vulture",
+            "Slender-billed Vulture",
+            "Bengal Florican",
+            "Pink-headed Duck",
+            "Red-headed Vulture",
+            "Lesser Florican"
+        ],
+        "correct_scientific_names": [
+            "Ardea insignis",
+            "Aythya baeri",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps indicus",
+            "Gyps tenuirostris",
+            "Houbaropsis bengalensis",
+            "Rhodonessa caryophyllacea",
+            "Sarcogyps calvus",
+            "Sypheotides indicus"
+        ]
+    },
+    "NZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in New Zealand.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Chatham Island Taiko', 'New Zealand Fairy Tern', 'Orange-fronted Parakeet', 'K\u0101k\u0101p\u014d']\n```",
+        "correct_common_names": [
+            "South Island Kokako",
+            "Southern Red-breasted Plover",
+            "Malherbe's Parakeet",
+            "New Zealand Storm-petrel",
+            "Black Stilt",
+            "Chatham Islands Shag",
+            "Whenua Hou Diving-petrel",
+            "Magenta Petrel",
+            "Kakapo"
+        ],
+        "correct_scientific_names": [
+            "Callaeas cinereus",
+            "Charadrius obscurus",
+            "Cyanoramphus malherbi",
+            "Fregetta maoriana",
+            "Himantopus novaezelandiae",
+            "Leucocarbo onslowi",
+            "Pelecanoides whenuahouensis",
+            "Pterodroma magentae",
+            "Strigops habroptilus"
+        ]
+    },
+    "OM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Oman.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis', 'Socotra Cormorant']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Vanellus gregarius"
+        ]
+    },
+    "PA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Panama.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow', 'Rufous-vented Ground-Cuckoo']\n```",
+        "correct_common_names": [
+            "Great Green Macaw",
+            "Waved Albatross",
+            "Galapagos Petrel",
+            "Townsend's Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Ara ambiguus",
+            "Phoebastria irrorata",
+            "Pterodroma phaeopygia",
+            "Puffinus auricularis"
+        ]
+    },
+    "PE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Peru.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Junin Grebe', 'White-winged Guan', 'Rufous-headed Chachalaca', 'Blue-billed Curassow', 'White-headed Brush-finch', 'Royal Sunangel', 'Marvelous Spatuletail']\n```",
+        "correct_common_names": [
+            "Royal Cinclodes",
+            "White-bellied Cinclodes",
+            "Chilean Woodstar",
+            "Sira Curassow",
+            "Waved Albatross",
+            "Galapagos Petrel",
+            "Maranon Spinetail"
+        ],
+        "correct_scientific_names": [
+            "Cinclodes aricomae",
+            "Cinclodes palliatus",
+            "Eulidia yarrellii",
+            "Pauxi koepckeae",
+            "Phoebastria irrorata",
+            "Pterodroma phaeopygia",
+            "Synallaxis maranonica"
+        ]
+    },
+    "PF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in French Polynesia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Fatu Hiva Monarch', 'Nuku Hiva Monarch', 'Polynesian Ground Dove', 'Ua Huka Extinct Lorikeet']\n```",
+        "correct_common_names": [
+            "Moorea Reed-warbler",
+            "Rimatara Reed-warbler",
+            "Polynesian Ground-dove",
+            "Iphis Monarch",
+            "Ua Pou Monarch",
+            "Tahiti Monarch",
+            "Fatu Hiva Monarch",
+            "Rapa Fruit-dove",
+            "Rapa Shearwater",
+            "Tuamotu Kingfisher",
+            "Marquesas Kingfisher",
+            "Ultramarine Lorikeet"
+        ],
+        "correct_scientific_names": [
+            "Acrocephalus longirostris",
+            "Acrocephalus rimitarae",
+            "Pampusana erythroptera",
+            "Pomarea iphis",
+            "Pomarea mira",
+            "Pomarea nigra",
+            "Pomarea whitneyi",
+            "Ptilinopus huttoni",
+            "Puffinus myrtae",
+            "Todiramphus gambieri",
+            "Todiramphus godeffroyi",
+            "Vini ultramarina"
+        ]
+    },
+    "PG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Papua New Guinea.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-eyed Cockatoo', 'Orange-fronted Parakeet', 'Edwards's Fig-Parrot', 'Black-winged Myna', 'New Ireland Waterhen', 'Hooded Butcherbird', 'Rusty-naped Whistler', 'Manus Fantail', 'Finsch's Imperial-Pigeon', 'Yellow-eyed Starling', 'Black Honey-buzzard']\n```",
+        "correct_common_names": [
+            "Black-naped Pheasant-pigeon",
+            "Beck's Petrel"
+        ],
+        "correct_scientific_names": [
+            "Otidiphaps insularis",
+            "Pseudobulweria becki"
+        ]
+    },
+    "PH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Philippines.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Cebu Flowerpecker', 'Sulu Bleeding-heart', 'Rufous-headed Tailorbird', 'Visayan Hornbill']\n```",
+        "correct_common_names": [
+            "Streaked Reed-warbler",
+            "Sulu Hornbill",
+            "Baer's Pochard",
+            "Philippine Cockatoo",
+            "Spoon-billed Sandpiper",
+            "Black-hooded Coucal",
+            "Cebu Flowerpecker",
+            "Yellow-breasted Bunting",
+            "Negros Bleeding-heart",
+            "Sulu Bleeding-heart",
+            "Mindoro Bleeding-heart",
+            "Isabela Oriole",
+            "Cebu Brown-dove",
+            "Philippine Eagle",
+            "Sulu Racquet-tail",
+            "Galapagos Petrel",
+            "Negros Fruit-dove",
+            "Rufous-headed Hornbill",
+            "Chinese Crested Tern"
+        ],
+        "correct_scientific_names": [
+            "Acrocephalus sorghophilus",
+            "Anthracoceros montani",
+            "Aythya baeri",
+            "Cacatua haematuropygia",
+            "Calidris pygmaea",
+            "Centropus steerii",
+            "Dicaeum quadricolor",
+            "Emberiza aureola",
+            "Gallicolumba keayi",
+            "Gallicolumba menagei",
+            "Gallicolumba platenae",
+            "Oriolus isabellae",
+            "Phapitreron frontalis",
+            "Pithecophaga jefferyi",
+            "Prioniturus verticalis",
+            "Pterodroma phaeopygia",
+            "Ptilinopus arcanus",
+            "Rhabdotorrhinus waldeni",
+            "Thalasseus bernsteini"
+        ]
+    },
+    "PK": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Pakistan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-rumped Vulture', 'Indian Vulture', 'Slender-billed Vulture']\n```",
+        "correct_common_names": [
+            "Great Indian Bustard",
+            "Baer's Pochard",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Indian Vulture",
+            "Siberian Crane",
+            "Red-headed Vulture",
+            "Lesser Florican",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Ardeotis nigriceps",
+            "Aythya baeri",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps indicus",
+            "Leucogeranus leucogeranus",
+            "Sarcogyps calvus",
+            "Sypheotides indicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "PL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Poland.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "According to the IUCN Red List, there are **no** bird species classified as Critically Endangered that are found in Poland. \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "PR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Puerto Rico.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Puerto Rican Amazon', 'Yellow-shouldered Blackbird']\n```",
+        "correct_common_names": [
+            "Puerto Rican Amazon"
+        ],
+        "correct_scientific_names": [
+            "Amazona vittata"
+        ]
+    },
+    "PS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Palestine, State of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Saker Falcon', 'White-headed Duck']\n``` \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "PT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Portugal.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Azores Bullfinch']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "R\u00fcppell's Vulture",
+            "Slender-billed Curlew",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Gyps rueppelli",
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "PY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Paraguay.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-throated Macaw', 'Yellow-crested Helmet-shrike', 'Hooded Seed-eater']\n```",
+        "correct_common_names": [
+            "Glaucous Macaw",
+            "Brazilian Merganser",
+            "Eskimo Curlew",
+            "Purple-winged Ground-dove"
+        ],
+        "correct_scientific_names": [
+            "Anodorhynchus glaucus",
+            "Mergus octosetaceus",
+            "Numenius borealis",
+            "Paraclaravis geoffroyi"
+        ]
+    },
+    "QA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Qatar.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Socotra Cormorant']\n``` \n",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "RE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in R\u00e9union.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Mascarene Petrel', 'R\u00e9union Cuckoo-shrike']\n```",
+        "correct_common_names": [
+            "Reunion Cuckooshrike",
+            "Mascarene Petrel"
+        ],
+        "correct_scientific_names": [
+            "Lalage newtoni",
+            "Pseudobulweria aterrima"
+        ]
+    },
+    "RO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Romania.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing']\n``` \n",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "RS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Serbia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Saker Falcon']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris"
+        ]
+    },
+    "RU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Russian Federation.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper', 'Siberian Crane', 'Sociable Lapwing', 'Steppe Eagle', 'Red-breasted Goose', 'Baikal Teal']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Siberian Crane",
+            "Slender-billed Curlew",
+            "Crested Shelduck",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Leucogeranus leucogeranus",
+            "Numenius tenuirostris",
+            "Tadorna cristata",
+            "Vanellus gregarius"
+        ]
+    },
+    "RW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Rwanda.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[\"Shoebill\"]\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "SA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Saudi Arabia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis', 'Sociable Lapwing', 'White-winged Duck']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "R\u00fcppell's Vulture",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Gyps rueppelli",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "SB": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Solomon Islands.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Yellow-legged pigeon', 'Duchess lorikeet', 'Rennell shrikebill', 'Sinu parakeet', 'Ultramarine lorikeet', 'Beck's petrel', 'Vanikoro white-eye']\n```",
+        "correct_common_names": [
+            "Makira Moorhen",
+            "Beck's Petrel"
+        ],
+        "correct_scientific_names": [
+            "Pareudiastes silvestris",
+            "Pseudobulweria becki"
+        ]
+    },
+    "SC": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Seychelles.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Seychelles Scops-Owl', 'Seychelles White-eye']\n```",
+        "correct_common_names": [
+            "Seychelles Scops-owl",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Otus insularis",
+            "Vanellus gregarius"
+        ]
+    },
+    "SD": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Sudan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Rueppell's Vulture']\n```\n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "SE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Sweden.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "SG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Singapore.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoonbill Sandpiper', 'Great Knot', 'Rufa Red Knot', 'Christmas Island Frigatebird']\n```",
+        "correct_common_names": [
+            "Yellow-crested Cockatoo",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "Malay Crestless Fireback",
+            "Straw-headed Bulbul",
+            "Helmeted Hornbill"
+        ],
+        "correct_scientific_names": [
+            "Cacatua sulphurea",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Lophura erythrophthalma",
+            "Pycnonotus zeylanicus",
+            "Rhinoplax vigil"
+        ]
+    },
+    "SH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Saint Helena, Ascension and Tristan da Cunha.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Ascension Frigatebird', 'Tristan Albatross', 'Yellow-nosed Albatross', 'Sooty Albatross']\n```",
+        "correct_common_names": [
+            "Tristan Albatross",
+            "Wilkins's Finch",
+            "MacGillivray's Prion",
+            "Gough Island Finch"
+        ],
+        "correct_scientific_names": [
+            "Diomedea dabbenena",
+            "Nesospiza wilkinsi",
+            "Pachyptila macgillivrayi",
+            "Rowettia goughensis"
+        ]
+    },
+    "SI": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Slovenia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "After checking the IUCN Red List and cross-referencing with bird species found in Slovenia, I found that there are **no Critically Endangered bird species** currently listed as present in Slovenia. \n \nTherefore, your Python list would be empty:\n \n`[]` \n",
+        "correct_common_names": [
+            "Balearic Shearwater",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Puffinus mauretanicus",
+            "Vanellus gregarius"
+        ]
+    },
+    "SK": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Slovakia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n[]\n``` \n",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "SL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Sierra Leone.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-necked Picathartes']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus"
+        ]
+    },
+    "SN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Senegal.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Atlantic Humpback Dolphin']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "SO": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Somalia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Liben Lark', 'Hooded Vulture']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Liben Lark",
+            "Hooded Vulture",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Heteromirafra archeri",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "SS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in South Sudan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Shoebill']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "ST": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Sao Tome and Principe.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Dwarf Olive Ibis']\n``` \n",
+        "correct_common_names": [
+            "Dwarf Ibis",
+            "Sao Tome Grosbeak",
+            "Newton's Fiscal",
+            "Principe Scops-owl",
+            "Principe Thrush"
+        ],
+        "correct_scientific_names": [
+            "Bostrychia bocagei",
+            "Crithagra concolor",
+            "Lanius newtoni",
+            "Otus bikegila",
+            "Turdus xanthorhynchus"
+        ]
+    },
+    "SV": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in El Salvador.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-throated Macaw']\n```",
+        "correct_common_names": [
+            "Yellow-naped Amazon",
+            "Galapagos Petrel"
+        ],
+        "correct_scientific_names": [
+            "Amazona auropalliata",
+            "Pterodroma phaeopygia"
+        ]
+    },
+    "SY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Syrian Arab Republic.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis', 'Sociable Lapwing', 'Yellow-breasted Bunting']\n```",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Vanellus gregarius"
+        ]
+    },
+    "SZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Eswatini.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-winged Flufftail']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "Hooded Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Necrosyrtes monachus"
+        ]
+    },
+    "TD": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Chad.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Kordofan lark']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis",
+            "Vanellus gregarius"
+        ]
+    },
+    "TF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in French Southern Territories.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Amsterdam Albatross', 'Northern Rockhopper Penguin', 'Tristan Albatross', 'Antipodean Albatross', 'Sooty Albatross']\n```",
+        "correct_common_names": [
+            "MacGillivray's Prion",
+            "Galapagos Petrel",
+            "Townsend's Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Pachyptila macgillivrayi",
+            "Pterodroma phaeopygia",
+            "Puffinus auricularis"
+        ]
+    },
+    "TG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Togo.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "I do not have access to real-time information, including constantly updated databases like the IUCN Red List. To get the most up-to-date list of Critically Endangered bird species in Togo, I recommend checking the following resources:\n\n* **The IUCN Red List website:** [https://www.iucnredlist.org/](https://www.iucnredlist.org/)\n* **BirdLife International:** [https://www.birdlife.org/](https://www.birdlife.org/) \n \nThese websites allow you to search for species by country and threat level. \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "TH": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Thailand.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper', 'White-shouldered Ibis', 'Gurney's Pitta', 'Rufous-headed Vulture', 'Slender-billed Vulture', 'White-rumped Vulture', 'Indian Vulture']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-eyed River Martin",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Gurney's Pitta",
+            "White-shouldered Ibis",
+            "Helmeted Hornbill",
+            "Red-headed Vulture",
+            "Chinese Crested Tern",
+            "Giant Ibis"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Eurochelidon sirintarae",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Hydrornis gurneyi",
+            "Pseudibis davisoni",
+            "Rhinoplax vigil",
+            "Sarcogyps calvus",
+            "Thalasseus bernsteini",
+            "Thaumatibis gigantea"
+        ]
+    },
+    "TJ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Tajikistan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n``` \n",
+        "correct_common_names": [
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Vanellus gregarius"
+        ]
+    },
+    "TL": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Timor-Leste.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Timor Green Pigeon', 'Yellow-crested Cockatoo']\n```",
+        "correct_common_names": [
+            "Yellow-crested Cockatoo"
+        ],
+        "correct_scientific_names": [
+            "Cacatua sulphurea"
+        ]
+    },
+    "TM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Turkmenistan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing']\n```",
+        "correct_common_names": [
+            "Siberian Crane",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Leucogeranus leucogeranus",
+            "Vanellus gregarius"
+        ]
+    },
+    "TN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Tunisia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Slender-billed Curlew']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Balearic Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Puffinus mauretanicus"
+        ]
+    },
+    "TR": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in T\u00fcrkiye.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Northern Bald Ibis']\n``` \n",
+        "correct_common_names": [
+            "Yellow-breasted Bunting",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Emberiza aureola",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "TT": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Trinidad and Tobago.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Trinidad Piping-guan']\n``` \n",
+        "correct_common_names": [
+            "Trinidad Piping-guan"
+        ],
+        "correct_scientific_names": [
+            "Pipile pipile"
+        ]
+    },
+    "TW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Taiwan, Province of China.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Spoon-billed Sandpiper', 'Chinese Crested Tern']\n```",
+        "correct_common_names": [
+            "Streaked Reed-warbler",
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "Chinese Crested Tern"
+        ],
+        "correct_scientific_names": [
+            "Acrocephalus sorghophilus",
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Thalasseus bernsteini"
+        ]
+    },
+    "TZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Tanzania, United Republic of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Rufous-tailed Scrub-robin', 'Udzungwa Forest Partridge', 'White-winged Flufftail', 'Sociable Lapwing', 'Taita Falcon', 'Amsterdam Albatross', 'Seychelles White-eye']\n```",
+        "correct_common_names": [
+            "Long-billed Forest-warbler",
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Artisornis moreaui",
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "UA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Ukraine.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'Slender-billed Curlew']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris"
+        ]
+    },
+    "UG": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Uganda.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Shoebill']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "UM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in United States Minor Outlying Islands.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Black-footed Albatross', 'Short-tailed Albatross']\n```",
+        "correct_common_names": [
+            "Townsend's Shearwater",
+            "Bryan's Shearwater",
+            "Newell's Shearwater"
+        ],
+        "correct_scientific_names": [
+            "Puffinus auricularis",
+            "Puffinus bryani",
+            "Puffinus newelli"
+        ]
+    },
+    "US": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in United States of America.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Ivory-billed Woodpecker']\n``` \n",
+        "correct_common_names": [
+            "Laysan Duck",
+            "Spoon-billed Sandpiper",
+            "Ivory-billed Woodpecker",
+            "Yellow-breasted Bunting",
+            "California Condor",
+            "Maui Nukupuu",
+            "Kauai Nukupuu",
+            "Palila",
+            "Akekee",
+            "Maui Akepa",
+            "Olomao",
+            "Puaiohi",
+            "Eskimo Curlew",
+            "Akikiki",
+            "Akohekohe",
+            "Oahu Alauahio",
+            "Maui Parrotbill",
+            "Ou",
+            "Bryan's Shearwater",
+            "Newell's Shearwater",
+            "Nihoa Finch",
+            "Bachman's Warbler"
+        ],
+        "correct_scientific_names": [
+            "Anas laysanensis",
+            "Calidris pygmaea",
+            "Campephilus principalis",
+            "Emberiza aureola",
+            "Gymnogyps californianus",
+            "Hemignathus affinis",
+            "Hemignathus hanapepe",
+            "Loxioides bailleui",
+            "Loxops caeruleirostris",
+            "Loxops ochraceus",
+            "Myadestes lanaiensis",
+            "Myadestes palmeri",
+            "Numenius borealis",
+            "Oreomystis bairdi",
+            "Palmeria dolei",
+            "Paroreomyza maculata",
+            "Pseudonestor xanthophrys",
+            "Psittirostra psittacea",
+            "Puffinus bryani",
+            "Puffinus newelli",
+            "Telespiza ultima",
+            "Vermivora bachmanii"
+        ]
+    },
+    "UY": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Uruguay.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Yellow Cardinal', 'Blue-bellied Macaw']\n``` \n",
+        "correct_common_names": [
+            "Glaucous Macaw",
+            "Tristan Albatross",
+            "Eskimo Curlew"
+        ],
+        "correct_scientific_names": [
+            "Anodorhynchus glaucus",
+            "Diomedea dabbenena",
+            "Numenius borealis"
+        ]
+    },
+    "UZ": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Uzbekistan.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Sociable Lapwing', 'White-headed Duck']\n```",
+        "correct_common_names": [
+            "Siberian Crane",
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Leucogeranus leucogeranus",
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "VE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Venezuela, Bolivarian Republic of.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Blue-billed Curassow', 'Yellow-shouldered Parrot', 'Red Siskin', 'Handsome Fruiteater']\n```",
+        "correct_common_names": [
+            "Tachira Antpitta"
+        ],
+        "correct_scientific_names": [
+            "Grallaria chthonia"
+        ]
+    },
+    "VN": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Viet Nam.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Baer's Pochard', 'Edwards's Pheasant', 'Giant Ibis', 'Spoon-billed Sandpiper', 'Bengal Florican', 'Christmas Island Frigatebird', 'Red-headed Vulture', 'White-shouldered Ibis', 'White-rumped Vulture', 'Slender-billed Vulture']\n```",
+        "correct_common_names": [
+            "Baer's Pochard",
+            "Spoon-billed Sandpiper",
+            "Yellow-breasted Bunting",
+            "White-rumped Vulture",
+            "Slender-billed Vulture",
+            "Masked Finfoot",
+            "Bengal Florican",
+            "Vietnam Pheasant",
+            "White-shouldered Ibis",
+            "Annamite Crested Argus",
+            "Red-headed Vulture",
+            "Giant Ibis"
+        ],
+        "correct_scientific_names": [
+            "Aythya baeri",
+            "Calidris pygmaea",
+            "Emberiza aureola",
+            "Gyps bengalensis",
+            "Gyps tenuirostris",
+            "Heliopais personatus",
+            "Houbaropsis bengalensis",
+            "Lophura edwardsi",
+            "Pseudibis davisoni",
+            "Rheinardia ocellata",
+            "Sarcogyps calvus",
+            "Thaumatibis gigantea"
+        ]
+    },
+    "VU": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Vanuatu.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Royal Parrotfinch']\n```",
+        "correct_common_names": [
+            "Beck's Petrel"
+        ],
+        "correct_scientific_names": [
+            "Pseudobulweria becki"
+        ]
+    },
+    "WF": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Wallis and Futuna.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "I cannot provide you with a list of critically endangered birds specific to Wallis and Futuna. \n\nThe IUCN Red List is an incredibly comprehensive resource, but it doesn't always have species-specific data for every single location. It's possible that:\n\n* **Data Deficiency:** There isn't enough research or information available about the bird populations in Wallis and Futuna to determine their exact conservation status there.\n* **Localized Extinction:** Some critically endangered species might have historically been present in Wallis and Futuna but are now locally extinct.\n\nTo get the most accurate and up-to-date information, I recommend consulting with local conservation organizations or experts specializing in the avifauna of Wallis and Futuna. \n",
+        "correct_common_names": [
+            "Beck's Petrel"
+        ],
+        "correct_scientific_names": [
+            "Pseudobulweria becki"
+        ]
+    },
+    "WS": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Samoa.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Tooth-billed Pigeon']\n```",
+        "correct_common_names": [
+            "Tooth-billed Pigeon",
+            "Samoan Moorhen"
+        ],
+        "correct_scientific_names": [
+            "Didunculus strigirostris",
+            "Pareudiastes pacificus"
+        ]
+    },
+    "YE": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Yemen.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Socotra Critically Endangered Bunting', 'Arabian Golden-winged Grosbeak']\n```",
+        "correct_common_names": [
+            "Slender-billed Curlew",
+            "Sociable Lapwing"
+        ],
+        "correct_scientific_names": [
+            "Numenius tenuirostris",
+            "Vanellus gregarius"
+        ]
+    },
+    "ZA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in South Africa.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Amsterdam Albatross', 'Tristan Albatross', 'White-winged Flufftail', 'Southern Bald Ibis', 'Hooded Vulture', 'White-backed Vulture', 'Lappet-faced Vulture']\n```",
+        "correct_common_names": [
+            "Tristan Albatross",
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-winged Flufftail",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Diomedea dabbenena",
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Sarothrura ayresi",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "ZM": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Zambia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Hooded Vulture', 'White-backed Vulture', 'White-headed Vulture', 'Slender-billed Vulture']\n```",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-winged Flufftail",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Sarothrura ayresi",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "ZW": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Zimbabwe.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['White-winged Flufftail']\n``` \n",
+        "correct_common_names": [
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-winged Flufftail",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Sarothrura ayresi",
+            "Trigonoceps occipitalis"
+        ]
+    },
+    "NA": {
+        "question": "List the birds that are classified as Critically Endangered on the IUCN Red List and are found in Namibia.\n\nInstructions:\n\n- Provide the species names using their common names only.\n- Format your response as a Python list, like this: [Species name 1, Species name 2, ...].\n- Ensure that there are no duplicate species names in your list.",
+        "response": "```python\n['Damara Tern', 'Tristan Albatross']\n```",
+        "correct_common_names": [
+            "Tristan Albatross",
+            "White-backed Vulture",
+            "R\u00fcppell's Vulture",
+            "Hooded Vulture",
+            "White-headed Vulture"
+        ],
+        "correct_scientific_names": [
+            "Diomedea dabbenena",
+            "Gyps africanus",
+            "Gyps rueppelli",
+            "Necrosyrtes monachus",
+            "Trigonoceps occipitalis"
+        ]
+    }
+}

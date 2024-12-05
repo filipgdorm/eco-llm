@@ -1,0 +1,568 @@
+{
+    "1": {
+      "name": "Residential & Commercial Development",
+      "description": "Threats from human settlements or other non-agricultural land uses with a substantial footprint.",
+      "subcategories": {
+        "1.1": {
+          "name": "Housing & Urban Areas",
+          "description": "Human cities, towns, and settlements including non-housing development typically integrated with housing.",
+          "examples": "urban areas, suburbs, villages, ranchettes, vacation homes, shopping areas, offices, schools, hospitals, birds flying into windows, land reclamation or expanding human habitation that causes habitat degradation in riverine, estuary and coastal areas, etc."
+        },
+        "1.2": {
+          "name": "Commercial & Industrial Areas",
+          "description": "Factories and other commercial centres.",
+          "examples": "military bases, factories, stand-alone shopping centres, office parks, power plants, train yards, ship yards, airports, landfills, etc."
+        },
+        "1.3": {
+          "name": "Tourism & Recreation Areas",
+          "description": "Tourism and recreation sites with a substantial footprint.",
+          "examples": "ski areas, golf courses, resorts, cricket fields, county parks, afghan goat polo fields, campgrounds, coastal and estuarine tourist resorts, etc."
+        }
+      }
+    },
+    "2": {
+      "name": "Agriculture & Aquaculture",
+      "description": "Threats from farming and ranching as a result of agricultural expansion and intensification, including silviculture, mariculture and aquaculture (includes the impacts of any fencing around farmed areas)",
+      "subcategories": {
+        "2.1": {
+          "name": "Annual & Perennial Non-Timber Crops",
+          "description": "Crops planted for food, fodder, fibre, fuel, or other uses.",
+          "subcategories": {
+            "2.1.1": {
+              "name": "Shifting Agriculture"
+            },
+            "2.1.2": {
+              "name": "Small-holder Farming"
+            },
+            "2.1.3": {
+              "name": "Agro-industry Farming"
+            },
+            "2.1.4": {
+              "name": "Scale Unknown/Unrecorded"
+            }
+          }
+        },
+        "2.2": {
+          "name": "Wood & Pulp Plantations",
+          "description": "Stands of trees planted for timber or fibre outside of natural forests, often with non-native species.",
+          "subcategories": {
+            "2.2.1": {
+              "name": "Small-holder Plantations"
+            },
+            "2.2.2": {
+              "name": "Agro-industry Plantations"
+            },
+            "2.2.3": {
+              "name": "Scale Unknown/Unrecorded"
+            }
+          }
+        },
+        "2.3": {
+          "name": "Livestock Farming & Ranching",
+          "description": "Domestic terrestrial animals raised in one location on farmed or non-local resources (farming); also domestic or semi-domesticated animals allowed to roam in the wild and supported by natural habitats (ranching).",
+          "subcategories": {
+            "2.3.1": {
+              "name": "Nomadic Grazing",
+              "description": "Pastoralists who are normally only present for part of the year."
+            },
+            "2.3.2": {
+              "name": "Small-holder Grazing, Ranching or Farming"
+            },
+            "2.3.3": {
+              "name": "Agro-industry Grazing, Ranching or Farming"
+            },
+            "2.3.4": {
+              "name": "Scale Unknown/Unrecorded"
+            }
+          }
+        },
+        "2.4": {
+          "name": "Marine & Freshwater Aquaculture",
+          "description": "Aquatic animals raised in one location on farmed or non-local resources; also hatchery fish allowed to roam in the wild.",
+          "subcategories": {
+            "2.4.1": {
+              "name": "Subsistence/Artisanal Aquaculture"
+            },
+            "2.4.2": {
+              "name": "Industrial Aquaculture"
+            },
+            "2.4.3": {
+              "name": "Scale Unknown/Unrecorded"
+            }
+          }
+        }
+      }
+    },
+    "3": {
+      "name": "Energy Production & Mining",
+      "description": "Threats from production of non-biological resources.",
+      "subcategories": {
+        "3.1": {
+          "name": "Oil & Gas Drilling",
+          "description": "Exploring for, developing, and producing petroleum and other liquid hydrocarbons.",
+          "examples": "oil wells, deep sea natural gas drilling, hydraulic fracking, etc."
+        },
+        "3.2": {
+          "name": "Mining & Quarrying",
+          "description": "Exploring for, developing, and producing minerals and rocks.",
+          "examples": "coal strip mines, alluvial gold panning, gold mines, rock quarries, sand/salt mines, coral mining, deep sea nodules, guano harvesting, dredging outside of shipping lanes, etc."
+        },
+        "3.3": {
+          "name": "Renewable Energy",
+          "description": "Exploring, developing, and producing renewable energy.",
+          "examples": "geothermal power production, solar farms, wind farms (including birds flying into windmills), tidal farms, etc."
+        }
+      }
+    },
+    "4": {
+      "name": "Transportation & Service Corridors",
+      "description": "Threats from long narrow transport corridors and the vehicles that use them including associated wildlife mortality.",
+      "subcategories": {
+        "4.1": {
+          "name": "Roads & Railroads",
+          "description": "Surface transport on roadways and dedicated tracks.",
+          "examples": "highways, secondary roads, primitive roads, logging roads, bridges & causeways, road kill, fencing a"
+        },
+        "4.2": {
+          "name": "Utility & Service Lines",
+          "description": "Transport of energy and resources.",
+          "examples": "electrical & phone wires, aqueducts, oil & gas pipelines, electrocution of wildlife, etc."
+        },
+        "4.3": {
+          "name": "Shipping Lanes",
+          "description": "Transport on and in freshwater and ocean waterways.",
+          "examples": "dredging, canals, shipping lanes, ships running into whales, wakes from cargo ships, etc."
+        },
+        "4.4": {
+          "name": "Flight Paths",
+          "description": "Air and space transport.",
+          "examples": "flight paths, jets impacting birds, etc."
+        }
+      }
+    },
+    "5": {
+      "name": "Biological Resource Use",
+      "description": "Threats from consumptive use of 'wild' biological resources including both deliberate and unintentional harvesting effects; also persecution or control of specific species.",
+      "subcategories": {
+        "5.1": {
+          "name": "Hunting & Collecting Terrestrial Animals",
+          "description": "Killing or trapping terrestrial wild animals or animal products for commercial, recreation, subsistence, research, or cultural purposess, or for control/persecution reasons; includes accidental mortality/bycatch.",
+          "subcategories": {
+            "5.1.1": {
+              "name": "Intentional Use (species being assessed is the target)",
+              "examples": "bushmeat hunting, trophy hunting, beaver trapping, butterfly collecting, honey or bird nest hunting, etc"
+            },
+            "5.1.2": {
+              "name": "Unintentional Effects (species being assessed is not the target)",
+              "examples": "pest control often impacts non-targeted species, hunter's dogs may chase after and kill other non-target species during a hunt, loss of a species' prey base due to over-harvesting by humans of their prey, etc."
+            },
+            "5.1.3": {
+              "name": "Persecution/Control",
+              "examples": "wolf control, pest control, persecution of snakes because of superstition, etc."
+            },
+            "5.1.4": {
+              "name": "Motivation Unknown/Unrecorded"
+            }
+          }
+        },
+        "5.2": {
+          "name": "Gathering Terrestrial Plants",
+          "description": "Harvesting plants, fungi, and other non-timber/non-animal products for commercial, recreation, subsistence, research or cultural purposes, or for control reasons.",
+          "subcategories": {
+            "5.2.1": {
+              "name": "Intentional Use (species being assessed is the target)",
+              "examples": "wild mushroom collection, forage for stall fed animals, orchid collection, rattan harvesting, etc."
+
+            },
+            "5.2.2": {
+              "name": "Unintentional Effects (species being assessed is not the target)",
+              "examples": "other plants accidientally removed/killed as a result of methods/approach used to harvest a target species, etc"
+
+            },
+            "5.2.3": {
+              "name": "Persecution/Control",
+              "examples": "control of host plants to combat timber diseases, etc."
+            },
+            "5.2.4": {
+              "name": "Motivation Unknown/Unrecorded"
+            }
+          }
+        },
+        "5.3": {
+          "name": "Logging & Wood Harvesting",
+          "description": "Harvesting trees and other woody vegetation for timber, fibre, or fuel.",
+          "subcategories": {
+            "5.3.1": {
+              "name": "Intentional Use: Subsistence/Small Scale (species being assessed is the target)"
+            },
+            "5.3.2": {
+              "name": "Intentional Use: Large Scale (species being assessed is the target)"
+            },
+            "5.3.3": {
+              "name": "Unintentional Effects: Subsistence/Small Scale (species being assessed is not the target)"
+            },
+            "5.3.4": {
+              "name": "Unintentional Effects: Large Scale (species being assessed is not the target)"
+            },
+            "5.3.5": {
+              "name": "Motivation Unknown/Unrecorded"
+            }
+          }
+        },
+        "5.4": {
+          "name": "Fishing & Harvesting Aquatic Resources",
+          "description": "Harvesting aquatic wild animals or plants for commercial, recreation, subsistence, research, or cultural purposes, or for control/persecution reasons; includes accidental mortality/bycatch.",
+          "subcategories": {
+            "5.4.1": {
+              "name": "Intentional Use: Subsistence/Small Scale (species being assessed is the target)",
+              "examples": "seaweed collection, shellfish collection, collection for aquarium trade, fish traps, artisinal trawling, handline fishing, spear fishing, turtle egg collection, whaling, seal hunting, blast fishing for grouper, etc."
+            },
+            "5.4.2": {
+              "name": "Intentional Use: Large Scale (species being assessed is the target)",
+              "examples": "commercial trawling, commercial long-line fisheries, whaling, seal hunting, turtle egg collection, live coral collection, seaweed collection, etc."
+            },
+            "5.4.3": {
+              "name": "Unintentional Effects: Subsistence/Small Scale (species being assessed is not the target)",
+              "examples": "blast fishing, cyanide fishing, artisinal trawling, seaweed collection, shark nets trapping non-target species, loss of a species' prey base due to over-harvesting by humans of their prey, etc."
+            },
+            "5.4.4": {
+              "name": "Unintentional Effects: Large Scale (species being assessed is not the target)",
+              "examples": "blast fishing, cyanide fishing, commercial trawling, commercial long-line fisheries, seaweed collection, shark nets trapping nontarget species, loss of a species' prey base due to overharvesting by humans of their prey, etc."
+            },
+            "5.4.5": {
+              "name": "Persecution/Control",
+              "examples": "beach protection with shark nets, sharks and seals killed because they eat commercial fish species, etc."
+            },
+            "5.4.6": {
+              "name": "Motivation Unknown/Unrecorded"
+            }
+          }
+        }
+      }
+    },
+    "6": {
+    "name": "Human Intrusions & Disturbance",
+    "description": "Threats from human activities that alter, destroy, and disturb habitats and species associated with non-consumptive uses of biological resources.",
+    "subcategories": {
+      "6.1": {
+        "name": "Recreational Activities",
+        "description": "People spending time in nature or traveling in vehicles outside of established transport corridors, usually for recreational reasons.",
+        "examples": "off-road vehicles, motorboats, motorcycles, jet-skis, snowmobiles, ultralight planes, dive boats, whale watching, mountain bikes, hikers, cross-country skiers, hangliders, birdwatchers, scuba divers, pets brought into recreation areas, temporary campsites, caving, rock-climbing, etc."
+      },
+      "6.2": {
+        "name": "War, Civil Unrest & Military Exercises",
+        "description": "Actions by formal or paramilitary forces without a permanent footprint.",
+        "examples": "armed conflict, mine fields, tanks & other military vehicles, training exercises & ranges, defoliation, munitions testing, etc."
+      },
+      "6.3": {
+        "name": "Work & Other Activities",
+        "description": "People spending time in or traveling in natural environments for reasons other than recreation or military activities.",
+        "examples": "law enforcement, drug smugglers, illegal immigrants, species research, vandalism, etc."
+      }
+    }
+  },
+  "7": {
+    "name": "Natural System Modifications",
+    "description": "Threats from actions that convert or degrade habitat in service of managing natural or semi-natural systems, often to improve human welfare.",
+    "subcategories": {
+      "7.1": {
+        "name": "Fire & Fire Suppression",
+        "description": "Suppression or increase in fire frequency and/or intensity outside of its natural range of variation.",
+        "subcategories": {
+          "7.1.1": {
+            "name": "Increase in Fire Frequency/Intensity",
+            "examples": "inappropriate fire management, escaped agricultural fires, arson, campfires, fires for hunting, etc."
+          },
+          "7.1.2": {
+            "name": "Suppression in Fire Frequency/Intensity",
+            "examples": "fire suppression to protect homes, inappropriate fire management, etc."
+          },
+          "7.1.3": {
+            "name": "Trend Unknown/Unrecorded"
+          }
+        }
+      },
+      "7.2": {
+        "name": "Dams & Water Management/Use",
+        "description": "Changing water flow patterns from their natural range of variation either deliberately or as a result of other activities.",
+        "subcategories": {
+          "7.2.1": {
+            "name": "Abstraction of Surface Water (Domestic Use)"
+          },
+          "7.2.2": {
+            "name": "Abstraction of Surface Water (Commercial Use)"
+          },
+          "7.2.3": {
+            "name": "Abstraction of Surface Water (Agricultural Use)"
+          },
+          "7.2.4": {
+            "name": "Abstraction of Surface Water (Unknown Use)"
+          },
+          "7.2.5": {
+            "name": "Abstraction of Ground Water (Domestic Use)"
+          },
+          "7.2.6": {
+            "name": "Abstraction of Ground Water (Commercial Use)"
+          },
+          "7.2.7": {
+            "name": "Abstraction of Ground Water (Agricultural Use)"
+          },
+          "7.2.8": {
+            "name": "Abstraction of Ground Water (Unknown Use)"
+          },
+          "7.2.9": {
+            "name": "Small Dams"
+          },
+          "7.2.10": {
+            "name": "Large Dams"
+          },
+          "7.2.11": {
+            "name": "Dams (Size Unknown)"
+          }
+        }
+      },
+      "7.3": {
+        "name": "Other Ecosystem Modifications",
+        "description": "Other actions that convert or degrade habitat in service of managing natural systems.",
+        "examples": "land reclamation projects, abandonment of managed lands, riprap along shoreline, mowing grass, tree thinning in parks, beach construction, removal of snags from streams, etc."
+      }
+    }
+  },
+  "8": {
+    "name": "Invasive & Other Problematic Species, Genes & Diseases",
+    "description": "Threats from non-native and native plants, animals, pathogens/microbes, or genetic materials that have or are predicted to have harmful effects on biodiversity following their introduction, spread and/or increase in abundance.",
+    "subcategories": {
+      "8.1": {
+        "name": "Invasive Non-Native/Alien Species/Diseases",
+        "description": "Harmful plants, animals, pathogens, and other microbes not originally found within the ecosystem(s) in question and directly or indirectly introduced and spread into it by human activities.",
+        "subcategories": {
+          "8.1.1": {
+            "name": "Unspecified Species"
+          },
+          "8.1.2": {
+            "name": "Named Species",
+            "description": "List the specific plant, animal, or microbe e.g., feral domesticated cattle, household pets, zebra mussels, Dutch elm disease or chestnut blight, Miconia tree, introduction of species for biocontrol, chytrid fungus affecting amphibians, etc."
+          }
+        }
+      },
+      "8.2": {
+        "name": "Problematic Native Species/Diseases",
+        "description": "Harmful plants, animals, or pathogens and other microbes that are originally found within the ecosystem(s) in question, but have become “out-of-balance” or “released” directly or indirectly due to human activities.",
+        "subcategories": {
+          "8.2.1": {
+            "name": "Unspecified Species"
+          },
+          "8.2.2": {
+            "name": "Named Species",
+            "description": "Harmful plants, animals, or pathogens and other microbes that are originally found within the ecosystem(s) in question, but have become “out-of-balance” or “released” directly or indirectly due to human activities"
+          }
+        }
+      },
+      "8.3": {
+        "name": "Introduced Genetic Material",
+        "description": "Human altered or transported organisms or genes.",
+        "examples": "pesticide resistant crops, hatchery salmon, restoration projects using non-local seed stock, genetically modified insects for biocontrol, genetically modified trees, genetically modified salmon, etc."
+      },
+      "8.4": {
+        "name": "Problematic Species/Diseases of Unknown Origin",
+        "description": "Harmful plants, animals, or pathogens of unknown origin.",
+        "subcategories": {
+          "8.4.1": {
+            "name": "Unspecified Species"
+          },
+          "8.4.2": {
+            "name": "Named Species",
+            "description": "List the specific plant, animal, or microbe"
+          }
+        }
+      },
+      "8.5": {
+        "name": "Viral/Prion-induced Diseases",
+        "description": "Viruses are small infectious agents that replicate only inside the living cells of an organism. Although viruses occur universally, each cellular species has its own specific range that often infect only that species. Most viruses co-exist harmlessly in their host and cause no signs or symptoms of disease. However, a number are important pathogens which can result in diseases which significantly reduce reproduction or increase mortality. Prions are infectious agents composed of protein in a misfolded form. They do not contain nucleic acids. All known prion diseases affect the structure of the brain and other neural tissue, they are mainly found in mammals, are currently untreatable and are universally fatal.",
+        "subcategories": {
+          "8.5.1": {
+            "name": "Unspecified 'Species' (Disease)"
+          },
+          "8.5.2": {
+            "name": "Named 'Species' (Disease)",
+            "description": "List the specific virus (e.g., Foot and Mouth Disease Virus, West Nile Virus, Rabies Virus, Newcastle Disease Virus, etc .) or prion (e.g., scrapie, Bovine spongiform encephalopathy (BSE) or mad cow disease, etc. )"
+          }
+        }
+      },
+      "8.6": {
+        "name": "Diseases of Unknown Cause",
+        "description": "Occasionally plants and animals are impacted by diseases of unknown origin and often it may take many years to identify the pathogen responsible. For example, it is not known what causes white-band disease (WBD) in Acroporid corals, but the disease is having a huge impact in some parts of the world."
+      }
+    }
+  },
+  "9": {
+    "name": "Pollution",
+    "description": "Threats from introduction of exotic and/or excess materials or energy from point and nonpoint sources.",
+    "subcategories": {
+      "9.1": {
+        "name": "Domestic & Urban Waste Water",
+        "description": "Water-borne sewage and non-point runoff from housing and urban areas that include nutrients, toxic chemicals and/or sediments.",
+        "subcategories": {
+          "9.1.1": {
+            "name": "Sewage",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., discharge from municipal waste treatment plants, leaking septic systems, untreated sewage, outhouses, etc."
+          },
+          "9.1.2": {
+            "name": "Run-off",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., oil or sediment from roads, fertilizers and pesticides from lawns and golf-courses, road salt, etc."
+          },
+          "9.1.3": {
+            "name": "Type Unknown/Unrecorded"
+          }
+        }
+      },
+      "9.2": {
+        "name": "Industrial & Military Effluents",
+        "description": "Water-borne pollutants from industrial and military sources including mining, energy production, and other resource extraction industries that include nutrients, toxic chemicals and/or sediments.",
+        "subcategories": {
+          "9.2.1": {
+            "name": "Oil Spills",
+            "description": "List the source e.g., leakage from fuel tanks, oil spills from pipelines, PCBs in river sediments, etc."
+          },
+          "9.2.2": {
+            "name": "Seepage from Mining",
+            "description": "List the specific pollutants if possible e.g., mine tailings, arsenic from gold mining, etc."
+          },
+          "9.2.3": {
+            "name": "Type Unknown/Unrecorded"
+          }
+        }
+      },
+      "9.3": {
+        "name": "Agricultural & Forestry Effluents",
+        "description": "Water-borne pollutants from agricultural, silivicultural, and aquaculture systems that include nutrients, toxic chemicals and/or sediments including the effects of these pollutants on the site where they are applied.",
+        "subcategories": {
+          "9.3.1": {
+            "name": "Nutrient Loads",
+            "description": "List the source and specific pollutant of concern: e.g., nutrient loading from fertilizer run-off, manure from feedlots, nutrients from aquaculture, etc"
+          },
+          "9.3.2": {
+            "name": "Soil Erosion, Sedimentation",
+            "description": "List the source and specific pollutant of concern: e.g., soil erosion from overgrazing, increased run-off and hence sedimentation due to conversion of forests to agricultural lands, etc."
+          },
+          "9.3.3": {
+            "name": "Herbicides & Pesticides",
+            "description": "List the source and specific pollutant of concern: e.g., herbicide run-off from orchards, etc."
+          },
+          "9.3.4": {
+            "name": "Type Unknown/Unrecorded"
+          }
+        }
+      },
+      "9.4": {
+        "name": "Garbage & Solid Waste",
+        "description": "Rubbish and other solid materials including those that entangle wildlife.",
+        "examples": "municipal waste, litter from cars, flotsam & jetsam from recreational boats, waste that entangles wildlife, construction debris, etc."
+      },
+      "9.5": {
+        "name": "Air-Borne Pollutants",
+        "description": "Atmospheric pollutants from point and non-point sources.",
+        "subcategories": {
+          "9.5.1": {
+            "name": "Acid Rain",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., acid rain, excess nitrogen deposition, radioactive fallout, wind dispersion of pollutants or sediments, smoke from forest fires or wood stoves, etc."
+          },
+          "9.5.2": {
+            "name": "Smog",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., smog from vehicle emissions, coal burning, wind dispersion of pollutants or sediments, smoke from forest fires or wood stoves, etc."
+          },
+          "9.5.3": {
+            "name": "Ozone",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., vehicle emissions, factory smoke emissions, smoke from forest fires or wood stoves, wind dispersion of pollutants or sediments, etc."
+          },
+          "9.5.4": {
+            "name": "Type Unknown/Unrecorded"
+          }
+        }
+      },
+      "9.6": {
+        "name": "Excess Energy",
+        "description": "Inputs of heat, sound, or light that disturb wildlife or ecosystems.",
+        "subcategories": {
+          "9.6.1": {
+            "name": "Light Pollution",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., lamps attracting insects, beach lights disorienting turtles, etc"
+          },
+          "9.6.2": {
+            "name": "Thermal Pollution",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., heated water from power plants, damaging atmospheric radiation resulting from ozone holes, etc."
+          },
+          "9.6.3": {
+            "name": "Noise Pollution",
+            "description": "List the source, and if possible, the specific pollutants of concern e.g., noise from highways or airplanes, sonar from submarines that disturbs whales, etc."
+          },
+          "9.6.4": {
+            "name": "Type Unknown/Unrecorded"
+          }
+        }
+      }
+    }
+  },
+  "10": {
+    "name": "Geological Events",
+    "description": "Threats from catastrophic geological events.",
+    "subcategories": {
+      "10.1": {
+        "name": "Volcanoes",
+        "description": "Volcanic events.",
+        "examples": "eruptions, emissions of volcanic gasses, etc."
+      },
+      "10.2": {
+        "name": "Earthquakes/Tsunamis",
+        "description": "Earthquakes and associated events.",
+        "examples": "earthquakes, tsunamis, etc."
+      },
+      "10.3": {
+        "name": "Avalanches/Landslides",
+        "description": "Avalanches or landslides.",
+        "examples": "avalanches, landslides, mudslides, etc."
+      }
+    }
+  },
+  "11": {
+    "name": "Climate Change & Severe Weather",
+    "description": "Threats from long-term climatic changes which may be linked to global warming and other severe climatic/weather events that are outside of the natural range of variation, or potentially can wipe out a vulnerable species or habitat.",
+    "subcategories": {
+      "11.1": {
+        "name": "Habitat Shifting & Alteration",
+        "description": "Major changes in habitat composition and location.",
+        "examples": "sea-level rise, desertification, tundra thawing, coral bleaching, etc."
+      },
+      "11.2": {
+        "name": "Droughts",
+        "description": "Periods in which rainfall falls below the normal range of variation.",
+        "examples": "severe lack of rain, loss of surface water sources, etc."
+      },
+      "11.3": {
+        "name": "Temperature Extremes",
+        "description": "Periods in which temperatures exceed or go below the normal range of variation.",
+        "examples": "heat waves, cold spells, oceanic temperature changes, disappearance of glaciers/sea ice, etc."
+      },
+      "11.4": {
+        "name": "Storms & Flooding",
+        "description": "Extreme precipitation and/or wind events.",
+        "examples": "thunderstorms, tropical storms, hurricanes, cyclones, tornados, hailstorms, ice storms or blizzards, dust storms, erosion of beaches during storms, etc"
+      },
+      "11.5": {
+        "name": "Other Impacts",
+        "description": "Other impacts of climate change or severe weather events not covered above (list the specific type of impacts)."
+      }
+    }
+  },
+  "12": {
+    "name": "Other Options",
+    "description": "The threats classification scheme is intended to be comprehensive, but as there are often new and emerging threats, this option allows for these new threats to be recorded.",
+    "subcategories": {
+      "12.1": {
+        "name": "Other Threat",
+        "description": "State the specific problem/s."
+      }
+    }
+  }
+}
+  

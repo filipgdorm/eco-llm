@@ -1,0 +1,401 @@
+index,inat_id,common_name,scientific_name,trait,correct_answers,units
+2248_beak length,2248,White-fronted Bee-eater,Merops bullockoides,beak length,37.5,millimeters
+3326_beak length,3326,Blue-spotted Wood-Dove,Turtur afer,beak length,17.5,millimeters
+13442_beak length,13442,Cape Sugarbird,Promerops cafer,beak length,36.8,millimeters
+3941_beak length,3941,Black Turnstone,Arenaria melanocephala,beak length,25.4,millimeters
+20907_beak length,20907,Painted Buttonquail,Turnix varius,beak length,15.1,millimeters
+979677_beak length,979677,Tickell's Blue Flycatcher,Cyornis tickelliae,beak length,14.5,millimeters
+8399_beak length,8399,Chinspot Batis,Batis molitor,beak length,15.0,millimeters
+6362_beak length,6362,Scintillant Hummingbird,Selasphorus scintilla,beak length,14.1,millimeters
+144242_beak length,144242,Iberian Green Woodpecker,Picus sharpei,beak length,41.1,millimeters
+7044_beak length,7044,Ring-necked Duck,Aythya collaris,beak length,51.4,millimeters
+9236_beak length,9236,European Serin,Serinus serinus,beak length,9.2,millimeters
+4504_beak length,4504,Atlantic Puffin,Fratercula arctica,beak length,51.0,millimeters
+14157_beak length,14157,Southern Scrub Robin,Drymodes brunneopygia,beak length,16.5,millimeters
+17619_beak length,17619,Golden-tailed Woodpecker,Campethera abingoni,beak length,26.3,millimeters
+15705_beak length,15705,White-browed Tit-Warbler,Leptopoecile sophiae,beak length,10.1,millimeters
+5312_beak length,5312,Pallas's Fish-Eagle,Haliaeetus leucoryphus,beak length,63.6,millimeters
+1224_beak length,1224,Stone Partridge,Ptilopachus petrosus,beak length,16.9,millimeters
+73547_beak length,73547,Madagascar Hoopoe,Upupa marginata,beak length,58.9,millimeters
+9611_beak length,9611,Black Rosy-Finch,Leucosticte atrata,beak length,11.5,millimeters
+495992_beak length,495992,Gray-breasted Spurfowl,Pternistis rufopictus,beak length,33.2,millimeters
+7057_beak length,7057,Canvasback,Aythya valisineria,beak length,58.5,millimeters
+5430_beak length,5430,Lizard Buzzard,Kaupifalco monogrammicus,beak length,29.3,millimeters
+558609_beak length,558609,Black-throated Canary,Crithagra atrogularis,beak length,10.8,millimeters
+8081_beak length,8081,White-browed Woodswallow,Artamus superciliosus,beak length,22.9,millimeters
+8916_beak length,8916,Bare-necked Fruitcrow,Gymnoderus foetidus,beak length,29.3,millimeters
+515243_beak length,515243,Golden-fronted Greenlet,Pachysylvia aurantiifrons,beak length,16.1,millimeters
+9491_beak length,9491,Lined Seedeater,Sporophila lineola,beak length,8.7,millimeters
+10090_beak length,10090,Black-hooded Sierra-Finch,Phrygilus atriceps,beak length,17.9,millimeters
+979725_beak length,979725,Yellow-throated Bush Sparrow,Gymnoris superciliaris,beak length,14.2,millimeters
+13808_beak length,13808,Sakalava Weaver,Ploceus sakalava,beak length,17.6,millimeters
+73078_beak length,73078,Taiwan Whistling-Thrush,Myophonus insularis,beak length,30.7,millimeters
+20836_beak length,20836,Narina Trogon,Apaloderma narina,beak length,19.6,millimeters
+10070_beak length,10070,Common Chaffinch,Fringilla coelebs,beak length,14.7,millimeters
+10438_beak length,10438,Cinnamon Tanager,Schistochlamys ruficapillus,beak length,16.0,millimeters
+831_beak length,831,Gray Partridge,Perdix perdix,beak length,20.9,millimeters
+54549_beak length,54549,Chinstrap Penguin,Pygoscelis antarcticus,beak length,61.8,millimeters
+15750_beak length,15750,Fasciated Antshrike,Cymbilaimus lineatus,beak length,24.7,millimeters
+145187_beak length,145187,White-breasted Sunbird,Cinnyris talatala,beak length,22.9,millimeters
+10290_beak length,10290,Black-crowned Palm-Tanager,Phaenicophilus palmarum,beak length,21.3,millimeters
+18880_beak length,18880,Blue-winged Parrot,Neophema chrysostoma,beak length,14.1,millimeters
+3616_beak length,3616,Spinifex Pigeon,Geophaps plumifera,beak length,16.8,millimeters
+5286_beak length,5286,Square-tailed Kite,Lophoictinia isura,beak length,45.2,millimeters
+13471_beak length,13471,Buff-rumped Thornbill,Acanthiza reguloides,beak length,11.0,millimeters
+9613_beak length,9613,Plain Mountain-Finch,Leucosticte nemoricola,beak length,13.0,millimeters
+116877_beak length,116877,Black-capped Donacobius,Donacobius atricapilla,beak length,26.1,millimeters
+5167_beak length,5167,Montagu's Harrier,Circus pygargus,beak length,26.1,millimeters
+73174_beak length,73174,Rufous-winged Sparrow,Peucaea carpalis,beak length,13.0,millimeters
+8478_beak length,8478,Tufted Jay,Cyanocorax dickeyi,beak length,39.0,millimeters
+980013_beak length,980013,Buff-breasted Paradise Kingfisher,Tanysiptera sylvia,beak length,33.7,millimeters
+17090_beak length,17090,Eared Pygmy-Tyrant,Myiornis auricularis,beak length,11.3,millimeters
+13927_beak length,13927,Long-tailed Finch,Poephila acuticauda,beak length,11.6,millimeters
+1789_beak length,1789,Pied Cuckoo,Clamator jacobinus,beak length,24.7,millimeters
+145085_beak length,145085,Indian Blackbird,Turdus simillimus,beak length,25.6,millimeters
+201233_beak length,201233,Italian Sparrow,Passer italiae,beak length,15.1,millimeters
+69696_beak length,69696,Chestnut-capped Blackbird,Chrysomus ruficapillus,beak length,19.9,millimeters
+3780_beak length,3780,Gray-breasted Seedsnipe,Thinocorus orbignyianus,beak length,16.4,millimeters
+12735_beak length,12735,Mistle Thrush,Turdus viscivorus,beak length,26.4,millimeters
+12231_beak length,12231,Noisy Miner,Manorina melanocephala,beak length,24.3,millimeters
+204544_beak length,204544,White-winged Snowfinch,Montifringilla nivalis,beak length,14.4,millimeters
+20343_beak length,20343,Brown Fish-Owl,Ketupa zeylonensis,beak length,49.7,millimeters
+7072_beak length,7072,Paradise Shelduck,Tadorna variegata,beak length,48.6,millimeters
+12910_beak length,12910,Pied Bushchat,Saxicola caprata,beak length,14.9,millimeters
+1360_beak length,1360,Spotted Wood-Quail,Odontophorus guttatus,beak length,19.8,millimeters
+2079_beak length,2079,Speckled Chachalaca,Ortalis guttata,beak length,28.2,millimeters
+12832_beak length,12832,White-crowned Wheatear,Oenanthe leucopyga,beak length,20.8,millimeters
+13087_beak length,13087,Slaty-backed Forktail,Enicurus schistaceus,beak length,20.5,millimeters
+4756_beak length,4756,Turkey Vulture,Cathartes aura,beak length,51.5,millimeters
+8912_beak length,8912,Blue Cotinga,Cotinga nattererii,beak length,18.1,millimeters
+10212_beak length,10212,Sooty-capped Chlorospingus,Chlorospingus pileatus,beak length,12.9,millimeters
+117214_beak length,117214,Secretarybird,Sagittarius serpentarius,beak length,59.4,millimeters
+15922_beak length,15922,Dot-winged Antwren,Microrhopias quixensis,beak length,15.6,millimeters
+18217_beak length,18217,Yellow-fronted Woodpecker,Melanerpes flavifrons,beak length,27.2,millimeters
+13092_beak length,13092,White-crowned Forktail,Enicurus leschenaulti,beak length,21.4,millimeters
+2413_beak length,2413,Laughing Kookaburra,Dacelo novaeguineae,beak length,68.6,millimeters
+5288_beak length,5288,Black-breasted Kite,Hamirostra melanosternon,beak length,40.1,millimeters
+1656_beak length,1656,Madagascar Coucal,Centropus toulou,beak length,30.5,millimeters
+117139_beak length,117139,Spot-flanked Barbet,Tricholaema lacrymosa,beak length,18.7,millimeters
+7486_beak length,7486,Rock Wren,Salpinctes obsoletus,beak length,19.9,millimeters
+19893_beak length,19893,Barred Owl,Strix varia,beak length,38.8,millimeters
+14301_beak length,14301,Blue-backed Manakin,Chiroxiphia pareola,beak length,11.4,millimeters
+14881_beak length,14881,Long-tailed Mockingbird,Mimus longicaudatus,beak length,26.2,millimeters
+11945_beak length,11945,Brown-throated Martin,Riparia paludicola,beak length,9.5,millimeters
+4726_beak length,4726,Yellow-headed Caracara,Milvago chimachima,beak length,30.5,millimeters
+12716_beak length,12716,Eurasian Blackbird,Turdus merula,beak length,28.5,millimeters
+7938_beak length,7938,Common Iora,Aegithina tiphia,beak length,17.0,millimeters
+203153_beak length,203153,Great Tit,Parus major,beak length,11.3,millimeters
+10717_beak length,10717,Yellow Cardinal,Gubernatrix cristata,beak length,17.7,millimeters
+14069_beak length,14069,Red-browed Finch,Neochmia temporalis,beak length,10.8,millimeters
+11114_beak length,11114,Sharp-tailed Streamcreeper,Lochmias nematura,beak length,23.9,millimeters
+3681_beak length,3681,Crested Pigeon,Ocyphaps lophotes,beak length,17.7,millimeters
+793144_beak length,793144,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,beak length,8.4,millimeters
+2988_beak length,2988,Red-eyed Dove,Streptopelia semitorquata,beak length,22.7,millimeters
+15052_beak length,15052,Arrow-marked Babbler,Turdoides jardineii,beak length,24.9,millimeters
+10227_beak length,10227,Indigo Bunting,Passerina cyanea,beak length,11.7,millimeters
+8006_beak length,8006,Cape Crow,Corvus capensis,beak length,62.9,millimeters
+4537_beak length,4537,Black Noddy,Anous minutus,beak length,49.5,millimeters
+10274_beak length,10274,Black-headed Grosbeak,Pheucticus melanocephalus,beak length,19.1,millimeters
+7920_beak length,7920,Rufous Whistler,Pachycephala rufiventris,beak length,16.5,millimeters
+3658_beak length,3658,Topknot Pigeon,Lopholaimus antarcticus,beak length,25.8,millimeters
+4609_beak length,4609,Egyptian Plover,Pluvianus aegyptius,beak length,22.8,millimeters
+2248_wing length,2248,White-fronted Bee-eater,Merops bullockoides,wing length,111.8,millimeters
+3326_wing length,3326,Blue-spotted Wood-Dove,Turtur afer,wing length,105.2,millimeters
+13442_wing length,13442,Cape Sugarbird,Promerops cafer,wing length,93.6,millimeters
+3941_wing length,3941,Black Turnstone,Arenaria melanocephala,wing length,142.0,millimeters
+20907_wing length,20907,Painted Buttonquail,Turnix varius,wing length,99.4,millimeters
+979677_wing length,979677,Tickell's Blue Flycatcher,Cyornis tickelliae,wing length,72.2,millimeters
+8399_wing length,8399,Chinspot Batis,Batis molitor,wing length,59.8,millimeters
+6362_wing length,6362,Scintillant Hummingbird,Selasphorus scintilla,wing length,33.0,millimeters
+144242_wing length,144242,Iberian Green Woodpecker,Picus sharpei,wing length,155.8,millimeters
+7044_wing length,7044,Ring-necked Duck,Aythya collaris,wing length,194.8,millimeters
+9236_wing length,9236,European Serin,Serinus serinus,wing length,70.8,millimeters
+4504_wing length,4504,Atlantic Puffin,Fratercula arctica,wing length,163.6,millimeters
+14157_wing length,14157,Southern Scrub Robin,Drymodes brunneopygia,wing length,91.9,millimeters
+17619_wing length,17619,Golden-tailed Woodpecker,Campethera abingoni,wing length,110.4,millimeters
+15705_wing length,15705,White-browed Tit-Warbler,Leptopoecile sophiae,wing length,52.1,millimeters
+5312_wing length,5312,Pallas's Fish-Eagle,Haliaeetus leucoryphus,wing length,566.6,millimeters
+1224_wing length,1224,Stone Partridge,Ptilopachus petrosus,wing length,117.2,millimeters
+73547_wing length,73547,Madagascar Hoopoe,Upupa marginata,wing length,149.2,millimeters
+9611_wing length,9611,Black Rosy-Finch,Leucosticte atrata,wing length,106.4,millimeters
+495992_wing length,495992,Gray-breasted Spurfowl,Pternistis rufopictus,wing length,201.8,millimeters
+7057_wing length,7057,Canvasback,Aythya valisineria,wing length,223.5,millimeters
+5430_wing length,5430,Lizard Buzzard,Kaupifalco monogrammicus,wing length,217.4,millimeters
+558609_wing length,558609,Black-throated Canary,Crithagra atrogularis,wing length,71.3,millimeters
+8081_wing length,8081,White-browed Woodswallow,Artamus superciliosus,wing length,119.5,millimeters
+8916_wing length,8916,Bare-necked Fruitcrow,Gymnoderus foetidus,wing length,201.4,millimeters
+515243_wing length,515243,Golden-fronted Greenlet,Pachysylvia aurantiifrons,wing length,54.9,millimeters
+9491_wing length,9491,Lined Seedeater,Sporophila lineola,wing length,57.9,millimeters
+10090_wing length,10090,Black-hooded Sierra-Finch,Phrygilus atriceps,wing length,94.4,millimeters
+979725_wing length,979725,Yellow-throated Bush Sparrow,Gymnoris superciliaris,wing length,89.5,millimeters
+13808_wing length,13808,Sakalava Weaver,Ploceus sakalava,wing length,78.2,millimeters
+73078_wing length,73078,Taiwan Whistling-Thrush,Myophonus insularis,wing length,156.0,millimeters
+20836_wing length,20836,Narina Trogon,Apaloderma narina,wing length,129.9,millimeters
+10070_wing length,10070,Common Chaffinch,Fringilla coelebs,wing length,85.9,millimeters
+10438_wing length,10438,Cinnamon Tanager,Schistochlamys ruficapillus,wing length,81.0,millimeters
+831_wing length,831,Gray Partridge,Perdix perdix,wing length,151.2,millimeters
+54549_wing length,54549,Chinstrap Penguin,Pygoscelis antarcticus,wing length,100.5,millimeters
+15750_wing length,15750,Fasciated Antshrike,Cymbilaimus lineatus,wing length,75.8,millimeters
+145187_wing length,145187,White-breasted Sunbird,Cinnyris talatala,wing length,54.1,millimeters
+10290_wing length,10290,Black-crowned Palm-Tanager,Phaenicophilus palmarum,wing length,87.0,millimeters
+18880_wing length,18880,Blue-winged Parrot,Neophema chrysostoma,wing length,104.8,millimeters
+3616_wing length,3616,Spinifex Pigeon,Geophaps plumifera,wing length,106.7,millimeters
+5286_wing length,5286,Square-tailed Kite,Lophoictinia isura,wing length,471.2,millimeters
+13471_wing length,13471,Buff-rumped Thornbill,Acanthiza reguloides,wing length,52.0,millimeters
+9613_wing length,9613,Plain Mountain-Finch,Leucosticte nemoricola,wing length,92.1,millimeters
+116877_wing length,116877,Black-capped Donacobius,Donacobius atricapilla,wing length,81.1,millimeters
+5167_wing length,5167,Montagu's Harrier,Circus pygargus,wing length,362.3,millimeters
+73174_wing length,73174,Rufous-winged Sparrow,Peucaea carpalis,wing length,60.2,millimeters
+8478_wing length,8478,Tufted Jay,Cyanocorax dickeyi,wing length,173.0,millimeters
+980013_wing length,980013,Buff-breasted Paradise Kingfisher,Tanysiptera sylvia,wing length,93.8,millimeters
+17090_wing length,17090,Eared Pygmy-Tyrant,Myiornis auricularis,wing length,39.8,millimeters
+13927_wing length,13927,Long-tailed Finch,Poephila acuticauda,wing length,58.9,millimeters
+1789_wing length,1789,Pied Cuckoo,Clamator jacobinus,wing length,145.2,millimeters
+145085_wing length,145085,Indian Blackbird,Turdus simillimus,wing length,126.4,millimeters
+201233_wing length,201233,Italian Sparrow,Passer italiae,wing length,76.9,millimeters
+69696_wing length,69696,Chestnut-capped Blackbird,Chrysomus ruficapillus,wing length,89.6,millimeters
+3780_wing length,3780,Gray-breasted Seedsnipe,Thinocorus orbignyianus,wing length,138.8,millimeters
+12735_wing length,12735,Mistle Thrush,Turdus viscivorus,wing length,153.7,millimeters
+12231_wing length,12231,Noisy Miner,Manorina melanocephala,wing length,136.1,millimeters
+204544_wing length,204544,White-winged Snowfinch,Montifringilla nivalis,wing length,119.0,millimeters
+20343_wing length,20343,Brown Fish-Owl,Ketupa zeylonensis,wing length,381.1,millimeters
+7072_wing length,7072,Paradise Shelduck,Tadorna variegata,wing length,351.2,millimeters
+12910_wing length,12910,Pied Bushchat,Saxicola caprata,wing length,70.1,millimeters
+1360_wing length,1360,Spotted Wood-Quail,Odontophorus guttatus,wing length,145.8,millimeters
+2079_wing length,2079,Speckled Chachalaca,Ortalis guttata,wing length,192.3,millimeters
+12832_wing length,12832,White-crowned Wheatear,Oenanthe leucopyga,wing length,100.8,millimeters
+13087_wing length,13087,Slaty-backed Forktail,Enicurus schistaceus,wing length,90.0,millimeters
+4756_wing length,4756,Turkey Vulture,Cathartes aura,wing length,508.5,millimeters
+8912_wing length,8912,Blue Cotinga,Cotinga nattererii,wing length,111.8,millimeters
+10212_wing length,10212,Sooty-capped Chlorospingus,Chlorospingus pileatus,wing length,65.0,millimeters
+117214_wing length,117214,Secretarybird,Sagittarius serpentarius,wing length,615.5,millimeters
+15922_wing length,15922,Dot-winged Antwren,Microrhopias quixensis,wing length,53.0,millimeters
+18217_wing length,18217,Yellow-fronted Woodpecker,Melanerpes flavifrons,wing length,117.0,millimeters
+13092_wing length,13092,White-crowned Forktail,Enicurus leschenaulti,wing length,93.6,millimeters
+2413_wing length,2413,Laughing Kookaburra,Dacelo novaeguineae,wing length,216.1,millimeters
+5288_wing length,5288,Black-breasted Kite,Hamirostra melanosternon,wing length,472.6,millimeters
+1656_wing length,1656,Madagascar Coucal,Centropus toulou,wing length,155.4,millimeters
+117139_wing length,117139,Spot-flanked Barbet,Tricholaema lacrymosa,wing length,68.8,millimeters
+7486_wing length,7486,Rock Wren,Salpinctes obsoletus,wing length,69.0,millimeters
+19893_wing length,19893,Barred Owl,Strix varia,wing length,341.2,millimeters
+14301_wing length,14301,Blue-backed Manakin,Chiroxiphia pareola,wing length,69.4,millimeters
+14881_wing length,14881,Long-tailed Mockingbird,Mimus longicaudatus,wing length,121.7,millimeters
+11945_wing length,11945,Brown-throated Martin,Riparia paludicola,wing length,101.2,millimeters
+4726_wing length,4726,Yellow-headed Caracara,Milvago chimachima,wing length,285.9,millimeters
+12716_wing length,12716,Eurasian Blackbird,Turdus merula,wing length,128.4,millimeters
+7938_wing length,7938,Common Iora,Aegithina tiphia,wing length,61.6,millimeters
+203153_wing length,203153,Great Tit,Parus major,wing length,70.9,millimeters
+10717_wing length,10717,Yellow Cardinal,Gubernatrix cristata,wing length,93.8,millimeters
+14069_wing length,14069,Red-browed Finch,Neochmia temporalis,wing length,52.0,millimeters
+11114_wing length,11114,Sharp-tailed Streamcreeper,Lochmias nematura,wing length,68.6,millimeters
+3681_wing length,3681,Crested Pigeon,Ocyphaps lophotes,wing length,160.6,millimeters
+793144_wing length,793144,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,wing length,54.9,millimeters
+2988_wing length,2988,Red-eyed Dove,Streptopelia semitorquata,wing length,173.1,millimeters
+15052_wing length,15052,Arrow-marked Babbler,Turdoides jardineii,wing length,102.6,millimeters
+10227_wing length,10227,Indigo Bunting,Passerina cyanea,wing length,64.8,millimeters
+8006_wing length,8006,Cape Crow,Corvus capensis,wing length,322.2,millimeters
+4537_wing length,4537,Black Noddy,Anous minutus,wing length,222.0,millimeters
+10274_wing length,10274,Black-headed Grosbeak,Pheucticus melanocephalus,wing length,100.5,millimeters
+7920_wing length,7920,Rufous Whistler,Pachycephala rufiventris,wing length,92.7,millimeters
+3658_wing length,3658,Topknot Pigeon,Lopholaimus antarcticus,wing length,277.6,millimeters
+4609_wing length,4609,Egyptian Plover,Pluvianus aegyptius,wing length,129.9,millimeters
+2248_tail length,2248,White-fronted Bee-eater,Merops bullockoides,tail length,92.0,millimeters
+3326_tail length,3326,Blue-spotted Wood-Dove,Turtur afer,tail length,80.4,millimeters
+13442_tail length,13442,Cape Sugarbird,Promerops cafer,tail length,284.0,millimeters
+3941_tail length,3941,Black Turnstone,Arenaria melanocephala,tail length,61.2,millimeters
+20907_tail length,20907,Painted Buttonquail,Turnix varius,tail length,47.0,millimeters
+979677_tail length,979677,Tickell's Blue Flycatcher,Cyornis tickelliae,tail length,61.6,millimeters
+8399_tail length,8399,Chinspot Batis,Batis molitor,tail length,42.8,millimeters
+6362_tail length,6362,Scintillant Hummingbird,Selasphorus scintilla,tail length,24.0,millimeters
+144242_tail length,144242,Iberian Green Woodpecker,Picus sharpei,tail length,91.3,millimeters
+7044_tail length,7044,Ring-necked Duck,Aythya collaris,tail length,57.6,millimeters
+9236_tail length,9236,European Serin,Serinus serinus,tail length,46.4,millimeters
+4504_tail length,4504,Atlantic Puffin,Fratercula arctica,tail length,46.4,millimeters
+14157_tail length,14157,Southern Scrub Robin,Drymodes brunneopygia,tail length,100.7,millimeters
+17619_tail length,17619,Golden-tailed Woodpecker,Campethera abingoni,tail length,66.8,millimeters
+15705_tail length,15705,White-browed Tit-Warbler,Leptopoecile sophiae,tail length,55.8,millimeters
+5312_tail length,5312,Pallas's Fish-Eagle,Haliaeetus leucoryphus,tail length,290.3,millimeters
+1224_tail length,1224,Stone Partridge,Ptilopachus petrosus,tail length,75.5,millimeters
+73547_tail length,73547,Madagascar Hoopoe,Upupa marginata,tail length,114.5,millimeters
+9611_tail length,9611,Black Rosy-Finch,Leucosticte atrata,tail length,69.1,millimeters
+495992_tail length,495992,Gray-breasted Spurfowl,Pternistis rufopictus,tail length,76.5,millimeters
+7057_tail length,7057,Canvasback,Aythya valisineria,tail length,52.8,millimeters
+5430_tail length,5430,Lizard Buzzard,Kaupifalco monogrammicus,tail length,142.6,millimeters
+558609_tail length,558609,Black-throated Canary,Crithagra atrogularis,tail length,46.0,millimeters
+8081_tail length,8081,White-browed Woodswallow,Artamus superciliosus,tail length,74.1,millimeters
+8916_tail length,8916,Bare-necked Fruitcrow,Gymnoderus foetidus,tail length,121.7,millimeters
+515243_tail length,515243,Golden-fronted Greenlet,Pachysylvia aurantiifrons,tail length,44.7,millimeters
+9491_tail length,9491,Lined Seedeater,Sporophila lineola,tail length,47.6,millimeters
+10090_tail length,10090,Black-hooded Sierra-Finch,Phrygilus atriceps,tail length,68.2,millimeters
+979725_tail length,979725,Yellow-throated Bush Sparrow,Gymnoris superciliaris,tail length,59.8,millimeters
+13808_tail length,13808,Sakalava Weaver,Ploceus sakalava,tail length,50.0,millimeters
+73078_tail length,73078,Taiwan Whistling-Thrush,Myophonus insularis,tail length,116.6,millimeters
+20836_tail length,20836,Narina Trogon,Apaloderma narina,tail length,164.9,millimeters
+10070_tail length,10070,Common Chaffinch,Fringilla coelebs,tail length,65.9,millimeters
+10438_tail length,10438,Cinnamon Tanager,Schistochlamys ruficapillus,tail length,71.4,millimeters
+831_tail length,831,Gray Partridge,Perdix perdix,tail length,75.3,millimeters
+54549_tail length,54549,Chinstrap Penguin,Pygoscelis antarcticus,tail length,138.0,millimeters
+15750_tail length,15750,Fasciated Antshrike,Cymbilaimus lineatus,tail length,71.5,millimeters
+145187_tail length,145187,White-breasted Sunbird,Cinnyris talatala,tail length,38.6,millimeters
+10290_tail length,10290,Black-crowned Palm-Tanager,Phaenicophilus palmarum,tail length,69.8,millimeters
+18880_tail length,18880,Blue-winged Parrot,Neophema chrysostoma,tail length,125.4,millimeters
+3616_tail length,3616,Spinifex Pigeon,Geophaps plumifera,tail length,68.1,millimeters
+5286_tail length,5286,Square-tailed Kite,Lophoictinia isura,tail length,224.2,millimeters
+13471_tail length,13471,Buff-rumped Thornbill,Acanthiza reguloides,tail length,38.9,millimeters
+9613_tail length,9613,Plain Mountain-Finch,Leucosticte nemoricola,tail length,63.0,millimeters
+116877_tail length,116877,Black-capped Donacobius,Donacobius atricapilla,tail length,98.5,millimeters
+5167_tail length,5167,Montagu's Harrier,Circus pygargus,tail length,224.8,millimeters
+73174_tail length,73174,Rufous-winged Sparrow,Peucaea carpalis,tail length,64.2,millimeters
+8478_tail length,8478,Tufted Jay,Cyanocorax dickeyi,tail length,161.2,millimeters
+980013_tail length,980013,Buff-breasted Paradise Kingfisher,Tanysiptera sylvia,tail length,157.8,millimeters
+17090_tail length,17090,Eared Pygmy-Tyrant,Myiornis auricularis,tail length,27.5,millimeters
+13927_tail length,13927,Long-tailed Finch,Poephila acuticauda,tail length,84.9,millimeters
+1789_tail length,1789,Pied Cuckoo,Clamator jacobinus,tail length,160.8,millimeters
+145085_tail length,145085,Indian Blackbird,Turdus simillimus,tail length,102.2,millimeters
+201233_tail length,201233,Italian Sparrow,Passer italiae,tail length,56.0,millimeters
+69696_tail length,69696,Chestnut-capped Blackbird,Chrysomus ruficapillus,tail length,66.4,millimeters
+3780_tail length,3780,Gray-breasted Seedsnipe,Thinocorus orbignyianus,tail length,65.6,millimeters
+12735_tail length,12735,Mistle Thrush,Turdus viscivorus,tail length,111.8,millimeters
+12231_tail length,12231,Noisy Miner,Manorina melanocephala,tail length,121.3,millimeters
+204544_tail length,204544,White-winged Snowfinch,Montifringilla nivalis,tail length,69.6,millimeters
+20343_tail length,20343,Brown Fish-Owl,Ketupa zeylonensis,tail length,187.5,millimeters
+7072_tail length,7072,Paradise Shelduck,Tadorna variegata,tail length,131.0,millimeters
+12910_tail length,12910,Pied Bushchat,Saxicola caprata,tail length,51.5,millimeters
+1360_tail length,1360,Spotted Wood-Quail,Odontophorus guttatus,tail length,65.6,millimeters
+2079_tail length,2079,Speckled Chachalaca,Ortalis guttata,tail length,214.5,millimeters
+12832_tail length,12832,White-crowned Wheatear,Oenanthe leucopyga,tail length,70.1,millimeters
+13087_tail length,13087,Slaty-backed Forktail,Enicurus schistaceus,tail length,121.0,millimeters
+4756_tail length,4756,Turkey Vulture,Cathartes aura,tail length,244.0,millimeters
+8912_tail length,8912,Blue Cotinga,Cotinga nattererii,tail length,76.8,millimeters
+10212_tail length,10212,Sooty-capped Chlorospingus,Chlorospingus pileatus,tail length,58.8,millimeters
+117214_tail length,117214,Secretarybird,Sagittarius serpentarius,tail length,551.8,millimeters
+15922_tail length,15922,Dot-winged Antwren,Microrhopias quixensis,tail length,52.7,millimeters
+18217_tail length,18217,Yellow-fronted Woodpecker,Melanerpes flavifrons,tail length,69.5,millimeters
+13092_tail length,13092,White-crowned Forktail,Enicurus leschenaulti,tail length,97.2,millimeters
+2413_tail length,2413,Laughing Kookaburra,Dacelo novaeguineae,tail length,153.1,millimeters
+5288_tail length,5288,Black-breasted Kite,Hamirostra melanosternon,tail length,233.0,millimeters
+1656_tail length,1656,Madagascar Coucal,Centropus toulou,tail length,245.8,millimeters
+117139_tail length,117139,Spot-flanked Barbet,Tricholaema lacrymosa,tail length,40.5,millimeters
+7486_tail length,7486,Rock Wren,Salpinctes obsoletus,tail length,55.6,millimeters
+19893_tail length,19893,Barred Owl,Strix varia,tail length,218.3,millimeters
+14301_tail length,14301,Blue-backed Manakin,Chiroxiphia pareola,tail length,34.4,millimeters
+14881_tail length,14881,Long-tailed Mockingbird,Mimus longicaudatus,tail length,139.6,millimeters
+11945_tail length,11945,Brown-throated Martin,Riparia paludicola,tail length,49.0,millimeters
+4726_tail length,4726,Yellow-headed Caracara,Milvago chimachima,tail length,198.4,millimeters
+12716_tail length,12716,Eurasian Blackbird,Turdus merula,tail length,106.3,millimeters
+7938_tail length,7938,Common Iora,Aegithina tiphia,tail length,47.8,millimeters
+203153_tail length,203153,Great Tit,Parus major,tail length,61.2,millimeters
+10717_tail length,10717,Yellow Cardinal,Gubernatrix cristata,tail length,95.4,millimeters
+14069_tail length,14069,Red-browed Finch,Neochmia temporalis,tail length,48.4,millimeters
+11114_tail length,11114,Sharp-tailed Streamcreeper,Lochmias nematura,tail length,49.8,millimeters
+3681_tail length,3681,Crested Pigeon,Ocyphaps lophotes,tail length,134.4,millimeters
+793144_tail length,793144,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,tail length,57.9,millimeters
+2988_tail length,2988,Red-eyed Dove,Streptopelia semitorquata,tail length,120.2,millimeters
+15052_tail length,15052,Arrow-marked Babbler,Turdoides jardineii,tail length,100.2,millimeters
+10227_tail length,10227,Indigo Bunting,Passerina cyanea,tail length,48.9,millimeters
+8006_tail length,8006,Cape Crow,Corvus capensis,tail length,164.7,millimeters
+4537_tail length,4537,Black Noddy,Anous minutus,tail length,114.0,millimeters
+10274_tail length,10274,Black-headed Grosbeak,Pheucticus melanocephalus,tail length,72.8,millimeters
+7920_tail length,7920,Rufous Whistler,Pachycephala rufiventris,tail length,66.6,millimeters
+3658_tail length,3658,Topknot Pigeon,Lopholaimus antarcticus,tail length,193.4,millimeters
+4609_tail length,4609,Egyptian Plover,Pluvianus aegyptius,tail length,58.0,millimeters
+2248_mass,2248,White-fronted Bee-eater,Merops bullockoides,mass,34.8,grams
+3326_mass,3326,Blue-spotted Wood-Dove,Turtur afer,mass,65.6,grams
+13442_mass,13442,Cape Sugarbird,Promerops cafer,mass,34.7,grams
+3941_mass,3941,Black Turnstone,Arenaria melanocephala,mass,126.2,grams
+20907_mass,20907,Painted Buttonquail,Turnix varius,mass,90.2,grams
+979677_mass,979677,Tickell's Blue Flycatcher,Cyornis tickelliae,mass,16.2,grams
+8399_mass,8399,Chinspot Batis,Batis molitor,mass,11.6,grams
+6362_mass,6362,Scintillant Hummingbird,Selasphorus scintilla,mass,2.2,grams
+144242_mass,144242,Iberian Green Woodpecker,Picus sharpei,mass,176.0,grams
+7044_mass,7044,Ring-necked Duck,Aythya collaris,mass,704.6,grams
+9236_mass,9236,European Serin,Serinus serinus,mass,11.2,grams
+4504_mass,4504,Atlantic Puffin,Fratercula arctica,mass,593.0,grams
+14157_mass,14157,Southern Scrub Robin,Drymodes brunneopygia,mass,33.0,grams
+17619_mass,17619,Golden-tailed Woodpecker,Campethera abingoni,mass,67.5,grams
+15705_mass,15705,White-browed Tit-Warbler,Leptopoecile sophiae,mass,6.9,grams
+5312_mass,5312,Pallas's Fish-Eagle,Haliaeetus leucoryphus,mass,2885.9,grams
+1224_mass,1224,Stone Partridge,Ptilopachus petrosus,mass,193.0,grams
+73547_mass,73547,Madagascar Hoopoe,Upupa marginata,mass,66.9,grams
+9611_mass,9611,Black Rosy-Finch,Leucosticte atrata,mass,25.2,grams
+495992_mass,495992,Gray-breasted Spurfowl,Pternistis rufopictus,mass,706.1,grams
+7057_mass,7057,Canvasback,Aythya valisineria,mass,1202.0,grams
+5430_mass,5430,Lizard Buzzard,Kaupifalco monogrammicus,mass,278.9,grams
+558609_mass,558609,Black-throated Canary,Crithagra atrogularis,mass,11.4,grams
+8081_mass,8081,White-browed Woodswallow,Artamus superciliosus,mass,35.5,grams
+8916_mass,8916,Bare-necked Fruitcrow,Gymnoderus foetidus,mass,275.5,grams
+515243_mass,515243,Golden-fronted Greenlet,Pachysylvia aurantiifrons,mass,9.5,grams
+9491_mass,9491,Lined Seedeater,Sporophila lineola,mass,9.8,grams
+10090_mass,10090,Black-hooded Sierra-Finch,Phrygilus atriceps,mass,24.3,grams
+979725_mass,979725,Yellow-throated Bush Sparrow,Gymnoris superciliaris,mass,24.0,grams
+13808_mass,13808,Sakalava Weaver,Ploceus sakalava,mass,23.8,grams
+73078_mass,73078,Taiwan Whistling-Thrush,Myophonus insularis,mass,117.0,grams
+20836_mass,20836,Narina Trogon,Apaloderma narina,mass,67.7,grams
+10070_mass,10070,Common Chaffinch,Fringilla coelebs,mass,23.8,grams
+10438_mass,10438,Cinnamon Tanager,Schistochlamys ruficapillus,mass,31.2,grams
+831_mass,831,Gray Partridge,Perdix perdix,mass,405.3,grams
+54549_mass,54549,Chinstrap Penguin,Pygoscelis antarcticus,mass,4146.1,grams
+15750_mass,15750,Fasciated Antshrike,Cymbilaimus lineatus,mass,35.8,grams
+145187_mass,145187,White-breasted Sunbird,Cinnyris talatala,mass,8.1,grams
+10290_mass,10290,Black-crowned Palm-Tanager,Phaenicophilus palmarum,mass,30.5,grams
+18880_mass,18880,Blue-winged Parrot,Neophema chrysostoma,mass,46.1,grams
+3616_mass,3616,Spinifex Pigeon,Geophaps plumifera,mass,94.3,grams
+5286_mass,5286,Square-tailed Kite,Lophoictinia isura,mass,579.4,grams
+13471_mass,13471,Buff-rumped Thornbill,Acanthiza reguloides,mass,7.7,grams
+9613_mass,9613,Plain Mountain-Finch,Leucosticte nemoricola,mass,22.5,grams
+116877_mass,116877,Black-capped Donacobius,Donacobius atricapilla,mass,36.8,grams
+5167_mass,5167,Montagu's Harrier,Circus pygargus,mass,310.8,grams
+73174_mass,73174,Rufous-winged Sparrow,Peucaea carpalis,mass,15.3,grams
+8478_mass,8478,Tufted Jay,Cyanocorax dickeyi,mass,181.0,grams
+980013_mass,980013,Buff-breasted Paradise Kingfisher,Tanysiptera sylvia,mass,49.6,grams
+17090_mass,17090,Eared Pygmy-Tyrant,Myiornis auricularis,mass,5.3,grams
+13927_mass,13927,Long-tailed Finch,Poephila acuticauda,mass,14.0,grams
+1789_mass,1789,Pied Cuckoo,Clamator jacobinus,mass,79.4,grams
+145085_mass,145085,Indian Blackbird,Turdus simillimus,mass,102.7,grams
+201233_mass,201233,Italian Sparrow,Passer italiae,mass,28.3,grams
+69696_mass,69696,Chestnut-capped Blackbird,Chrysomus ruficapillus,mass,32.0,grams
+3780_mass,3780,Gray-breasted Seedsnipe,Thinocorus orbignyianus,mass,115.0,grams
+12735_mass,12735,Mistle Thrush,Turdus viscivorus,mass,117.4,grams
+12231_mass,12231,Noisy Miner,Manorina melanocephala,mass,60.2,grams
+204544_mass,204544,White-winged Snowfinch,Montifringilla nivalis,mass,36.9,grams
+20343_mass,20343,Brown Fish-Owl,Ketupa zeylonensis,mass,1105.0,grams
+7072_mass,7072,Paradise Shelduck,Tadorna variegata,mass,1541.0,grams
+12910_mass,12910,Pied Bushchat,Saxicola caprata,mass,15.2,grams
+1360_mass,1360,Spotted Wood-Quail,Odontophorus guttatus,mass,303.8,grams
+2079_mass,2079,Speckled Chachalaca,Ortalis guttata,mass,547.7,grams
+12832_mass,12832,White-crowned Wheatear,Oenanthe leucopyga,mass,27.9,grams
+13087_mass,13087,Slaty-backed Forktail,Enicurus schistaceus,mass,31.0,grams
+4756_mass,4756,Turkey Vulture,Cathartes aura,mass,1518.2,grams
+8912_mass,8912,Blue Cotinga,Cotinga nattererii,mass,57.2,grams
+10212_mass,10212,Sooty-capped Chlorospingus,Chlorospingus pileatus,mass,21.0,grams
+117214_mass,117214,Secretarybird,Sagittarius serpentarius,mass,4017.0,grams
+15922_mass,15922,Dot-winged Antwren,Microrhopias quixensis,mass,7.9,grams
+18217_mass,18217,Yellow-fronted Woodpecker,Melanerpes flavifrons,mass,57.8,grams
+13092_mass,13092,White-crowned Forktail,Enicurus leschenaulti,mass,33.8,grams
+2413_mass,2413,Laughing Kookaburra,Dacelo novaeguineae,mass,333.8,grams
+5288_mass,5288,Black-breasted Kite,Hamirostra melanosternon,mass,1196.0,grams
+1656_mass,1656,Madagascar Coucal,Centropus toulou,mass,166.4,grams
+117139_mass,117139,Spot-flanked Barbet,Tricholaema lacrymosa,mass,22.9,grams
+7486_mass,7486,Rock Wren,Salpinctes obsoletus,mass,16.4,grams
+19893_mass,19893,Barred Owl,Strix varia,mass,711.5,grams
+14301_mass,14301,Blue-backed Manakin,Chiroxiphia pareola,mass,16.8,grams
+14881_mass,14881,Long-tailed Mockingbird,Mimus longicaudatus,mass,66.6,grams
+11945_mass,11945,Brown-throated Martin,Riparia paludicola,mass,13.5,grams
+4726_mass,4726,Yellow-headed Caracara,Milvago chimachima,mass,315.2,grams
+12716_mass,12716,Eurasian Blackbird,Turdus merula,mass,102.7,grams
+7938_mass,7938,Common Iora,Aegithina tiphia,mass,12.0,grams
+203153_mass,203153,Great Tit,Parus major,mass,16.3,grams
+10717_mass,10717,Yellow Cardinal,Gubernatrix cristata,mass,47.6,grams
+14069_mass,14069,Red-browed Finch,Neochmia temporalis,mass,11.4,grams
+11114_mass,11114,Sharp-tailed Streamcreeper,Lochmias nematura,mass,22.0,grams
+3681_mass,3681,Crested Pigeon,Ocyphaps lophotes,mass,204.0,grams
+793144_mass,793144,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,mass,6.0,grams
+2988_mass,2988,Red-eyed Dove,Streptopelia semitorquata,mass,176.0,grams
+15052_mass,15052,Arrow-marked Babbler,Turdoides jardineii,mass,78.2,grams
+10227_mass,10227,Indigo Bunting,Passerina cyanea,mass,14.7,grams
+8006_mass,8006,Cape Crow,Corvus capensis,mass,553.0,grams
+4537_mass,4537,Black Noddy,Anous minutus,mass,112.4,grams
+10274_mass,10274,Black-headed Grosbeak,Pheucticus melanocephalus,mass,47.1,grams
+7920_mass,7920,Rufous Whistler,Pachycephala rufiventris,mass,22.5,grams
+3658_mass,3658,Topknot Pigeon,Lopholaimus antarcticus,mass,496.4,grams
+4609_mass,4609,Egyptian Plover,Pluvianus aegyptius,mass,82.0,grams

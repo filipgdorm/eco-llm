@@ -1,0 +1,1602 @@
+{
+    "19284": {
+        "question": "Can you tell me if the \"Swift Parrot\" (\"Lathamus discolor\") can be found in the following countries:\n\nBenin\nPhilippines\nMyanmar\nIsle of Man\nHungary\nR\u00e9union\nAzerbaijan\nBelgium\nAustralia\nNamibia\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Swift Parrot (\"Lathamus discolor\") in the given countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 1, 0]\n```\n\nThe Swift Parrot is native to Australia and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "13270": {
+        "question": "Can you tell me if the \"Wood Thrush\" (\"Hylocichla mustelina\") can be found in the following countries:\n\nBahamas\nCosta Rica\nVenezuela (Bolivarian Republic of)\nSaint Pierre and Miquelon\nHaiti\nIreland\nPeru\nEcuador\nPuerto Rico\nSpain\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Wood Thrush (\"Hylocichla mustelina\") in the specified countries:\n\n```python\n[0.1, 0.8, 0.2, 0.0, 0.1, 0.0, 0.1, 0.8, 0.8, 0.0]\n```\n\nExplanation:\n- Bahamas: 0.1 (Unlikely, but possible during migration)\n- Costa Rica: 0.8 (Likely, as it is a known wintering ground)\n- Venezuela: 0.2 (Unlikely, but possible during migration)\n- Saint Pierre and Miquelon: 0.0 (Very unlikely)\n- Haiti: 0.1 (Unlikely, but possible during migration)\n- Ireland: 0.0 (Very unlikely)\n- Peru: 0.1 (Unlikely, but possible during migration)\n- Ecuador: 0.8 (Likely, as it is a known wintering ground)\n- Puerto Rico: 0.8 (Likely, as it is a known wintering ground)\n- Spain: 0.0 (Very unlikely)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "10717": {
+        "question": "Can you tell me if the \"Yellow Cardinal\" (\"Gubernatrix cristata\") can be found in the following countries:\n\nUruguay\nParaguay\nFrench Guiana\nChile\nBolivia (Plurinational State Of)\nPeru\nGuyana\nBrazil\nArgentina\nVenezuela (Bolivarian Republic of)\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Yellow Cardinal (\"Gubernatrix cristata\") in the specified countries:\n\n```python\n[1, 0.5, 0, 0, 0, 0, 0, 0.5, 1, 0]\n```\n\nExplanation:\n- Uruguay: 1 (very likely)\n- Paraguay: 0.5 (possible but less common)\n- French Guiana: 0 (not likely)\n- Chile: 0 (not likely)\n- Bolivia (Plurinational State Of): 0 (not likely)\n- Peru: 0 (not likely)\n- Guyana: 0 (not likely)\n- Brazil: 0.5 (possible but less common)\n- Argentina: 1 (very likely)\n- Venezuela (Bolivarian Republic of): 0 (not likely)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "32944": {
+        "question": "Can you tell me if the \"Eastern Cape Dwarf Chameleon\" (\"Bradypodion ventrale\") can be found in the following countries:\n\nNamibia\nMarshall Islands\nSouth Africa\nUnited Kingdom of Great Britain and Northern Ireland\nLesotho\nBotswana\nEswatini\nGreece\nZimbabwe\nMozambique\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Eastern Cape Dwarf Chameleon (\"Bradypodion ventrale\") in the specified countries:\n\n```python\n[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- The Eastern Cape Dwarf Chameleon is endemic to South Africa, so the score for South Africa is 1.\n- For all other countries listed (Namibia, Marshall Islands, United Kingdom of Great Britain and Northern Ireland, Lesotho, Botswana, Eswatini, Greece, Zimbabwe, Mozambique), the score is 0 because the species is not known to be present in these countries.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "39579": {
+        "question": "Can you tell me if the \"Indian Flapshell Turtle\" (\"Lissemys punctata\") can be found in the following countries:\n\nIndia\nPakistan\nNepal\nIran (Islamic Republic of)\nBhutan\nAfghanistan\nBangladesh\nChina\nLao People's Democratic Republic\nMyanmar\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Indian Flapshell Turtle (Lissemys punctata) in the specified countries:\n\n```python\nlikelihood_scores = [1, 1, 1, 0, 0, 0, 1, 0, 0, 1]\n```\n\nThese scores are based on the known distribution of the species, which is primarily found in South Asia.",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "27123": {
+        "question": "Can you tell me if the \"Cave Salamander\" (\"Eurycea lucifuga\") can be found in the following countries:\n\nCanada\nCambodia\nPitcairn\nSpain\nHungary\nEritrea\nUnited States of America\nCook Islands\nMexico\nPortugal\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Cave Salamander (\"Eurycea lucifuga\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]\n```\n\nThe Cave Salamander is native to the United States of America and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "43339": {
+        "question": "Can you tell me if the \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\") can be found in the following countries:\n\nEritrea\nEthiopia\nSomalia\nSudan\nKenya\nSouth Sudan\nLibya\nEgypt\nUganda\nTanzania (the United Republic of)\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of Gr\u00e9vy's Zebra (\"Equus grevyi\") in each of the listed countries:\n\n```python\n[0.1, 0.8, 0.1, 0.1, 1.0, 0.1, 0.0, 0.0, 0.1, 0.1]\n```\n\nThese scores reflect the current known distribution of Gr\u00e9vy's Zebra, which is primarily found in Kenya and Ethiopia, with very limited or no presence in the other listed countries.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "42888": {
+        "question": "Can you tell me if the \"Eastern Grey Kangaroo\" (\"Macropus giganteus\") can be found in the following countries:\n\nIreland\nVirgin Islands, British\nIran, Islamic Republic of\nBermuda\nMozambique\nTanzania, United Republic of\nSaudi Arabia\nAustralia\nNamibia\nGreenland\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Eastern Grey Kangaroo (\"Macropus giganteus\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "74831": {
+        "question": "Can you tell me if the \"Snow Leopard\" (\"Panthera uncia\") can be found in the following countries:\n\nMongolia\nBhutan\nKazakhstan\nNepal\nIran (Islamic Republic of)\nEstonia\nBangladesh\nTurkmenistan\nKyrgyzstan\nLao People's Democratic Republic\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Snow Leopard (\"Panthera uncia\") in the specified countries:\n\n```python\n[1, 1, 1, 1, 0, 0, 0, 1, 1, 0]\n```",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "135104": {
+        "question": "Can you tell me if the \"Alpine Newt\" (\"Ichthyosaura alpestris\") can be found in the following countries:\n\nIreland\nLithuania\nAustria\nDenmark\nBulgaria\nHungary\nSpain\nMoldova (the Republic of)\nMorocco\nTurkey\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Alpine Newt (Ichthyosaura alpestris), here are the likelihood scores for each country:\n\n```python\n[0, 0, 1, 0, 1, 1, 0, 0, 0, 0]\n```\n\nExplanation:\n- Ireland: 0 (Not found)\n- Lithuania: 0 (Not found)\n- Austria: 1 (Found)\n- Denmark: 0 (Not found)\n- Bulgaria: 1 (Found)\n- Hungary: 1 (Found)\n- Spain: 0 (Not found)\n- Moldova (the Republic of): 0 (Not found)\n- Morocco: 0 (Not found)\n- Turkey: 0 (Not found)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "180009": {
+        "question": "Can you tell me if the \"Cascade Golden-mantled Ground Squirrel\" (\"Callospermophilus saturatus\") can be found in the following countries:\n\nMexico\nEritrea\nCanada\nUnited States of America\nTaiwan, Province of China\nAngola\nAntigua and Barbuda\nSaint Vincent and the Grenadines\nArgentina\nLibya.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Cascade Golden-mantled Ground Squirrel\" (\"Callospermophilus saturatus\") in the specified countries:\n\n```python\n[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]\n```\n\nThe \"Cascade Golden-mantled Ground Squirrel\" is native to the United States, specifically in the Cascade Range of Washington State. It is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "42228": {
+        "question": "Can you tell me if the \"Marsh Deer\" (\"Blastocerus dichotomus\") can be found in the following countries:\n\nBolivia, Plurinational State of\nArgentina\nPeru\nUruguay\nBrazil\nSuriname\nFrench Guiana\nEcuador\nVenezuela (Bolivarian Republic of)\nChile.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Marsh Deer (Blastocerus dichotomus), here are the likelihood scores for each country:\n\n```python\n[0.5, 1, 0, 0, 1, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- Bolivia: 0.5 (There are some reports of presence, but it's not well-documented)\n- Argentina: 1 (The species is well-documented and present)\n- Peru: 0 (Not known to be present)\n- Uruguay: 0 (Not known to be present)\n- Brazil: 1 (The species is well-documented and present)\n- Suriname: 0 (Not known to be present)\n- French Guiana: 0 (Not known to be present)\n- Ecuador: 0 (Not known to be present)\n- Venezuela: 0 (Not known to be present)\n- Chile: 0 (Not known to be present)",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "42138": {
+        "question": "Can you tell me if the \"Bushpig\" (\"Potamochoerus larvatus\") can be found in the following countries:\n\nTanzania, United Republic of\nZimbabwe\nEritrea\nZambia\nSudan\nCentral African Republic\nLesotho\nDjibouti\nSouth Africa\nSouth Sudan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Bushpig (\"Potamochoerus larvatus\") in the specified countries:\n\n```python\n[1, 1, 0.5, 1, 0.5, 1, 0, 0, 1, 0.5]\n```\n\nExplanation:\n- Tanzania, United Republic of: 1 (very likely)\n- Zimbabwe: 1 (very likely)\n- Eritrea: 0.5 (possible but less certain)\n- Zambia: 1 (very likely)\n- Sudan: 0.5 (possible but less certain)\n- Central African Republic: 1 (very likely)\n- Lesotho: 0 (unlikely)\n- Djibouti: 0 (unlikely)\n- South Africa: 1 (very likely)\n- South Sudan: 0.5 (possible but less certain)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "43561": {
+        "question": "Can you tell me if the \"Southern Lesser Galago\" (\"Galago moholi\") can be found in the following countries:\n\nNamibia\nCongo, The Democratic Republic of the\nZimbabwe\nSouth Sudan\nTanzania (the United Republic of)\nLesotho\nAngola\nBotswana\nUganda\nZambia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is a list of likelihood scores for the presence of the Southern Lesser Galago (\"Galago moholi\") in the specified countries:\n\n```python\n[0.1, 0.0, 1.0, 0.0, 0.0, 0.0, 0.1, 1.0, 0.0, 0.5]\n```\n\nExplanation:\n- Namibia: 0.1 (unlikely but possible in some regions)\n- Congo, The Democratic Republic of the: 0.0 (not within its known range)\n- Zimbabwe: 1.0 (definitely within its known range)\n- South Sudan: 0.0 (not within its known range)\n- Tanzania (the United Republic of): 0.0 (not within its known range)\n- Lesotho: 0.0 (not within its known range)\n- Angola: 0.1 (unlikely but possible in some regions)\n- Botswana: 1.0 (definitely within its known range)\n- Uganda: 0.0 (not within its known range)\n- Zambia: 0.5 (possible in some regions)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "43593": {
+        "question": "Can you tell me if the \"Lar Gibbon\" (\"Hylobates lar\") can be found in the following countries:\n\nViet Nam\nCambodia\nMalaysia\nLao People's Democratic Republic\nChina\nMyanmar\nAfghanistan\nThailand\nMacao\nBrunei Darussalam.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Lar Gibbon (\"Hylobates lar\") in the specified countries:\n\n```python\n[0, 0, 1, 0, 0, 1, 0, 1, 0, 0]\n```\n\nThese scores are based on the known distribution of the Lar Gibbon, which is primarily found in parts of Thailand, Malaysia, and Myanmar.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "44395": {
+        "question": "Can you tell me if the \"White-footed Mouse\" (\"Peromyscus leucopus\") can be found in the following countries:\n\nT\u00fcrkiye\nUnited States of America\nMexico\nUnited States Minor Outlying Islands\nCanada\nNew Zealand\nGuatemala\nBelize\nAustria\nFalkland Islands (Malvinas).\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the White-footed Mouse (Peromyscus leucopus) in the specified countries:\n\n```python\n[0, 1, 1, 0, 1, 0, 0, 0, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "45997": {
+        "question": "Can you tell me if the \"Deppe's Squirrel\" (\"Sciurus deppei\") can be found in the following countries:\n\nUnited States of America\nCroatia\nPanama\nCosta Rica\nUnited States Minor Outlying Islands\nNicaragua\nGermany\nBelize\nHonduras\nMexico.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of Deppe's Squirrel (Sciurus deppei), here are the likelihood scores for each country:\n\n- United States of America: 0\n- Croatia: 0\n- Panama: 1\n- Costa Rica: 1\n- United States Minor Outlying Islands: 0\n- Nicaragua: 1\n- Germany: 0\n- Belize: 1\n- Honduras: 1\n- Mexico: 1\n\nSo, the Python list containing the likelihood scores would be:\n\n```python\n[0, 0, 1, 1, 0, 1, 0, 1, 1, 1]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "47014": {
+        "question": "Can you tell me if the \"Eastern Mole\" (\"Scalopus aquaticus\") can be found in the following countries:\n\nSouth Africa\nChad\nTajikistan\nGuatemala\nMexico\nSomalia\nCanada\nUnited States of America\nSaint Kitts and Nevis\nBelize.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Eastern Mole (\"Scalopus aquaticus\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]\n```\n\nThe Eastern Mole is native to North America, specifically the United States, and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "41676": {
+        "question": "Can you tell me if the \"Ringtail\" (\"Bassariscus astutus\") can be found in the following countries:\n\nEritrea\nGuatemala\nUnited States of America\nTimor-Leste\nCanada\nMexico\nEquatorial Guinea\nBelize\nSaint Helena, Ascension and Tristan da Cunha\nPortugal.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Ringtail\" (\"Bassariscus astutus\") in the specified countries:\n\n```python\n[0, 0, 1, 0, 0, 1, 0, 0, 0, 0]\n```\n\nThe Ringtail is native to North America, specifically the southwestern United States and Mexico. It is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "43523": {
+        "question": "Can you tell me if the \"Grivet\" (\"Chlorocebus aethiops\") can be found in the following countries:\n\nCentral African Republic\nDjibouti\nSudan\nCongo (the Democratic Republic of the)\nChad\nEthiopia\nLibya\nUganda\nSouth Sudan\nEritrea.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Grivet monkey (Chlorocebus aethiops), here are the likelihood scores for each country:\n\n```python\nlikelihood_scores = [0.5, 0.1, 1, 0.1, 0.5, 1, 0, 0.1, 1, 1]\n```\n\nThese scores are based on the general distribution of the species, with higher scores indicating a higher likelihood of presence.",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "41888": {
+        "question": "Can you tell me if the \"Striped Hyaena\" (\"Hyaena hyaena\") can be found in the following countries:\n\nAzerbaijan\nBhutan\nGreece\nIsrael\nCote d\u2019Ivoire\nKyrgyzstan\nAlgeria\nAfghanistan\nCongo\nEgypt.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Striped Hyaena (\"Hyaena hyaena\") in the specified countries:\n\n```python\n[1, 0, 0.5, 1, 0, 0, 1, 1, 0, 1]\n```\n\nExplanation:\n- Azerbaijan: 1 (very likely)\n- Bhutan: 0 (very unlikely)\n- Greece: 0.5 (possible but not very common)\n- Israel: 1 (very likely)\n- Cote d\u2019Ivoire: 0 (very unlikely)\n- Kyrgyzstan: 0 (very unlikely)\n- Algeria: 1 (very likely)\n- Afghanistan: 1 (very likely)\n- Congo: 0 (very unlikely)\n- Egypt: 1 (very likely)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "46256": {
+        "question": "Can you tell me if the \"Harris' Antelope Squirrel\" (\"Ammospermophilus harrisii\") can be found in the following countries:\n\nFrance\nBarbados\nMexico\nUnited States of America\nBelize\nUnited Kingdom of Great Britain and Northern Ireland\nPitcairn\nGuatemala\nCanada\nFiji.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of Harris' Antelope Squirrel (\"Ammospermophilus harrisii\") in the specified countries:\n\n```python\n[0, 0, 0.8, 1, 0, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- France: 0 (Not found there)\n- Barbados: 0 (Not found there)\n- Mexico: 0.8 (Found in parts of northern Mexico)\n- United States of America: 1 (Commonly found in the southwestern USA)\n- Belize: 0 (Not found there)\n- United Kingdom of Great Britain and Northern Ireland: 0 (Not found there)\n- Pitcairn: 0 (Not found there)\n- Guatemala: 0 (Not found there)\n- Canada: 0 (Not found there)\n- Fiji: 0 (Not found there)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "423656": {
+        "question": "Can you tell me if the \"Pampas Fox\" (\"Lycalopex gymnocerca\") can be found in the following countries:\n\nBrazil\nChile\nGuyana\nArgentina\nFrench Guiana\nBolivia, Plurinational State of\nPeru\nParaguay\nColombia\nUruguay.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Pampas Fox (Lycalopex gymnocercus), here are the likelihood scores for each country:\n\n```python\n[1, 0, 0, 1, 0, 1, 0, 1, 0, 1]\n```\n\nExplanation:\n- Brazil: 1 (The Pampas Fox is found in southern Brazil)\n- Chile: 0 (The Pampas Fox is not typically found in Chile)\n- Guyana: 0 (The Pampas Fox is not found in Guyana)\n- Argentina: 1 (The Pampas Fox is common in Argentina)\n- French Guiana: 0 (The Pampas Fox is not found in French Guiana)\n- Bolivia, Plurinational State of: 1 (The Pampas Fox is found in Bolivia)\n- Peru: 0 (The Pampas Fox is not found in Peru)\n- Paraguay: 1 (The Pampas Fox is found in Paraguay)\n- Colombia: 0 (The Pampas Fox is not found in Colombia)\n- Uruguay: 1 (The Pampas Fox is found in Uruguay)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "1369291": {
+        "question": "Can you tell me if the \"Mara\u00f1\u00f3n white-fronted capuchin\" (\"Cebus yuracus\") can be found in the following countries:\n\nVenezuela (Bolivarian Republic of)\nSolomon Islands\nPanama\nColombia\nEcuador\nBrazil\nChile\nPeru\nBolivia (Plurinational State Of)\nMauritania.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Mara\u00f1\u00f3n white-fronted capuchin\" (\"Cebus yuracus\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 1, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- Venezuela (Bolivarian Republic of): 0\n- Solomon Islands: 0\n- Panama: 0\n- Colombia: 0\n- Ecuador: 1\n- Brazil: 1\n- Chile: 0\n- Peru: 1\n- Bolivia (Plurinational State Of): 0\n- Mauritania: 0",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "180008": {
+        "question": "Can you tell me if the \"Rock Squirrel\" (\"Otospermophilus variegatus\") can be found in the following countries:\n\nR\u00e9union\nGeorgia\nFrench Southern Territories\nVanuatu\nGuatemala\nMexico\nSlovakia\nUnited States of America\nBelize\nCanada.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Rock Squirrel (\"Otospermophilus variegatus\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- R\u00e9union: 0 (Not native or likely to be found)\n- Georgia: 0 (Not native or likely to be found)\n- French Southern Territories: 0 (Not native or likely to be found)\n- Vanuatu: 0 (Not native or likely to be found)\n- Guatemala: 0 (Not native or likely to be found)\n- Mexico: 1 (Native and commonly found)\n- Slovakia: 0 (Not native or likely to be found)\n- United States of America: 1 (Native and commonly found)\n- Belize: 0 (Not native or likely to be found)\n- Canada: 0 (Not native or likely to be found)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "180001": {
+        "question": "Can you tell me if the \"Arctic Ground Squirrel\" (\"Urocitellus parryii\") can be found in the following countries:\n\nMexico\nUnited States of America\nRussian Federation\nChina\nAzerbaijan\nFinland\nKorea (Democratic People's Republic of)\nCanada\nEstonia\nKazakhstan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Arctic Ground Squirrel (\"Urocitellus parryii\") in the specified countries:\n\n```python\n[0, 1, 1, 0, 0, 0, 0, 1, 0, 0]\n```\n\nExplanation:\n- Mexico: 0 (Not found in Mexico)\n- United States of America: 1 (Found in Alaska)\n- Russian Federation: 1 (Found in Siberia)\n- China: 0 (Not found in China)\n- Azerbaijan: 0 (Not found in Azerbaijan)\n- Finland: 0 (Not found in Finland)\n- Korea (Democratic People's Republic of): 0 (Not found in North Korea)\n- Canada: 1 (Found in northern Canada)\n- Estonia: 0 (Not found in Estonia)\n- Kazakhstan: 0 (Not found in Kazakhstan)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "44282": {
+        "question": "Can you tell me if the \"Field Vole\" (\"Microtus agrestis\") can be found in the following countries:\n\nNorth Macedonia\nFrance\nMontenegro\nLao People's Democratic Republic\nHungary\nBulgaria\nKorea (Democratic People's Republic of)\nMongolia\nKyrgyzstan\nCroatia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Field Vole (Microtus agrestis), here are the likelihood scores for each country:\n\n```python\n[0, 1, 0, 0, 1, 1, 0, 0, 0, 1]\n```\n\nExplanation:\n- North Macedonia: 0 (unlikely)\n- France: 1 (very likely)\n- Montenegro: 0 (unlikely)\n- Lao People's Democratic Republic: 0 (very unlikely)\n- Hungary: 1 (very likely)\n- Bulgaria: 1 (very likely)\n- Korea (Democratic People's Republic of): 0 (very unlikely)\n- Mongolia: 0 (very unlikely)\n- Kyrgyzstan: 0 (very unlikely)\n- Croatia: 1 (very likely)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "42278": {
+        "question": "Can you tell me if the \"Impala\" (\"Aepyceros melampus\") can be found in the following countries:\n\nBotswana\nBurundi\nCongo (the Democratic Republic of the)\nNamibia\nNamibia\nTanzania, United Republic of\nKenya\nEquatorial Guinea\nSouth Sudan\nSomalia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Impala (\"Aepyceros melampus\"), here are the likelihood scores for each country:\n\n```python\nlikelihood_scores = [1, 0, 0, 1, 1, 1, 1, 0, 0, 0]\n```\n\n- Botswana: 1 (very likely)\n- Burundi: 0 (not likely)\n- Congo (the Democratic Republic of the): 0 (not likely)\n- Namibia: 1 (very likely)\n- Tanzania, United Republic of: 1 (very likely)\n- Kenya: 1 (very likely)\n- Equatorial Guinea: 0 (not likely)\n- South Sudan: 0 (not likely)\n- Somalia: 0 (not likely)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "42223": {
+        "question": "Can you tell me if the \"White-tailed Deer\" (\"Odocoileus virginianus\") can be found in the following countries:\n\nHonduras\nGermany\nBrazil\nSweden\nHungary\nFinland\nBolivia (Plurinational State Of)\nRussian Federation\nMexico\nCzechia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the White-tailed Deer (\"Odocoileus virginianus\") in the specified countries:\n\n```python\n[1, 0, 0, 0, 0, 0, 0, 0, 1, 0]\n```\n\nExplanation:\n- Honduras: 1 (White-tailed Deer are native to parts of Central America, including Honduras)\n- Germany: 0 (Not native or commonly found)\n- Brazil: 0 (Not native or commonly found)\n- Sweden: 0 (Not native or commonly found)\n- Hungary: 0 (Not native or commonly found)\n- Finland: 0 (Not native or commonly found)\n- Bolivia (Plurinational State Of): 0 (Not native or commonly found)\n- Russian Federation: 0 (Not native or commonly found)\n- Mexico: 1 (White-tailed Deer are native to parts of North America, including Mexico)\n- Czechia: 0 (Not native or commonly found)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "46010": {
+        "question": "Can you tell me if the \"Red-tailed Squirrel\" (\"Sciurus granatensis\") can be found in the following countries:\n\nPanama\nTrinidad and Tobago\nGuyana\nNamibia\nEcuador\nNicaragua\nColombia\nBrazil\nPeru\nVenezuela, Bolivarian Republic of.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Red-tailed Squirrel (Sciurus granatensis), here are the likelihood scores for each country:\n\n```python\n[1, 0, 0, 0, 1, 1, 1, 0, 1, 1]\n```\n\nExplanation:\n- Panama: 1 (Very likely, as it is within the known range)\n- Trinidad and Tobago: 0 (Not within the known range)\n- Guyana: 0 (Not within the known range)\n- Namibia: 0 (Not within the known range, as it is in Africa)\n- Ecuador: 1 (Very likely, as it is within the known range)\n- Nicaragua: 1 (Very likely, as it is within the known range)\n- Colombia: 1 (Very likely, as it is within the known range)\n- Brazil: 0 (Not typically within the known range)\n- Peru: 1 (Very likely, as it is within the known range)\n- Venezuela, Bolivarian Republic of: 1 (Very likely, as it is within the known range)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "43567": {
+        "question": "Can you tell me if the \"Brown Greater Galago\" (\"Otolemur crassicaudatus\") can be found in the following countries:\n\nEthiopia\nUganda\nCongo, The Democratic Republic of the\nBotswana\nSomalia\nKenya\nMozambique\nTanzania, United Republic of\nCongo\nZimbabwe.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Brown Greater Galago (Otolemur crassicaudatus), here are the likelihood scores for each country:\n\n```python\n[0, 0, 0, 0.5, 0, 0, 1, 1, 0, 1]\n```\n\nExplanation:\n- Ethiopia: 0 (Not within the known range)\n- Uganda: 0 (Not within the known range)\n- Congo, The Democratic Republic of the: 0 (Not within the known range)\n- Botswana: 0.5 (Possible but not highly likely)\n- Somalia: 0 (Not within the known range)\n- Kenya: 0 (Not within the known range)\n- Mozambique: 1 (Within the known range)\n- Tanzania, United Republic of: 1 (Within the known range)\n- Congo: 0 (Not within the known range)\n- Zimbabwe: 1 (Within the known range)",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "41180": {
+        "question": "Can you tell me if the \"Hairy-legged Vampire Bat\" (\"Diphylla ecaudata\") can be found in the following countries:\n\nParaguay\nMexico\nUnited States of America\nArgentina\nVenezuela, Bolivarian Republic of\nCosta Rica\nFrench Guiana\nUruguay\nGuyana\nEl Salvador.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Hairy-legged Vampire Bat (Diphylla ecaudata), here are the likelihood scores for each country:\n\n```python\nlikelihood_scores = [0, 1, 0, 0, 0, 1, 0, 0, 0, 1]\n```\n\nExplanation:\n- Paraguay: 0 (Not typically found here)\n- Mexico: 1 (Commonly found here)\n- United States of America: 0 (Not found here)\n- Argentina: 0 (Not found here)\n- Venezuela, Bolivarian Republic of: 0 (Not typically found here)\n- Costa Rica: 1 (Commonly found here)\n- French Guiana: 0 (Not found here)\n- Uruguay: 0 (Not found here)\n- Guyana: 0 (Not found here)\n- El Salvador: 1 (Commonly found here)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "31226": {
+        "question": "Can you tell me if the \"Painted Dragon\" (\"Ctenophorus pictus\") can be found in the following countries:\n\nBritish Indian Ocean Territory\nMalawi\nAustralia\nBolivia, Plurinational State of\nAruba\nIreland\nColombia\nDominican Republic\nSyrian Arab Republic\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Painted Dragon\" (\"Ctenophorus pictus\") in the specified countries:\n\n```python\n[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThe \"Painted Dragon\" is native to Australia, so the score for Australia is 1. For all other countries, the score is 0, indicating that it is very unlikely for the species to be present there.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "539913": {
+        "question": "Can you tell me if the \"Southern Angle-Headed Dragon\" (\"Lophosaurus spinipes\") can be found in the following countries:\n\nAustralia\nAlgeria\nNamibia\nSouth Sudan\nNicaragua\nFalkland Islands (Malvinas)\nLithuania\nIndia\nTunisia\nAmerican Samoa.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Southern Angle-Headed Dragon\" (\"Lophosaurus spinipes\") in the specified countries:\n\n```python\n[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThe \"Southern Angle-Headed Dragon\" is native to Australia and is not found in the other listed countries.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "528911": {
+        "question": "Can you tell me if the \"Robust Velvet Gecko\" (\"Nebulifera robusta\") can be found in the following countries:\n\nCayman Islands\nMarshall Islands\nBelgium\nBelize\nNamibia\nMalta\nBurundi\nAustralia\nC\u00f4te d'Ivoire\nMayotte.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Robust Velvet Gecko\" (\"Nebulifera robusta\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 1, 0, 0]\n```\n\nThe \"Robust Velvet Gecko\" is native to Australia, so the score for Australia is 1. For all other countries listed, the likelihood score is 0.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "33061": {
+        "question": "Can you tell me if the \"Karoo Girdled Lizard\" (\"Karusasaurus polyzonus\") can be found in the following countries:\n\nEswatini\nNamibia\nBotswana\nLesotho\nZimbabwe\nSouth Africa\nMozambique\nNamibia\nPoland\nLiberia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Karoo Girdled Lizard (\"Karusasaurus polyzonus\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 0, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- Eswatini: 0 (Not likely)\n- Namibia: 1 (Very likely)\n- Botswana: 0 (Not likely)\n- Lesotho: 0 (Not likely)\n- Zimbabwe: 0 (Not likely)\n- South Africa: 1 (Very likely)\n- Mozambique: 0 (Not likely)\n- Namibia: 1 (Very likely)\n- Poland: 0 (Not likely)\n- Liberia: 0 (Not likely)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "35854": {
+        "question": "Can you tell me if the \"Green Lizard\" (\"Lacerta viridis\") can be found in the following countries:\n\nRussian Federation\nItaly\nMontenegro\nCroatia\nHungary\nHoly See\nAustria\nGeorgia\nIraq\nSan Marino.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Green Lizard\" (\"Lacerta viridis\") in the specified countries:\n\n```python\n[0.2, 0.8, 1, 1, 1, 0, 1, 0, 0, 0]\n```\n\nExplanation:\n- Russian Federation: 0.2 (The species is not commonly found in most parts of Russia, but there might be some presence in the southwestern regions.)\n- Italy: 0.8 (The species is present in some parts of Italy, particularly in the northern regions.)\n- Montenegro: 1 (The species is commonly found in Montenegro.)\n- Croatia: 1 (The species is commonly found in Croatia.)\n- Hungary: 1 (The species is commonly found in Hungary.)\n- Holy See: 0 (The Holy See is an urban area with no suitable habitat for the species.)\n- Austria: 1 (The species is commonly found in Austria.)\n- Georgia: 0 (The species is not typically found in Georgia.)\n- Iraq: 0 (The species is not found in Iraq.)\n- San Marino: 0 (San Marino is a small urbanized area with no suitable habitat for the species.)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "717903": {
+        "question": "Can you tell me if the \"Striped Racer\" (\"Masticophis lateralis\") can be found in the following countries:\n\nCanada\nTanzania, United Republic of\nFrench Southern Territories\nMontenegro\nSingapore\nAngola\nMexico\nBelize\nGuatemala\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Striped Racer\" (\"Masticophis lateralis\") in the specified countries:\n\n```python\nlikelihood_scores = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n```\n\nThe \"Striped Racer\" is native to the southwestern United States, so it is very likely to be found there (score of 1). It is not native to the other listed countries, so the likelihood scores for those are 0.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "318623": {
+        "question": "Can you tell me if the \"McCoy's Skink\" (\"Anepischetosia maccoyi\") can be found in the following countries:\n\nBosnia and Herzegovina\nComoros\nAustralia\nNamibia\nSan Marino\nKorea, Democratic People's Republic of\nBrazil\nTrinidad and Tobago\nKazakhstan\nMalaysia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of McCoy's Skink (Anepischetosia maccoyi), which is native to Australia, here are the likelihood scores for each country:\n\n```python\nlikelihood_scores = [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThis means:\n- Bosnia and Herzegovina: 0\n- Comoros: 0\n- Australia: 1\n- Namibia: 0\n- San Marino: 0\n- Korea, Democratic People's Republic of: 0\n- Brazil: 0\n- Trinidad and Tobago: 0\n- Kazakhstan: 0\n- Malaysia: 0",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "33189": {
+        "question": "Can you tell me if the \"Eastern Stone Gecko\" (\"Diplodactylus vittatus\") can be found in the following countries:\n\nBenin\nBrazil\nGreenland\nBulgaria\nAustralia\nFaroe Islands\nCentral African Republic\nUruguay\nNamibia\nBangladesh.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Eastern Stone Gecko\" (\"Diplodactylus vittatus\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]\n```\n\nThe \"Eastern Stone Gecko\" is native to Australia, so it is very likely to be found there (score of 1). It is not native to or likely to be found in the other listed countries (score of 0).",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30947": {
+        "question": "Can you tell me if the \"Vogel\u2019s Pit Viper\" (\"Trimeresurus vogeli\") can be found in the following countries:\n\nGuyana\nFrench Polynesia\nSlovenia\nCambodia\nChina\nThailand\nLao People's Democratic Republic\nMyanmar\nViet Nam\nMalaysia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of Vogel\u2019s Pit Viper (Trimeresurus vogeli), here are the likelihood scores for each country:\n\n```python\n[0, 0, 0, 1, 0.5, 1, 1, 1, 1, 0.5]\n```\n\nExplanation:\n- Guyana: 0 (Not found in South America)\n- French Polynesia: 0 (Not found in Oceania)\n- Slovenia: 0 (Not found in Europe)\n- Cambodia: 1 (Found in Southeast Asia)\n- China: 0.5 (Possibly found in southern regions, but less common)\n- Thailand: 1 (Commonly found)\n- Lao People's Democratic Republic: 1 (Commonly found)\n- Myanmar: 1 (Commonly found)\n- Viet Nam: 1 (Commonly found)\n- Malaysia: 0.5 (Possibly found in northern regions, but less common)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "36433": {
+        "question": "Can you tell me if the \"Gem Anole\" (\"Anolis gemmosus\") can be found in the following countries:\n\nNorthern Mariana Islands\nSouth Georgia and the South Sandwich Islands\nPanama\nBrazil\nCabo Verde\nVenezuela (Bolivarian Republic of)\nPoland\nColombia\nPeru\nEcuador.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, I can provide the likelihood scores for the presence of the \"Gem Anole\" (\"Anolis gemmosus\") in the specified countries. The \"Gem Anole\" is native to Ecuador, so the likelihood scores for other countries will be very low.\n\nHere is the Python list containing the likelihood scores:\n\n```python\nlikelihood_scores = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n```\n\nThis list corresponds to the following countries in the order you provided:\n\n1. Northern Mariana Islands: 0\n2. South Georgia and the South Sandwich Islands: 0\n3. Panama: 0\n4. Brazil: 0\n5. Cabo Verde: 0\n6. Venezuela (Bolivarian Republic of): 0\n7. Poland: 0\n8. Colombia: 0\n9. Peru: 0\n10. Ecuador: 1",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "108348": {
+        "question": "Can you tell me if the \"Western Foxsnake\" (\"Pantherophis ramspotti\") can be found in the following countries:\n\nDjibouti\nUganda\nMexico\nEgypt\nCanada\nTurkmenistan\nSouth Georgia and the South Sandwich Islands\nRwanda\nWallis and Futuna\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Western Foxsnake (\"Pantherophis ramspotti\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n```\n\nThe Western Foxsnake is native to the United States, particularly in the Midwest region, and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "29808": {
+        "question": "Can you tell me if the \"Gray-banded Kingsnake\" (\"Lampropeltis alterna\") can be found in the following countries:\n\nMexico\nJamaica\nSomalia\nCanada\nCayman Islands\nUnited States of America\nGuatemala\nBahamas\nEcuador\nBelize.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Gray-banded Kingsnake (Lampropeltis alterna) in each of the listed countries:\n\n```python\n[1, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n```\n\nExplanation:\n- Mexico: 1 (The Gray-banded Kingsnake is native to parts of Mexico)\n- Jamaica: 0 (Not native or likely to be found here)\n- Somalia: 0 (Not native or likely to be found here)\n- Canada: 0 (Not native or likely to be found here)\n- Cayman Islands: 0 (Not native or likely to be found here)\n- United States of America: 1 (The Gray-banded Kingsnake is native to parts of the USA, particularly in Texas and New Mexico)\n- Guatemala: 0 (Not native or likely to be found here)\n- Bahamas: 0 (Not native or likely to be found here)\n- Ecuador: 0 (Not native or likely to be found here)\n- Belize: 0 (Not native or likely to be found here)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "539693": {
+        "question": "Can you tell me if the \"Yellow-bellied Liophis\" (\"Erythrolamprus poecilogyrus\") can be found in the following countries:\n\nUruguay\nArgentina\nBolivia, Plurinational State of\nArmenia\nPeru\nColombia\nGuyana\nChile\nSuriname\nCyprus.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the \"Yellow-bellied Liophis\" (Erythrolamprus poecilogyrus), here are the likelihood scores for each country:\n\n```python\n[1, 1, 1, 0, 0.5, 0, 0, 0, 0, 0]\n```",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "33187": {
+        "question": "Can you tell me if the \"Northern Spiny-tailed Gecko\" (\"Strophurus ciliaris\") can be found in the following countries:\n\nKiribati\nMexico\nT\u00fcrkiye\nMozambique\nAlbania\nVanuatu\nAustralia\nNew Caledonia\nChile\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Northern Spiny-tailed Gecko (Strophurus ciliaris), which is native to Australia, here are the likelihood scores for each country:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "539050": {
+        "question": "Can you tell me if the \"Yarar\u00e1 Lancehead\" (\"Bothrops jararaca\") can be found in the following countries:\n\nParaguay\nFrench Guiana\nPeru\nBolivia (Plurinational State Of)\nUruguay\nBrazil\nArgentina\nSuriname\nVenezuela (Bolivarian Republic of)\nGuyana.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Yarar\u00e1 Lancehead\" (\"Bothrops jararaca\") in the specified countries:\n\n```python\n[1, 0, 0, 0.5, 0, 1, 1, 0, 0, 0]\n```\n\nExplanation:\n- Paraguay: 1 (Very likely to be present)\n- French Guiana: 0 (Not likely to be present)\n- Peru: 0 (Not likely to be present)\n- Bolivia (Plurinational State Of): 0.5 (Possibly present, but not as common)\n- Uruguay: 0 (Not likely to be present)\n- Brazil: 1 (Very likely to be present)\n- Argentina: 1 (Very likely to be present)\n- Suriname: 0 (Not likely to be present)\n- Venezuela (Bolivarian Republic of): 0 (Not likely to be present)\n- Guyana: 0 (Not likely to be present)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "28557": {
+        "question": "Can you tell me if the \"Red-bellied Snake\" (\"Storeria occipitomaculata\") can be found in the following countries:\n\nMexico\nNicaragua\nSouth Sudan\nAmerican Samoa\nBahrain\nTonga\nCanada\nItaly\nUnited States of America\nZambia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Red-bellied Snake (Storeria occipitomaculata) in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 1, 0]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "35430": {
+        "question": "Can you tell me if the \"Spiny-footed Lizard\" (\"Acanthodactylus erythrurus\") can be found in the following countries:\n\nTunisia\nLibya\nAndorra\nFrance\nGibraltar\nSpain\nAlgeria\nMorocco\nPortugal\nMauritania.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Spiny-footed Lizard (Acanthodactylus erythrurus), here are the likelihood scores for each country:\n\n```python\nlikelihood_scores = [1, 0, 0, 1, 1, 1, 1, 1, 1, 0]\n```\n\nThese scores reflect the presence of the species in the respective countries, with 1 indicating a high likelihood of presence and 0 indicating a low likelihood.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "29976": {
+        "question": "Can you tell me if the \"Brown-banded watersnake\" (\"Helicops angulatus\") can be found in the following countries:\n\nUruguay\nPanama\nNamibia\nTrinidad and Tobago\nFrench Guiana\nColombia\nParaguay\nBolivia, Plurinational State of\nSuriname\nGuyana.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Brown-banded watersnake (Helicops angulatus), here are the likelihood scores for each country:\n\n```python\n[0, 1, 0, 1, 1, 1, 0, 1, 1, 1]\n```\n\nExplanation:\n- Uruguay: 0 (Not within the known range)\n- Panama: 1 (Within the known range)\n- Namibia: 0 (Not within the known range)\n- Trinidad and Tobago: 1 (Within the known range)\n- French Guiana: 1 (Within the known range)\n- Colombia: 1 (Within the known range)\n- Paraguay: 0 (Not within the known range)\n- Bolivia, Plurinational State of: 1 (Within the known range)\n- Suriname: 1 (Within the known range)\n- Guyana: 1 (Within the known range)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "73823": {
+        "question": "Can you tell me if the \"Green Whip Snake\" (\"Hierophis viridiflavus\") can be found in the following countries:\n\nSan Marino\nHoly See\nGibraltar\nBelgium\nMontenegro\nFrance\nGreece\nItaly\nSwitzerland\nMalta.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Green Whip Snake (Hierophis viridiflavus), here are the likelihood scores for each country:\n\n```python\n[1, 0, 0, 0, 0.5, 1, 0, 1, 0.5, 0]\n```\n\nExplanation:\n- San Marino: 1 (very likely, as it is within Italy)\n- Holy See: 0 (unlikely, very small urban area within Rome)\n- Gibraltar: 0 (unlikely, not within its known range)\n- Belgium: 0 (unlikely, not within its known range)\n- Montenegro: 0.5 (possible, but not well-documented)\n- France: 1 (very likely, within its known range)\n- Greece: 0 (unlikely, not within its known range)\n- Italy: 1 (very likely, within its known range)\n- Switzerland: 0.5 (possible, but not well-documented)\n- Malta: 0 (unlikely, not within its known range)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "33297": {
+        "question": "Can you tell me if the \"Four-striped Bent-toed Gecko\" (\"Cyrtodactylus quadrivirgatus\") can be found in the following countries:\n\nCambodia\nThailand\nMyanmar\nTunisia\nSingapore\nIndonesia\nLao People's Democratic Republic\nNamibia\nBrunei Darussalam\nMalaysia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Four-striped Bent-toed Gecko (Cyrtodactylus quadrivirgatus), here are the likelihood scores for each country:\n\n```python\n[0.5, 1, 0.5, 0, 1, 1, 0.5, 0, 0.5, 1]\n```\n\nExplanation:\n- Cambodia: 0.5 (Possible but not well-documented)\n- Thailand: 1 (Very likely, well-documented)\n- Myanmar: 0.5 (Possible but not well-documented)\n- Tunisia: 0 (Not found in this region)\n- Singapore: 1 (Very likely, well-documented)\n- Indonesia: 1 (Very likely, well-documented)\n- Lao People's Democratic Republic: 0.5 (Possible but not well-documented)\n- Namibia: 0 (Not found in this region)\n- Brunei Darussalam: 0.5 (Possible but not well-documented)\n- Malaysia: 1 (Very likely, well-documented)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "35034": {
+        "question": "Can you tell me if the \"Yellow-faced Whipsnake\" (\"Demansia psammophis\") can be found in the following countries:\n\nSingapore\nKenya\nAustralia\nJordan\nFrench Polynesia\nMalaysia\nNamibia\nZambia\nFrench Guiana\nGrenada.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Yellow-faced Whipsnake (\"Demansia psammophis\") in the specified countries:\n\n```python\n[0, 0, 1, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThe Yellow-faced Whipsnake is native to Australia, so it is very likely to be found there (score of 1). It is not native to or commonly found in the other listed countries (scores of 0).",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "68530": {
+        "question": "Can you tell me if the \"Hump-nosed Viper\" (\"Hypnale hypnale\") can be found in the following countries:\n\nBhutan\nGreece\nBangladesh\nPakistan\nIndia\nMyanmar\nChina\nNepal\nSri Lanka\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Hump-nosed Viper (\"Hypnale hypnale\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0.5, 0, 0, 0, 1, 0]\n```\n\nExplanation:\n- Bhutan: 0 (Not found)\n- Greece: 0 (Not found)\n- Bangladesh: 0 (Not found)\n- Pakistan: 0 (Not found)\n- India: 0.5 (Possibly found in some regions, particularly in the Western Ghats)\n- Myanmar: 0 (Not found)\n- China: 0 (Not found)\n- Nepal: 0 (Not found)\n- Sri Lanka: 1 (Definitely found)\n- Namibia: 0 (Not found)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "29793": {
+        "question": "Can you tell me if the \"Scarlet Kingsnake\" (\"Lampropeltis elapsoides\") can be found in the following countries:\n\nMexico\nCanada\nGibraltar\nIran, Islamic Republic of\nNew Caledonia\nUnited States of America\nBurkina Faso\nKorea, Republic of\nBhutan\nAustria.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Scarlet Kingsnake (\"Lampropeltis elapsoides\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n```\n\nThe Scarlet Kingsnake is native to the southeastern United States and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "476523": {
+        "question": "Can you tell me if the \"Australian Wood Frog\" (\"Papurana daemeli\") can be found in the following countries:\n\nBelize\nNamibia\nMalaysia\nPapua New Guinea\nNiger\nYemen\nHong Kong\nIndonesia\nAustralia\nTimor-Leste.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Australian Wood Frog\" (\"Papurana daemeli\") in the specified countries:\n\n```python\n[0, 0, 0, 1, 0, 0, 0, 1, 1, 1]\n```\n\nExplanation:\n- Belize: 0 (Not found in Central America)\n- Namibia: 0 (Not found in Africa)\n- Malaysia: 0 (Not found in Malaysia)\n- Papua New Guinea: 1 (Native to this region)\n- Niger: 0 (Not found in Africa)\n- Yemen: 0 (Not found in the Middle East)\n- Hong Kong: 0 (Not found in East Asia)\n- Indonesia: 1 (Found in parts of Indonesia)\n- Australia: 1 (Native to Northern Australia)\n- Timor-Leste: 1 (Found in this region)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "26729": {
+        "question": "Can you tell me if the \"Ringed Salamander\" (\"Ambystoma annulatum\") can be found in the following countries:\n\nFalkland Islands (Malvinas)\nUnited States of America\nPakistan\nCanada\nWestern Sahara\nMexico\nSpain\nMali\nSaudi Arabia\nAlgeria.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Ringed Salamander (\"Ambystoma annulatum\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThe Ringed Salamander is native to the United States of America and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "26197": {
+        "question": "Can you tell me if the \"Edible bullfrog\" (\"Pyxicephalus edulis\") can be found in the following countries:\n\nSouth Africa\nZambia\nSomalia\nChad\nUganda\nDjibouti\nSouth Sudan\nBurundi\nTanzania, United Republic of\nCameroon.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Edible bullfrog (Pyxicephalus edulis), here are the likelihood scores for each country:\n\n```python\n[1, 1, 0, 0, 1, 0, 1, 1, 1, 1]\n```\n\nThese scores reflect the presence of the species in the respective countries, with 1 indicating a high likelihood of presence and 0 indicating a low likelihood.",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "65212": {
+        "question": "Can you tell me if the \"Barking Frog\" (\"Craugastor augusti\") can be found in the following countries:\n\nGuatemala\nUnited States of America\nCanada\nHoly See (Vatican City State)\nCuba\nBelize\nSierra Leone\nDenmark\nMexico\nPalau.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Barking Frog\" (\"Craugastor augusti\") in the specified countries:\n\n```python\n[0.5, 1, 0, 0, 0, 0.5, 0, 0, 1, 0]\n```\n\nExplanation:\n- Guatemala: 0.5 (Possible but not highly likely)\n- United States of America: 1 (Very likely, especially in the southwestern regions)\n- Canada: 0 (Not likely)\n- Holy See (Vatican City State): 0 (Not likely)\n- Cuba: 0 (Not likely)\n- Belize: 0.5 (Possible but not highly likely)\n- Sierra Leone: 0 (Not likely)\n- Denmark: 0 (Not likely)\n- Mexico: 1 (Very likely, especially in northern regions)\n- Palau: 0 (Not likely)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "22846": {
+        "question": "Can you tell me if the \"Amazonian Horned Frog\" (\"Ceratophrys cornuta\") can be found in the following countries:\n\nParaguay\nPeru\nUruguay\nArgentina\nFrench Guiana\nGuyana\nPanama\nBrazil\nChile\nVenezuela, Bolivarian Republic of.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Amazonian Horned Frog (\"Ceratophrys cornuta\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 1, 1, 0, 1, 0, 1]\n```\n\nExplanation:\n- Paraguay: 0 (Unlikely)\n- Peru: 1 (Very likely)\n- Uruguay: 0 (Unlikely)\n- Argentina: 0 (Unlikely)\n- French Guiana: 1 (Very likely)\n- Guyana: 1 (Very likely)\n- Panama: 0 (Unlikely)\n- Brazil: 1 (Very likely)\n- Chile: 0 (Unlikely)\n- Venezuela, Bolivarian Republic of: 1 (Very likely)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "67258": {
+        "question": "Can you tell me if the \"Sand Toad\" (\"Vandijkophrynus angusticeps\") can be found in the following countries:\n\nLesotho\nUnited States of America\nMozambique\nNew Caledonia\nBotswana\nSouth Africa\nNamibia\nSint Maarten (Dutch part)\nEswatini\nZimbabwe.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Sand Toad (Vandijkophrynus angusticeps), here are the likelihood scores for each country:\n\n```python\n[0, 0, 0, 0, 0, 1, 1, 0, 0, 0]\n```\n\nThis means the Sand Toad is very likely to be found in South Africa and Namibia, but not in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "27658": {
+        "question": "Can you tell me if the \"Korean Crevice Salamander\" (\"Karsenia koreana\") can be found in the following countries:\n\nLesotho\nFaroe Islands\nPoland\nQatar\nCyprus\nMaldives\nKorea, Republic of\nKorea (Democratic People's Republic of)\nRussian Federation\nKazakhstan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Korean Crevice Salamander\" (\"Karsenia koreana\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 1, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "67188": {
+        "question": "Can you tell me if the \"Lowland Burrowing Tree Frog\" (\"Smilisca fodiens\") can be found in the following countries:\n\nUnited States of America\nCanada\nBelize\nBelgium\nGuinea-Bissau\nMexico\nFiji\nGuatemala\nAfghanistan\nBosnia and Herzegovina.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Lowland Burrowing Tree Frog\" (\"Smilisca fodiens\") in the specified countries:\n\n```python\n[1, 0, 0, 0, 0, 1, 0, 0, 0, 0]\n```\n\nExplanation:\n- United States of America: 1 (The species is found in the southwestern USA)\n- Canada: 0 (The species is not found this far north)\n- Belize: 0 (The species is not typically found in Belize)\n- Belgium: 0 (The species is not found in Europe)\n- Guinea-Bissau: 0 (The species is not found in Africa)\n- Mexico: 1 (The species is found in Mexico)\n- Fiji: 0 (The species is not found in the Pacific islands)\n- Guatemala: 0 (The species is not typically found in Guatemala)\n- Afghanistan: 0 (The species is not found in Asia)\n- Bosnia and Herzegovina: 0 (The species is not found in Europe)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "64975": {
+        "question": "Can you tell me if the \"Chihuahuan Green Toad\" (\"Anaxyrus debilis\") can be found in the following countries:\n\nCanada\nBelize\nGuatemala\nT\u00fcrkiye\nNorway\nMadagascar\nBurkina Faso\nMauritius\nUnited States of America\nMexico.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Chihuahuan Green Toad (\"Anaxyrus debilis\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 1, 1]\n```\n\nThe Chihuahuan Green Toad is native to the southwestern United States and northern Mexico, so it is very likely to be found in the United States and Mexico, but not in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "23654": {
+        "question": "Can you tell me if the \"Broad-palmed Rocket Frog\" (\"Litoria latopalmata\") can be found in the following countries:\n\nBotswana\nSaudi Arabia\nCentral African Republic\nAustria\nNamibia\nGabon\nJordan\nSaint Pierre and Miquelon\nFinland\nAustralia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Broad-palmed Rocket Frog\" (\"Litoria latopalmata\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n```\n\nThe \"Broad-palmed Rocket Frog\" is native to Australia, so it is very likely to be found there (score of 1). It is not native to or likely to be found in any of the other listed countries (score of 0).",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "135055": {
+        "question": "Can you tell me if the \"Balearic Green Toad\" (\"Bufotes balearicus\") can be found in the following countries:\n\nSlovenia\nBelgium\nAustria\nItaly\nFrance\nGibraltar\nSpain\nSan Marino\nSwitzerland\nMorocco.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Balearic Green Toad\" (\"Bufotes balearicus\") in the specified countries:\n\n```python\n[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- The Balearic Green Toad is primarily found in Italy, particularly in Sardinia and Sicily. Therefore, Italy gets a score of 1.\n- The species is not native to the other listed countries, so they all receive a score of 0.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "27005": {
+        "question": "Can you tell me if the \"Mexican Mushroomtongue Salamander\" (\"Bolitoglossa mexicana\") can be found in the following countries:\n\nViet Nam\nMontenegro\nUnited States of America\nNicaragua\nMexico\nLebanon\nGuatemala\nHonduras\nBelize\nEl Salvador.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Mexican Mushroomtongue Salamander (Bolitoglossa mexicana), here are the likelihood scores for each country:\n\n```python\n[0, 0, 0, 0, 1, 0, 1, 1, 1, 1]\n```\n\nExplanation:\n- Viet Nam: 0 (Not found in Asia)\n- Montenegro: 0 (Not found in Europe)\n- United States of America: 0 (Not found in the USA)\n- Nicaragua: 0 (Not found in Nicaragua)\n- Mexico: 1 (Native to Mexico)\n- Lebanon: 0 (Not found in the Middle East)\n- Guatemala: 1 (Found in Central America, including Guatemala)\n- Honduras: 1 (Found in Central America, including Honduras)\n- Belize: 1 (Found in Central America, including Belize)\n- El Salvador: 1 (Found in Central America, including El Salvador)",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "22974": {
+        "question": "Can you tell me if the \"Oven Frog\" (\"Leptodactylus latinasus\") can be found in the following countries:\n\nArgentina\nPeru\nVenezuela (Bolivarian Republic of)\nBrazil\nUruguay\nChile\nGuyana\nParaguay\nBolivia, Plurinational State of\nFrench Guiana.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the \"Oven Frog\" (Leptodactylus latinasus), here are the likelihood scores for each country:\n\n```python\n[1, 0, 0, 1, 1, 0, 0, 1, 1, 0]\n```\n\nThis means:\n- Argentina: 1 (very likely)\n- Peru: 0 (not likely)\n- Venezuela (Bolivarian Republic of): 0 (not likely)\n- Brazil: 1 (very likely)\n- Uruguay: 1 (very likely)\n- Chile: 0 (not likely)\n- Guyana: 0 (not likely)\n- Paraguay: 1 (very likely)\n- Bolivia, Plurinational State of: 1 (very likely)\n- French Guiana: 0 (not likely)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "64987": {
+        "question": "Can you tell me if the \"Texas Toad\" (\"Anaxyrus speciosus\") can be found in the following countries:\n\nBelize\nUnited States of America\nCroatia\nCuba\nMexico\nGuatemala\nCanada\nJamaica\nQatar\nParaguay.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Texas Toad (\"Anaxyrus speciosus\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 1, 0, 0, 0, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "517130": {
+        "question": "Can you tell me if the \"Barred Monkey Frog\" (\"Callimedusa tomopterna\") can be found in the following countries:\n\nGuyana\nPanama\nEcuador\nFrench Guiana\nUruguay\nParaguay\nVenezuela, Bolivarian Republic of\nArgentina\nColombia\nChile.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Barred Monkey Frog (Callimedusa tomopterna), here are the likelihood scores for each country:\n\n```python\n[1, 0, 1, 1, 0, 0, 1, 0, 1, 0]\n```\n\nExplanation:\n- Guyana: 1 (likely present)\n- Panama: 0 (unlikely present)\n- Ecuador: 1 (likely present)\n- French Guiana: 1 (likely present)\n- Uruguay: 0 (unlikely present)\n- Paraguay: 0 (unlikely present)\n- Venezuela, Bolivarian Republic of: 1 (likely present)\n- Argentina: 0 (unlikely present)\n- Colombia: 1 (likely present)\n- Chile: 0 (unlikely present)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "26747": {
+        "question": "Can you tell me if the \"Northwestern Salamander\" (\"Ambystoma gracile\") can be found in the following countries:\n\nColombia\nMongolia\nMorocco\nSpain\nAlbania\nAnguilla\nCanada\nMexico\nUnited States of America\nCook Islands.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Northwestern Salamander (\"Ambystoma gracile\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 1, 0]\n```\n\nExplanation:\n- The Northwestern Salamander is native to the Pacific Northwest region of North America, specifically in parts of Canada and the United States.\n- It is not found in Colombia, Mongolia, Morocco, Spain, Albania, Anguilla, Mexico, or the Cook Islands.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "24268": {
+        "question": "Can you tell me if the \"Spring Peeper\" (\"Pseudacris crucifer\") can be found in the following countries:\n\nYemen\nAnguilla\nHoly See (Vatican City State)\nSlovenia\nGuadeloupe\nUnited States of America\nPeru\nCanada\nMexico\nKorea, Democratic People's Republic of.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Spring Peeper (\"Pseudacris crucifer\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- Yemen: 0\n- Anguilla: 0\n- Holy See (Vatican City State): 0\n- Slovenia: 0\n- Guadeloupe: 0\n- United States of America: 1 (Spring Peepers are native to the eastern United States)\n- Peru: 0\n- Canada: 1 (Spring Peepers are also found in parts of Canada)\n- Mexico: 0\n- Korea, Democratic People's Republic of: 0",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "26395": {
+        "question": "Can you tell me if the \"Java Bubble-Nest Frog\" (\"Philautus aurifasciatus\") can be found in the following countries:\n\nC\u00f4te d'Ivoire\nSint Maarten (Dutch part)\nFrench Polynesia\nFiji\nTimor-Leste\nMayotte\nIndonesia\nMalaysia\nMongolia\nPapua New Guinea.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Java Bubble-Nest Frog\" (\"Philautus aurifasciatus\") in the specified countries:\n\n```python\nlikelihood_scores = [0, 0, 0, 0, 0, 0, 1, 0.5, 0, 0.5]\n```\n\nExplanation:\n- The Java Bubble-Nest Frog is native to Indonesia, so it gets a score of 1.\n- Malaysia is geographically close to Indonesia and shares similar habitats, so it gets a score of 0.5.\n- Papua New Guinea is also relatively close and has similar environmental conditions, so it gets a score of 0.5.\n- The other countries listed are either too far from the native range of the species or have very different habitats, so they all get a score of 0.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "517053": {
+        "question": "Can you tell me if the \"Guttural Toad\" (\"Sclerophrys gutturalis\") can be found in the following countries:\n\nDjibouti\nMauritius\nUganda\nEthiopia\nCongo\nBotswana\nMozambique\nSouth Africa\nLesotho\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the \"Guttural Toad\" (\"Sclerophrys gutturalis\") in the specified countries:\n\n```python\n[0, 1, 1, 1, 1, 1, 1, 1, 1, 1]\n```\n\nExplanation:\n- Djibouti: 0 (Unlikely to be found there)\n- Mauritius: 1 (Introduced and established population)\n- Uganda: 1 (Native range)\n- Ethiopia: 1 (Native range)\n- Congo: 1 (Native range)\n- Botswana: 1 (Native range)\n- Mozambique: 1 (Native range)\n- South Africa: 1 (Native range)\n- Lesotho: 1 (Native range)\n- Namibia: 1 (Native range)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "64978": {
+        "question": "Can you tell me if the \"Canadian Toad\" (\"Anaxyrus hemiophrys\") can be found in the following countries:\n\nMexico\nCzechia\nPanama\nCanada\nUnited States of America\nTokelau\nFiji\nThailand\nSerbia\nSudan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Canadian Toad (Anaxyrus hemiophrys), here are the likelihood scores for each country:\n\n```python\n[0, 0, 0, 1, 1, 0, 0, 0, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "22066": {
+        "question": "Can you tell me if the \"Great Barred Frog\" (\"Mixophyes fasciolatus\") can be found in the following countries:\n\nCongo\nAndorra\nNamibia\nSaudi Arabia\nFaroe Islands\nMozambique\nAustralia\nHaiti\nMicronesia, Federated States of \nSierra Leone.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Great Barred Frog\" (\"Mixophyes fasciolatus\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 0]\n```\n\nThe \"Great Barred Frog\" is native to eastern Australia and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "64972": {
+        "question": "Can you tell me if the \"Yosemite Toad\" (\"Anaxyrus canorus\") can be found in the following countries:\n\nSpain\nUnited States of America\nMyanmar\nIndia\nCanada\nNew Caledonia\nGuinea\nMexico\nSwitzerland\nMaldives.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Yosemite Toad (\"Anaxyrus canorus\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThe Yosemite Toad is endemic to the United States, specifically in the Sierra Nevada of California, and is not found in the other listed countries.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "65996": {
+        "question": "Can you tell me if the \"Montezuma Leopard Frog\" (\"Lithobates montezumae\") can be found in the following countries:\n\nUnited States of America\nMexico\nIsle of Man\nCyprus\nBelize\nAnguilla\nGuatemala\nTokelau\nNiger\nSouth Sudan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Montezuma Leopard Frog (\"Lithobates montezumae\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 0, 0, 0.5, 0, 0, 0]\n```\n\nExplanation:\n- United States of America: 0 (Not typically found there)\n- Mexico: 1 (Native to Mexico)\n- Isle of Man: 0 (Not found there)\n- Cyprus: 0 (Not found there)\n- Belize: 0 (Not found there)\n- Anguilla: 0 (Not found there)\n- Guatemala: 0.5 (Possible, but not confirmed as native)\n- Tokelau: 0 (Not found there)\n- Niger: 0 (Not found there)\n- South Sudan: 0 (Not found there)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "13350": {
+        "question": "Can you tell me if the \"Bronze Sunbird\" (\"Nectarinia kilimensis\") can be found in the following countries:\n\nSomalia\nSouth Africa\nEthiopia\nZimbabwe\nEritrea\nBurundi\nCongo\nEswatini\nMalawi\nMozambique.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Bronze Sunbird (\"Nectarinia kilimensis\") in the specified countries:\n\n```python\n[0.1, 0.9, 1.0, 0.8, 0.9, 1.0, 0.7, 0.2, 1.0, 0.9]\n```\n\nThese scores are based on the known distribution and habitat preferences of the Bronze Sunbird.",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "20379": {
+        "question": "Can you tell me if the \"Elf Owl\" (\"Micrathene whitneyi\") can be found in the following countries:\n\nMexico\nGuatemala\nBelize\nChina\nCentral African Republic\nCura\u00e7ao\nMadagascar\nCanada\nCroatia\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here are the likelihood scores for the presence of the Elf Owl (\"Micrathene whitneyi\") in each of the listed countries:\n\n```python\n[1, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n```\n\nExplanation:\n- Mexico: 1 (Elf Owls are commonly found in Mexico)\n- Guatemala: 0 (Elf Owls are not typically found in Guatemala)\n- Belize: 0 (Elf Owls are not typically found in Belize)\n- China: 0 (Elf Owls are not found in China)\n- Central African Republic: 0 (Elf Owls are not found in the Central African Republic)\n- Cura\u00e7ao: 0 (Elf Owls are not found in Cura\u00e7ao)\n- Madagascar: 0 (Elf Owls are not found in Madagascar)\n- Canada: 0 (Elf Owls are not found in Canada)\n- Croatia: 0 (Elf Owls are not found in Croatia)\n- United States of America: 1 (Elf Owls are commonly found in the southwestern United States)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "8046": {
+        "question": "Can you tell me if the \"Fan-tailed Raven\" (\"Corvus rhipidurus\") can be found in the following countries:\n\nJordan\nTanzania (the United Republic of)\nLebanon\nIraq\nGuinea\nEgypt\nSomalia\nCameroon\nNigeria\nChad.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Fan-tailed Raven (Corvus rhipidurus), here are the likelihood scores for each country:\n\n```python\n[1, 0, 1, 1, 0, 1, 1, 0, 0, 1]\n```\n\nExplanation:\n- Jordan: 1 (very likely)\n- Tanzania (the United Republic of): 0 (not likely)\n- Lebanon: 1 (very likely)\n- Iraq: 1 (very likely)\n- Guinea: 0 (not likely)\n- Egypt: 1 (very likely)\n- Somalia: 1 (very likely)\n- Cameroon: 0 (not likely)\n- Nigeria: 0 (not likely)\n- Chad: 1 (very likely)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "14637": {
+        "question": "Can you tell me if the \"Madagascar Bulbul\" (\"Hypsipetes madagascariensis\") can be found in the following countries:\n\nComoros\nBhutan\nUnited States of America\nNamibia\nMayotte\nSeychelles\nSaint Kitts and Nevis\nMadagascar\nPanama\nSweden.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Madagascar Bulbul\" (\"Hypsipetes madagascariensis\") in the specified countries:\n\n```python\nlikelihood_scores = [1, 0, 0, 0, 1, 1, 0, 1, 0, 0]\n```\n\nExplanation:\n- Comoros: 1 (The species is found here)\n- Bhutan: 0 (The species is not found here)\n- United States of America: 0 (The species is not found here)\n- Namibia: 0 (The species is not found here)\n- Mayotte: 1 (The species is found here)\n- Seychelles: 1 (The species is found here)\n- Saint Kitts and Nevis: 0 (The species is not found here)\n- Madagascar: 1 (The species is found here)\n- Panama: 0 (The species is not found here)\n- Sweden: 0 (The species is not found here)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "4585": {
+        "question": "Can you tell me if the \"African Jacana\" (\"Actophilornis africanus\") can be found in the following countries:\n\nBotswana\nAlgeria\nGuinea\nWestern Sahara\nMalawi\nLibya\nSudan\nEritrea\nGabon\nDjibouti.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the African Jacana (\"Actophilornis africanus\") in the specified countries:\n\n```python\n[1, 0, 1, 0, 1, 0, 1, 1, 1, 0]\n```\n\nExplanation:\n- Botswana: 1 (very likely)\n- Algeria: 0 (not likely)\n- Guinea: 1 (very likely)\n- Western Sahara: 0 (not likely)\n- Malawi: 1 (very likely)\n- Libya: 0 (not likely)\n- Sudan: 1 (very likely)\n- Eritrea: 1 (very likely)\n- Gabon: 1 (very likely)\n- Djibouti: 0 (not likely)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "144484": {
+        "question": "Can you tell me if the \"Yellow-wattled Lapwing\" (\"Vanellus malabaricus\") can be found in the following countries:\n\nBangladesh\nChina\nMyanmar\nIran (Islamic Republic of)\nBhutan\nNamibia\nIndonesia\nMalaysia\nNepal\nPakistan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Yellow-wattled Lapwing (Vanellus malabaricus), here are the likelihood scores for each country:\n\n```python\n[0.1, 0.0, 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1, 1.0]\n```\n\nExplanation:\n- Bangladesh: 0.1 (Occasional sightings, not common)\n- China: 0.0 (Not found)\n- Myanmar: 0.1 (Occasional sightings, not common)\n- Iran (Islamic Republic of): 0.0 (Not found)\n- Bhutan: 0.0 (Not found)\n- Namibia: 0.0 (Not found)\n- Indonesia: 0.0 (Not found)\n- Malaysia: 0.0 (Not found)\n- Nepal: 0.1 (Occasional sightings, not common)\n- Pakistan: 1.0 (Commonly found)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "143853": {
+        "question": "Can you tell me if the \"Black-billed Magpie\" (\"Pica hudsonia\") can be found in the following countries:\n\nPhilippines\nUnited States of America\nBolivia, Plurinational State of\nMexico\nT\u00fcrkiye\nCanada\nNamibia\nIsrael\nTajikistan\nChina.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Black-billed Magpie (\"Pica hudsonia\") in the specified countries:\n\n```python\n[0, 1, 0, 0.5, 0, 1, 0, 0, 0, 0]\n```\n\nExplanation:\n- Philippines: 0 (Not found there)\n- United States of America: 1 (Commonly found there)\n- Bolivia, Plurinational State of: 0 (Not found there)\n- Mexico: 0.5 (Found in the northern parts)\n- T\u00fcrkiye: 0 (Not found there)\n- Canada: 1 (Commonly found there)\n- Namibia: 0 (Not found there)\n- Israel: 0 (Not found there)\n- Tajikistan: 0 (Not found there)\n- China: 0 (Not found there)",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "5286": {
+        "question": "Can you tell me if the \"Square-tailed Kite\" (\"Lophoictinia isura\") can be found in the following countries:\n\nAustralia\nBurundi\nUnited Arab Emirates\nThailand\nRussian Federation\nGuinea\nPalestine, State of\nComoros\nArgentina\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Square-tailed Kite (\"Lophoictinia isura\") in the specified countries:\n\n```python\n[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\nThe Square-tailed Kite is native to Australia and is not found in the other listed countries.",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "19482": {
+        "question": "Can you tell me if the \"Red-necked Nightjar\" (\"Caprimulgus ruficollis\") can be found in the following countries:\n\nLiberia\nFrance\nDenmark\nItaly\nSerbia\nMali\nTogo\nHoly See\nSwitzerland\nC\u00f4te d'Ivoire.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Red-necked Nightjar (Caprimulgus ruficollis) in the specified countries:\n\n```python\n[0, 1, 0, 1, 0, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- The Red-necked Nightjar is primarily found in southwestern Europe and northwestern Africa.\n- It is very likely to be found in France and Italy (score of 1).\n- It is not typically found in Liberia, Denmark, Serbia, Mali, Togo, Holy See, Switzerland, or C\u00f4te d'Ivoire (score of 0).",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "3924": {
+        "question": "Can you tell me if the \"African Snipe\" (\"Gallinago nigripennis\") can be found in the following countries:\n\nSomalia\nNamibia\nDjibouti\nCongo, The Democratic Republic of the\nCentral African Republic\nChad\nEritrea\nEswatini\nNamibia\nLesotho.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the African Snipe (\"Gallinago nigripennis\") in the specified countries:\n\n```python\n[0.2, 1, 0.1, 1, 0.5, 0.1, 0.1, 1, 1, 1]\n```\n\nThese scores are based on the typical distribution and habitat preferences of the African Snipe.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "4385": {
+        "question": "Can you tell me if the \"California Gull\" (\"Larus californicus\") can be found in the following countries:\n\nCanada\nSan Marino\nPeru\nUnited States of America\nMexico\nGuatemala\nBelize\nEcuador\nBouvet Island\nColombia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the California Gull (\"Larus californicus\") in the specified countries:\n\n```python\n[1, 0, 0, 1, 1, 0, 0, 0, 0, 0]\n```\n\nExplanation:\n- Canada: 1 (California Gulls are found in parts of Canada, especially during migration and breeding seasons)\n- San Marino: 0 (Unlikely, as it is a landlocked country in Europe)\n- Peru: 0 (Unlikely, as it is outside the typical range of the California Gull)\n- United States of America: 1 (Commonly found, especially in the western states)\n- Mexico: 1 (Found in parts of Mexico, especially during migration)\n- Guatemala: 0 (Unlikely, as it is outside the typical range of the California Gull)\n- Belize: 0 (Unlikely, as it is outside the typical range of the California Gull)\n- Ecuador: 0 (Unlikely, as it is outside the typical range of the California Gull)\n- Bouvet Island: 0 (Unlikely, as it is a remote island in the South Atlantic Ocean)\n- Colombia: 0 (Unlikely, as it is outside the typical range of the California Gull)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "73078": {
+        "question": "Can you tell me if the \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\") can be found in the following countries:\n\nTunisia\nNigeria\nIndonesia\nTaiwan, Province of China\nTajikistan\nNamibia\nAruba\nCyprus\nPalestine, State of\nAntarctica.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\") in the specified countries:\n\n```python\n[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "11858": {
+        "question": "Can you tell me if the \"Cliff Swallow\" (\"Petrochelidon pyrrhonota\") can be found in the following countries:\n\nGuadeloupe\nSaint Kitts and Nevis\nDominica\nEstonia\nFinland\nGeorgia\nAruba\nUnited States of America\nGuyana\nMongolia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Cliff Swallow (\"Petrochelidon pyrrhonota\") in the specified countries:\n\n```python\n[0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 1, 0.1, 0.1]\n```\n\nExplanation:\n- The Cliff Swallow is primarily found in North America, particularly in the United States, where it breeds and is very common. Hence, the score for the United States is 1.\n- For the other countries listed, the likelihood of the Cliff Swallow being present is very low, as they are not part of its typical range or migratory paths. Therefore, the score for these countries is 0.1.",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "508977": {
+        "question": "Can you tell me if the \"Yellow-tinted Honeyeater\" (\"Ptilotula flavescens\") can be found in the following countries:\n\nLao People's Democratic Republic\nPapua New Guinea\nNamibia\nCayman Islands\nAustralia\nLithuania\nIndonesia\nBahamas\nMicronesia, Federated States of \nNauru.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the \"Yellow-tinted Honeyeater\" (\"Ptilotula flavescens\") in the specified countries:\n\n```python\n[0, 0, 0, 0, 1, 0, 0, 0, 0, 0]\n```\n\nThe \"Yellow-tinted Honeyeater\" is native to Australia, so the score for Australia is 1. For all other countries listed, the likelihood score is 0.",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "9491": {
+        "question": "Can you tell me if the \"Lined Seedeater\" (\"Sporophila lineola\") can be found in the following countries:\n\nParaguay\nEcuador\nBrazil\nColombia\nVenezuela, Bolivarian Republic of\nChile\nSuriname\nUruguay\nDenmark\nCosta Rica.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Lined Seedeater (\"Sporophila lineola\") in the specified countries:\n\n```python\n[1, 0, 1, 1, 1, 0, 1, 1, 0, 0]\n```\n\nExplanation:\n- Paraguay: 1 (very likely)\n- Ecuador: 0 (not likely)\n- Brazil: 1 (very likely)\n- Colombia: 1 (very likely)\n- Venezuela, Bolivarian Republic of: 1 (very likely)\n- Chile: 0 (not likely)\n- Suriname: 1 (very likely)\n- Uruguay: 1 (very likely)\n- Denmark: 0 (not likely)\n- Costa Rica: 0 (not likely)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "5430": {
+        "question": "Can you tell me if the \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\") can be found in the following countries:\n\nGuinea\nC\u00f4te d'Ivoire\nLesotho\nTanzania, United Republic of\nMalawi\nSierra Leone\nEritrea\nLibya\nDjibouti\nEgypt.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Lizard Buzzard (Kaupifalco monogrammicus), here are the likelihood scores for each country:\n\n```python\n[1, 1, 0, 1, 1, 1, 0, 0, 0]\n```\n\nExplanation:\n- Guinea: 1 (very likely)\n- C\u00f4te d'Ivoire: 1 (very likely)\n- Lesotho: 0 (not likely)\n- Tanzania, United Republic of: 1 (very likely)\n- Malawi: 1 (very likely)\n- Sierra Leone: 1 (very likely)\n- Eritrea: 0 (not likely)\n- Libya: 0 (not likely)\n- Djibouti: 0 (not likely)\n- Egypt: 0 (not likely)",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "728": {
+        "question": "Can you tell me if the \"Jungle Bush-Quail\" (\"Perdicula asiatica\") can be found in the following countries:\n\nNamibia\nBhutan\nChina\nPakistan\nIndia\nCongo\nMyanmar\nSri Lanka\nBangladesh\nNepal.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, based on the known distribution of the Jungle Bush-Quail (Perdicula asiatica), here are the likelihood scores for each country:\n\nNamibia: 0\nBhutan: 0\nChina: 0\nPakistan: 0.5\nIndia: 1\nCongo: 0\nMyanmar: 0\nSri Lanka: 0\nBangladesh: 0.5\nNepal: 0.5\n\nSo, the Python list containing the likelihood scores would be:\n\n```python\n[0, 0, 0, 0.5, 1, 0, 0, 0, 0.5, 0.5]\n```",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "9419": {
+        "question": "Can you tell me if the \"Green-tailed Towhee\" (\"Pipilo chlorurus\") can be found in the following countries:\n\nNamibia\nCanada\nCuba\nSomalia\nGuinea-Bissau\nMexico\nBelize\nCyprus\nGuatemala\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Green-tailed Towhee (\"Pipilo chlorurus\") in the specified countries:\n\n```python\n[0, 1, 0, 0, 0, 1, 0, 0, 0, 1]\n```\n\nExplanation:\n- Namibia: 0 (Not found in Namibia)\n- Canada: 1 (Found in parts of Canada, especially during migration)\n- Cuba: 0 (Not found in Cuba)\n- Somalia: 0 (Not found in Somalia)\n- Guinea-Bissau: 0 (Not found in Guinea-Bissau)\n- Mexico: 1 (Found in Mexico, especially in the northern regions)\n- Belize: 0 (Not found in Belize)\n- Cyprus: 0 (Not found in Cyprus)\n- Guatemala: 0 (Not found in Guatemala)\n- United States of America: 1 (Commonly found in the western United States)",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "13702": {
+        "question": "Can you tell me if the \"Japanese Wagtail\" (\"Motacilla grandis\") can be found in the following countries:\n\nKorea, Democratic People's Republic of\nLatvia\nNepal\nRussian Federation\nUkraine\nJapan\nTaiwan, Province of China\nChina\nBhutan\nNorway.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Japanese Wagtail (\"Motacilla grandis\") in the specified countries:\n\n```python\nlikelihood_scores = [1, 0, 0, 0.5, 0, 1, 0.5, 1, 0, 0]\n```\n\nExplanation:\n- Korea, Democratic People's Republic of: 1 (Very likely, as it is part of its natural range)\n- Latvia: 0 (Not within its natural range)\n- Nepal: 0 (Not within its natural range)\n- Russian Federation: 0.5 (Possible in the far eastern regions, but not common)\n- Ukraine: 0 (Not within its natural range)\n- Japan: 1 (Very likely, as it is part of its natural range)\n- Taiwan, Province of China: 0.5 (Possible, but not common)\n- China: 1 (Very likely, especially in eastern regions)\n- Bhutan: 0 (Not within its natural range)\n- Norway: 0 (Not within its natural range)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "7123": {
+        "question": "Can you tell me if the \"Southern Pochard\" (\"Netta erythrophthalma\") can be found in the following countries:\n\nMozambique\nParaguay\nMalawi\nCongo\nLebanon\nUganda\nGuyana\nPeru\nSouth Africa\nCentral African Republic.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Southern Pochard (\"Netta erythrophthalma\") in the specified countries:\n\n```python\n[1, 0, 1, 1, 0, 1, 0, 0, 1, 1]\n```\n\nExplanation:\n- Mozambique: 1 (very likely)\n- Paraguay: 0 (not likely)\n- Malawi: 1 (very likely)\n- Congo: 1 (very likely)\n- Lebanon: 0 (not likely)\n- Uganda: 1 (very likely)\n- Guyana: 0 (not likely)\n- Peru: 0 (not likely)\n- South Africa: 1 (very likely)\n- Central African Republic: 1 (very likely)",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "9611": {
+        "question": "Can you tell me if the \"Black Rosy-Finch\" (\"Leucosticte atrata\") can be found in the following countries:\n\nSudan\nMexico\nSaint Helena, Ascension and Tristan da Cunha\nUnited States of America\nCanada\nSlovenia\nMarshall Islands\nIsrael\nRomania\nGuadeloupe.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Black Rosy-Finch (Leucosticte atrata) in the specified countries:\n\n```python\n[0, 0, 0, 1, 0, 0, 0, 0, 0, 0]\n```\n\nThe Black Rosy-Finch is primarily found in the mountainous regions of the western United States.",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "116877": {
+        "question": "Can you tell me if the \"Black-capped Donacobius\" (\"Donacobius atricapilla\") can be found in the following countries:\n\nGuyana\nBrunei Darussalam\nUruguay\nLithuania\nFrench Guiana\nPeru\nArgentina\nCosta Rica\nChile\nParaguay.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Sure, here is the list of likelihood scores for the presence of the Black-capped Donacobius (Donacobius atricapilla) in the specified countries:\n\n```python\n[1, 0, 0, 0, 1, 1, 0, 0, 0, 1]\n```\n\nExplanation:\n- Guyana: 1 (very likely to be present)\n- Brunei Darussalam: 0 (not likely to be present)\n- Uruguay: 0 (not likely to be present)\n- Lithuania: 0 (not likely to be present)\n- French Guiana: 1 (very likely to be present)\n- Peru: 1 (very likely to be present)\n- Argentina: 0 (not likely to be present)\n- Costa Rica: 0 (not likely to be present)\n- Chile: 0 (not likely to be present)\n- Paraguay: 1 (very likely to be present)",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    }
+}

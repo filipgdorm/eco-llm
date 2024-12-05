@@ -1,0 +1,2002 @@
+{
+    "42983_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Koala\" (\"Phascolarctos cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "760 \n",
+        "correct_answers": 850.0
+    },
+    "41822_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Zorilla\" (\"Ictonyx striatus\")? Output your numerical estimate and nothing else.",
+        "response": "585 \n",
+        "correct_answers": 359.5
+    },
+    "42304_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Bohor Reedbuck\" (\"Redunca redunca\")? Output your numerical estimate and nothing else.",
+        "response": "950",
+        "correct_answers": 1375.0
+    },
+    "45568_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Striped Field Mouse\" (\"Apodemus agrarius\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 106.081
+    },
+    "41906_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Common Dwarf Mongoose\" (\"Helogale parvula\")? Output your numerical estimate and nothing else.",
+        "response": "250",
+        "correct_answers": 230.795
+    },
+    "42336_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Grey Rhebok\" (\"Pelea capreolus\")? Output your numerical estimate and nothing else.",
+        "response": "750",
+        "correct_answers": 1250.0
+    },
+    "59815_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Masked Shrew\" (\"Sorex cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "66",
+        "correct_answers": 69.28
+    },
+    "40569_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Evening Bat\" (\"Nycticeius humeralis\")? Output your numerical estimate and nothing else.",
+        "response": "86",
+        "correct_answers": 50.0
+    },
+    "42384_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Klipspringer\" (\"Oreotragus oreotragus\")? Output your numerical estimate and nothing else.",
+        "response": "850",
+        "correct_answers": 987.495
+    },
+    "74442_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Capybara\" (\"Hydrochoerus hydrochaeris\")? Output your numerical estimate and nothing else.",
+        "response": "1300 \n",
+        "correct_answers": 1254.195
+    },
+    "225741_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Gray-footed Chipmunk\" (\"Neotamias canipes\")? Output your numerical estimate and nothing else.",
+        "response": "190 \n",
+        "correct_answers": 131.4
+    },
+    "1077384_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Piute Ground Squirrel\" (\"Urocitellus mollis\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 289.575
+    },
+    "42069_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Red Fox\" (\"Vulpes vulpes\")? Output your numerical estimate and nothing else.",
+        "response": "935 \n",
+        "correct_answers": 630.0
+    },
+    "42888_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Eastern Grey Kangaroo\" (\"Macropus giganteus\")? Output your numerical estimate and nothing else.",
+        "response": "2000 \n",
+        "correct_answers": 1138.08
+    },
+    "45997_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Deppe's Squirrel\" (\"Sciurus deppei\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 257.745
+    },
+    "45314_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Fawn-footed Melomys\" (\"Melomys cervinipes\")? Output your numerical estimate and nothing else.",
+        "response": "145 \n",
+        "correct_answers": 156.83
+    },
+    "41800_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Stone Marten\" (\"Martes foina\")? Output your numerical estimate and nothing else.",
+        "response": "450",
+        "correct_answers": 499.315
+    },
+    "46093_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Olympic Marmot\" (\"Marmota olympus\")? Output your numerical estimate and nothing else.",
+        "response": "500",
+        "correct_answers": 600.0
+    },
+    "180010_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Golden-mantled Ground Squirrel\" (\"Callospermophilus lateralis\")? Output your numerical estimate and nothing else.",
+        "response": "280 \n",
+        "correct_answers": 310.19
+    },
+    "46255_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"White-tailed Antelope Squirrel\" (\"Ammospermophilus leucurus\")? Output your numerical estimate and nothing else.",
+        "response": "200",
+        "correct_answers": 159.535
+    },
+    "47083_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Six-banded Armadillo\" (\"Euphractus sexcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "400",
+        "correct_answers": 470.83
+    },
+    "74731_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Mexican Greater Funnel-eared Bat\" (\"Natalus mexicanus\")? Output your numerical estimate and nothing else.",
+        "response": "47",
+        "correct_answers": 46.0
+    },
+    "552456_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Paraguay Hairy Dwarf Porcupine\" (\"Coendou spinosus\")? Output your numerical estimate and nothing else.",
+        "response": "435 \n",
+        "correct_answers": 419.924
+    },
+    "44899_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Arizona Cotton Rat\" (\"Sigmodon arizonae\")? Output your numerical estimate and nothing else.",
+        "response": "160 \n",
+        "correct_answers": 200.0
+    },
+    "41900_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Egyptian Mongoose\" (\"Herpestes ichneumon\")? Output your numerical estimate and nothing else.",
+        "response": "500",
+        "correct_answers": 611.64
+    },
+    "179993_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Round-tailed Ground Squirrel\" (\"Xerospermophilus tereticaudus\")? Output your numerical estimate and nothing else.",
+        "response": "250",
+        "correct_answers": 280.265
+    },
+    "40522_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Eastern Red Bat\" (\"Lasiurus borealis\")? Output your numerical estimate and nothing else.",
+        "response": "95",
+        "correct_answers": 65.656
+    },
+    "74481_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Geoffroy's Cat\" (\"Leopardus geoffroyi\")? Output your numerical estimate and nothing else.",
+        "response": "450",
+        "correct_answers": 700.0
+    },
+    "42657_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Big-eared Opossum\" (\"Didelphis aurita\")? Output your numerical estimate and nothing else.",
+        "response": "330 \n",
+        "correct_answers": 396.35
+    },
+    "46283_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Common Treeshrew\" (\"Tupaia glis\")? Output your numerical estimate and nothing else.",
+        "response": "165 \n",
+        "correct_answers": 207.5
+    },
+    "42007_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Mountain Lion\" (\"Puma concolor\")? Output your numerical estimate and nothing else.",
+        "response": "1800",
+        "correct_answers": 1677.665
+    },
+    "45437_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Southern Vlei Rat\" (\"Otomys irroratus\")? Output your numerical estimate and nothing else.",
+        "response": "130",
+        "correct_answers": 190.24
+    },
+    "41396_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Proboscis Bat\" (\"Rhynchonycteris naso\")? Output your numerical estimate and nothing else.",
+        "response": "44",
+        "correct_answers": 47.97
+    },
+    "852245_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Middle Eastern Molerat\" (\"Nannospalax ehrenbergi\")? Output your numerical estimate and nothing else.",
+        "response": "160 \n",
+        "correct_answers": 270.0
+    },
+    "42341_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Northern Bushbuck\" (\"Tragelaphus scriptus\")? Output your numerical estimate and nothing else.",
+        "response": "1300 \n",
+        "correct_answers": 1373.55
+    },
+    "40348_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Cave Myotis\" (\"Myotis velifer\")? Output your numerical estimate and nothing else.",
+        "response": "89",
+        "correct_answers": 65.0
+    },
+    "46180_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Gunnison's Prairie Dog\" (\"Cynomys gunnisoni\")? Output your numerical estimate and nothing else.",
+        "response": "350",
+        "correct_answers": 304.56
+    },
+    "43813_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Brazilian Guinea Pig\" (\"Cavia aperea\")? Output your numerical estimate and nothing else.",
+        "response": "250",
+        "correct_answers": 400.0
+    },
+    "74617_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Cozumelan Golden Bat\" (\"Mimon cozumelae\")? Output your numerical estimate and nothing else.",
+        "response": "73",
+        "correct_answers": 75.0
+    },
+    "74659_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Northern Red Muntjac\" (\"Muntiacus vaginalis\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 1157.495
+    },
+    "75115_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Siamang\" (\"Symphalangus syndactylus\")? Output your numerical estimate and nothing else.",
+        "response": "750 \n",
+        "correct_answers": 862.495
+    },
+    "74191_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Tantalus Monkey\" (\"Chlorocebus tantalus\")? Output your numerical estimate and nothing else.",
+        "response": "550 \n",
+        "correct_answers": 660.0
+    },
+    "42025_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Serval\" (\"Leptailurus serval\")? Output your numerical estimate and nothing else.",
+        "response": "850 \n",
+        "correct_answers": 916.255
+    },
+    "40281_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Geoffroy's Bat\" (\"Myotis emarginatus\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 50.0
+    },
+    "41627_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"African Civet\" (\"Civettictis civetta\")? Output your numerical estimate and nothing else.",
+        "response": "750",
+        "correct_answers": 840.07
+    },
+    "42809_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Short-eared Brush-tailed Possum\" (\"Trichosurus caninus\")? Output your numerical estimate and nothing else.",
+        "response": "400",
+        "correct_answers": 580.0
+    },
+    "41824_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Lesser Grison\" (\"Galictis cuja\")? Output your numerical estimate and nothing else.",
+        "response": "450 \n",
+        "correct_answers": 436.645
+    },
+    "41789_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"American Badger\" (\"Taxidea taxus\")? Output your numerical estimate and nothing else.",
+        "response": "650",
+        "correct_answers": 639.175
+    },
+    "42733_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Striped Possum\" (\"Dactylopsila trivirgata\")? Output your numerical estimate and nothing else.",
+        "response": "320",
+        "correct_answers": 273.0
+    },
+    "43606_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Gmelin's Woolly Lemur\" (\"Avahi laniger\")? Output your numerical estimate and nothing else.",
+        "response": "450",
+        "correct_answers": 362.5
+    },
+    "43043_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Eastern European Hedgehog\" (\"Erinaceus concolor\")? Output your numerical estimate and nothing else.",
+        "response": "275 \n",
+        "correct_answers": 237.17
+    },
+    "46272_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Southern Flying Squirrel\" (\"Glaucomys volans\")? Output your numerical estimate and nothing else.",
+        "response": "135 \n",
+        "correct_answers": 171.49
+    },
+    "40187_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Yellow-footed Antechinus\" (\"Antechinus flavipes\")? Output your numerical estimate and nothing else.",
+        "response": "130",
+        "correct_answers": 114.62
+    },
+    "43047_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Amur Hedgehog\" (\"Erinaceus amurensis\")? Output your numerical estimate and nothing else.",
+        "response": "200",
+        "correct_answers": 249.64
+    },
+    "43042_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Common Hedgehog\" (\"Erinaceus europaeus\")? Output your numerical estimate and nothing else.",
+        "response": "200",
+        "correct_answers": 268.585
+    },
+    "46969_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Iberian mole\" (\"Talpa occidentalis\")? Output your numerical estimate and nothing else.",
+        "response": "90 \n",
+        "correct_answers": 140.0
+    },
+    "42405_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"African Buffalo\" (\"Syncerus caffer\")? Output your numerical estimate and nothing else.",
+        "response": "2700 \n",
+        "correct_answers": 2962.93
+    },
+    "47107_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Giant Anteater\" (\"Myrmecophaga tridactyla\")? Output your numerical estimate and nothing else.",
+        "response": "2000 \n",
+        "correct_answers": 1512.36
+    },
+    "43439_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Yucat\u00e1n Black Howler Monkey\" (\"Alouatta pigra\")? Output your numerical estimate and nothing else.",
+        "response": "600",
+        "correct_answers": 740.97
+    },
+    "45863_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"European Garden Dormouse\" (\"Eliomys quercinus\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 156.87
+    },
+    "47078_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Pichi\" (\"Zaedyus pichiy\")? Output your numerical estimate and nothing else.",
+        "response": "350",
+        "correct_answers": 316.25
+    },
+    "44570_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Australian Bush Rat\" (\"Rattus fuscipes\")? Output your numerical estimate and nothing else.",
+        "response": "185 \n",
+        "correct_answers": 159.25
+    },
+    "47075_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Nine-banded Armadillo\" (\"Dasypus novemcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "750 \n",
+        "correct_answers": 507.895
+    },
+    "43119_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Granada Hare\" (\"Lepus granatensis\")? Output your numerical estimate and nothing else.",
+        "response": "500 \n",
+        "correct_answers": 459.0
+    },
+    "47014_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Eastern Mole\" (\"Scalopus aquaticus\")? Output your numerical estimate and nothing else.",
+        "response": "165 \n",
+        "correct_answers": 147.605
+    },
+    "424254_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Daubenton's bat\" (\"Myotis daubentonii\")? Output your numerical estimate and nothing else.",
+        "response": "62.5",
+        "correct_answers": 47.7
+    },
+    "225754_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Sonoma Chipmunk\" (\"Neotamias sonomae\")? Output your numerical estimate and nothing else.",
+        "response": "198 \n",
+        "correct_answers": 146.815
+    },
+    "41387_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Gray Sac-winged Bat\" (\"Balantiopteryx plicata\")? Output your numerical estimate and nothing else.",
+        "response": "67",
+        "correct_answers": 53.0
+    },
+    "45955_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Prevost's Squirrel\" (\"Callosciurus prevostii\")? Output your numerical estimate and nothing else.",
+        "response": "230",
+        "correct_answers": 263.5
+    },
+    "41974_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Canada Lynx\" (\"Lynx canadensis\")? Output your numerical estimate and nothing else.",
+        "response": "850 \n",
+        "correct_answers": 806.15
+    },
+    "852334_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Mountain Viscacha\" (\"Lagidium viscacia\")? Output your numerical estimate and nothing else.",
+        "response": "420 \n",
+        "correct_answers": 396.185
+    },
+    "45932_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Dassie Rat\" (\"Petromus typicus\")? Output your numerical estimate and nothing else.",
+        "response": "350",
+        "correct_answers": 200.0
+    },
+    "43339_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\")? Output your numerical estimate and nothing else.",
+        "response": "2800 \n",
+        "correct_answers": 2850.0
+    },
+    "183164_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Canyon Bat\" (\"Parastrellus hesperus\")? Output your numerical estimate and nothing else.",
+        "response": "47",
+        "correct_answers": 57.73
+    },
+    "41147_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"California Leaf-nosed Bat\" (\"Macrotus californicus\")? Output your numerical estimate and nothing else.",
+        "response": "82",
+        "correct_answers": 62.68
+    },
+    "47051_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"American Shrewmole\" (\"Neurotrichus gibbsii\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 81.38
+    },
+    "41939_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"White-tailed Mongoose\" (\"Ichneumia albicauda\")? Output your numerical estimate and nothing else.",
+        "response": "750 \n",
+        "correct_answers": 640.845
+    },
+    "74476_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Western Yellow Bat\" (\"Lasiurus xanthinus\")? Output your numerical estimate and nothing else.",
+        "response": "97",
+        "correct_answers": 75.0
+    },
+    "55908_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Mountain Hare\" (\"Lepus timidus\")? Output your numerical estimate and nothing else.",
+        "response": "500",
+        "correct_answers": 559.5
+    },
+    "179988_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Thirteen-lined Ground Squirrel\" (\"Ictidomys tridecemlineatus\")? Output your numerical estimate and nothing else.",
+        "response": "280",
+        "correct_answers": 271.75
+    },
+    "40232_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Tasmanian Devil\" (\"Sarcophilus harrisii\")? Output your numerical estimate and nothing else.",
+        "response": "650 \n",
+        "correct_answers": 678.93
+    },
+    "41110_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Seba's Short-tailed Bat\" (\"Carollia perspicillata\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 66.995
+    },
+    "183166_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Tricolored Bat\" (\"Perimyotis subflavus\")? Output your numerical estimate and nothing else.",
+        "response": "75",
+        "correct_answers": 55.0
+    },
+    "42176_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Common Red Brocket\" (\"Mazama americana\")? Output your numerical estimate and nothing else.",
+        "response": "670 \n",
+        "correct_answers": 1350.0
+    },
+    "44282_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Field Vole\" (\"Microtus agrestis\")? Output your numerical estimate and nothing else.",
+        "response": "90",
+        "correct_answers": 128.085
+    },
+    "42783_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Greater Glider\" (\"Petauroides volans\")? Output your numerical estimate and nothing else.",
+        "response": "400",
+        "correct_answers": 440.0
+    },
+    "42236_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Vicu\u00f1a\" (\"Vicugna vicugna\")? Output your numerical estimate and nothing else.",
+        "response": "860 \n",
+        "correct_answers": 1737.5
+    },
+    "64102_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Big-eared Woodrat\" (\"Neotoma macrotis\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 218.19
+    },
+    "607212_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Brown Agouti\" (\"Dasyprocta variegata\")? Output your numerical estimate and nothing else.",
+        "response": "500",
+        "correct_answers": 620.0
+    },
+    "46007_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Andean Squirrel\" (\"Sciurus pucheranii\")? Output your numerical estimate and nothing else.",
+        "response": "240 \n",
+        "correct_answers": 315.0
+    },
+    "40192_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Agile Antechinus\" (\"Antechinus agilis\")? Output your numerical estimate and nothing else.",
+        "response": "95 \n",
+        "correct_answers": 104.152
+    },
+    "42220_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Mule Deer\" (\"Odocoileus hemionus\")? Output your numerical estimate and nothing else.",
+        "response": "1800 \n",
+        "correct_answers": 1808.25
+    },
+    "42042_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Caracal\" (\"Caracal caracal\")? Output your numerical estimate and nothing else.",
+        "response": "750",
+        "correct_answers": 827.14
+    },
+    "42228_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Marsh Deer\" (\"Blastocerus dichotomus\")? Output your numerical estimate and nothing else.",
+        "response": "1900",
+        "correct_answers": 1835.0
+    },
+    "58393_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Western Spotted Skunk\" (\"Spilogale gracilis\")? Output your numerical estimate and nothing else.",
+        "response": "350 \n",
+        "correct_answers": 349.46
+    },
+    "40695_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Lesser Horseshoe Bat\" (\"Rhinolophus hipposideros\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 39.995
+    },
+    "46179_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Black-tailed Prairie Dog\" (\"Cynomys ludovicianus\")? Output your numerical estimate and nothing else.",
+        "response": "300",
+        "correct_answers": 330.0
+    },
+    "44395_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"White-footed Mouse\" (\"Peromyscus leucopus\")? Output your numerical estimate and nothing else.",
+        "response": "82",
+        "correct_answers": 100.705
+    },
+    "43446_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Lion-tailed Macaque\" (\"Macaca silenus\")? Output your numerical estimate and nothing else.",
+        "response": "500",
+        "correct_answers": 655.675
+    },
+    "180008_adult body length": {
+        "question": "Could you please provide an estimate of the adult body length (measured in millimeters) for the species \"Rock Squirrel\" (\"Otospermophilus variegatus\")? Output your numerical estimate and nothing else.",
+        "response": "305",
+        "correct_answers": 339.75
+    },
+    "42983_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Koala\" (\"Phascolarctos cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "33 \n",
+        "correct_answers": 31.0
+    },
+    "41822_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Zorilla\" (\"Ictonyx striatus\")? Output your numerical estimate and nothing else.",
+        "response": "36",
+        "correct_answers": 36.523
+    },
+    "42304_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Bohor Reedbuck\" (\"Redunca redunca\")? Output your numerical estimate and nothing else.",
+        "response": "240 \n",
+        "correct_answers": 228.195
+    },
+    "45568_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Striped Field Mouse\" (\"Apodemus agrarius\")? Output your numerical estimate and nothing else.",
+        "response": "21",
+        "correct_answers": 20.75
+    },
+    "41906_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Common Dwarf Mongoose\" (\"Helogale parvula\")? Output your numerical estimate and nothing else.",
+        "response": "57 \n",
+        "correct_answers": 54.785
+    },
+    "42336_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Grey Rhebok\" (\"Pelea capreolus\")? Output your numerical estimate and nothing else.",
+        "response": "210 \n",
+        "correct_answers": 262.892
+    },
+    "59815_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Masked Shrew\" (\"Sorex cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "18",
+        "correct_answers": 18.11
+    },
+    "40569_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Evening Bat\" (\"Nycticeius humeralis\")? Output your numerical estimate and nothing else.",
+        "response": "53 \n",
+        "correct_answers": 98.759
+    },
+    "42384_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Klipspringer\" (\"Oreotragus oreotragus\")? Output your numerical estimate and nothing else.",
+        "response": "213 \n",
+        "correct_answers": 206.66
+    },
+    "74442_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Capybara\" (\"Hydrochoerus hydrochaeris\")? Output your numerical estimate and nothing else.",
+        "response": "150 \n",
+        "correct_answers": 150.73
+    },
+    "225741_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Gray-footed Chipmunk\" (\"Neotamias canipes\")? Output your numerical estimate and nothing else.",
+        "response": "31 \n",
+        "correct_answers": 30.19
+    },
+    "1077384_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Piute Ground Squirrel\" (\"Urocitellus mollis\")? Output your numerical estimate and nothing else.",
+        "response": "28",
+        "correct_answers": 23.87
+    },
+    "42069_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Red Fox\" (\"Vulpes vulpes\")? Output your numerical estimate and nothing else.",
+        "response": "52 \n",
+        "correct_answers": 52.352
+    },
+    "42888_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Eastern Grey Kangaroo\" (\"Macropus giganteus\")? Output your numerical estimate and nothing else.",
+        "response": "36",
+        "correct_answers": 36.28
+    },
+    "45997_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Deppe's Squirrel\" (\"Sciurus deppei\")? Output your numerical estimate and nothing else.",
+        "response": "45 \n",
+        "correct_answers": 44.665
+    },
+    "45314_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Fawn-footed Melomys\" (\"Melomys cervinipes\")? Output your numerical estimate and nothing else.",
+        "response": "32 \n",
+        "correct_answers": 37.698
+    },
+    "41800_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Stone Marten\" (\"Martes foina\")? Output your numerical estimate and nothing else.",
+        "response": "236 \n",
+        "correct_answers": 30.0
+    },
+    "46093_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Olympic Marmot\" (\"Marmota olympus\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 30.218
+    },
+    "180010_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Golden-mantled Ground Squirrel\" (\"Callospermophilus lateralis\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 30.436
+    },
+    "46255_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"White-tailed Antelope Squirrel\" (\"Ammospermophilus leucurus\")? Output your numerical estimate and nothing else.",
+        "response": "30\n",
+        "correct_answers": 29.19
+    },
+    "47083_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Six-banded Armadillo\" (\"Euphractus sexcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "150 \n",
+        "correct_answers": 64.66
+    },
+    "74731_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Mexican Greater Funnel-eared Bat\" (\"Natalus mexicanus\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 244.85
+    },
+    "552456_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Paraguay Hairy Dwarf Porcupine\" (\"Coendou spinosus\")? Output your numerical estimate and nothing else.",
+        "response": "100 \n",
+        "correct_answers": 118.398
+    },
+    "44899_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Arizona Cotton Rat\" (\"Sigmodon arizonae\")? Output your numerical estimate and nothing else.",
+        "response": "27 \n",
+        "correct_answers": 27.0
+    },
+    "41900_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Egyptian Mongoose\" (\"Herpestes ichneumon\")? Output your numerical estimate and nothing else.",
+        "response": "60 \n",
+        "correct_answers": 74.306
+    },
+    "179993_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Round-tailed Ground Squirrel\" (\"Xerospermophilus tereticaudus\")? Output your numerical estimate and nothing else.",
+        "response": "28",
+        "correct_answers": 27.785
+    },
+    "40522_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Eastern Red Bat\" (\"Lasiurus borealis\")? Output your numerical estimate and nothing else.",
+        "response": "40",
+        "correct_answers": 80.0
+    },
+    "74481_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Geoffroy's Cat\" (\"Leopardus geoffroyi\")? Output your numerical estimate and nothing else.",
+        "response": "63",
+        "correct_answers": 74.784
+    },
+    "42657_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Big-eared Opossum\" (\"Didelphis aurita\")? Output your numerical estimate and nothing else.",
+        "response": "13",
+        "correct_answers": 14.0
+    },
+    "46283_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Common Treeshrew\" (\"Tupaia glis\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 46.0
+    },
+    "42007_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Mountain Lion\" (\"Puma concolor\")? Output your numerical estimate and nothing else.",
+        "response": "92 \n",
+        "correct_answers": 92.3
+    },
+    "45437_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Southern Vlei Rat\" (\"Otomys irroratus\")? Output your numerical estimate and nothing else.",
+        "response": "42 \n",
+        "correct_answers": 40.043
+    },
+    "41396_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Proboscis Bat\" (\"Rhynchonycteris naso\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 125.597
+    },
+    "852245_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Middle Eastern Molerat\" (\"Nannospalax ehrenbergi\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 29.18
+    },
+    "42341_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Northern Bushbuck\" (\"Tragelaphus scriptus\")? Output your numerical estimate and nothing else.",
+        "response": "210 \n",
+        "correct_answers": 187.79
+    },
+    "40348_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Cave Myotis\" (\"Myotis velifer\")? Output your numerical estimate and nothing else.",
+        "response": "50-60 \n",
+        "correct_answers": 64.385
+    },
+    "46180_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Gunnison's Prairie Dog\" (\"Cynomys gunnisoni\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 30.0
+    },
+    "43813_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Brazilian Guinea Pig\" (\"Cavia aperea\")? Output your numerical estimate and nothing else.",
+        "response": "62 \n",
+        "correct_answers": 63.0
+    },
+    "74617_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Cozumelan Golden Bat\" (\"Mimon cozumelae\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 124.799
+    },
+    "74659_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Northern Red Muntjac\" (\"Muntiacus vaginalis\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 210.0
+    },
+    "75115_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Siamang\" (\"Symphalangus syndactylus\")? Output your numerical estimate and nothing else.",
+        "response": "230 \n",
+        "correct_answers": 231.0
+    },
+    "74191_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Tantalus Monkey\" (\"Chlorocebus tantalus\")? Output your numerical estimate and nothing else.",
+        "response": "170 \n",
+        "correct_answers": 167.99
+    },
+    "42025_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Serval\" (\"Leptailurus serval\")? Output your numerical estimate and nothing else.",
+        "response": "74",
+        "correct_answers": 71.829
+    },
+    "40281_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Geoffroy's Bat\" (\"Myotis emarginatus\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 65.325
+    },
+    "41627_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"African Civet\" (\"Civettictis civetta\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 68.4
+    },
+    "42809_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Short-eared Brush-tailed Possum\" (\"Trichosurus caninus\")? Output your numerical estimate and nothing else.",
+        "response": "16",
+        "correct_answers": 16.2
+    },
+    "41824_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Lesser Grison\" (\"Galictis cuja\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 41.154
+    },
+    "41789_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"American Badger\" (\"Taxidea taxus\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 43.8
+    },
+    "42733_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Striped Possum\" (\"Dactylopsila trivirgata\")? Output your numerical estimate and nothing else.",
+        "response": "43",
+        "correct_answers": 24.07
+    },
+    "43606_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Gmelin's Woolly Lemur\" (\"Avahi laniger\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 136.556
+    },
+    "43043_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Eastern European Hedgehog\" (\"Erinaceus concolor\")? Output your numerical estimate and nothing else.",
+        "response": "35 \n",
+        "correct_answers": 35.612
+    },
+    "46272_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Southern Flying Squirrel\" (\"Glaucomys volans\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 40.0
+    },
+    "40187_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Yellow-footed Antechinus\" (\"Antechinus flavipes\")? Output your numerical estimate and nothing else.",
+        "response": "26",
+        "correct_answers": 30.0
+    },
+    "43047_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Amur Hedgehog\" (\"Erinaceus amurensis\")? Output your numerical estimate and nothing else.",
+        "response": "35 \n",
+        "correct_answers": 36.068
+    },
+    "43042_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Common Hedgehog\" (\"Erinaceus europaeus\")? Output your numerical estimate and nothing else.",
+        "response": "35 \n",
+        "correct_answers": 36.068
+    },
+    "46969_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Iberian mole\" (\"Talpa occidentalis\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 31.336
+    },
+    "42405_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"African Buffalo\" (\"Syncerus caffer\")? Output your numerical estimate and nothing else.",
+        "response": "340 \n",
+        "correct_answers": 333.355
+    },
+    "47107_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Giant Anteater\" (\"Myrmecophaga tridactyla\")? Output your numerical estimate and nothing else.",
+        "response": "190 \n",
+        "correct_answers": 184.0
+    },
+    "43439_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Yucat\u00e1n Black Howler Monkey\" (\"Alouatta pigra\")? Output your numerical estimate and nothing else.",
+        "response": "186 \n",
+        "correct_answers": 187.768
+    },
+    "45863_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"European Garden Dormouse\" (\"Eliomys quercinus\")? Output your numerical estimate and nothing else.",
+        "response": "21 \n",
+        "correct_answers": 22.97
+    },
+    "47078_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Pichi\" (\"Zaedyus pichiy\")? Output your numerical estimate and nothing else.",
+        "response": "58",
+        "correct_answers": 60.872
+    },
+    "44570_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Australian Bush Rat\" (\"Rattus fuscipes\")? Output your numerical estimate and nothing else.",
+        "response": "22 \n",
+        "correct_answers": 26.0
+    },
+    "47075_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Nine-banded Armadillo\" (\"Dasypus novemcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "150 \n",
+        "correct_answers": 133.0
+    },
+    "43119_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Granada Hare\" (\"Lepus granatensis\")? Output your numerical estimate and nothing else.",
+        "response": "42 \n",
+        "correct_answers": 42.605
+    },
+    "47014_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Eastern Mole\" (\"Scalopus aquaticus\")? Output your numerical estimate and nothing else.",
+        "response": "35 \n",
+        "correct_answers": 41.539
+    },
+    "424254_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Daubenton's bat\" (\"Myotis daubentonii\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 54.285
+    },
+    "225754_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Sonoma Chipmunk\" (\"Neotamias sonomae\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 31.408
+    },
+    "41387_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Gray Sac-winged Bat\" (\"Balantiopteryx plicata\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 138.81
+    },
+    "45955_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Prevost's Squirrel\" (\"Callosciurus prevostii\")? Output your numerical estimate and nothing else.",
+        "response": "105 \n",
+        "correct_answers": 47.785
+    },
+    "41974_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Canada Lynx\" (\"Lynx canadensis\")? Output your numerical estimate and nothing else.",
+        "response": "63",
+        "correct_answers": 63.0
+    },
+    "852334_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Mountain Viscacha\" (\"Lagidium viscacia\")? Output your numerical estimate and nothing else.",
+        "response": "140 \n",
+        "correct_answers": 132.547
+    },
+    "45932_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Dassie Rat\" (\"Petromus typicus\")? Output your numerical estimate and nothing else.",
+        "response": "78 \n",
+        "correct_answers": 86.105
+    },
+    "43339_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\")? Output your numerical estimate and nothing else.",
+        "response": "400 \n",
+        "correct_answers": 405.714
+    },
+    "183164_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Canyon Bat\" (\"Parastrellus hesperus\")? Output your numerical estimate and nothing else.",
+        "response": "40",
+        "correct_answers": 72.319
+    },
+    "41147_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"California Leaf-nosed Bat\" (\"Macrotus californicus\")? Output your numerical estimate and nothing else.",
+        "response": "210 \n",
+        "correct_answers": 260.145
+    },
+    "47051_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"American Shrewmole\" (\"Neurotrichus gibbsii\")? Output your numerical estimate and nothing else.",
+        "response": "21 \n",
+        "correct_answers": 21.27
+    },
+    "41939_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"White-tailed Mongoose\" (\"Ichneumia albicauda\")? Output your numerical estimate and nothing else.",
+        "response": "60 \n",
+        "correct_answers": 80.913
+    },
+    "74476_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Western Yellow Bat\" (\"Lasiurus xanthinus\")? Output your numerical estimate and nothing else.",
+        "response": "60 \n",
+        "correct_answers": 93.11
+    },
+    "55908_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Mountain Hare\" (\"Lepus timidus\")? Output your numerical estimate and nothing else.",
+        "response": "42 \n",
+        "correct_answers": 50.1
+    },
+    "179988_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Thirteen-lined Ground Squirrel\" (\"Ictidomys tridecemlineatus\")? Output your numerical estimate and nothing else.",
+        "response": "28",
+        "correct_answers": 27.75
+    },
+    "40232_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Tasmanian Devil\" (\"Sarcophilus harrisii\")? Output your numerical estimate and nothing else.",
+        "response": "21",
+        "correct_answers": 26.0
+    },
+    "41110_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Seba's Short-tailed Bat\" (\"Carollia perspicillata\")? Output your numerical estimate and nothing else.",
+        "response": "112 \n",
+        "correct_answers": 95.0
+    },
+    "183166_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Tricolored Bat\" (\"Perimyotis subflavus\")? Output your numerical estimate and nothing else.",
+        "response": "44",
+        "correct_answers": 44.855
+    },
+    "42176_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Common Red Brocket\" (\"Mazama americana\")? Output your numerical estimate and nothing else.",
+        "response": "227 \n",
+        "correct_answers": 225.0
+    },
+    "44282_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Field Vole\" (\"Microtus agrestis\")? Output your numerical estimate and nothing else.",
+        "response": "21 \n",
+        "correct_answers": 20.72
+    },
+    "42783_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Greater Glider\" (\"Petauroides volans\")? Output your numerical estimate and nothing else.",
+        "response": "16",
+        "correct_answers": 23.542
+    },
+    "42236_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Vicu\u00f1a\" (\"Vicugna vicugna\")? Output your numerical estimate and nothing else.",
+        "response": "330 \n",
+        "correct_answers": 345.45
+    },
+    "64102_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Big-eared Woodrat\" (\"Neotoma macrotis\")? Output your numerical estimate and nothing else.",
+        "response": "38 \n",
+        "correct_answers": 32.127
+    },
+    "607212_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Brown Agouti\" (\"Dasyprocta variegata\")? Output your numerical estimate and nothing else.",
+        "response": "103 \n",
+        "correct_answers": 109.825
+    },
+    "46007_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Andean Squirrel\" (\"Sciurus pucheranii\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 49.414
+    },
+    "40192_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Agile Antechinus\" (\"Antechinus agilis\")? Output your numerical estimate and nothing else.",
+        "response": "27",
+        "correct_answers": 27.575
+    },
+    "42220_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Mule Deer\" (\"Odocoileus hemionus\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 207.0
+    },
+    "42042_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Caracal\" (\"Caracal caracal\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 73.959
+    },
+    "42228_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Marsh Deer\" (\"Blastocerus dichotomus\")? Output your numerical estimate and nothing else.",
+        "response": "271 \n",
+        "correct_answers": 270.576
+    },
+    "58393_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Western Spotted Skunk\" (\"Spilogale gracilis\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 37.24
+    },
+    "40695_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Lesser Horseshoe Bat\" (\"Rhinolophus hipposideros\")? Output your numerical estimate and nothing else.",
+        "response": "73",
+        "correct_answers": 71.255
+    },
+    "46179_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Black-tailed Prairie Dog\" (\"Cynomys ludovicianus\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 35.415
+    },
+    "44395_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"White-footed Mouse\" (\"Peromyscus leucopus\")? Output your numerical estimate and nothing else.",
+        "response": "23 \n",
+        "correct_answers": 25.262
+    },
+    "43446_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Lion-tailed Macaque\" (\"Macaca silenus\")? Output your numerical estimate and nothing else.",
+        "response": "162 \n",
+        "correct_answers": 176.0
+    },
+    "180008_gestation length": {
+        "question": "Could you please provide an estimate of the gestation length (measured in days) for the species \"Rock Squirrel\" (\"Otospermophilus variegatus\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 30.0
+    },
+    "42983_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Koala\" (\"Phascolarctos cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "8900 \n",
+        "correct_answers": 8066.5
+    },
+    "41822_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Zorilla\" (\"Ictonyx striatus\")? Output your numerical estimate and nothing else.",
+        "response": "4018",
+        "correct_answers": 5252.958
+    },
+    "42304_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Bohor Reedbuck\" (\"Redunca redunca\")? Output your numerical estimate and nothing else.",
+        "response": "4900 \n",
+        "correct_answers": 6570.0
+    },
+    "45568_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Striped Field Mouse\" (\"Apodemus agrarius\")? Output your numerical estimate and nothing else.",
+        "response": "1095 \n",
+        "correct_answers": 1460.0
+    },
+    "41906_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Common Dwarf Mongoose\" (\"Helogale parvula\")? Output your numerical estimate and nothing else.",
+        "response": "3900 \n",
+        "correct_answers": 6570.0
+    },
+    "42336_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Grey Rhebok\" (\"Pelea capreolus\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 4501.667
+    },
+    "59815_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Masked Shrew\" (\"Sorex cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "550 \n",
+        "correct_answers": 912.5
+    },
+    "40569_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Evening Bat\" (\"Nycticeius humeralis\")? Output your numerical estimate and nothing else.",
+        "response": "2080",
+        "correct_answers": 8760.0
+    },
+    "42384_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Klipspringer\" (\"Oreotragus oreotragus\")? Output your numerical estimate and nothing else.",
+        "response": "5840 \n",
+        "correct_answers": 9453.5
+    },
+    "74442_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Capybara\" (\"Hydrochoerus hydrochaeris\")? Output your numerical estimate and nothing else.",
+        "response": "4018",
+        "correct_answers": 5511.5
+    },
+    "225741_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Gray-footed Chipmunk\" (\"Neotamias canipes\")? Output your numerical estimate and nothing else.",
+        "response": "1825",
+        "correct_answers": 2703.753
+    },
+    "1077384_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Piute Ground Squirrel\" (\"Urocitellus mollis\")? Output your numerical estimate and nothing else.",
+        "response": "1825",
+        "correct_answers": 1274.458
+    },
+    "42069_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Red Fox\" (\"Vulpes vulpes\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 7774.5
+    },
+    "42888_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Eastern Grey Kangaroo\" (\"Macropus giganteus\")? Output your numerical estimate and nothing else.",
+        "response": "9490 \n",
+        "correct_answers": 9125.0
+    },
+    "45997_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Deppe's Squirrel\" (\"Sciurus deppei\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 2792.25
+    },
+    "45314_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Fawn-footed Melomys\" (\"Melomys cervinipes\")? Output your numerical estimate and nothing else.",
+        "response": "1500 \n",
+        "correct_answers": 1843.3
+    },
+    "41800_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Stone Marten\" (\"Martes foina\")? Output your numerical estimate and nothing else.",
+        "response": "5900 \n",
+        "correct_answers": 6643.0
+    },
+    "46093_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Olympic Marmot\" (\"Marmota olympus\")? Output your numerical estimate and nothing else.",
+        "response": "2080",
+        "correct_answers": 5527.818
+    },
+    "180010_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Golden-mantled Ground Squirrel\" (\"Callospermophilus lateralis\")? Output your numerical estimate and nothing else.",
+        "response": "3000 \n",
+        "correct_answers": 3796.0
+    },
+    "46255_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"White-tailed Antelope Squirrel\" (\"Ammospermophilus leucurus\")? Output your numerical estimate and nothing else.",
+        "response": "2000 \n",
+        "correct_answers": 4088.0
+    },
+    "47083_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Six-banded Armadillo\" (\"Euphractus sexcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "7900 \n",
+        "correct_answers": 8066.5
+    },
+    "74731_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Mexican Greater Funnel-eared Bat\" (\"Natalus mexicanus\")? Output your numerical estimate and nothing else.",
+        "response": "2080",
+        "correct_answers": 7300.0
+    },
+    "552456_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Paraguay Hairy Dwarf Porcupine\" (\"Coendou spinosus\")? Output your numerical estimate and nothing else.",
+        "response": "6700",
+        "correct_answers": 2535.229
+    },
+    "44899_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Arizona Cotton Rat\" (\"Sigmodon arizonae\")? Output your numerical estimate and nothing else.",
+        "response": "1095 \n",
+        "correct_answers": 1898.0
+    },
+    "41900_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Egyptian Mongoose\" (\"Herpestes ichneumon\")? Output your numerical estimate and nothing else.",
+        "response": "7900 \n",
+        "correct_answers": 7300.0
+    },
+    "179993_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Round-tailed Ground Squirrel\" (\"Xerospermophilus tereticaudus\")? Output your numerical estimate and nothing else.",
+        "response": "1825",
+        "correct_answers": 3248.5
+    },
+    "40522_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Eastern Red Bat\" (\"Lasiurus borealis\")? Output your numerical estimate and nothing else.",
+        "response": "3900 \n",
+        "correct_answers": 939.875
+    },
+    "74481_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Geoffroy's Cat\" (\"Leopardus geoffroyi\")? Output your numerical estimate and nothing else.",
+        "response": "6935",
+        "correct_answers": 8471.042
+    },
+    "42657_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Big-eared Opossum\" (\"Didelphis aurita\")? Output your numerical estimate and nothing else.",
+        "response": "1460 \n",
+        "correct_answers": 2555.0
+    },
+    "46283_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Common Treeshrew\" (\"Tupaia glis\")? Output your numerical estimate and nothing else.",
+        "response": "1460 \n",
+        "correct_answers": 4532.083
+    },
+    "42007_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Mountain Lion\" (\"Puma concolor\")? Output your numerical estimate and nothing else.",
+        "response": "8030 \n",
+        "correct_answers": 8687.0
+    },
+    "45437_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Southern Vlei Rat\" (\"Otomys irroratus\")? Output your numerical estimate and nothing else.",
+        "response": "1095 \n",
+        "correct_answers": 669.167
+    },
+    "41396_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Proboscis Bat\" (\"Rhynchonycteris naso\")? Output your numerical estimate and nothing else.",
+        "response": "2920",
+        "correct_answers": 5784.067
+    },
+    "852245_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Middle Eastern Molerat\" (\"Nannospalax ehrenbergi\")? Output your numerical estimate and nothing else.",
+        "response": "2000 \n",
+        "correct_answers": 5645.333
+    },
+    "42341_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Northern Bushbuck\" (\"Tragelaphus scriptus\")? Output your numerical estimate and nothing else.",
+        "response": "6935",
+        "correct_answers": 5584.5
+    },
+    "40348_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Cave Myotis\" (\"Myotis velifer\")? Output your numerical estimate and nothing else.",
+        "response": "20805 \n",
+        "correct_answers": 4135.45
+    },
+    "46180_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Gunnison's Prairie Dog\" (\"Cynomys gunnisoni\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 2217.375
+    },
+    "43813_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Brazilian Guinea Pig\" (\"Cavia aperea\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 3650.0
+    },
+    "74617_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Cozumelan Golden Bat\" (\"Mimon cozumelae\")? Output your numerical estimate and nothing else.",
+        "response": "2080",
+        "correct_answers": 5400.936
+    },
+    "74659_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Northern Red Muntjac\" (\"Muntiacus vaginalis\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 6862.0
+    },
+    "75115_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Siamang\" (\"Symphalangus syndactylus\")? Output your numerical estimate and nothing else.",
+        "response": "18250",
+        "correct_answers": 15695.0
+    },
+    "74191_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Tantalus Monkey\" (\"Chlorocebus tantalus\")? Output your numerical estimate and nothing else.",
+        "response": "7900 \n",
+        "correct_answers": 16790.0
+    },
+    "42025_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Serval\" (\"Leptailurus serval\")? Output your numerical estimate and nothing else.",
+        "response": "7300 \n",
+        "correct_answers": 8395.0
+    },
+    "40281_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Geoffroy's Bat\" (\"Myotis emarginatus\")? Output your numerical estimate and nothing else.",
+        "response": "22800 \n",
+        "correct_answers": 8285.5
+    },
+    "41627_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"African Civet\" (\"Civettictis civetta\")? Output your numerical estimate and nothing else.",
+        "response": "7300 \n",
+        "correct_answers": 10220.0
+    },
+    "42809_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Short-eared Brush-tailed Possum\" (\"Trichosurus caninus\")? Output your numerical estimate and nothing else.",
+        "response": "3285",
+        "correct_answers": 6205.0
+    },
+    "41824_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Lesser Grison\" (\"Galictis cuja\")? Output your numerical estimate and nothing else.",
+        "response": "4018",
+        "correct_answers": 4310.042
+    },
+    "41789_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"American Badger\" (\"Taxidea taxus\")? Output your numerical estimate and nothing else.",
+        "response": "6000 \n",
+        "correct_answers": 9490.0
+    },
+    "42733_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Striped Possum\" (\"Dactylopsila trivirgata\")? Output your numerical estimate and nothing else.",
+        "response": "3900 \n",
+        "correct_answers": 3504.0
+    },
+    "43606_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Gmelin's Woolly Lemur\" (\"Avahi laniger\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 9144.442
+    },
+    "43043_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Eastern European Hedgehog\" (\"Erinaceus concolor\")? Output your numerical estimate and nothing else.",
+        "response": "2920",
+        "correct_answers": 5110.0
+    },
+    "46272_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Southern Flying Squirrel\" (\"Glaucomys volans\")? Output your numerical estimate and nothing else.",
+        "response": "3900 \n",
+        "correct_answers": 6935.0
+    },
+    "40187_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Yellow-footed Antechinus\" (\"Antechinus flavipes\")? Output your numerical estimate and nothing else.",
+        "response": "365",
+        "correct_answers": 1423.5
+    },
+    "43047_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Amur Hedgehog\" (\"Erinaceus amurensis\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 5110.0
+    },
+    "43042_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Common Hedgehog\" (\"Erinaceus europaeus\")? Output your numerical estimate and nothing else.",
+        "response": "2920",
+        "correct_answers": 5110.0
+    },
+    "46969_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Iberian mole\" (\"Talpa occidentalis\")? Output your numerical estimate and nothing else.",
+        "response": "1825",
+        "correct_answers": 2555.0
+    },
+    "42405_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"African Buffalo\" (\"Syncerus caffer\")? Output your numerical estimate and nothing else.",
+        "response": "9855",
+        "correct_answers": 10877.0
+    },
+    "47107_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Giant Anteater\" (\"Myrmecophaga tridactyla\")? Output your numerical estimate and nothing else.",
+        "response": "5840",
+        "correct_answers": 11506.625
+    },
+    "43439_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Yucat\u00e1n Black Howler Monkey\" (\"Alouatta pigra\")? Output your numerical estimate and nothing else.",
+        "response": "7900 \n",
+        "correct_answers": 7300.0
+    },
+    "45863_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"European Garden Dormouse\" (\"Eliomys quercinus\")? Output your numerical estimate and nothing else.",
+        "response": "2190",
+        "correct_answers": 2007.5
+    },
+    "47078_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Pichi\" (\"Zaedyus pichiy\")? Output your numerical estimate and nothing else.",
+        "response": "3285",
+        "correct_answers": 4562.5
+    },
+    "44570_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Australian Bush Rat\" (\"Rattus fuscipes\")? Output your numerical estimate and nothing else.",
+        "response": "1100 \n",
+        "correct_answers": 1934.5
+    },
+    "47075_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Nine-banded Armadillo\" (\"Dasypus novemcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "7920 \n",
+        "correct_answers": 8151.667
+    },
+    "43119_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Granada Hare\" (\"Lepus granatensis\")? Output your numerical estimate and nothing else.",
+        "response": "1090 \n",
+        "correct_answers": 3248.5
+    },
+    "47014_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Eastern Mole\" (\"Scalopus aquaticus\")? Output your numerical estimate and nothing else.",
+        "response": "1460",
+        "correct_answers": 2263.0
+    },
+    "424254_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Daubenton's bat\" (\"Myotis daubentonii\")? Output your numerical estimate and nothing else.",
+        "response": "24365 \n",
+        "correct_answers": 10220.0
+    },
+    "225754_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Sonoma Chipmunk\" (\"Neotamias sonomae\")? Output your numerical estimate and nothing else.",
+        "response": "1825",
+        "correct_answers": 2467.921
+    },
+    "41387_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Gray Sac-winged Bat\" (\"Balantiopteryx plicata\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 2533.589
+    },
+    "45955_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Prevost's Squirrel\" (\"Callosciurus prevostii\")? Output your numerical estimate and nothing else.",
+        "response": "2000 \n",
+        "correct_answers": 7701.5
+    },
+    "41974_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Canada Lynx\" (\"Lynx canadensis\")? Output your numerical estimate and nothing else.",
+        "response": "5840 \n",
+        "correct_answers": 9782.0
+    },
+    "852334_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Mountain Viscacha\" (\"Lagidium viscacia\")? Output your numerical estimate and nothing else.",
+        "response": "3650",
+        "correct_answers": 7117.5
+    },
+    "45932_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Dassie Rat\" (\"Petromus typicus\")? Output your numerical estimate and nothing else.",
+        "response": "1500 \n",
+        "correct_answers": 2579.333
+    },
+    "43339_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\")? Output your numerical estimate and nothing else.",
+        "response": "29200 \n",
+        "correct_answers": 11384.958
+    },
+    "183164_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Canyon Bat\" (\"Parastrellus hesperus\")? Output your numerical estimate and nothing else.",
+        "response": "21900",
+        "correct_answers": 2220.113
+    },
+    "41147_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"California Leaf-nosed Bat\" (\"Macrotus californicus\")? Output your numerical estimate and nothing else.",
+        "response": "7300 \n",
+        "correct_answers": 6375.333
+    },
+    "47051_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"American Shrewmole\" (\"Neurotrichus gibbsii\")? Output your numerical estimate and nothing else.",
+        "response": "730",
+        "correct_answers": 1514.489
+    },
+    "41939_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"White-tailed Mongoose\" (\"Ichneumia albicauda\")? Output your numerical estimate and nothing else.",
+        "response": "4018",
+        "correct_answers": 5402.0
+    },
+    "74476_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Western Yellow Bat\" (\"Lasiurus xanthinus\")? Output your numerical estimate and nothing else.",
+        "response": "2920",
+        "correct_answers": 6655.928
+    },
+    "55908_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Mountain Hare\" (\"Lepus timidus\")? Output your numerical estimate and nothing else.",
+        "response": "3000 \n",
+        "correct_answers": 6570.0
+    },
+    "179988_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Thirteen-lined Ground Squirrel\" (\"Ictidomys tridecemlineatus\")? Output your numerical estimate and nothing else.",
+        "response": "3650",
+        "correct_answers": 2883.5
+    },
+    "40232_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Tasmanian Devil\" (\"Sarcophilus harrisii\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 4766.292
+    },
+    "41110_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Seba's Short-tailed Bat\" (\"Carollia perspicillata\")? Output your numerical estimate and nothing else.",
+        "response": "6935",
+        "correct_answers": 6205.0
+    },
+    "183166_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Tricolored Bat\" (\"Perimyotis subflavus\")? Output your numerical estimate and nothing else.",
+        "response": "20805 \n",
+        "correct_answers": 5475.0
+    },
+    "42176_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Common Red Brocket\" (\"Mazama americana\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 6241.5
+    },
+    "44282_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Field Vole\" (\"Microtus agrestis\")? Output your numerical estimate and nothing else.",
+        "response": "730",
+        "correct_answers": 1761.125
+    },
+    "42783_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Greater Glider\" (\"Petauroides volans\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 5475.0
+    },
+    "42236_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Vicu\u00f1a\" (\"Vicugna vicugna\")? Output your numerical estimate and nothing else.",
+        "response": "7300 \n",
+        "correct_answers": 22435.333
+    },
+    "64102_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Big-eared Woodrat\" (\"Neotoma macrotis\")? Output your numerical estimate and nothing else.",
+        "response": "1460 \n",
+        "correct_answers": 304.167
+    },
+    "607212_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Brown Agouti\" (\"Dasyprocta variegata\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 5037.0
+    },
+    "46007_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Andean Squirrel\" (\"Sciurus pucheranii\")? Output your numerical estimate and nothing else.",
+        "response": "2555",
+        "correct_answers": 2670.583
+    },
+    "40192_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Agile Antechinus\" (\"Antechinus agilis\")? Output your numerical estimate and nothing else.",
+        "response": "365",
+        "correct_answers": 1974.042
+    },
+    "42220_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Mule Deer\" (\"Odocoileus hemionus\")? Output your numerical estimate and nothing else.",
+        "response": "5475 \n",
+        "correct_answers": 8030.0
+    },
+    "42042_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Caracal\" (\"Caracal caracal\")? Output your numerical estimate and nothing else.",
+        "response": "7900 \n",
+        "correct_answers": 7409.5
+    },
+    "42228_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Marsh Deer\" (\"Blastocerus dichotomus\")? Output your numerical estimate and nothing else.",
+        "response": "6935",
+        "correct_answers": 5000.5
+    },
+    "58393_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Western Spotted Skunk\" (\"Spilogale gracilis\")? Output your numerical estimate and nothing else.",
+        "response": "3285",
+        "correct_answers": 5110.0
+    },
+    "40695_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Lesser Horseshoe Bat\" (\"Rhinolophus hipposideros\")? Output your numerical estimate and nothing else.",
+        "response": "13140 \n",
+        "correct_answers": 7738.0
+    },
+    "46179_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Black-tailed Prairie Dog\" (\"Cynomys ludovicianus\")? Output your numerical estimate and nothing else.",
+        "response": "3650",
+        "correct_answers": 6570.0
+    },
+    "44395_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"White-footed Mouse\" (\"Peromyscus leucopus\")? Output your numerical estimate and nothing else.",
+        "response": "1825 \n",
+        "correct_answers": 2920.0
+    },
+    "43446_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Lion-tailed Macaque\" (\"Macaca silenus\")? Output your numerical estimate and nothing else.",
+        "response": "12745 \n",
+        "correct_answers": 14663.875
+    },
+    "180008_max longevity": {
+        "question": "Could you please provide an estimate of the max longevity (measured in days) for the species \"Rock Squirrel\" (\"Otospermophilus variegatus\")? Output your numerical estimate and nothing else.",
+        "response": "3900 \n",
+        "correct_answers": 3583.083
+    },
+    "42983_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Koala\" (\"Phascolarctos cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "8000 \n",
+        "correct_answers": 5646.87
+    },
+    "41822_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Zorilla\" (\"Ictonyx striatus\")? Output your numerical estimate and nothing else.",
+        "response": "1300",
+        "correct_answers": 811.02
+    },
+    "42304_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Bohor Reedbuck\" (\"Redunca redunca\")? Output your numerical estimate and nothing else.",
+        "response": "45000 \n",
+        "correct_answers": 41644.475
+    },
+    "45568_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Striped Field Mouse\" (\"Apodemus agrarius\")? Output your numerical estimate and nothing else.",
+        "response": "20",
+        "correct_answers": 21.2
+    },
+    "41906_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Common Dwarf Mongoose\" (\"Helogale parvula\")? Output your numerical estimate and nothing else.",
+        "response": "250",
+        "correct_answers": 274.8
+    },
+    "42336_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Grey Rhebok\" (\"Pelea capreolus\")? Output your numerical estimate and nothing else.",
+        "response": "20000 \n",
+        "correct_answers": 23865.665
+    },
+    "59815_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Masked Shrew\" (\"Sorex cinereus\")? Output your numerical estimate and nothing else.",
+        "response": "4.5",
+        "correct_answers": 5.1
+    },
+    "40569_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Evening Bat\" (\"Nycticeius humeralis\")? Output your numerical estimate and nothing else.",
+        "response": "8.5",
+        "correct_answers": 6.65
+    },
+    "42384_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Klipspringer\" (\"Oreotragus oreotragus\")? Output your numerical estimate and nothing else.",
+        "response": "12700 \n",
+        "correct_answers": 13000.0
+    },
+    "74442_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Capybara\" (\"Hydrochoerus hydrochaeris\")? Output your numerical estimate and nothing else.",
+        "response": "50000 \n",
+        "correct_answers": 51572.455
+    },
+    "225741_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Gray-footed Chipmunk\" (\"Neotamias canipes\")? Output your numerical estimate and nothing else.",
+        "response": "80.0",
+        "correct_answers": 66.05
+    },
+    "1077384_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Piute Ground Squirrel\" (\"Urocitellus mollis\")? Output your numerical estimate and nothing else.",
+        "response": "175 ",
+        "correct_answers": 209.905
+    },
+    "42069_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Red Fox\" (\"Vulpes vulpes\")? Output your numerical estimate and nothing else.",
+        "response": "6800 \n",
+        "correct_answers": 4580.3
+    },
+    "42888_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Eastern Grey Kangaroo\" (\"Macropus giganteus\")? Output your numerical estimate and nothing else.",
+        "response": "46000 \n",
+        "correct_answers": 41454.945
+    },
+    "45997_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Deppe's Squirrel\" (\"Sciurus deppei\")? Output your numerical estimate and nothing else.",
+        "response": "85",
+        "correct_answers": 249.5
+    },
+    "45314_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Fawn-footed Melomys\" (\"Melomys cervinipes\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 82.6
+    },
+    "41800_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Stone Marten\" (\"Martes foina\")? Output your numerical estimate and nothing else.",
+        "response": "1700 \n",
+        "correct_answers": 1700.0
+    },
+    "46093_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Olympic Marmot\" (\"Marmota olympus\")? Output your numerical estimate and nothing else.",
+        "response": "8500 \n",
+        "correct_answers": 6299.995
+    },
+    "180010_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Golden-mantled Ground Squirrel\" (\"Callospermophilus lateralis\")? Output your numerical estimate and nothing else.",
+        "response": "170 \n",
+        "correct_answers": 227.3
+    },
+    "46255_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"White-tailed Antelope Squirrel\" (\"Ammospermophilus leucurus\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 99.37
+    },
+    "47083_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Six-banded Armadillo\" (\"Euphractus sexcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "4000 \n",
+        "correct_answers": 4850.0
+    },
+    "74731_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Mexican Greater Funnel-eared Bat\" (\"Natalus mexicanus\")? Output your numerical estimate and nothing else.",
+        "response": "4.5",
+        "correct_answers": 5.3
+    },
+    "552456_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Paraguay Hairy Dwarf Porcupine\" (\"Coendou spinosus\")? Output your numerical estimate and nothing else.",
+        "response": "800 \n",
+        "correct_answers": 1250.39
+    },
+    "44899_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Arizona Cotton Rat\" (\"Sigmodon arizonae\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 172.3
+    },
+    "41900_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Egyptian Mongoose\" (\"Herpestes ichneumon\")? Output your numerical estimate and nothing else.",
+        "response": "2500",
+        "correct_answers": 2950.01
+    },
+    "179993_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Round-tailed Ground Squirrel\" (\"Xerospermophilus tereticaudus\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 147.57
+    },
+    "40522_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Eastern Red Bat\" (\"Lasiurus borealis\")? Output your numerical estimate and nothing else.",
+        "response": "8.4",
+        "correct_answers": 13.0
+    },
+    "74481_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Geoffroy's Cat\" (\"Leopardus geoffroyi\")? Output your numerical estimate and nothing else.",
+        "response": "3700 \n",
+        "correct_answers": 4000.0
+    },
+    "42657_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Big-eared Opossum\" (\"Didelphis aurita\")? Output your numerical estimate and nothing else.",
+        "response": "1100 \n",
+        "correct_answers": 1149.875
+    },
+    "46283_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Common Treeshrew\" (\"Tupaia glis\")? Output your numerical estimate and nothing else.",
+        "response": "150",
+        "correct_answers": 159.0
+    },
+    "42007_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Mountain Lion\" (\"Puma concolor\")? Output your numerical estimate and nothing else.",
+        "response": "53000 \n",
+        "correct_answers": 48000.0
+    },
+    "45437_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Southern Vlei Rat\" (\"Otomys irroratus\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 114.45
+    },
+    "41396_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Proboscis Bat\" (\"Rhynchonycteris naso\")? Output your numerical estimate and nothing else.",
+        "response": "5.5",
+        "correct_answers": 4.14
+    },
+    "852245_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Middle Eastern Molerat\" (\"Nannospalax ehrenbergi\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 162.175
+    },
+    "42341_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Northern Bushbuck\" (\"Tragelaphus scriptus\")? Output your numerical estimate and nothing else.",
+        "response": "35000 \n",
+        "correct_answers": 43250.39
+    },
+    "40348_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Cave Myotis\" (\"Myotis velifer\")? Output your numerical estimate and nothing else.",
+        "response": "7.5",
+        "correct_answers": 10.995
+    },
+    "46180_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Gunnison's Prairie Dog\" (\"Cynomys gunnisoni\")? Output your numerical estimate and nothing else.",
+        "response": "1000 \n",
+        "correct_answers": 807.3
+    },
+    "43813_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Brazilian Guinea Pig\" (\"Cavia aperea\")? Output your numerical estimate and nothing else.",
+        "response": "600 \n",
+        "correct_answers": 341.0
+    },
+    "74617_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Cozumelan Golden Bat\" (\"Mimon cozumelae\")? Output your numerical estimate and nothing else.",
+        "response": "18",
+        "correct_answers": 26.195
+    },
+    "74659_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Northern Red Muntjac\" (\"Muntiacus vaginalis\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 17611.59
+    },
+    "75115_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Siamang\" (\"Symphalangus syndactylus\")? Output your numerical estimate and nothing else.",
+        "response": "11000 \n",
+        "correct_answers": 10869.5
+    },
+    "74191_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Tantalus Monkey\" (\"Chlorocebus tantalus\")? Output your numerical estimate and nothing else.",
+        "response": "4250 \n",
+        "correct_answers": 4961.5
+    },
+    "42025_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Serval\" (\"Leptailurus serval\")? Output your numerical estimate and nothing else.",
+        "response": "11000 \n",
+        "correct_answers": 11999.96
+    },
+    "40281_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Geoffroy's Bat\" (\"Myotis emarginatus\")? Output your numerical estimate and nothing else.",
+        "response": "8",
+        "correct_answers": 9.28
+    },
+    "41627_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"African Civet\" (\"Civettictis civetta\")? Output your numerical estimate and nothing else.",
+        "response": "3500 \n",
+        "correct_answers": 13666.67
+    },
+    "42809_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Short-eared Brush-tailed Possum\" (\"Trichosurus caninus\")? Output your numerical estimate and nothing else.",
+        "response": "1750 \n",
+        "correct_answers": 3115.06
+    },
+    "41824_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Lesser Grison\" (\"Galictis cuja\")? Output your numerical estimate and nothing else.",
+        "response": "1200 \n",
+        "correct_answers": 1000.0
+    },
+    "41789_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"American Badger\" (\"Taxidea taxus\")? Output your numerical estimate and nothing else.",
+        "response": "8000 \n",
+        "correct_answers": 8000.0
+    },
+    "42733_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Striped Possum\" (\"Dactylopsila trivirgata\")? Output your numerical estimate and nothing else.",
+        "response": "280 \n",
+        "correct_answers": 406.705
+    },
+    "43606_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Gmelin's Woolly Lemur\" (\"Avahi laniger\")? Output your numerical estimate and nothing else.",
+        "response": "810 \n",
+        "correct_answers": 1093.355
+    },
+    "43043_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Eastern European Hedgehog\" (\"Erinaceus concolor\")? Output your numerical estimate and nothing else.",
+        "response": "700 \n",
+        "correct_answers": 771.0
+    },
+    "46272_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Southern Flying Squirrel\" (\"Glaucomys volans\")? Output your numerical estimate and nothing else.",
+        "response": "92",
+        "correct_answers": 65.4
+    },
+    "40187_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Yellow-footed Antechinus\" (\"Antechinus flavipes\")? Output your numerical estimate and nothing else.",
+        "response": "35",
+        "correct_answers": 44.665
+    },
+    "43047_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Amur Hedgehog\" (\"Erinaceus amurensis\")? Output your numerical estimate and nothing else.",
+        "response": "600 \n",
+        "correct_answers": 774.475
+    },
+    "43042_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Common Hedgehog\" (\"Erinaceus europaeus\")? Output your numerical estimate and nothing else.",
+        "response": "700 \n",
+        "correct_answers": 777.95
+    },
+    "46969_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Iberian mole\" (\"Talpa occidentalis\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 87.53
+    },
+    "42405_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"African Buffalo\" (\"Syncerus caffer\")? Output your numerical estimate and nothing else.",
+        "response": "575000 \n",
+        "correct_answers": 646332.99
+    },
+    "47107_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Giant Anteater\" (\"Myrmecophaga tridactyla\")? Output your numerical estimate and nothing else.",
+        "response": "40000 \n",
+        "correct_answers": 29531.83
+    },
+    "43439_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Yucat\u00e1n Black Howler Monkey\" (\"Alouatta pigra\")? Output your numerical estimate and nothing else.",
+        "response": "7100 \n",
+        "correct_answers": 9386.03
+    },
+    "45863_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"European Garden Dormouse\" (\"Eliomys quercinus\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 114.61
+    },
+    "47078_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Pichi\" (\"Zaedyus pichiy\")? Output your numerical estimate and nothing else.",
+        "response": "850 \n",
+        "correct_answers": 1500.0
+    },
+    "44570_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Australian Bush Rat\" (\"Rattus fuscipes\")? Output your numerical estimate and nothing else.",
+        "response": "55",
+        "correct_answers": 127.29
+    },
+    "47075_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Nine-banded Armadillo\" (\"Dasypus novemcinctus\")? Output your numerical estimate and nothing else.",
+        "response": "4500 \n",
+        "correct_answers": 3949.01
+    },
+    "43119_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Granada Hare\" (\"Lepus granatensis\")? Output your numerical estimate and nothing else.",
+        "response": "2700 \n",
+        "correct_answers": 2323.94
+    },
+    "47014_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Eastern Mole\" (\"Scalopus aquaticus\")? Output your numerical estimate and nothing else.",
+        "response": "75",
+        "correct_answers": 74.6
+    },
+    "424254_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Daubenton's bat\" (\"Myotis daubentonii\")? Output your numerical estimate and nothing else.",
+        "response": "8.5",
+        "correct_answers": 7.902
+    },
+    "225754_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Sonoma Chipmunk\" (\"Neotamias sonomae\")? Output your numerical estimate and nothing else.",
+        "response": "42.5 \n",
+        "correct_answers": 75.0
+    },
+    "41387_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Gray Sac-winged Bat\" (\"Balantiopteryx plicata\")? Output your numerical estimate and nothing else.",
+        "response": "7",
+        "correct_answers": 6.57
+    },
+    "45955_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Prevost's Squirrel\" (\"Callosciurus prevostii\")? Output your numerical estimate and nothing else.",
+        "response": "180",
+        "correct_answers": 400.0
+    },
+    "41974_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Canada Lynx\" (\"Lynx canadensis\")? Output your numerical estimate and nothing else.",
+        "response": "8100 \n",
+        "correct_answers": 9682.82
+    },
+    "852334_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Mountain Viscacha\" (\"Lagidium viscacia\")? Output your numerical estimate and nothing else.",
+        "response": "3300 \n",
+        "correct_answers": 1392.495
+    },
+    "45932_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Dassie Rat\" (\"Petromus typicus\")? Output your numerical estimate and nothing else.",
+        "response": "280 \n",
+        "correct_answers": 212.0
+    },
+    "43339_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\")? Output your numerical estimate and nothing else.",
+        "response": "450000 \n",
+        "correct_answers": 384000.0
+    },
+    "183164_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Canyon Bat\" (\"Parastrellus hesperus\")? Output your numerical estimate and nothing else.",
+        "response": "5.2",
+        "correct_answers": 3.56
+    },
+    "41147_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"California Leaf-nosed Bat\" (\"Macrotus californicus\")? Output your numerical estimate and nothing else.",
+        "response": "14",
+        "correct_answers": 12.0
+    },
+    "47051_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"American Shrewmole\" (\"Neurotrichus gibbsii\")? Output your numerical estimate and nothing else.",
+        "response": "9.3",
+        "correct_answers": 10.0
+    },
+    "41939_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"White-tailed Mongoose\" (\"Ichneumia albicauda\")? Output your numerical estimate and nothing else.",
+        "response": "2700 \n",
+        "correct_answers": 3500.0
+    },
+    "74476_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Western Yellow Bat\" (\"Lasiurus xanthinus\")? Output your numerical estimate and nothing else.",
+        "response": "8.5",
+        "correct_answers": 12.2
+    },
+    "55908_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Mountain Hare\" (\"Lepus timidus\")? Output your numerical estimate and nothing else.",
+        "response": "3500 \n",
+        "correct_answers": 3027.715
+    },
+    "179988_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Thirteen-lined Ground Squirrel\" (\"Ictidomys tridecemlineatus\")? Output your numerical estimate and nothing else.",
+        "response": "100",
+        "correct_answers": 182.0
+    },
+    "40232_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Tasmanian Devil\" (\"Sarcophilus harrisii\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 6500.0
+    },
+    "41110_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Seba's Short-tailed Bat\" (\"Carollia perspicillata\")? Output your numerical estimate and nothing else.",
+        "response": "20",
+        "correct_answers": 16.4
+    },
+    "183166_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Tricolored Bat\" (\"Perimyotis subflavus\")? Output your numerical estimate and nothing else.",
+        "response": "7.0",
+        "correct_answers": 6.62
+    },
+    "42176_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Common Red Brocket\" (\"Mazama americana\")? Output your numerical estimate and nothing else.",
+        "response": "18000 \n",
+        "correct_answers": 23000.0
+    },
+    "44282_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Field Vole\" (\"Microtus agrestis\")? Output your numerical estimate and nothing else.",
+        "response": "28",
+        "correct_answers": 31.935
+    },
+    "42783_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Greater Glider\" (\"Petauroides volans\")? Output your numerical estimate and nothing else.",
+        "response": "1400 \n",
+        "correct_answers": 1141.0
+    },
+    "42236_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Vicu\u00f1a\" (\"Vicugna vicugna\")? Output your numerical estimate and nothing else.",
+        "response": "40000",
+        "correct_answers": 50000.0
+    },
+    "64102_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Big-eared Woodrat\" (\"Neotoma macrotis\")? Output your numerical estimate and nothing else.",
+        "response": "175 \n",
+        "correct_answers": 219.5
+    },
+    "607212_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Brown Agouti\" (\"Dasyprocta variegata\")? Output your numerical estimate and nothing else.",
+        "response": "3250 \n",
+        "correct_answers": 4100.0
+    },
+    "46007_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Andean Squirrel\" (\"Sciurus pucheranii\")? Output your numerical estimate and nothing else.",
+        "response": "172 \n",
+        "correct_answers": 803.0
+    },
+    "40192_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Agile Antechinus\" (\"Antechinus agilis\")? Output your numerical estimate and nothing else.",
+        "response": "25",
+        "correct_answers": 26.25
+    },
+    "42220_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Mule Deer\" (\"Odocoileus hemionus\")? Output your numerical estimate and nothing else.",
+        "response": "70000 \n",
+        "correct_answers": 57000.0
+    },
+    "42042_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Caracal\" (\"Caracal caracal\")? Output your numerical estimate and nothing else.",
+        "response": "13500 \n",
+        "correct_answers": 14000.0
+    },
+    "42228_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Marsh Deer\" (\"Blastocerus dichotomus\")? Output your numerical estimate and nothing else.",
+        "response": "130000 \n",
+        "correct_answers": 102500.0
+    },
+    "58393_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Western Spotted Skunk\" (\"Spilogale gracilis\")? Output your numerical estimate and nothing else.",
+        "response": "822 \n",
+        "correct_answers": 612.0
+    },
+    "40695_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Lesser Horseshoe Bat\" (\"Rhinolophus hipposideros\")? Output your numerical estimate and nothing else.",
+        "response": "7.5",
+        "correct_answers": 4.585
+    },
+    "46179_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Black-tailed Prairie Dog\" (\"Cynomys ludovicianus\")? Output your numerical estimate and nothing else.",
+        "response": "900 \n",
+        "correct_answers": 1125.0
+    },
+    "44395_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"White-footed Mouse\" (\"Peromyscus leucopus\")? Output your numerical estimate and nothing else.",
+        "response": "20",
+        "correct_answers": 22.3
+    },
+    "43446_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Lion-tailed Macaque\" (\"Macaca silenus\")? Output your numerical estimate and nothing else.",
+        "response": "6000",
+        "correct_answers": 6570.0
+    },
+    "180008_adult mass": {
+        "question": "Could you please provide an estimate of the adult mass (measured in grams) for the species \"Rock Squirrel\" (\"Otospermophilus variegatus\")? Output your numerical estimate and nothing else.",
+        "response": "710 \n",
+        "correct_answers": 663.03
+    }
+}

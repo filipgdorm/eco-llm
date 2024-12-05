@@ -1,0 +1,2002 @@
+{
+    "2248_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-fronted Bee-eater\" (\"Merops bullockoides\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 37.5
+    },
+    "3326_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Blue-spotted Wood-Dove\" (\"Turtur afer\")? Output your numerical estimate and nothing else.",
+        "response": "20 \n",
+        "correct_answers": 17.5
+    },
+    "13442_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Cape Sugarbird\" (\"Promerops cafer\")? Output your numerical estimate and nothing else.",
+        "response": "40",
+        "correct_answers": 36.8
+    },
+    "3941_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black Turnstone\" (\"Arenaria melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "25.5 \n",
+        "correct_answers": 25.4
+    },
+    "20907_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Painted Buttonquail\" (\"Turnix varius\")? Output your numerical estimate and nothing else.",
+        "response": "10.5 \n",
+        "correct_answers": 15.1
+    },
+    "979677_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Tickell's Blue Flycatcher\" (\"Cyornis tickelliae\")? Output your numerical estimate and nothing else.",
+        "response": "14",
+        "correct_answers": 14.5
+    },
+    "8399_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Chinspot Batis\" (\"Batis molitor\")? Output your numerical estimate and nothing else.",
+        "response": "11",
+        "correct_answers": 15.0
+    },
+    "6362_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Scintillant Hummingbird\" (\"Selasphorus scintilla\")? Output your numerical estimate and nothing else.",
+        "response": "16.5 \n",
+        "correct_answers": 14.1
+    },
+    "144242_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Iberian Green Woodpecker\" (\"Picus sharpei\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 41.1
+    },
+    "7044_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Ring-necked Duck\" (\"Aythya collaris\")? Output your numerical estimate and nothing else.",
+        "response": "38.5 \n",
+        "correct_answers": 51.4
+    },
+    "9236_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"European Serin\" (\"Serinus serinus\")? Output your numerical estimate and nothing else.",
+        "response": "11.5 \n",
+        "correct_answers": 9.2
+    },
+    "4504_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Atlantic Puffin\" (\"Fratercula arctica\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 51.0
+    },
+    "14157_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Southern Scrub Robin\" (\"Drymodes brunneopygia\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 16.5
+    },
+    "17619_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Golden-tailed Woodpecker\" (\"Campethera abingoni\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 26.3
+    },
+    "15705_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-browed Tit-Warbler\" (\"Leptopoecile sophiae\")? Output your numerical estimate and nothing else.",
+        "response": "10 \n",
+        "correct_answers": 10.1
+    },
+    "5312_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Pallas's Fish-Eagle\" (\"Haliaeetus leucoryphus\")? Output your numerical estimate and nothing else.",
+        "response": "65",
+        "correct_answers": 63.6
+    },
+    "1224_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Stone Partridge\" (\"Ptilopachus petrosus\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 16.9
+    },
+    "73547_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Madagascar Hoopoe\" (\"Upupa marginata\")? Output your numerical estimate and nothing else.",
+        "response": "45 \n",
+        "correct_answers": 58.9
+    },
+    "9611_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black Rosy-Finch\" (\"Leucosticte atrata\")? Output your numerical estimate and nothing else.",
+        "response": "10.5 \n",
+        "correct_answers": 11.5
+    },
+    "495992_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Gray-breasted Spurfowl\" (\"Pternistis rufopictus\")? Output your numerical estimate and nothing else.",
+        "response": "42 \n",
+        "correct_answers": 33.2
+    },
+    "7057_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Canvasback\" (\"Aythya valisineria\")? Output your numerical estimate and nothing else.",
+        "response": "56 \n",
+        "correct_answers": 58.5
+    },
+    "5430_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 29.3
+    },
+    "558609_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black-throated Canary\" (\"Crithagra atrogularis\")? Output your numerical estimate and nothing else.",
+        "response": "11.5 \n",
+        "correct_answers": 10.8
+    },
+    "8081_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-browed Woodswallow\" (\"Artamus superciliosus\")? Output your numerical estimate and nothing else.",
+        "response": "42.5 \n",
+        "correct_answers": 22.9
+    },
+    "8916_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Bare-necked Fruitcrow\" (\"Gymnoderus foetidus\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 29.3
+    },
+    "515243_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Golden-fronted Greenlet\" (\"Pachysylvia aurantiifrons\")? Output your numerical estimate and nothing else.",
+        "response": "12.5 \n",
+        "correct_answers": 16.1
+    },
+    "9491_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Lined Seedeater\" (\"Sporophila lineola\")? Output your numerical estimate and nothing else.",
+        "response": "10.5 \n",
+        "correct_answers": 8.7
+    },
+    "10090_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black-hooded Sierra-Finch\" (\"Phrygilus atriceps\")? Output your numerical estimate and nothing else.",
+        "response": "13.5 \n",
+        "correct_answers": 17.9
+    },
+    "979725_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Yellow-throated Bush Sparrow\" (\"Gymnoris superciliaris\")? Output your numerical estimate and nothing else.",
+        "response": "13.5 \n",
+        "correct_answers": 14.2
+    },
+    "13808_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Sakalava Weaver\" (\"Ploceus sakalava\")? Output your numerical estimate and nothing else.",
+        "response": "40.5 \n",
+        "correct_answers": 17.6
+    },
+    "73078_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 30.7
+    },
+    "20836_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Narina Trogon\" (\"Apaloderma narina\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 19.6
+    },
+    "10070_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Common Chaffinch\" (\"Fringilla coelebs\")? Output your numerical estimate and nothing else.",
+        "response": "11",
+        "correct_answers": 14.7
+    },
+    "10438_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Cinnamon Tanager\" (\"Schistochlamys ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "20.5 \n",
+        "correct_answers": 16.0
+    },
+    "831_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Gray Partridge\" (\"Perdix perdix\")? Output your numerical estimate and nothing else.",
+        "response": "14.5 \n",
+        "correct_answers": 20.9
+    },
+    "54549_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Chinstrap Penguin\" (\"Pygoscelis antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "43.2 \n",
+        "correct_answers": 61.8
+    },
+    "15750_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Fasciated Antshrike\" (\"Cymbilaimus lineatus\")? Output your numerical estimate and nothing else.",
+        "response": "28.5 \n",
+        "correct_answers": 24.7
+    },
+    "145187_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-breasted Sunbird\" (\"Cinnyris talatala\")? Output your numerical estimate and nothing else.",
+        "response": "13.5 \n",
+        "correct_answers": 22.9
+    },
+    "10290_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black-crowned Palm-Tanager\" (\"Phaenicophilus palmarum\")? Output your numerical estimate and nothing else.",
+        "response": "18.5 \n",
+        "correct_answers": 21.3
+    },
+    "18880_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Blue-winged Parrot\" (\"Neophema chrysostoma\")? Output your numerical estimate and nothing else.",
+        "response": "16.5 \n",
+        "correct_answers": 14.1
+    },
+    "3616_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Spinifex Pigeon\" (\"Geophaps plumifera\")? Output your numerical estimate and nothing else.",
+        "response": "16.5 \n",
+        "correct_answers": 16.8
+    },
+    "5286_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Square-tailed Kite\" (\"Lophoictinia isura\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 45.2
+    },
+    "13471_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Buff-rumped Thornbill\" (\"Acanthiza reguloides\")? Output your numerical estimate and nothing else.",
+        "response": "10 \n",
+        "correct_answers": 11.0
+    },
+    "9613_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Plain Mountain-Finch\" (\"Leucosticte nemoricola\")? Output your numerical estimate and nothing else.",
+        "response": "10.5 \n",
+        "correct_answers": 13.0
+    },
+    "116877_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black-capped Donacobius\" (\"Donacobius atricapilla\")? Output your numerical estimate and nothing else.",
+        "response": "44.5 \n",
+        "correct_answers": 26.1
+    },
+    "5167_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Montagu's Harrier\" (\"Circus pygargus\")? Output your numerical estimate and nothing else.",
+        "response": "35.5 \n",
+        "correct_answers": 26.1
+    },
+    "73174_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Rufous-winged Sparrow\" (\"Peucaea carpalis\")? Output your numerical estimate and nothing else.",
+        "response": "11.5 \n",
+        "correct_answers": 13.0
+    },
+    "8478_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Tufted Jay\" (\"Cyanocorax dickeyi\")? Output your numerical estimate and nothing else.",
+        "response": "42 \n",
+        "correct_answers": 39.0
+    },
+    "980013_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Buff-breasted Paradise Kingfisher\" (\"Tanysiptera sylvia\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 33.7
+    },
+    "17090_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Eared Pygmy-Tyrant\" (\"Myiornis auricularis\")? Output your numerical estimate and nothing else.",
+        "response": "10",
+        "correct_answers": 11.3
+    },
+    "13927_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Long-tailed Finch\" (\"Poephila acuticauda\")? Output your numerical estimate and nothing else.",
+        "response": "12.5 \n",
+        "correct_answers": 11.6
+    },
+    "1789_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Pied Cuckoo\" (\"Clamator jacobinus\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 24.7
+    },
+    "145085_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Indian Blackbird\" (\"Turdus simillimus\")? Output your numerical estimate and nothing else.",
+        "response": "22",
+        "correct_answers": 25.6
+    },
+    "201233_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Italian Sparrow\" (\"Passer italiae\")? Output your numerical estimate and nothing else.",
+        "response": "14.3 \n",
+        "correct_answers": 15.1
+    },
+    "69696_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Chestnut-capped Blackbird\" (\"Chrysomus ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "20.5 \n",
+        "correct_answers": 19.9
+    },
+    "3780_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Gray-breasted Seedsnipe\" (\"Thinocorus orbignyianus\")? Output your numerical estimate and nothing else.",
+        "response": "20 \n",
+        "correct_answers": 16.4
+    },
+    "12735_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Mistle Thrush\" (\"Turdus viscivorus\")? Output your numerical estimate and nothing else.",
+        "response": "28",
+        "correct_answers": 26.4
+    },
+    "12231_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Noisy Miner\" (\"Manorina melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "22.5 \n",
+        "correct_answers": 24.3
+    },
+    "204544_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-winged Snowfinch\" (\"Montifringilla nivalis\")? Output your numerical estimate and nothing else.",
+        "response": "13.5 \n",
+        "correct_answers": 14.4
+    },
+    "20343_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Brown Fish-Owl\" (\"Ketupa zeylonensis\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 49.7
+    },
+    "7072_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Paradise Shelduck\" (\"Tadorna variegata\")? Output your numerical estimate and nothing else.",
+        "response": "48.5 \n",
+        "correct_answers": 48.6
+    },
+    "12910_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Pied Bushchat\" (\"Saxicola caprata\")? Output your numerical estimate and nothing else.",
+        "response": "11",
+        "correct_answers": 14.9
+    },
+    "1360_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Spotted Wood-Quail\" (\"Odontophorus guttatus\")? Output your numerical estimate and nothing else.",
+        "response": "20 \n",
+        "correct_answers": 19.8
+    },
+    "2079_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Speckled Chachalaca\" (\"Ortalis guttata\")? Output your numerical estimate and nothing else.",
+        "response": "42.5 \n",
+        "correct_answers": 28.2
+    },
+    "12832_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-crowned Wheatear\" (\"Oenanthe leucopyga\")? Output your numerical estimate and nothing else.",
+        "response": "20.5 \n",
+        "correct_answers": 20.8
+    },
+    "13087_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Slaty-backed Forktail\" (\"Enicurus schistaceus\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 20.5
+    },
+    "4756_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Turkey Vulture\" (\"Cathartes aura\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 51.5
+    },
+    "8912_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Blue Cotinga\" (\"Cotinga nattererii\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 18.1
+    },
+    "10212_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Sooty-capped Chlorospingus\" (\"Chlorospingus pileatus\")? Output your numerical estimate and nothing else.",
+        "response": "13.5 \n",
+        "correct_answers": 12.9
+    },
+    "117214_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Secretarybird\" (\"Sagittarius serpentarius\")? Output your numerical estimate and nothing else.",
+        "response": "82.5 \n",
+        "correct_answers": 59.4
+    },
+    "15922_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Dot-winged Antwren\" (\"Microrhopias quixensis\")? Output your numerical estimate and nothing else.",
+        "response": "13.5 \n",
+        "correct_answers": 15.6
+    },
+    "18217_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Yellow-fronted Woodpecker\" (\"Melanerpes flavifrons\")? Output your numerical estimate and nothing else.",
+        "response": "40.5 \n",
+        "correct_answers": 27.2
+    },
+    "13092_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"White-crowned Forktail\" (\"Enicurus leschenaulti\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 21.4
+    },
+    "2413_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Laughing Kookaburra\" (\"Dacelo novaeguineae\")? Output your numerical estimate and nothing else.",
+        "response": "40.0",
+        "correct_answers": 68.6
+    },
+    "5288_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black-breasted Kite\" (\"Hamirostra melanosternon\")? Output your numerical estimate and nothing else.",
+        "response": "42 \n",
+        "correct_answers": 40.1
+    },
+    "1656_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Madagascar Coucal\" (\"Centropus toulou\")? Output your numerical estimate and nothing else.",
+        "response": "50 \n",
+        "correct_answers": 30.5
+    },
+    "117139_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Spot-flanked Barbet\" (\"Tricholaema lacrymosa\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 18.7
+    },
+    "7486_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Rock Wren\" (\"Salpinctes obsoletus\")? Output your numerical estimate and nothing else.",
+        "response": "15.75 \n",
+        "correct_answers": 19.9
+    },
+    "19893_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Barred Owl\" (\"Strix varia\")? Output your numerical estimate and nothing else.",
+        "response": "38.5 \n",
+        "correct_answers": 38.8
+    },
+    "14301_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Blue-backed Manakin\" (\"Chiroxiphia pareola\")? Output your numerical estimate and nothing else.",
+        "response": "10 \n",
+        "correct_answers": 11.4
+    },
+    "14881_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Long-tailed Mockingbird\" (\"Mimus longicaudatus\")? Output your numerical estimate and nothing else.",
+        "response": "25.5 \n",
+        "correct_answers": 26.2
+    },
+    "11945_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Brown-throated Martin\" (\"Riparia paludicola\")? Output your numerical estimate and nothing else.",
+        "response": "10",
+        "correct_answers": 9.5
+    },
+    "4726_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Yellow-headed Caracara\" (\"Milvago chimachima\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 30.5
+    },
+    "12716_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Eurasian Blackbird\" (\"Turdus merula\")? Output your numerical estimate and nothing else.",
+        "response": "19.5 \n",
+        "correct_answers": 28.5
+    },
+    "7938_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Common Iora\" (\"Aegithina tiphia\")? Output your numerical estimate and nothing else.",
+        "response": "17.5 \n",
+        "correct_answers": 17.0
+    },
+    "203153_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Great Tit\" (\"Parus major\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 11.3
+    },
+    "10717_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Yellow Cardinal\" (\"Gubernatrix cristata\")? Output your numerical estimate and nothing else.",
+        "response": "17",
+        "correct_answers": 17.7
+    },
+    "14069_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Red-browed Finch\" (\"Neochmia temporalis\")? Output your numerical estimate and nothing else.",
+        "response": "10.5 \n",
+        "correct_answers": 10.8
+    },
+    "11114_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Sharp-tailed Streamcreeper\" (\"Lochmias nematura\")? Output your numerical estimate and nothing else.",
+        "response": "18",
+        "correct_answers": 23.9
+    },
+    "3681_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Crested Pigeon\" (\"Ocyphaps lophotes\")? Output your numerical estimate and nothing else.",
+        "response": "20 \n",
+        "correct_answers": 17.7
+    },
+    "793144_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Yellow-bellied Fairy-Fantail\" (\"Chelidorhynx hypoxanthus\")? Output your numerical estimate and nothing else.",
+        "response": "12.5 \n",
+        "correct_answers": 8.4
+    },
+    "2988_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Red-eyed Dove\" (\"Streptopelia semitorquata\")? Output your numerical estimate and nothing else.",
+        "response": "30 \n",
+        "correct_answers": 22.7
+    },
+    "15052_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Arrow-marked Babbler\" (\"Turdoides jardineii\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 24.9
+    },
+    "10227_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Indigo Bunting\" (\"Passerina cyanea\")? Output your numerical estimate and nothing else.",
+        "response": "10.5 \n",
+        "correct_answers": 11.7
+    },
+    "8006_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Cape Crow\" (\"Corvus capensis\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 62.9
+    },
+    "4537_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black Noddy\" (\"Anous minutus\")? Output your numerical estimate and nothing else.",
+        "response": "32 \n",
+        "correct_answers": 49.5
+    },
+    "10274_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Black-headed Grosbeak\" (\"Pheucticus melanocephalus\")? Output your numerical estimate and nothing else.",
+        "response": "20.5 \n",
+        "correct_answers": 19.1
+    },
+    "7920_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Rufous Whistler\" (\"Pachycephala rufiventris\")? Output your numerical estimate and nothing else.",
+        "response": "19.5 \n",
+        "correct_answers": 16.5
+    },
+    "3658_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Topknot Pigeon\" (\"Lopholaimus antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "22 \n",
+        "correct_answers": 25.8
+    },
+    "4609_beak length": {
+        "question": "Could you please provide an estimate of the beak length (measured in millimeters) for the species \"Egyptian Plover\" (\"Pluvianus aegyptius\")? Output your numerical estimate and nothing else.",
+        "response": "22",
+        "correct_answers": 22.8
+    },
+    "2248_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-fronted Bee-eater\" (\"Merops bullockoides\")? Output your numerical estimate and nothing else.",
+        "response": "280 \n",
+        "correct_answers": 111.8
+    },
+    "3326_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Blue-spotted Wood-Dove\" (\"Turtur afer\")? Output your numerical estimate and nothing else.",
+        "response": "145 \n",
+        "correct_answers": 105.2
+    },
+    "13442_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Cape Sugarbird\" (\"Promerops cafer\")? Output your numerical estimate and nothing else.",
+        "response": "90",
+        "correct_answers": 93.6
+    },
+    "3941_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black Turnstone\" (\"Arenaria melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "75",
+        "correct_answers": 142.0
+    },
+    "20907_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Painted Buttonquail\" (\"Turnix varius\")? Output your numerical estimate and nothing else.",
+        "response": "95 \n",
+        "correct_answers": 99.4
+    },
+    "979677_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Tickell's Blue Flycatcher\" (\"Cyornis tickelliae\")? Output your numerical estimate and nothing else.",
+        "response": "65",
+        "correct_answers": 72.2
+    },
+    "8399_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Chinspot Batis\" (\"Batis molitor\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 59.8
+    },
+    "6362_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Scintillant Hummingbird\" (\"Selasphorus scintilla\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 33.0
+    },
+    "144242_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Iberian Green Woodpecker\" (\"Picus sharpei\")? Output your numerical estimate and nothing else.",
+        "response": "155 \n",
+        "correct_answers": 155.8
+    },
+    "7044_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Ring-necked Duck\" (\"Aythya collaris\")? Output your numerical estimate and nothing else.",
+        "response": "340 \n",
+        "correct_answers": 194.8
+    },
+    "9236_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"European Serin\" (\"Serinus serinus\")? Output your numerical estimate and nothing else.",
+        "response": "65",
+        "correct_answers": 70.8
+    },
+    "4504_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Atlantic Puffin\" (\"Fratercula arctica\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 163.6
+    },
+    "14157_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Southern Scrub Robin\" (\"Drymodes brunneopygia\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 91.9
+    },
+    "17619_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Golden-tailed Woodpecker\" (\"Campethera abingoni\")? Output your numerical estimate and nothing else.",
+        "response": "90",
+        "correct_answers": 110.4
+    },
+    "15705_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-browed Tit-Warbler\" (\"Leptopoecile sophiae\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 52.1
+    },
+    "5312_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Pallas's Fish-Eagle\" (\"Haliaeetus leucoryphus\")? Output your numerical estimate and nothing else.",
+        "response": "650",
+        "correct_answers": 566.6
+    },
+    "1224_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Stone Partridge\" (\"Ptilopachus petrosus\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 117.2
+    },
+    "73547_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Madagascar Hoopoe\" (\"Upupa marginata\")? Output your numerical estimate and nothing else.",
+        "response": "135 \n",
+        "correct_answers": 149.2
+    },
+    "9611_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black Rosy-Finch\" (\"Leucosticte atrata\")? Output your numerical estimate and nothing else.",
+        "response": "63",
+        "correct_answers": 106.4
+    },
+    "495992_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Gray-breasted Spurfowl\" (\"Pternistis rufopictus\")? Output your numerical estimate and nothing else.",
+        "response": "235 \n",
+        "correct_answers": 201.8
+    },
+    "7057_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Canvasback\" (\"Aythya valisineria\")? Output your numerical estimate and nothing else.",
+        "response": "685 \n",
+        "correct_answers": 223.5
+    },
+    "5430_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\")? Output your numerical estimate and nothing else.",
+        "response": "300",
+        "correct_answers": 217.4
+    },
+    "558609_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black-throated Canary\" (\"Crithagra atrogularis\")? Output your numerical estimate and nothing else.",
+        "response": "65",
+        "correct_answers": 71.3
+    },
+    "8081_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-browed Woodswallow\" (\"Artamus superciliosus\")? Output your numerical estimate and nothing else.",
+        "response": "127 \n",
+        "correct_answers": 119.5
+    },
+    "8916_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Bare-necked Fruitcrow\" (\"Gymnoderus foetidus\")? Output your numerical estimate and nothing else.",
+        "response": "300 \n",
+        "correct_answers": 201.4
+    },
+    "515243_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Golden-fronted Greenlet\" (\"Pachysylvia aurantiifrons\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 54.9
+    },
+    "9491_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Lined Seedeater\" (\"Sporophila lineola\")? Output your numerical estimate and nothing else.",
+        "response": "62.5 \n",
+        "correct_answers": 57.9
+    },
+    "10090_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black-hooded Sierra-Finch\" (\"Phrygilus atriceps\")? Output your numerical estimate and nothing else.",
+        "response": "48",
+        "correct_answers": 94.4
+    },
+    "979725_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Yellow-throated Bush Sparrow\" (\"Gymnoris superciliaris\")? Output your numerical estimate and nothing else.",
+        "response": "67",
+        "correct_answers": 89.5
+    },
+    "13808_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Sakalava Weaver\" (\"Ploceus sakalava\")? Output your numerical estimate and nothing else.",
+        "response": "100 \n",
+        "correct_answers": 78.2
+    },
+    "73078_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\")? Output your numerical estimate and nothing else.",
+        "response": "170 \n",
+        "correct_answers": 156.0
+    },
+    "20836_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Narina Trogon\" (\"Apaloderma narina\")? Output your numerical estimate and nothing else.",
+        "response": "290 \n",
+        "correct_answers": 129.9
+    },
+    "10070_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Common Chaffinch\" (\"Fringilla coelebs\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 85.9
+    },
+    "10438_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Cinnamon Tanager\" (\"Schistochlamys ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "107 \n",
+        "correct_answers": 81.0
+    },
+    "831_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Gray Partridge\" (\"Perdix perdix\")? Output your numerical estimate and nothing else.",
+        "response": "150 \n",
+        "correct_answers": 151.2
+    },
+    "54549_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Chinstrap Penguin\" (\"Pygoscelis antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "180",
+        "correct_answers": 100.5
+    },
+    "15750_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Fasciated Antshrike\" (\"Cymbilaimus lineatus\")? Output your numerical estimate and nothing else.",
+        "response": "107 \n",
+        "correct_answers": 75.8
+    },
+    "145187_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-breasted Sunbird\" (\"Cinnyris talatala\")? Output your numerical estimate and nothing else.",
+        "response": "55",
+        "correct_answers": 54.1
+    },
+    "10290_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black-crowned Palm-Tanager\" (\"Phaenicophilus palmarum\")? Output your numerical estimate and nothing else.",
+        "response": "75",
+        "correct_answers": 87.0
+    },
+    "18880_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Blue-winged Parrot\" (\"Neophema chrysostoma\")? Output your numerical estimate and nothing else.",
+        "response": "90",
+        "correct_answers": 104.8
+    },
+    "3616_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Spinifex Pigeon\" (\"Geophaps plumifera\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 106.7
+    },
+    "5286_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Square-tailed Kite\" (\"Lophoictinia isura\")? Output your numerical estimate and nothing else.",
+        "response": "450 \n",
+        "correct_answers": 471.2
+    },
+    "13471_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Buff-rumped Thornbill\" (\"Acanthiza reguloides\")? Output your numerical estimate and nothing else.",
+        "response": "48",
+        "correct_answers": 52.0
+    },
+    "9613_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Plain Mountain-Finch\" (\"Leucosticte nemoricola\")? Output your numerical estimate and nothing else.",
+        "response": "63",
+        "correct_answers": 92.1
+    },
+    "116877_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black-capped Donacobius\" (\"Donacobius atricapilla\")? Output your numerical estimate and nothing else.",
+        "response": "107 \n",
+        "correct_answers": 81.1
+    },
+    "5167_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Montagu's Harrier\" (\"Circus pygargus\")? Output your numerical estimate and nothing else.",
+        "response": "390 \n",
+        "correct_answers": 362.3
+    },
+    "73174_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Rufous-winged Sparrow\" (\"Peucaea carpalis\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 60.2
+    },
+    "8478_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Tufted Jay\" (\"Cyanocorax dickeyi\")? Output your numerical estimate and nothing else.",
+        "response": "155 \n",
+        "correct_answers": 173.0
+    },
+    "980013_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Buff-breasted Paradise Kingfisher\" (\"Tanysiptera sylvia\")? Output your numerical estimate and nothing else.",
+        "response": "125 \n",
+        "correct_answers": 93.8
+    },
+    "17090_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Eared Pygmy-Tyrant\" (\"Myiornis auricularis\")? Output your numerical estimate and nothing else.",
+        "response": "45.5 \n",
+        "correct_answers": 39.8
+    },
+    "13927_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Long-tailed Finch\" (\"Poephila acuticauda\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 58.9
+    },
+    "1789_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Pied Cuckoo\" (\"Clamator jacobinus\")? Output your numerical estimate and nothing else.",
+        "response": "290 \n",
+        "correct_answers": 145.2
+    },
+    "145085_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Indian Blackbird\" (\"Turdus simillimus\")? Output your numerical estimate and nothing else.",
+        "response": "115 \n",
+        "correct_answers": 126.4
+    },
+    "201233_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Italian Sparrow\" (\"Passer italiae\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 76.9
+    },
+    "69696_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Chestnut-capped Blackbird\" (\"Chrysomus ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "107 \n",
+        "correct_answers": 89.6
+    },
+    "3780_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Gray-breasted Seedsnipe\" (\"Thinocorus orbignyianus\")? Output your numerical estimate and nothing else.",
+        "response": "90 \n",
+        "correct_answers": 138.8
+    },
+    "12735_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Mistle Thrush\" (\"Turdus viscivorus\")? Output your numerical estimate and nothing else.",
+        "response": "150 \n",
+        "correct_answers": 153.7
+    },
+    "12231_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Noisy Miner\" (\"Manorina melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "135 \n",
+        "correct_answers": 136.1
+    },
+    "204544_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-winged Snowfinch\" (\"Montifringilla nivalis\")? Output your numerical estimate and nothing else.",
+        "response": "93 \n",
+        "correct_answers": 119.0
+    },
+    "20343_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Brown Fish-Owl\" (\"Ketupa zeylonensis\")? Output your numerical estimate and nothing else.",
+        "response": "450 \n",
+        "correct_answers": 381.1
+    },
+    "7072_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Paradise Shelduck\" (\"Tadorna variegata\")? Output your numerical estimate and nothing else.",
+        "response": "275 \n",
+        "correct_answers": 351.2
+    },
+    "12910_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Pied Bushchat\" (\"Saxicola caprata\")? Output your numerical estimate and nothing else.",
+        "response": "90 \n",
+        "correct_answers": 70.1
+    },
+    "1360_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Spotted Wood-Quail\" (\"Odontophorus guttatus\")? Output your numerical estimate and nothing else.",
+        "response": "90 \n",
+        "correct_answers": 145.8
+    },
+    "2079_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Speckled Chachalaca\" (\"Ortalis guttata\")? Output your numerical estimate and nothing else.",
+        "response": "240 \n",
+        "correct_answers": 192.3
+    },
+    "12832_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-crowned Wheatear\" (\"Oenanthe leucopyga\")? Output your numerical estimate and nothing else.",
+        "response": "75",
+        "correct_answers": 100.8
+    },
+    "13087_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Slaty-backed Forktail\" (\"Enicurus schistaceus\")? Output your numerical estimate and nothing else.",
+        "response": "107 \n",
+        "correct_answers": 90.0
+    },
+    "4756_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Turkey Vulture\" (\"Cathartes aura\")? Output your numerical estimate and nothing else.",
+        "response": "1600 \n",
+        "correct_answers": 508.5
+    },
+    "8912_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Blue Cotinga\" (\"Cotinga nattererii\")? Output your numerical estimate and nothing else.",
+        "response": "127 \n",
+        "correct_answers": 111.8
+    },
+    "10212_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Sooty-capped Chlorospingus\" (\"Chlorospingus pileatus\")? Output your numerical estimate and nothing else.",
+        "response": "48",
+        "correct_answers": 65.0
+    },
+    "117214_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Secretarybird\" (\"Sagittarius serpentarius\")? Output your numerical estimate and nothing else.",
+        "response": "750 \n",
+        "correct_answers": 615.5
+    },
+    "15922_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Dot-winged Antwren\" (\"Microrhopias quixensis\")? Output your numerical estimate and nothing else.",
+        "response": "48",
+        "correct_answers": 53.0
+    },
+    "18217_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Yellow-fronted Woodpecker\" (\"Melanerpes flavifrons\")? Output your numerical estimate and nothing else.",
+        "response": "137 \n",
+        "correct_answers": 117.0
+    },
+    "13092_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"White-crowned Forktail\" (\"Enicurus leschenaulti\")? Output your numerical estimate and nothing else.",
+        "response": "92",
+        "correct_answers": 93.6
+    },
+    "2413_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Laughing Kookaburra\" (\"Dacelo novaeguineae\")? Output your numerical estimate and nothing else.",
+        "response": "300 \n",
+        "correct_answers": 216.1
+    },
+    "5288_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black-breasted Kite\" (\"Hamirostra melanosternon\")? Output your numerical estimate and nothing else.",
+        "response": "435 \n",
+        "correct_answers": 472.6
+    },
+    "1656_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Madagascar Coucal\" (\"Centropus toulou\")? Output your numerical estimate and nothing else.",
+        "response": "280 \n",
+        "correct_answers": 155.4
+    },
+    "117139_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Spot-flanked Barbet\" (\"Tricholaema lacrymosa\")? Output your numerical estimate and nothing else.",
+        "response": "90",
+        "correct_answers": 68.8
+    },
+    "7486_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Rock Wren\" (\"Salpinctes obsoletus\")? Output your numerical estimate and nothing else.",
+        "response": "67",
+        "correct_answers": 69.0
+    },
+    "19893_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Barred Owl\" (\"Strix varia\")? Output your numerical estimate and nothing else.",
+        "response": "380 \n",
+        "correct_answers": 341.2
+    },
+    "14301_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Blue-backed Manakin\" (\"Chiroxiphia pareola\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 69.4
+    },
+    "14881_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Long-tailed Mockingbird\" (\"Mimus longicaudatus\")? Output your numerical estimate and nothing else.",
+        "response": "137 \n",
+        "correct_answers": 121.7
+    },
+    "11945_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Brown-throated Martin\" (\"Riparia paludicola\")? Output your numerical estimate and nothing else.",
+        "response": "95 \n",
+        "correct_answers": 101.2
+    },
+    "4726_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Yellow-headed Caracara\" (\"Milvago chimachima\")? Output your numerical estimate and nothing else.",
+        "response": "350",
+        "correct_answers": 285.9
+    },
+    "12716_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Eurasian Blackbird\" (\"Turdus merula\")? Output your numerical estimate and nothing else.",
+        "response": "135 \n",
+        "correct_answers": 128.4
+    },
+    "7938_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Common Iora\" (\"Aegithina tiphia\")? Output your numerical estimate and nothing else.",
+        "response": "67",
+        "correct_answers": 61.6
+    },
+    "203153_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Great Tit\" (\"Parus major\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 70.9
+    },
+    "10717_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Yellow Cardinal\" (\"Gubernatrix cristata\")? Output your numerical estimate and nothing else.",
+        "response": "100 \n",
+        "correct_answers": 93.8
+    },
+    "14069_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Red-browed Finch\" (\"Neochmia temporalis\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 52.0
+    },
+    "11114_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Sharp-tailed Streamcreeper\" (\"Lochmias nematura\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 68.6
+    },
+    "3681_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Crested Pigeon\" (\"Ocyphaps lophotes\")? Output your numerical estimate and nothing else.",
+        "response": "270 \n",
+        "correct_answers": 160.6
+    },
+    "793144_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Yellow-bellied Fairy-Fantail\" (\"Chelidorhynx hypoxanthus\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 54.9
+    },
+    "2988_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Red-eyed Dove\" (\"Streptopelia semitorquata\")? Output your numerical estimate and nothing else.",
+        "response": "240 \n",
+        "correct_answers": 173.1
+    },
+    "15052_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Arrow-marked Babbler\" (\"Turdoides jardineii\")? Output your numerical estimate and nothing else.",
+        "response": "115 \n",
+        "correct_answers": 102.6
+    },
+    "10227_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Indigo Bunting\" (\"Passerina cyanea\")? Output your numerical estimate and nothing else.",
+        "response": "67.5 \n",
+        "correct_answers": 64.8
+    },
+    "8006_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Cape Crow\" (\"Corvus capensis\")? Output your numerical estimate and nothing else.",
+        "response": "397.5 \n",
+        "correct_answers": 322.2
+    },
+    "4537_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black Noddy\" (\"Anous minutus\")? Output your numerical estimate and nothing else.",
+        "response": "285 \n",
+        "correct_answers": 222.0
+    },
+    "10274_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Black-headed Grosbeak\" (\"Pheucticus melanocephalus\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 100.5
+    },
+    "7920_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Rufous Whistler\" (\"Pachycephala rufiventris\")? Output your numerical estimate and nothing else.",
+        "response": "90",
+        "correct_answers": 92.7
+    },
+    "3658_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Topknot Pigeon\" (\"Lopholaimus antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "450 \n",
+        "correct_answers": 277.6
+    },
+    "4609_wing length": {
+        "question": "Could you please provide an estimate of the wing length (measured in millimeters) for the species \"Egyptian Plover\" (\"Pluvianus aegyptius\")? Output your numerical estimate and nothing else.",
+        "response": "140",
+        "correct_answers": 129.9
+    },
+    "2248_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-fronted Bee-eater\" (\"Merops bullockoides\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 92.0
+    },
+    "3326_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Blue-spotted Wood-Dove\" (\"Turtur afer\")? Output your numerical estimate and nothing else.",
+        "response": "75 \n",
+        "correct_answers": 80.4
+    },
+    "13442_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Cape Sugarbird\" (\"Promerops cafer\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 284.0
+    },
+    "3941_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black Turnstone\" (\"Arenaria melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "65",
+        "correct_answers": 61.2
+    },
+    "20907_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Painted Buttonquail\" (\"Turnix varius\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 47.0
+    },
+    "979677_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Tickell's Blue Flycatcher\" (\"Cyornis tickelliae\")? Output your numerical estimate and nothing else.",
+        "response": "55 \n",
+        "correct_answers": 61.6
+    },
+    "8399_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Chinspot Batis\" (\"Batis molitor\")? Output your numerical estimate and nothing else.",
+        "response": "48",
+        "correct_answers": 42.8
+    },
+    "6362_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Scintillant Hummingbird\" (\"Selasphorus scintilla\")? Output your numerical estimate and nothing else.",
+        "response": "25",
+        "correct_answers": 24.0
+    },
+    "144242_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Iberian Green Woodpecker\" (\"Picus sharpei\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 91.3
+    },
+    "7044_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Ring-necked Duck\" (\"Aythya collaris\")? Output your numerical estimate and nothing else.",
+        "response": "63 \n",
+        "correct_answers": 57.6
+    },
+    "9236_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"European Serin\" (\"Serinus serinus\")? Output your numerical estimate and nothing else.",
+        "response": "40 \n",
+        "correct_answers": 46.4
+    },
+    "4504_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Atlantic Puffin\" (\"Fratercula arctica\")? Output your numerical estimate and nothing else.",
+        "response": "55 \n",
+        "correct_answers": 46.4
+    },
+    "14157_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Southern Scrub Robin\" (\"Drymodes brunneopygia\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 100.7
+    },
+    "17619_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Golden-tailed Woodpecker\" (\"Campethera abingoni\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 66.8
+    },
+    "15705_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-browed Tit-Warbler\" (\"Leptopoecile sophiae\")? Output your numerical estimate and nothing else.",
+        "response": "40",
+        "correct_answers": 55.8
+    },
+    "5312_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Pallas's Fish-Eagle\" (\"Haliaeetus leucoryphus\")? Output your numerical estimate and nothing else.",
+        "response": "300 \n",
+        "correct_answers": 290.3
+    },
+    "1224_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Stone Partridge\" (\"Ptilopachus petrosus\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 75.5
+    },
+    "73547_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Madagascar Hoopoe\" (\"Upupa marginata\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 114.5
+    },
+    "9611_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black Rosy-Finch\" (\"Leucosticte atrata\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 69.1
+    },
+    "495992_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Gray-breasted Spurfowl\" (\"Pternistis rufopictus\")? Output your numerical estimate and nothing else.",
+        "response": "130 \n",
+        "correct_answers": 76.5
+    },
+    "7057_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Canvasback\" (\"Aythya valisineria\")? Output your numerical estimate and nothing else.",
+        "response": "75 \n",
+        "correct_answers": 52.8
+    },
+    "5430_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\")? Output your numerical estimate and nothing else.",
+        "response": "190 \n",
+        "correct_answers": 142.6
+    },
+    "558609_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black-throated Canary\" (\"Crithagra atrogularis\")? Output your numerical estimate and nothing else.",
+        "response": "50 \n",
+        "correct_answers": 46.0
+    },
+    "8081_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-browed Woodswallow\" (\"Artamus superciliosus\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 74.1
+    },
+    "8916_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Bare-necked Fruitcrow\" (\"Gymnoderus foetidus\")? Output your numerical estimate and nothing else.",
+        "response": "140 \n",
+        "correct_answers": 121.7
+    },
+    "515243_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Golden-fronted Greenlet\" (\"Pachysylvia aurantiifrons\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 44.7
+    },
+    "9491_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Lined Seedeater\" (\"Sporophila lineola\")? Output your numerical estimate and nothing else.",
+        "response": "44",
+        "correct_answers": 47.6
+    },
+    "10090_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black-hooded Sierra-Finch\" (\"Phrygilus atriceps\")? Output your numerical estimate and nothing else.",
+        "response": "48",
+        "correct_answers": 68.2
+    },
+    "979725_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Yellow-throated Bush Sparrow\" (\"Gymnoris superciliaris\")? Output your numerical estimate and nothing else.",
+        "response": "67.5 \n",
+        "correct_answers": 59.8
+    },
+    "13808_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Sakalava Weaver\" (\"Ploceus sakalava\")? Output your numerical estimate and nothing else.",
+        "response": "75",
+        "correct_answers": 50.0
+    },
+    "73078_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 116.6
+    },
+    "20836_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Narina Trogon\" (\"Apaloderma narina\")? Output your numerical estimate and nothing else.",
+        "response": "149 \n",
+        "correct_answers": 164.9
+    },
+    "10070_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Common Chaffinch\" (\"Fringilla coelebs\")? Output your numerical estimate and nothing else.",
+        "response": "60 \n",
+        "correct_answers": 65.9
+    },
+    "10438_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Cinnamon Tanager\" (\"Schistochlamys ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 71.4
+    },
+    "831_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Gray Partridge\" (\"Perdix perdix\")? Output your numerical estimate and nothing else.",
+        "response": "75 \n",
+        "correct_answers": 75.3
+    },
+    "54549_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Chinstrap Penguin\" (\"Pygoscelis antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 138.0
+    },
+    "15750_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Fasciated Antshrike\" (\"Cymbilaimus lineatus\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 71.5
+    },
+    "145187_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-breasted Sunbird\" (\"Cinnyris talatala\")? Output your numerical estimate and nothing else.",
+        "response": "45 \n",
+        "correct_answers": 38.6
+    },
+    "10290_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black-crowned Palm-Tanager\" (\"Phaenicophilus palmarum\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 69.8
+    },
+    "18880_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Blue-winged Parrot\" (\"Neophema chrysostoma\")? Output your numerical estimate and nothing else.",
+        "response": "93",
+        "correct_answers": 125.4
+    },
+    "3616_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Spinifex Pigeon\" (\"Geophaps plumifera\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 68.1
+    },
+    "5286_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Square-tailed Kite\" (\"Lophoictinia isura\")? Output your numerical estimate and nothing else.",
+        "response": "285 \n",
+        "correct_answers": 224.2
+    },
+    "13471_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Buff-rumped Thornbill\" (\"Acanthiza reguloides\")? Output your numerical estimate and nothing else.",
+        "response": "38",
+        "correct_answers": 38.9
+    },
+    "9613_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Plain Mountain-Finch\" (\"Leucosticte nemoricola\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 63.0
+    },
+    "116877_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black-capped Donacobius\" (\"Donacobius atricapilla\")? Output your numerical estimate and nothing else.",
+        "response": "110 \n",
+        "correct_answers": 98.5
+    },
+    "5167_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Montagu's Harrier\" (\"Circus pygargus\")? Output your numerical estimate and nothing else.",
+        "response": "190 \n",
+        "correct_answers": 224.8
+    },
+    "73174_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Rufous-winged Sparrow\" (\"Peucaea carpalis\")? Output your numerical estimate and nothing else.",
+        "response": "68.5 \n",
+        "correct_answers": 64.2
+    },
+    "8478_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Tufted Jay\" (\"Cyanocorax dickeyi\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 161.2
+    },
+    "980013_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Buff-breasted Paradise Kingfisher\" (\"Tanysiptera sylvia\")? Output your numerical estimate and nothing else.",
+        "response": "200 \n",
+        "correct_answers": 157.8
+    },
+    "17090_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Eared Pygmy-Tyrant\" (\"Myiornis auricularis\")? Output your numerical estimate and nothing else.",
+        "response": "35",
+        "correct_answers": 27.5
+    },
+    "13927_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Long-tailed Finch\" (\"Poephila acuticauda\")? Output your numerical estimate and nothing else.",
+        "response": "120 \n",
+        "correct_answers": 84.9
+    },
+    "1789_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Pied Cuckoo\" (\"Clamator jacobinus\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 160.8
+    },
+    "145085_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Indian Blackbird\" (\"Turdus simillimus\")? Output your numerical estimate and nothing else.",
+        "response": "75 \n",
+        "correct_answers": 102.2
+    },
+    "201233_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Italian Sparrow\" (\"Passer italiae\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 56.0
+    },
+    "69696_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Chestnut-capped Blackbird\" (\"Chrysomus ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 66.4
+    },
+    "3780_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Gray-breasted Seedsnipe\" (\"Thinocorus orbignyianus\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 65.6
+    },
+    "12735_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Mistle Thrush\" (\"Turdus viscivorus\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 111.8
+    },
+    "12231_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Noisy Miner\" (\"Manorina melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "90 \n",
+        "correct_answers": 121.3
+    },
+    "204544_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-winged Snowfinch\" (\"Montifringilla nivalis\")? Output your numerical estimate and nothing else.",
+        "response": "67",
+        "correct_answers": 69.6
+    },
+    "20343_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Brown Fish-Owl\" (\"Ketupa zeylonensis\")? Output your numerical estimate and nothing else.",
+        "response": "300 \n",
+        "correct_answers": 187.5
+    },
+    "7072_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Paradise Shelduck\" (\"Tadorna variegata\")? Output your numerical estimate and nothing else.",
+        "response": "100 \n",
+        "correct_answers": 131.0
+    },
+    "12910_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Pied Bushchat\" (\"Saxicola caprata\")? Output your numerical estimate and nothing else.",
+        "response": "60 \n",
+        "correct_answers": 51.5
+    },
+    "1360_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Spotted Wood-Quail\" (\"Odontophorus guttatus\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 65.6
+    },
+    "2079_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Speckled Chachalaca\" (\"Ortalis guttata\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 214.5
+    },
+    "12832_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-crowned Wheatear\" (\"Oenanthe leucopyga\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 70.1
+    },
+    "13087_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Slaty-backed Forktail\" (\"Enicurus schistaceus\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 121.0
+    },
+    "4756_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Turkey Vulture\" (\"Cathartes aura\")? Output your numerical estimate and nothing else.",
+        "response": "280 \n",
+        "correct_answers": 244.0
+    },
+    "8912_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Blue Cotinga\" (\"Cotinga nattererii\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 76.8
+    },
+    "10212_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Sooty-capped Chlorospingus\" (\"Chlorospingus pileatus\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 58.8
+    },
+    "117214_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Secretarybird\" (\"Sagittarius serpentarius\")? Output your numerical estimate and nothing else.",
+        "response": "610 \n",
+        "correct_answers": 551.8
+    },
+    "15922_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Dot-winged Antwren\" (\"Microrhopias quixensis\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 52.7
+    },
+    "18217_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Yellow-fronted Woodpecker\" (\"Melanerpes flavifrons\")? Output your numerical estimate and nothing else.",
+        "response": "68.5 \n",
+        "correct_answers": 69.5
+    },
+    "13092_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"White-crowned Forktail\" (\"Enicurus leschenaulti\")? Output your numerical estimate and nothing else.",
+        "response": "80 \n",
+        "correct_answers": 97.2
+    },
+    "2413_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Laughing Kookaburra\" (\"Dacelo novaeguineae\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 153.1
+    },
+    "5288_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black-breasted Kite\" (\"Hamirostra melanosternon\")? Output your numerical estimate and nothing else.",
+        "response": "290 \n",
+        "correct_answers": 233.0
+    },
+    "1656_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Madagascar Coucal\" (\"Centropus toulou\")? Output your numerical estimate and nothing else.",
+        "response": "290 \n",
+        "correct_answers": 245.8
+    },
+    "117139_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Spot-flanked Barbet\" (\"Tricholaema lacrymosa\")? Output your numerical estimate and nothing else.",
+        "response": "60 \n",
+        "correct_answers": 40.5
+    },
+    "7486_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Rock Wren\" (\"Salpinctes obsoletus\")? Output your numerical estimate and nothing else.",
+        "response": "58 \n",
+        "correct_answers": 55.6
+    },
+    "19893_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Barred Owl\" (\"Strix varia\")? Output your numerical estimate and nothing else.",
+        "response": "190 \n",
+        "correct_answers": 218.3
+    },
+    "14301_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Blue-backed Manakin\" (\"Chiroxiphia pareola\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 34.4
+    },
+    "14881_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Long-tailed Mockingbird\" (\"Mimus longicaudatus\")? Output your numerical estimate and nothing else.",
+        "response": "130 \n",
+        "correct_answers": 139.6
+    },
+    "11945_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Brown-throated Martin\" (\"Riparia paludicola\")? Output your numerical estimate and nothing else.",
+        "response": "45 \n",
+        "correct_answers": 49.0
+    },
+    "4726_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Yellow-headed Caracara\" (\"Milvago chimachima\")? Output your numerical estimate and nothing else.",
+        "response": "240 \n",
+        "correct_answers": 198.4
+    },
+    "12716_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Eurasian Blackbird\" (\"Turdus merula\")? Output your numerical estimate and nothing else.",
+        "response": "95 \n",
+        "correct_answers": 106.3
+    },
+    "7938_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Common Iora\" (\"Aegithina tiphia\")? Output your numerical estimate and nothing else.",
+        "response": "55",
+        "correct_answers": 47.8
+    },
+    "203153_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Great Tit\" (\"Parus major\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 61.2
+    },
+    "10717_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Yellow Cardinal\" (\"Gubernatrix cristata\")? Output your numerical estimate and nothing else.",
+        "response": "65",
+        "correct_answers": 95.4
+    },
+    "14069_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Red-browed Finch\" (\"Neochmia temporalis\")? Output your numerical estimate and nothing else.",
+        "response": "45 \n",
+        "correct_answers": 48.4
+    },
+    "11114_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Sharp-tailed Streamcreeper\" (\"Lochmias nematura\")? Output your numerical estimate and nothing else.",
+        "response": "68",
+        "correct_answers": 49.8
+    },
+    "3681_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Crested Pigeon\" (\"Ocyphaps lophotes\")? Output your numerical estimate and nothing else.",
+        "response": "285 \n",
+        "correct_answers": 134.4
+    },
+    "793144_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Yellow-bellied Fairy-Fantail\" (\"Chelidorhynx hypoxanthus\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 57.9
+    },
+    "2988_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Red-eyed Dove\" (\"Streptopelia semitorquata\")? Output your numerical estimate and nothing else.",
+        "response": "90 \n",
+        "correct_answers": 120.2
+    },
+    "15052_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Arrow-marked Babbler\" (\"Turdoides jardineii\")? Output your numerical estimate and nothing else.",
+        "response": "190 \n",
+        "correct_answers": 100.2
+    },
+    "10227_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Indigo Bunting\" (\"Passerina cyanea\")? Output your numerical estimate and nothing else.",
+        "response": "63",
+        "correct_answers": 48.9
+    },
+    "8006_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Cape Crow\" (\"Corvus capensis\")? Output your numerical estimate and nothing else.",
+        "response": "180 \n",
+        "correct_answers": 164.7
+    },
+    "4537_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black Noddy\" (\"Anous minutus\")? Output your numerical estimate and nothing else.",
+        "response": "86 \n",
+        "correct_answers": 114.0
+    },
+    "10274_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Black-headed Grosbeak\" (\"Pheucticus melanocephalus\")? Output your numerical estimate and nothing else.",
+        "response": "65 \n",
+        "correct_answers": 72.8
+    },
+    "7920_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Rufous Whistler\" (\"Pachycephala rufiventris\")? Output your numerical estimate and nothing else.",
+        "response": "63",
+        "correct_answers": 66.6
+    },
+    "3658_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Topknot Pigeon\" (\"Lopholaimus antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "76 \n",
+        "correct_answers": 193.4
+    },
+    "4609_tail length": {
+        "question": "Could you please provide an estimate of the tail length (measured in millimeters) for the species \"Egyptian Plover\" (\"Pluvianus aegyptius\")? Output your numerical estimate and nothing else.",
+        "response": "70 \n",
+        "correct_answers": 58.0
+    },
+    "2248_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-fronted Bee-eater\" (\"Merops bullockoides\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 34.8
+    },
+    "3326_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Blue-spotted Wood-Dove\" (\"Turtur afer\")? Output your numerical estimate and nothing else.",
+        "response": "50",
+        "correct_answers": 65.6
+    },
+    "13442_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Cape Sugarbird\" (\"Promerops cafer\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 34.7
+    },
+    "3941_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black Turnstone\" (\"Arenaria melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "85",
+        "correct_answers": 126.2
+    },
+    "20907_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Painted Buttonquail\" (\"Turnix varius\")? Output your numerical estimate and nothing else.",
+        "response": "85",
+        "correct_answers": 90.2
+    },
+    "979677_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Tickell's Blue Flycatcher\" (\"Cyornis tickelliae\")? Output your numerical estimate and nothing else.",
+        "response": "11",
+        "correct_answers": 16.2
+    },
+    "8399_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Chinspot Batis\" (\"Batis molitor\")? Output your numerical estimate and nothing else.",
+        "response": "12",
+        "correct_answers": 11.6
+    },
+    "6362_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Scintillant Hummingbird\" (\"Selasphorus scintilla\")? Output your numerical estimate and nothing else.",
+        "response": "2.5",
+        "correct_answers": 2.2
+    },
+    "144242_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Iberian Green Woodpecker\" (\"Picus sharpei\")? Output your numerical estimate and nothing else.",
+        "response": "150",
+        "correct_answers": 176.0
+    },
+    "7044_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Ring-necked Duck\" (\"Aythya collaris\")? Output your numerical estimate and nothing else.",
+        "response": "812.5 \n",
+        "correct_answers": 704.6
+    },
+    "9236_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"European Serin\" (\"Serinus serinus\")? Output your numerical estimate and nothing else.",
+        "response": "12",
+        "correct_answers": 11.2
+    },
+    "4504_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Atlantic Puffin\" (\"Fratercula arctica\")? Output your numerical estimate and nothing else.",
+        "response": "400 \n",
+        "correct_answers": 593.0
+    },
+    "14157_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Southern Scrub Robin\" (\"Drymodes brunneopygia\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 33.0
+    },
+    "17619_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Golden-tailed Woodpecker\" (\"Campethera abingoni\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 67.5
+    },
+    "15705_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-browed Tit-Warbler\" (\"Leptopoecile sophiae\")? Output your numerical estimate and nothing else.",
+        "response": "8",
+        "correct_answers": 6.9
+    },
+    "5312_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Pallas's Fish-Eagle\" (\"Haliaeetus leucoryphus\")? Output your numerical estimate and nothing else.",
+        "response": "1800",
+        "correct_answers": 2885.9
+    },
+    "1224_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Stone Partridge\" (\"Ptilopachus petrosus\")? Output your numerical estimate and nothing else.",
+        "response": "250",
+        "correct_answers": 193.0
+    },
+    "73547_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Madagascar Hoopoe\" (\"Upupa marginata\")? Output your numerical estimate and nothing else.",
+        "response": "82.5 \n",
+        "correct_answers": 66.9
+    },
+    "9611_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black Rosy-Finch\" (\"Leucosticte atrata\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 25.2
+    },
+    "495992_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Gray-breasted Spurfowl\" (\"Pternistis rufopictus\")? Output your numerical estimate and nothing else.",
+        "response": "1000",
+        "correct_answers": 706.1
+    },
+    "7057_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Canvasback\" (\"Aythya valisineria\")? Output your numerical estimate and nothing else.",
+        "response": "1250 \n",
+        "correct_answers": 1202.0
+    },
+    "5430_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\")? Output your numerical estimate and nothing else.",
+        "response": "250",
+        "correct_answers": 278.9
+    },
+    "558609_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black-throated Canary\" (\"Crithagra atrogularis\")? Output your numerical estimate and nothing else.",
+        "response": "12.5",
+        "correct_answers": 11.4
+    },
+    "8081_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-browed Woodswallow\" (\"Artamus superciliosus\")? Output your numerical estimate and nothing else.",
+        "response": "38",
+        "correct_answers": 35.5
+    },
+    "8916_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Bare-necked Fruitcrow\" (\"Gymnoderus foetidus\")? Output your numerical estimate and nothing else.",
+        "response": "180",
+        "correct_answers": 275.5
+    },
+    "515243_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Golden-fronted Greenlet\" (\"Pachysylvia aurantiifrons\")? Output your numerical estimate and nothing else.",
+        "response": "9.2",
+        "correct_answers": 9.5
+    },
+    "9491_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Lined Seedeater\" (\"Sporophila lineola\")? Output your numerical estimate and nothing else.",
+        "response": "9.5",
+        "correct_answers": 9.8
+    },
+    "10090_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black-hooded Sierra-Finch\" (\"Phrygilus atriceps\")? Output your numerical estimate and nothing else.",
+        "response": "28",
+        "correct_answers": 24.3
+    },
+    "979725_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Yellow-throated Bush Sparrow\" (\"Gymnoris superciliaris\")? Output your numerical estimate and nothing else.",
+        "response": "12",
+        "correct_answers": 24.0
+    },
+    "13808_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Sakalava Weaver\" (\"Ploceus sakalava\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 23.8
+    },
+    "73078_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\")? Output your numerical estimate and nothing else.",
+        "response": "125",
+        "correct_answers": 117.0
+    },
+    "20836_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Narina Trogon\" (\"Apaloderma narina\")? Output your numerical estimate and nothing else.",
+        "response": "104",
+        "correct_answers": 67.7
+    },
+    "10070_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Common Chaffinch\" (\"Fringilla coelebs\")? Output your numerical estimate and nothing else.",
+        "response": "20",
+        "correct_answers": 23.8
+    },
+    "10438_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Cinnamon Tanager\" (\"Schistochlamys ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 31.2
+    },
+    "831_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Gray Partridge\" (\"Perdix perdix\")? Output your numerical estimate and nothing else.",
+        "response": "400 \n",
+        "correct_answers": 405.3
+    },
+    "54549_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Chinstrap Penguin\" (\"Pygoscelis antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "4000",
+        "correct_answers": 4146.1
+    },
+    "15750_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Fasciated Antshrike\" (\"Cymbilaimus lineatus\")? Output your numerical estimate and nothing else.",
+        "response": "35",
+        "correct_answers": 35.8
+    },
+    "145187_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-breasted Sunbird\" (\"Cinnyris talatala\")? Output your numerical estimate and nothing else.",
+        "response": "8.1",
+        "correct_answers": 8.1
+    },
+    "10290_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black-crowned Palm-Tanager\" (\"Phaenicophilus palmarum\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 30.5
+    },
+    "18880_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Blue-winged Parrot\" (\"Neophema chrysostoma\")? Output your numerical estimate and nothing else.",
+        "response": "40",
+        "correct_answers": 46.1
+    },
+    "3616_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Spinifex Pigeon\" (\"Geophaps plumifera\")? Output your numerical estimate and nothing else.",
+        "response": "110 \n",
+        "correct_answers": 94.3
+    },
+    "5286_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Square-tailed Kite\" (\"Lophoictinia isura\")? Output your numerical estimate and nothing else.",
+        "response": "350",
+        "correct_answers": 579.4
+    },
+    "13471_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Buff-rumped Thornbill\" (\"Acanthiza reguloides\")? Output your numerical estimate and nothing else.",
+        "response": "8.5",
+        "correct_answers": 7.7
+    },
+    "9613_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Plain Mountain-Finch\" (\"Leucosticte nemoricola\")? Output your numerical estimate and nothing else.",
+        "response": "23.5",
+        "correct_answers": 22.5
+    },
+    "116877_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black-capped Donacobius\" (\"Donacobius atricapilla\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 36.8
+    },
+    "5167_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Montagu's Harrier\" (\"Circus pygargus\")? Output your numerical estimate and nothing else.",
+        "response": "300 \n",
+        "correct_answers": 310.8
+    },
+    "73174_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Rufous-winged Sparrow\" (\"Peucaea carpalis\")? Output your numerical estimate and nothing else.",
+        "response": "14",
+        "correct_answers": 15.3
+    },
+    "8478_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Tufted Jay\" (\"Cyanocorax dickeyi\")? Output your numerical estimate and nothing else.",
+        "response": "110",
+        "correct_answers": 181.0
+    },
+    "980013_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Buff-breasted Paradise Kingfisher\" (\"Tanysiptera sylvia\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 49.6
+    },
+    "17090_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Eared Pygmy-Tyrant\" (\"Myiornis auricularis\")? Output your numerical estimate and nothing else.",
+        "response": "6.5",
+        "correct_answers": 5.3
+    },
+    "13927_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Long-tailed Finch\" (\"Poephila acuticauda\")? Output your numerical estimate and nothing else.",
+        "response": "13",
+        "correct_answers": 14.0
+    },
+    "1789_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Pied Cuckoo\" (\"Clamator jacobinus\")? Output your numerical estimate and nothing else.",
+        "response": "100 \n",
+        "correct_answers": 79.4
+    },
+    "145085_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Indian Blackbird\" (\"Turdus simillimus\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 102.7
+    },
+    "201233_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Italian Sparrow\" (\"Passer italiae\")? Output your numerical estimate and nothing else.",
+        "response": "27.5 \n",
+        "correct_answers": 28.3
+    },
+    "69696_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Chestnut-capped Blackbird\" (\"Chrysomus ruficapillus\")? Output your numerical estimate and nothing else.",
+        "response": "38",
+        "correct_answers": 32.0
+    },
+    "3780_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Gray-breasted Seedsnipe\" (\"Thinocorus orbignyianus\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 115.0
+    },
+    "12735_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Mistle Thrush\" (\"Turdus viscivorus\")? Output your numerical estimate and nothing else.",
+        "response": "114",
+        "correct_answers": 117.4
+    },
+    "12231_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Noisy Miner\" (\"Manorina melanocephala\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 60.2
+    },
+    "204544_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-winged Snowfinch\" (\"Montifringilla nivalis\")? Output your numerical estimate and nothing else.",
+        "response": "35",
+        "correct_answers": 36.9
+    },
+    "20343_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Brown Fish-Owl\" (\"Ketupa zeylonensis\")? Output your numerical estimate and nothing else.",
+        "response": "1100 \n",
+        "correct_answers": 1105.0
+    },
+    "7072_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Paradise Shelduck\" (\"Tadorna variegata\")? Output your numerical estimate and nothing else.",
+        "response": "1100 \n",
+        "correct_answers": 1541.0
+    },
+    "12910_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Pied Bushchat\" (\"Saxicola caprata\")? Output your numerical estimate and nothing else.",
+        "response": "20",
+        "correct_answers": 15.2
+    },
+    "1360_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Spotted Wood-Quail\" (\"Odontophorus guttatus\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 303.8
+    },
+    "2079_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Speckled Chachalaca\" (\"Ortalis guttata\")? Output your numerical estimate and nothing else.",
+        "response": "500",
+        "correct_answers": 547.7
+    },
+    "12832_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-crowned Wheatear\" (\"Oenanthe leucopyga\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 27.9
+    },
+    "13087_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Slaty-backed Forktail\" (\"Enicurus schistaceus\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 31.0
+    },
+    "4756_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Turkey Vulture\" (\"Cathartes aura\")? Output your numerical estimate and nothing else.",
+        "response": "1814.37",
+        "correct_answers": 1518.2
+    },
+    "8912_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Blue Cotinga\" (\"Cotinga nattererii\")? Output your numerical estimate and nothing else.",
+        "response": "70",
+        "correct_answers": 57.2
+    },
+    "10212_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Sooty-capped Chlorospingus\" (\"Chlorospingus pileatus\")? Output your numerical estimate and nothing else.",
+        "response": "25",
+        "correct_answers": 21.0
+    },
+    "117214_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Secretarybird\" (\"Sagittarius serpentarius\")? Output your numerical estimate and nothing else.",
+        "response": "3700 \n",
+        "correct_answers": 4017.0
+    },
+    "15922_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Dot-winged Antwren\" (\"Microrhopias quixensis\")? Output your numerical estimate and nothing else.",
+        "response": "8.5",
+        "correct_answers": 7.9
+    },
+    "18217_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Yellow-fronted Woodpecker\" (\"Melanerpes flavifrons\")? Output your numerical estimate and nothing else.",
+        "response": "82.5",
+        "correct_answers": 57.8
+    },
+    "13092_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"White-crowned Forktail\" (\"Enicurus leschenaulti\")? Output your numerical estimate and nothing else.",
+        "response": "40",
+        "correct_answers": 33.8
+    },
+    "2413_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Laughing Kookaburra\" (\"Dacelo novaeguineae\")? Output your numerical estimate and nothing else.",
+        "response": "390 \n",
+        "correct_answers": 333.8
+    },
+    "5288_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black-breasted Kite\" (\"Hamirostra melanosternon\")? Output your numerical estimate and nothing else.",
+        "response": "500 \n",
+        "correct_answers": 1196.0
+    },
+    "1656_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Madagascar Coucal\" (\"Centropus toulou\")? Output your numerical estimate and nothing else.",
+        "response": "115",
+        "correct_answers": 166.4
+    },
+    "117139_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Spot-flanked Barbet\" (\"Tricholaema lacrymosa\")? Output your numerical estimate and nothing else.",
+        "response": "60",
+        "correct_answers": 22.9
+    },
+    "7486_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Rock Wren\" (\"Salpinctes obsoletus\")? Output your numerical estimate and nothing else.",
+        "response": "13.5",
+        "correct_answers": 16.4
+    },
+    "19893_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Barred Owl\" (\"Strix varia\")? Output your numerical estimate and nothing else.",
+        "response": "750",
+        "correct_answers": 711.5
+    },
+    "14301_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Blue-backed Manakin\" (\"Chiroxiphia pareola\")? Output your numerical estimate and nothing else.",
+        "response": "18",
+        "correct_answers": 16.8
+    },
+    "14881_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Long-tailed Mockingbird\" (\"Mimus longicaudatus\")? Output your numerical estimate and nothing else.",
+        "response": "47",
+        "correct_answers": 66.6
+    },
+    "11945_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Brown-throated Martin\" (\"Riparia paludicola\")? Output your numerical estimate and nothing else.",
+        "response": "9.5",
+        "correct_answers": 13.5
+    },
+    "4726_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Yellow-headed Caracara\" (\"Milvago chimachima\")? Output your numerical estimate and nothing else.",
+        "response": "400 \n",
+        "correct_answers": 315.2
+    },
+    "12716_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Eurasian Blackbird\" (\"Turdus merula\")? Output your numerical estimate and nothing else.",
+        "response": "98",
+        "correct_answers": 102.7
+    },
+    "7938_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Common Iora\" (\"Aegithina tiphia\")? Output your numerical estimate and nothing else.",
+        "response": "9.0",
+        "correct_answers": 12.0
+    },
+    "203153_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Great Tit\" (\"Parus major\")? Output your numerical estimate and nothing else.",
+        "response": null,
+        "correct_answers": 16.3
+    },
+    "10717_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Yellow Cardinal\" (\"Gubernatrix cristata\")? Output your numerical estimate and nothing else.",
+        "response": "35",
+        "correct_answers": 47.6
+    },
+    "14069_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Red-browed Finch\" (\"Neochmia temporalis\")? Output your numerical estimate and nothing else.",
+        "response": "11",
+        "correct_answers": 11.4
+    },
+    "11114_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Sharp-tailed Streamcreeper\" (\"Lochmias nematura\")? Output your numerical estimate and nothing else.",
+        "response": "20",
+        "correct_answers": 22.0
+    },
+    "3681_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Crested Pigeon\" (\"Ocyphaps lophotes\")? Output your numerical estimate and nothing else.",
+        "response": "300",
+        "correct_answers": 204.0
+    },
+    "793144_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Yellow-bellied Fairy-Fantail\" (\"Chelidorhynx hypoxanthus\")? Output your numerical estimate and nothing else.",
+        "response": "10",
+        "correct_answers": 6.0
+    },
+    "2988_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Red-eyed Dove\" (\"Streptopelia semitorquata\")? Output your numerical estimate and nothing else.",
+        "response": "150",
+        "correct_answers": 176.0
+    },
+    "15052_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Arrow-marked Babbler\" (\"Turdoides jardineii\")? Output your numerical estimate and nothing else.",
+        "response": "80",
+        "correct_answers": 78.2
+    },
+    "10227_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Indigo Bunting\" (\"Passerina cyanea\")? Output your numerical estimate and nothing else.",
+        "response": "14.5",
+        "correct_answers": 14.7
+    },
+    "8006_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Cape Crow\" (\"Corvus capensis\")? Output your numerical estimate and nothing else.",
+        "response": "425 \n",
+        "correct_answers": 553.0
+    },
+    "4537_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black Noddy\" (\"Anous minutus\")? Output your numerical estimate and nothing else.",
+        "response": "95",
+        "correct_answers": 112.4
+    },
+    "10274_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Black-headed Grosbeak\" (\"Pheucticus melanocephalus\")? Output your numerical estimate and nothing else.",
+        "response": "47",
+        "correct_answers": 47.1
+    },
+    "7920_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Rufous Whistler\" (\"Pachycephala rufiventris\")? Output your numerical estimate and nothing else.",
+        "response": "30",
+        "correct_answers": 22.5
+    },
+    "3658_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Topknot Pigeon\" (\"Lopholaimus antarcticus\")? Output your numerical estimate and nothing else.",
+        "response": "450",
+        "correct_answers": 496.4
+    },
+    "4609_mass": {
+        "question": "Could you please provide an estimate of the mass (measured in grams) for the species \"Egyptian Plover\" (\"Pluvianus aegyptius\")? Output your numerical estimate and nothing else.",
+        "response": "45",
+        "correct_answers": 82.0
+    }
+}

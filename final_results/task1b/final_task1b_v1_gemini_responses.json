@@ -1,0 +1,1602 @@
+{
+    "19284": {
+        "question": "Can you tell me if the \"Swift Parrot\" (\"Lathamus discolor\") can be found in the following countries:\n\nBenin\nPhilippines\nMyanmar\nIsle of Man\nHungary\nR\u00e9union\nAzerbaijan\nBelgium\nAustralia\nNamibia\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores for the presence of the Swift Parrot (\"Lathamus discolor\") in each country:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 1, 0] \n```\n\n**Explanation:**\n\nThe Swift Parrot is **endemic to Australia**. This means it is found naturally **only** in Australia and nowhere else in the world. Therefore, Australia receives a score of 1, and all other countries receive a score of 0. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "13270": {
+        "question": "Can you tell me if the \"Wood Thrush\" (\"Hylocichla mustelina\") can be found in the following countries:\n\nBahamas\nCosta Rica\nVenezuela (Bolivarian Republic of)\nSaint Pierre and Miquelon\nHaiti\nIreland\nPeru\nEcuador\nPuerto Rico\nSpain\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding a Wood Thrush in each country, based on its known range:\n\n```python\n[0.1, 0.9, 0.2, 0, 0.1, 0, 0.7, 0.8, 0.1, 0] \n```\n\n**Explanation of Scores:**\n\n* **Bahamas (0.1):**  Possible vagrant, but not within their typical range.\n* **Costa Rica (0.9):**  Wood Thrushes winter extensively in Costa Rica.\n* **Venezuela (0.2):**  Northern Venezuela is within their wintering range, but less common than further north.\n* **Saint Pierre and Miquelon (0):**  Too far north, outside their normal range.\n* **Haiti (0.1):**  Possible vagrant, but not a primary wintering area.\n* **Ireland (0):**  Significantly outside their normal range.\n* **Peru (0.7):**  Wood Thrushes winter in eastern Peru.\n* **Ecuador (0.8):**  A consistent wintering ground for the species.\n* **Puerto Rico (0.1):**  Possible but uncommon vagrant.\n* **Spain (0):**  Far outside their natural range. \n",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "10717": {
+        "question": "Can you tell me if the \"Yellow Cardinal\" (\"Gubernatrix cristata\") can be found in the following countries:\n\nUruguay\nParaguay\nFrench Guiana\nChile\nBolivia (Plurinational State Of)\nPeru\nGuyana\nBrazil\nArgentina\nVenezuela (Bolivarian Republic of)\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Yellow Cardinal (\"Gubernatrix cristata\") in each country, based on its known range:\n\n```python\n[0.9, 0.8, 0, 0.1, 0.2, 0, 0, 0.6, 1, 0.1] \n```\n\n**Explanation of Scores:**\n\n* **Uruguay (0.9):** High likelihood. Uruguay is a core part of the Yellow Cardinal's range.\n* **Paraguay (0.8):** High likelihood.  Paraguay is within the species' known distribution.\n* **French Guiana (0), Chile (0.1), Peru (0), Guyana (0):** Very unlikely to absent. These countries are outside the Yellow Cardinal's typical range.\n* **Bolivia (0.2):** Low likelihood. There might be some marginal overlap with the species' range in extreme southern Bolivia.\n* **Brazil (0.6):** Moderate likelihood. The Yellow Cardinal is found in southern Brazil.\n* **Argentina (1):** Very high likelihood. Argentina represents a stronghold for the species.\n* **Venezuela (0.1):** Low likelihood.  While not impossible, it's on the extreme edge of any potential range expansion. \n\n**Important Note:** This is a simplified representation based on general knowledge. Bird distributions can be complex and change due to factors like habitat loss and conservation efforts. For the most accurate and up-to-date information, consult ornithological resources and range maps. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "32944": {
+        "question": "Can you tell me if the \"Eastern Cape Dwarf Chameleon\" (\"Bradypodion ventrale\") can be found in the following countries:\n\nNamibia\nMarshall Islands\nSouth Africa\nUnited Kingdom of Great Britain and Northern Ireland\nLesotho\nBotswana\nEswatini\nGreece\nZimbabwe\nMozambique\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the \"Eastern Cape Dwarf Chameleon\" in each country:\n\n```python\n[0, 0, 1, 0, 0.7, 0, 0.8, 0, 0.2, 0] \n```\n\n**Explanation:**\n\n* **Namibia (0):**  Too far west, outside the known range.\n* **Marshall Islands (0):**  Island nation in the Pacific Ocean, far outside the chameleon's natural habitat.\n* **South Africa (1):**  This is where the Eastern Cape Dwarf Chameleon is primarily found.\n* **United Kingdom (0):**  Not native and climate unsuitable.\n* **Lesotho (0.7):**  Borders South Africa and could have some overlap in range, though less likely than Eswatini.\n* **Botswana (0):**  Too far north and west of the known range.\n* **Eswatini (0.8):**  Borders South Africa in the east, making it highly likely to have the species.\n* **Greece (0):**  Mediterranean climate, not suitable for this chameleon.\n* **Zimbabwe (0.2):**  Borders South Africa, but the Eastern Cape Dwarf Chameleon's range is unlikely to extend that far north.\n* **Mozambique (0):**  Too far north of the known range. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "39579": {
+        "question": "Can you tell me if the \"Indian Flapshell Turtle\" (\"Lissemys punctata\") can be found in the following countries:\n\nIndia\nPakistan\nNepal\nIran (Islamic Republic of)\nBhutan\nAfghanistan\nBangladesh\nChina\nLao People's Democratic Republic\nMyanmar\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood scores of finding the Indian Flapshell Turtle (\"Lissemys punctata\") in the countries you listed:\n\n```python\n[1, 0.8, 0.9, 0.1, 0.7, 0, 1, 0.2, 0.3, 0.4] \n```\n\n**Explanation of Scores:**\n\n* **India (1):**  The Indian Flapshell Turtle is native to and widespread in India.\n* **Pakistan (0.8):**  Found in the Indus River basin, which extends into Pakistan.\n* **Nepal (0.9):**  Common in the Terai region of Nepal, bordering India.\n* **Iran (0.1):**  Highly unlikely. The range of the Indian Flapshell Turtle does not extend to Iran.\n* **Bhutan (0.7):**  Likely present in southern Bhutan, which shares similar habitats with neighboring India and Nepal.\n* **Afghanistan (0):**  Not found in Afghanistan. Its range doesn't extend that far west.\n* **Bangladesh (1):**  Widespread and common in Bangladesh, particularly in the Ganges delta.\n* **China (0.2):**  Found only in a very small area of southern Tibet, hence the low score.\n* **Lao People's Democratic Republic (0.3):**  Possible but less likely. There might be some overlap in range in the very northernmost parts of Laos.\n* **Myanmar (0.4):**  Possible presence in the northwestern regions of Myanmar, bordering India and Bangladesh.\n\n**Important Note:** These scores are based on the known distribution of the species and habitat suitability.  The actual presence in specific locations within a country can vary. \n",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "27123": {
+        "question": "Can you tell me if the \"Cave Salamander\" (\"Eurycea lucifuga\") can be found in the following countries:\n\nCanada\nCambodia\nPitcairn\nSpain\nHungary\nEritrea\nUnited States of America\nCook Islands\nMexico\nPortugal\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Cave Salamander (\"Eurycea lucifuga\") in each country:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **Cave Salamanders are endemic to a specific region of the United States.** This means they are naturally found only in that area and nowhere else in the world. \n* **The other countries listed are geographically distant and have vastly different climates and habitats.** It's highly improbable for a cave-dwelling salamander native to the US to exist in these locations.\n\n**Therefore, only the United States receives a score of 1, while all other countries receive a score of 0.** \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "43339": {
+        "question": "Can you tell me if the \"Gr\u00e9vy's Zebra\" (\"Equus grevyi\") can be found in the following countries:\n\nEritrea\nEthiopia\nSomalia\nSudan\nKenya\nSouth Sudan\nLibya\nEgypt\nUganda\nTanzania (the United Republic of)\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of Gr\u00e9vy's Zebra presence in the countries you listed, based on current knowledge of their range:\n\n```python\n[0.8, 1, 0.2, 0.1, 1, 0.1, 0, 0, 0, 0] \n```\n\n**Explanation of the Scores:**\n\n* **Eritrea (0.8):** Historically present, and while numbers are low, there are ongoing conservation efforts.\n* **Ethiopia (1):**  A primary stronghold for the species.\n* **Somalia (0.2):**  Historically present, but current status is uncertain due to security and political instability.\n* **Sudan (0.1):**  Historically present in the very southeast, but highly unlikely now.\n* **Kenya (1):**  A primary stronghold for the species.\n* **South Sudan (0.1):**  Possible historical presence in the far east, but highly unlikely now.\n* **Libya (0):**  Not part of their known range.\n* **Egypt (0):**  Not part of their known range.\n* **Uganda (0):**  Not part of their known range.\n* **Tanzania (0):**  Not part of their known range. \n\n**Important Note:** These scores are estimations based on available information. The actual presence and distribution of Gr\u00e9vy's Zebra can be fluid due to factors like habitat change, poaching, and conservation efforts. \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "42888": {
+        "question": "Can you tell me if the \"Eastern Grey Kangaroo\" (\"Macropus giganteus\") can be found in the following countries:\n\nIreland\nVirgin Islands, British\nIran, Islamic Republic of\nBermuda\nMozambique\nTanzania, United Republic of\nSaudi Arabia\nAustralia\nNamibia\nGreenland\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, keeping in mind that Eastern Grey Kangaroos are native to eastern Australia:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 1, 0, 0] \n```\n\n**Explanation:**\n\n* **Australia:** Eastern Grey Kangaroos are highly populous in eastern Australia, so the score is 1.\n* **All other countries:** These countries are geographically far from Australia and have vastly different climates. It's extremely unlikely for Eastern Grey Kangaroos to be found in these locations, hence a score of 0 for each. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "74831": {
+        "question": "Can you tell me if the \"Snow Leopard\" (\"Panthera uncia\") can be found in the following countries:\n\nMongolia\nBhutan\nKazakhstan\nNepal\nIran (Islamic Republic of)\nEstonia\nBangladesh\nTurkmenistan\nKyrgyzstan\nLao People's Democratic Republic\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "```python\n[0.9, 0.8, 0.9, 0.9, 0.3, 0.0, 0.0, 0.9, 1.0, 0.2]\n``` \n",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "135104": {
+        "question": "Can you tell me if the \"Alpine Newt\" (\"Ichthyosaura alpestris\") can be found in the following countries:\n\nIreland\nLithuania\nAustria\nDenmark\nBulgaria\nHungary\nSpain\nMoldova (the Republic of)\nMorocco\nTurkey\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores for the Alpine Newt's presence in each country, formatted as a Python list:\n\n```python\n[0, 0.2, 1, 0, 0.8, 1, 0.9, 0.3, 0, 0.6] \n```\n\n**Explanation:**\n\n* **Ireland (0):**  Alpine Newts are definitively not found in Ireland. Their range is primarily continental Europe.\n* **Lithuania (0.2):**  While Alpine Newts are found in nearby Poland, Lithuania represents the very northeastern edge of their potential range.  Presence is unlikely.\n* **Austria (1):** Austria is a stronghold for Alpine Newts, with suitable alpine and sub-alpine habitats.\n* **Denmark (0):**  Alpine Newts are not found in Denmark. Their range doesn't extend that far north.\n* **Bulgaria (0.8):** Bulgaria, particularly its mountainous regions, offers suitable habitat, making the presence of Alpine Newts highly likely.\n* **Hungary (1):** Hungary falls well within the core range of the Alpine Newt.\n* **Spain (0.9):**  Alpine Newts are found in the Pyrenees Mountains of northern Spain, making their presence highly likely, though not as widespread as in central Europe.\n* **Moldova (0.3):**  Moldova is on the very eastern edge of the Alpine Newt's potential range. Presence is possible but less likely.\n* **Morocco (0):**  Alpine Newts are a European species and are not found in Africa.\n* **Turkey (0.6):**  Turkey represents a more complex case. While parts of northern Turkey have suitable habitat, the presence of Alpine Newts is less certain and would likely be limited to specific regions. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "180009": {
+        "question": "Can you tell me if the \"Cascade Golden-mantled Ground Squirrel\" (\"Callospermophilus saturatus\") can be found in the following countries:\n\nMexico\nEritrea\nCanada\nUnited States of America\nTaiwan, Province of China\nAngola\nAntigua and Barbuda\nSaint Vincent and the Grenadines\nArgentina\nLibya.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Cascade Golden-mantled Ground Squirrel in each country:\n\n```python\n[0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]\n```\n\n**Explanation:**\n\n* **Canada and the United States:** The Cascade Golden-mantled Ground Squirrel is native to the Cascade Mountain region of these two countries. Hence, the score is 1.0.\n* **All other countries:** This species is not found in any other part of the world. Therefore, the score is 0.0 for all other countries. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "42228": {
+        "question": "Can you tell me if the \"Marsh Deer\" (\"Blastocerus dichotomus\") can be found in the following countries:\n\nBolivia, Plurinational State of\nArgentina\nPeru\nUruguay\nBrazil\nSuriname\nFrench Guiana\nEcuador\nVenezuela (Bolivarian Republic of)\nChile.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of Marsh Deer presence in each country, based on current knowledge of their distribution:\n\n```python\n[0.8, 0.9, 0.1, 0.7, 1, 0.2, 0.2, 0.0, 0.4, 0.0]\n```\n\n**Explanation of Scores:**\n\n* **Bolivia (0.8):** Known to occur, particularly in the Pantanal region.\n* **Argentina (0.9):**  Strong presence, especially in the Iber\u00e1 Wetlands.\n* **Peru (0.1):**  Highly unlikely.  Their range barely extends into extreme eastern Peru if at all.\n* **Uruguay (0.7):**  Present, but in limited numbers.\n* **Brazil (1):**  The heartland of their range, particularly the Pantanal and Araguaia River floodplains.\n* **Suriname (0.2):**  Possible marginal occurrence, but records are scarce.\n* **French Guiana (0.2):**  Similar to Suriname, possible but with limited evidence.\n* **Ecuador (0.0):**  Not found in this region.\n* **Venezuela (0.4):**  Historically present, but current status is uncertain.\n* **Chile (0.0):**  Not found in this region. \n",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "42138": {
+        "question": "Can you tell me if the \"Bushpig\" (\"Potamochoerus larvatus\") can be found in the following countries:\n\nTanzania, United Republic of\nZimbabwe\nEritrea\nZambia\nSudan\nCentral African Republic\nLesotho\nDjibouti\nSouth Africa\nSouth Sudan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of Bushpig presence in each country, based on known distribution:\n\n```python\n[0.8, 0.9, 0.0, 0.7, 0.4, 0.2, 0.0, 0.0, 1.0, 0.6] \n```\n\n**Explanation of Scores:**\n\n* **Tanzania (0.8):**  Bushpigs are common in Tanzania.\n* **Zimbabwe (0.9):** Bushpigs are widespread and common in Zimbabwe.\n* **Eritrea (0.0):**  Eritrea is outside the known range of Bushpigs.\n* **Zambia (0.7):** Bushpigs are found throughout much of Zambia.\n* **Sudan (0.4):** Bushpigs are present in southern parts of Sudan, but less common further north.\n* **Central African Republic (0.2):**  Bushpigs are found in the southernmost tips of CAR, but are not common.\n* **Lesotho (0.0):** Lesotho is outside the known range of Bushpigs.\n* **Djibouti (0.0):** Djibouti is outside the known range of Bushpigs.\n* **South Africa (1.0):** Bushpigs are abundant throughout South Africa.\n* **South Sudan (0.6):** Bushpigs are present in South Sudan, particularly in the southern regions. \n",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "43561": {
+        "question": "Can you tell me if the \"Southern Lesser Galago\" (\"Galago moholi\") can be found in the following countries:\n\nNamibia\nCongo, The Democratic Republic of the\nZimbabwe\nSouth Sudan\nTanzania (the United Republic of)\nLesotho\nAngola\nBotswana\nUganda\nZambia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Southern Lesser Galago (\"Galago moholi\") in each country, based on its known range:\n\n```python\n[0.8, 0.2, 0.9, 0.1, 0.3, 0, 0.4, 0.9, 0.1, 0.7] \n```\n\n**Explanation of Scores:**\n\n* **Namibia (0.8):** High likelihood. Southern Lesser Galagos are common in northern Namibia.\n* **DRC (0.2):** Low likelihood. Their range extends slightly into southern DRC, but they are not common.\n* **Zimbabwe (0.9):** Very high likelihood.  Zimbabwe is a core part of their distribution.\n* **South Sudan (0.1):** Very low likelihood.  Significantly outside their known range.\n* **Tanzania (0.3):** Low likelihood.  They might be found in extreme southern Tanzania, but it's unlikely.\n* **Lesotho (0):** No likelihood. Lesotho is outside their habitat range.\n* **Angola (0.4):** Moderate likelihood.  They are found in southern Angola.\n* **Botswana (0.9):** Very high likelihood. Botswana is a core part of their distribution.\n* **Uganda (0.1):** Very low likelihood.  Significantly outside their known range.\n* **Zambia (0.7):** High likelihood.  Zambia falls within their known distribution. \n\n**Important Note:** This is a simplified representation based on general knowledge.  For precise distribution data, refer to scientific literature and range maps from reputable sources. \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "43593": {
+        "question": "Can you tell me if the \"Lar Gibbon\" (\"Hylobates lar\") can be found in the following countries:\n\nViet Nam\nCambodia\nMalaysia\nLao People's Democratic Republic\nChina\nMyanmar\nAfghanistan\nThailand\nMacao\nBrunei Darussalam.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding Lar Gibbons in the countries you listed, based on known distribution data:\n\n```python\n[0.8, 0.9, 1, 1, 0.4, 1, 0, 1, 0, 0] \n```\n\n**Explanation of the Scores:**\n\n* **Vietnam, Cambodia, Laos, Myanmar, Thailand:** These are all within the core range of the Lar Gibbon, hence the high scores (0.8-1).\n* **Malaysia:** While Lar Gibbons are found in Malaysia, their range is more restricted to the Malay Peninsula. Still, a high likelihood (1) is appropriate.\n* **China:** Lar Gibbons are found in a small area of southwestern Yunnan province in China, making their presence less likely than in other countries on the list (0.4).\n* **Afghanistan, Brunei Darussalam, Macao:** These countries are outside the known range of the Lar Gibbon, hence the score of 0. \n\n**Important Note:** This is a simplified representation based on general knowledge.  For precise distribution data and conservation status, it's crucial to consult up-to-date scientific resources and range maps from organizations like the IUCN. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "44395": {
+        "question": "Can you tell me if the \"White-footed Mouse\" (\"Peromyscus leucopus\") can be found in the following countries:\n\nT\u00fcrkiye\nUnited States of America\nMexico\nUnited States Minor Outlying Islands\nCanada\nNew Zealand\nGuatemala\nBelize\nAustria\nFalkland Islands (Malvinas).\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the White-footed Mouse (\"Peromyscus leucopus\") in each country, based on its known North American distribution:\n\n```python\n[0, 1, 1, 0, 1, 0, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **United States:**  White-footed mice are very common throughout the USA. (1)\n* **Mexico:** Their range extends into parts of Mexico. (1)\n* **Canada:** They are also found in parts of southern Canada. (1)\n* **T\u00fcrkiye, United States Minor Outlying Islands, New Zealand, Guatemala, Belize, Austria, Falkland Islands (Malvinas):** These locations are outside the native range of the White-footed Mouse. (0) \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "45997": {
+        "question": "Can you tell me if the \"Deppe's Squirrel\" (\"Sciurus deppei\") can be found in the following countries:\n\nUnited States of America\nCroatia\nPanama\nCosta Rica\nUnited States Minor Outlying Islands\nNicaragua\nGermany\nBelize\nHonduras\nMexico.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Deppe's Squirrel (\"Sciurus deppei\") in each country:\n\n```python\n[0, 0, 1, 1, 0, 1, 0, 1, 1, 1]\n```\n\nHere's how the list corresponds to your countries:\n\n* **United States of America:** 0 (Deppe's Squirrel is not native to the US)\n* **Croatia:** 0 (Not found in Europe)\n* **Panama:** 1 (Native and common)\n* **Costa Rica:** 1 (Native and common)\n* **United States Minor Outlying Islands:** 0 (Not suitable habitat)\n* **Nicaragua:** 1 (Part of its natural range)\n* **Germany:** 0 (Not found in Europe)\n* **Belize:** 1 (Northern part of its range)\n* **Honduras:** 1 (Part of its natural range)\n* **Mexico:** 1 (Southern Mexico is part of its range) \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "47014": {
+        "question": "Can you tell me if the \"Eastern Mole\" (\"Scalopus aquaticus\") can be found in the following countries:\n\nSouth Africa\nChad\nTajikistan\nGuatemala\nMexico\nSomalia\nCanada\nUnited States of America\nSaint Kitts and Nevis\nBelize.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, based on the known range of the Eastern Mole being restricted to eastern North America:\n\n```python\n[0, 0, 0, 0, 0.1, 0, 0.9, 1, 0, 0] \n```\n\n**Explanation:**\n\n* **South Africa, Chad, Tajikistan, Guatemala, Somalia, Saint Kitts and Nevis, Belize:** These countries are geographically far outside the Eastern Mole's known range. Score: 0 (very unlikely).\n\n* **Mexico:** While unlikely, there's a slight chance of finding Eastern Moles in extreme northeastern Mexico, as their range extends into far southern Texas. Score: 0.1 (very low likelihood).\n\n* **Canada:** Eastern Moles are found in parts of southeastern Canada. Score: 0.9 (high likelihood).\n\n* **United States of America:** This is the heart of the Eastern Mole's range. Score: 1 (very likely). \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "41676": {
+        "question": "Can you tell me if the \"Ringtail\" (\"Bassariscus astutus\") can be found in the following countries:\n\nEritrea\nGuatemala\nUnited States of America\nTimor-Leste\nCanada\nMexico\nEquatorial Guinea\nBelize\nSaint Helena, Ascension and Tristan da Cunha\nPortugal.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Ringtail's presence in each country:\n\n* **Eritrea (0):**  Eritrea is in East Africa, far outside the Ringtail's known range.\n* **Guatemala (1):** Guatemala is within the Ringtail's natural range in Central America.\n* **United States of America (1):** The southwestern United States is a core part of the Ringtail's range.\n* **Timor-Leste (0):** Timor-Leste is in Southeast Asia, far outside the Ringtail's range.\n* **Canada (0):** While southern Canada has some similar climates to the Ringtail's range, they are not found that far north.\n* **Mexico (1):** Mexico is within the Ringtail's natural range.\n* **Equatorial Guinea (0):** Equatorial Guinea is in Central Africa, far outside the Ringtail's range.\n* **Belize (1):** Belize is within the Ringtail's natural range in Central America.\n* **Saint Helena, Ascension and Tristan da Cunha (0):** These islands are in the South Atlantic, far outside the Ringtail's range.\n* **Portugal (0):** Portugal is in Europe, far outside the Ringtail's range.\n\nHere's the Python list representing these likelihoods:\n\n```python\n[0, 1, 1, 0, 0, 1, 0, 1, 0, 0]\n``` \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "43523": {
+        "question": "Can you tell me if the \"Grivet\" (\"Chlorocebus aethiops\") can be found in the following countries:\n\nCentral African Republic\nDjibouti\nSudan\nCongo (the Democratic Republic of the)\nChad\nEthiopia\nLibya\nUganda\nSouth Sudan\nEritrea.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of Grivet presence in the specified countries, based on their known range:\n\n```python\n[0.8, 0.9, 0.7, 0.9, 0.6, 1, 0, 1, 0.9, 1] \n```\n\n**Explanation of Scores:**\n\n* **Central African Republic (0.8):**  Grivets are found in the savanna regions, and while CAR has some, the dense rainforest might limit their range.\n* **Djibouti (0.9):**  High likelihood due to suitable dry and semi-arid terrain.\n* **Sudan (0.7):**  Present, but distribution might be limited by the Sahara Desert in the north.\n* **Democratic Republic of the Congo (0.9):**  High likelihood in the eastern savanna regions.\n* **Chad (0.6):**  Possible presence in the southern regions, but the Sahara in the north limits their range.\n* **Ethiopia (1):**  Ethiopia is a stronghold for Grivets with extensive suitable habitat.\n* **Libya (0):**  The Sahara Desert makes Libya unsuitable for Grivets.\n* **Uganda (1):**  Uganda has ideal habitats for Grivets, and they are common.\n* **South Sudan (0.9):**  High likelihood due to suitable savanna and woodland areas.\n* **Eritrea (1):**  Eritrea has suitable habitat and is within their known range. \n\n**Important Note:** This is a simplified assessment based on general knowledge.  For precise distribution data, refer to detailed range maps and scientific literature. \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "41888": {
+        "question": "Can you tell me if the \"Striped Hyaena\" (\"Hyaena hyaena\") can be found in the following countries:\n\nAzerbaijan\nBhutan\nGreece\nIsrael\nCote d\u2019Ivoire\nKyrgyzstan\nAlgeria\nAfghanistan\nCongo\nEgypt.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of Striped Hyena presence in each country, based on current distribution maps and knowledge:\n\n```python\n[0.8, 0.0, 0.1, 0.9, 0.0, 0.2, 1.0, 0.9, 0.0, 0.9] \n```\n\n**Explanation:**\n\n* **Azerbaijan (0.8):**  Historically present, with potential for small, remnant populations.\n* **Bhutan (0.0):**  Outside the known range; no evidence of presence.\n* **Greece (0.1):**  Historically present, but now considered possibly extinct. Very unlikely to encounter.\n* **Israel (0.9):**  Known to exist; conservation efforts are ongoing.\n* **Cote d\u2019Ivoire (0.0):**  Not found in this part of Africa.\n* **Kyrgyzstan (0.2):**  At the edge of their historical range; presence is uncertain and unlikely, but possible.\n* **Algeria (1.0):**  Still found in decent numbers within the country.\n* **Afghanistan (0.9):**  Known to be present, though numbers are likely low.\n* **Congo (0.0):**  Striped Hyenas are not found in Central Africa.\n* **Egypt (0.9):**  Present, though facing threats and potentially declining. \n\n**Important Note:** This is a simplified representation. Actual presence can fluctuate due to various factors like habitat change, human activity, and ongoing research. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "46256": {
+        "question": "Can you tell me if the \"Harris' Antelope Squirrel\" (\"Ammospermophilus harrisii\") can be found in the following countries:\n\nFrance\nBarbados\nMexico\nUnited States of America\nBelize\nUnited Kingdom of Great Britain and Northern Ireland\nPitcairn\nGuatemala\nCanada\nFiji.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, based on the known range of Harris' Antelope Squirrels:\n\n```python\n[0, 0, 1, 1, 0, 0, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **France, Barbados, United Kingdom, Pitcairn, Fiji:** These are geographically distant from the squirrel's known range and have very different ecosystems. Likelihood is essentially zero.\n* **Belize, Guatemala, Canada:** While closer to the squirrel's range, these countries are outside of its known distribution. There might be a tiny chance of a vagrant individual, but it's highly unlikely. \n* **Mexico, United States of America:**  Harris' Antelope Squirrels are native to the southwestern United States and parts of Mexico.  \n\n**Important Note:** This is a simplified assessment.  Factors like habitat suitability within a country can influence actual presence. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "423656": {
+        "question": "Can you tell me if the \"Pampas Fox\" (\"Lycalopex gymnocerca\") can be found in the following countries:\n\nBrazil\nChile\nGuyana\nArgentina\nFrench Guiana\nBolivia, Plurinational State of\nPeru\nParaguay\nColombia\nUruguay.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of Pampas Fox presence in each country:\n\n```python\n[0.9, 0.2, 0.0, 1.0, 0.0, 0.8, 0.1, 0.9, 0.0, 1.0] \n```\n\n**Explanation of the scores:**\n\n* **Brazil (0.9):** High likelihood. The Pampas fox is found in southern and central Brazil, overlapping significantly with the Pampas grasslands.\n* **Chile (0.2):** Low likelihood. While some sources might mention Chile, the Pampas fox's range barely extends into the easternmost edge of Chile, making its presence unlikely in most of the country.\n* **Guyana (0.0):** Very unlikely. Guyana's rainforest habitat is unsuitable for the Pampas fox.\n* **Argentina (1.0):** Very high likelihood. Argentina encompasses a large portion of the Pampas grasslands, the Pampas fox's namesake and core habitat.\n* **French Guiana (0.0):** Very unlikely. Similar to Guyana, French Guiana's rainforest environment is unsuitable.\n* **Bolivia (0.8):** High likelihood. The Pampas fox is found in eastern Bolivia, particularly in areas bordering the Pampas region.\n* **Peru (0.1):** Very low likelihood. The Pampas fox's range might extend slightly into extreme southern Peru, but its presence is highly unlikely in most of the country.\n* **Paraguay (0.9):** High likelihood. The Pampas fox is found throughout much of Paraguay, including the Chaco region, which shares similarities with the Pampas.\n* **Colombia (0.0):** Very unlikely. Colombia's geography and ecosystems are far from the Pampas fox's natural range.\n* **Uruguay (1.0):** Very high likelihood. Uruguay, along with Argentina, represents a core area of the Pampas fox's distribution. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "1369291": {
+        "question": "Can you tell me if the \"Mara\u00f1\u00f3n white-fronted capuchin\" (\"Cebus yuracus\") can be found in the following countries:\n\nVenezuela (Bolivarian Republic of)\nSolomon Islands\nPanama\nColombia\nEcuador\nBrazil\nChile\nPeru\nBolivia (Plurinational State Of)\nMauritania.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores for the Mara\u00f1\u00f3n white-fronted capuchin (\"Cebus yuracus\") presence, along with the reasoning:\n\n**Species Distribution:** The Mara\u00f1\u00f3n white-fronted capuchin is found in a specific region of South America.\n\n* **Venezuela (Bolivarian Republic of):** 0.1 - While Venezuela has capuchin species, the Mara\u00f1\u00f3n white-fronted capuchin's range is more southwesterly. There might be a slight chance of overlap in the extreme southwest.\n* **Solomon Islands:** 0 - Capuchin monkeys are New World primates, not found in the Oceania region.\n* **Panama:** 0 -  Panama is too far north of the known range.\n* **Colombia:** 0.2 -  The southernmost tip of Colombia might touch the very edge of the species' range, making presence unlikely but slightly possible.\n* **Ecuador:** 1 -  Ecuador is within the core range of the Mara\u00f1\u00f3n white-fronted capuchin.\n* **Brazil:** 0.1 -  Similar to Venezuela, a tiny sliver of northwestern Brazil might be within the species' range, but it's unlikely.\n* **Chile:** 0 - Chile is too far south.\n* **Peru:** 1 -  Peru is within the core range of the Mara\u00f1\u00f3n white-fronted capuchin, particularly around the Mara\u00f1\u00f3n River basin.\n* **Bolivia (Plurinational State Of):** 0.3 -  Northern Bolivia likely falls within the range of the Mara\u00f1\u00f3n white-fronted capuchin.\n* **Mauritania:** 0 -  Mauritania is in Africa, far outside the natural range of any capuchin species.\n\n**Python List:**\n\n```python\n[0.1, 0, 0, 0.2, 1, 0.1, 0, 1, 0.3, 0] \n``` \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "180008": {
+        "question": "Can you tell me if the \"Rock Squirrel\" (\"Otospermophilus variegatus\") can be found in the following countries:\n\nR\u00e9union\nGeorgia\nFrench Southern Territories\nVanuatu\nGuatemala\nMexico\nSlovakia\nUnited States of America\nBelize\nCanada.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores for the presence of the Rock Squirrel (\"Otospermophilus variegatus\") in the countries you listed:\n\n```python\n[0, 0, 0, 0, 0.1, 1, 0, 1, 0.8, 0] \n```\n\n**Explanation:**\n\n* **R\u00e9union, Georgia, French Southern Territories, Vanuatu, Slovakia, Canada:** These locations are geographically far from the known range of the Rock Squirrel, making their presence highly unlikely. Hence, a score of 0.\n\n* **Guatemala and Belize:** While these countries are in Central America, the Rock Squirrel's range typically extends to southern Mexico. There might be a slight chance of their presence in bordering regions, hence a score of 0.1 for Guatemala and 0.8 for Belize (closer to Mexico).\n\n* **Mexico and the United States of America:** These countries represent the core range of the Rock Squirrel, making their presence highly likely. Hence, a score of 1. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "180001": {
+        "question": "Can you tell me if the \"Arctic Ground Squirrel\" (\"Urocitellus parryii\") can be found in the following countries:\n\nMexico\nUnited States of America\nRussian Federation\nChina\nAzerbaijan\nFinland\nKorea (Democratic People's Republic of)\nCanada\nEstonia\nKazakhstan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Arctic Ground Squirrel in each country:\n\n```python\n[0, # Mexico\n 1, # United States of America (Alaska)\n 1, # Russian Federation (Siberia)\n 0, # China \n 0, # Azerbaijan\n 0, # Finland\n 0, # Korea (Democratic People's Republic of)\n 1, # Canada \n 0, # Estonia\n 1] # Kazakhstan \n```\n\n**Explanation:**\n\n* **Arctic Ground Squirrels** are primarily found in the Arctic and Subarctic regions of North America and Eurasia. \n* They are present in **Alaska (USA), Canada, Russia (Siberia), and Kazakhstan**.\n\nLet me know if you have any other species distribution questions! \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "44282": {
+        "question": "Can you tell me if the \"Field Vole\" (\"Microtus agrestis\") can be found in the following countries:\n\nNorth Macedonia\nFrance\nMontenegro\nLao People's Democratic Republic\nHungary\nBulgaria\nKorea (Democratic People's Republic of)\nMongolia\nKyrgyzstan\nCroatia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "```python\n[0.9, 1, 0.9, 0, 1, 0.9, 0, 0.2, 0.1, 0.9]\n``` \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "42278": {
+        "question": "Can you tell me if the \"Impala\" (\"Aepyceros melampus\") can be found in the following countries:\n\nBotswana\nBurundi\nCongo (the Democratic Republic of the)\nNamibia\nNamibia\nTanzania, United Republic of\nKenya\nEquatorial Guinea\nSouth Sudan\nSomalia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of Impala presence in the countries you listed, based on known distribution:\n\n```python\n[1, 0, 1, 1, 1, 1, 1, 0, 1, 0.2] \n```\n\n**Explanation:**\n\n* **Botswana (1):** Impala are common in Botswana.\n* **Burundi (0):** Impala are not found in Burundi. Their range doesn't extend that far east.\n* **Congo (DRC) (1):** Impala are found in the southern parts of the Democratic Republic of Congo.\n* **Namibia (1):** Impala are common in Namibia.\n* **Tanzania (1):** Impala are widespread in Tanzania.\n* **Kenya (1):** Impala are very common in Kenya.\n* **Equatorial Guinea (0):** Impala are not found in Equatorial Guinea. Their range is restricted to Southern and East Africa.\n* **South Sudan (1):** Impala are found in South Sudan.\n* **Somalia (0.2):** While impala are not typically found in Somalia, there are small, isolated populations in the very south, hence the low but non-zero score. \n\n**Important Note:** This is a simplified representation. Species distribution can be influenced by factors like habitat availability and human impact, which can vary within a country. \n",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "42223": {
+        "question": "Can you tell me if the \"White-tailed Deer\" (\"Odocoileus virginianus\") can be found in the following countries:\n\nHonduras\nGermany\nBrazil\nSweden\nHungary\nFinland\nBolivia (Plurinational State Of)\nRussian Federation\nMexico\nCzechia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of White-tailed Deer presence in each country:\n\n```python\n[0.9, 0, 0, 0, 0, 0.1, 0.2, 0, 0.9, 0] \n```\n\n**Explanation:**\n\n* **Honduras, Mexico:** High likelihood (0.9) - White-tailed deer are common throughout Central America.\n* **Germany, Brazil, Sweden, Hungary, Finland, Czechia:** Very unlikely (0) -  White-tailed deer are native to North and Central America. These countries are in Europe or South America.\n* **Bolivia:** Low likelihood (0.2) - While white-tailed deer are not native to South America, there might be extremely isolated instances due to human introduction, though unlikely to be self-sustaining populations.\n* **Russian Federation:** Very low likelihood (0.1) -  Eastern Siberia shares a similar biome with parts of the white-tailed deer's range. While highly improbable, there's a minuscule chance of a tiny, introduced population. \n\n**Important Note:** This is a simplified assessment based on general knowledge.  For accurate information, consult a detailed distribution map or a wildlife expert. \n",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "46010": {
+        "question": "Can you tell me if the \"Red-tailed Squirrel\" (\"Sciurus granatensis\") can be found in the following countries:\n\nPanama\nTrinidad and Tobago\nGuyana\nNamibia\nEcuador\nNicaragua\nColombia\nBrazil\nPeru\nVenezuela, Bolivarian Republic of.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Red-tailed Squirrel (\"Sciurus granatensis\") in each country:\n\n```python\n[1, 0, 0, 0, 1, 1, 1, 0, 1, 1]\n```\n\n**Explanation:**\n\n* **Panama, Ecuador, Nicaragua, Colombia, Peru, Venezuela:** The Red-tailed Squirrel is native to these countries and commonly found within their borders. Hence, they receive a score of 1.\n* **Trinidad and Tobago, Guyana, Brazil:** These countries are outside the known range of the Red-tailed Squirrel. Therefore, they receive a score of 0.\n* **Namibia:** This country is in southern Africa, far outside the natural habitat of the Red-tailed Squirrel, which is found in Central and South America. It receives a score of 0. \n",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "43567": {
+        "question": "Can you tell me if the \"Brown Greater Galago\" (\"Otolemur crassicaudatus\") can be found in the following countries:\n\nEthiopia\nUganda\nCongo, The Democratic Republic of the\nBotswana\nSomalia\nKenya\nMozambique\nTanzania, United Republic of\nCongo\nZimbabwe.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Brown Greater Galago (\"Otolemur crassicaudatus\") in each country:\n\n```python\n[0.0, 0.9, 0.9, 1.0, 0.0, 1.0, 1.0, 1.0, 0.9, 1.0] \n```\n\n**Explanation of Scores:**\n\n* **Ethiopia (0.0):**  Brown Greater Galagos are not found this far north.\n* **Uganda (0.9):**  Highly likely. They are common in Uganda's forests.\n* **Democratic Republic of the Congo (0.9):** Highly likely.  A significant portion of their range falls within the DRC's forests.\n* **Botswana (1.0):**  Very likely. Botswana is a core part of their southern African range.\n* **Somalia (0.0):**  Not found in Somalia. Their range doesn't extend that far east.\n* **Kenya (1.0):**  Very likely. Kenya represents a central part of their East African range.\n* **Mozambique (1.0):** Very likely.  Mozambique is within their southeastern African distribution.\n* **Tanzania (1.0):** Very likely. Tanzania is a core country for the species.\n* **Republic of the Congo (0.9):** Highly likely.  They are found in the Republic of the Congo's forests.\n* **Zimbabwe (1.0):** Very likely. Zimbabwe is well within their southern range. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "41180": {
+        "question": "Can you tell me if the \"Hairy-legged Vampire Bat\" (\"Diphylla ecaudata\") can be found in the following countries:\n\nParaguay\nMexico\nUnited States of America\nArgentina\nVenezuela, Bolivarian Republic of\nCosta Rica\nFrench Guiana\nUruguay\nGuyana\nEl Salvador.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "```python\n[0.9, 0.8, 0.1, 0.7, 0.9, 0.7, 0.6, 0.3, 0.6, 0.6]\n``` \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "31226": {
+        "question": "Can you tell me if the \"Painted Dragon\" (\"Ctenophorus pictus\") can be found in the following countries:\n\nBritish Indian Ocean Territory\nMalawi\nAustralia\nBolivia, Plurinational State of\nAruba\nIreland\nColombia\nDominican Republic\nSyrian Arab Republic\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Painted Dragon lizard (\"Ctenophorus pictus\") being present in each country, formatted as a Python list:\n\n```python\n[0, 0, 1, 0, 0, 0, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **Australia (1):** The Painted Dragon is *native to and common within Australia*. This is its primary habitat.\n* **All other countries (0):** The Painted Dragon is not naturally found in any of the other listed countries. These countries represent a diverse range of environments and continents where the Painted Dragon's specific habitat needs wouldn't be met. \n\n**Important Note:** While highly unlikely, it's remotely possible for an isolated introduced population to exist due to the pet trade. However, there's no scientific evidence to suggest this is the case for the Painted Dragon in any of the listed countries except its native Australia. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "539913": {
+        "question": "Can you tell me if the \"Southern Angle-Headed Dragon\" (\"Lophosaurus spinipes\") can be found in the following countries:\n\nAustralia\nAlgeria\nNamibia\nSouth Sudan\nNicaragua\nFalkland Islands (Malvinas)\nLithuania\nIndia\nTunisia\nAmerican Samoa.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Southern Angle-Headed Dragon in each country:\n\n```python\n[1, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\n**Explanation:**\n\nThe Southern Angle-Headed Dragon (\"Lophosaurus spinipes\") is **endemic to Australia**. This means it is only found in Australia and nowhere else in the world.  Therefore, the likelihood score for Australia is 1, and 0 for all other countries. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "528911": {
+        "question": "Can you tell me if the \"Robust Velvet Gecko\" (\"Nebulifera robusta\") can be found in the following countries:\n\nCayman Islands\nMarshall Islands\nBelgium\nBelize\nNamibia\nMalta\nBurundi\nAustralia\nC\u00f4te d'Ivoire\nMayotte.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can determine the likelihood of finding the Robust Velvet Gecko (\"Nebulifera robusta\") in those countries:\n\n* **Key Fact:** The Robust Velvet Gecko is **endemic to Mauritius**, meaning it's found naturally only in that country.\n\n* **Therefore:** The likelihood of finding it in any other country is extremely low, practically zero, unless it was introduced through human activities (which is unlikely for this species).\n\nWith this in mind, here's the Python list of likelihood scores:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 0] \n``` \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "33061": {
+        "question": "Can you tell me if the \"Karoo Girdled Lizard\" (\"Karusasaurus polyzonus\") can be found in the following countries:\n\nEswatini\nNamibia\nBotswana\nLesotho\nZimbabwe\nSouth Africa\nMozambique\nNamibia\nPoland\nLiberia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Karoo Girdled Lizard (\"Karusasaurus polyzonus\") presence in each country:\n\n```python\n[0.0, # Eswatini \n 0.8, # Namibia\n 0.3, # Botswana\n 0.1, # Lesotho\n 0.2, # Zimbabwe\n 1.0, # South Africa\n 0.0, # Mozambique\n 0.8, # Namibia (duplicate)\n 0.0, # Poland\n 0.0] # Liberia\n```\n\n**Explanation:**\n\n* **South Africa:** The Karoo Girdled Lizard is endemic to South Africa, specifically the Karoo region, hence a score of 1.0.\n* **Namibia:**  Parts of Namibia share the Karoo ecosystem, making the presence of the lizard highly likely (0.8).\n* **Botswana:**  The Karoo region extends slightly into eastern Botswana, so there's a lower chance of finding the lizard there (0.3).\n* **Zimbabwe, Lesotho:** These countries are on the periphery of the Karoo's potential range, making the presence less likely (0.2 and 0.1 respectively).\n* **Eswatini, Mozambique, Poland, Liberia:** These countries have climates and ecosystems vastly different from the Karoo, making the presence of the Karoo Girdled Lizard highly improbable (0.0). \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "35854": {
+        "question": "Can you tell me if the \"Green Lizard\" (\"Lacerta viridis\") can be found in the following countries:\n\nRussian Federation\nItaly\nMontenegro\nCroatia\nHungary\nHoly See\nAustria\nGeorgia\nIraq\nSan Marino.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Green Lizard (\"Lacerta viridis\") in the countries you listed, based on its known distribution:\n\n```python\n[0.8, 1, 1, 1, 1, 1, 0.9, 0.2, 0, 1] \n```\n\n**Explanation of the scores:**\n\n* **Russian Federation (0.8):** Present in some southern regions bordering the Black Sea.\n* **Italy (1):** Widespread.\n* **Montenegro (1):** Common.\n* **Croatia (1):** Common.\n* **Hungary (1):** Common.\n* **Holy See (1):**  While a microstate within Rome, the Green Lizard is highly likely to be present within its limited green spaces.\n* **Austria (0.9):** Present in warmer, southern and eastern regions.\n* **Georgia (0.2):**  Distribution maps show a slight overlap in the very southwestern corner of Georgia, but it's not a primary habitat.\n* **Iraq (0):**  Outside the known range.\n* **San Marino (1):**  A microstate within Italy, where the species is common. \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "717903": {
+        "question": "Can you tell me if the \"Striped Racer\" (\"Masticophis lateralis\") can be found in the following countries:\n\nCanada\nTanzania, United Republic of\nFrench Southern Territories\nMontenegro\nSingapore\nAngola\nMexico\nBelize\nGuatemala\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, based on the known range of the Striped Racer:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 1] \n```\n\n**Explanation:**\n\n* **Canada (0):** Striped Racers are not found in Canada. Their range is limited to warmer regions further south.\n* **Tanzania (0):** Striped Racers are a North American species and are not found in Africa.\n* **French Southern Territories (0):** These islands are in the subantarctic and are not suitable habitat for Striped Racers.\n* **Montenegro (0):** Striped Racers are not found in Europe.\n* **Singapore (0):** Striped Racers are not found in Southeast Asia.\n* **Angola (0):** Striped Racers are not found in Africa.\n* **Mexico (1):** Striped Racers are found in parts of Mexico.\n* **Belize (0):** While close to known Striped Racer territory, Belize is generally considered outside their range.\n* **Guatemala (0):** Similar to Belize, Guatemala is generally considered outside their range.\n* **United States of America (1):** Striped Racers are native to the United States, particularly in the western and southwestern regions. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "318623": {
+        "question": "Can you tell me if the \"McCoy's Skink\" (\"Anepischetosia maccoyi\") can be found in the following countries:\n\nBosnia and Herzegovina\nComoros\nAustralia\nNamibia\nSan Marino\nKorea, Democratic People's Republic of\nBrazil\nTrinidad and Tobago\nKazakhstan\nMalaysia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding McCoy's Skink in each country:\n\n```python\n[0, 0, 1, 0, 0, 0, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **McCoy's Skink is endemic to Australia.** This means it is only found in Australia and nowhere else in the world. \n* Therefore, Australia gets a score of 1, and all other countries get a score of 0. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "33189": {
+        "question": "Can you tell me if the \"Eastern Stone Gecko\" (\"Diplodactylus vittatus\") can be found in the following countries:\n\nBenin\nBrazil\nGreenland\nBulgaria\nAustralia\nFaroe Islands\nCentral African Republic\nUruguay\nNamibia\nBangladesh.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Eastern Stone Gecko (\"Diplodactylus vittatus\") being present in each country, formatted as a Python list:\n\n```python\n[0, # Benin \n 0, # Brazil\n 0, # Greenland\n 0, # Bulgaria\n 1, # Australia \n 0, # Faroe Islands\n 0, # Central African Republic\n 0, # Uruguay\n 0, # Namibia\n 0] # Bangladesh \n```\n\n**Explanation:**\n\n* **Eastern Stone Geckos are native to Australia.**  Therefore, Australia receives a score of 1.\n* **All other countries listed are geographically distant from Australia and have very different climates.** It's highly improbable for the Eastern Stone Gecko to naturally occur in these locations. Hence, they all receive a score of 0. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30947": {
+        "question": "Can you tell me if the \"Vogel\u2019s Pit Viper\" (\"Trimeresurus vogeli\") can be found in the following countries:\n\nGuyana\nFrench Polynesia\nSlovenia\nCambodia\nChina\nThailand\nLao People's Democratic Republic\nMyanmar\nViet Nam\nMalaysia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores for the presence of Vogel's Pit Viper (\"Trimeresurus vogeli\") in the listed countries, formatted as a Python list:\n\n```python\n[0.0, 0.0, 0.0, 0.9, 0.9, 1.0, 0.9, 0.9, 1.0, 0.8] \n```\n\n**Explanation:**\n\n* **Guyana, French Polynesia, Slovenia:** These countries are geographically far outside the known range of Vogel's Pit Viper, which is Southeast Asia. Hence, the score is 0.0.\n\n* **Cambodia, China, Thailand, Laos, Myanmar, Vietnam:** These Southeast Asian countries fall within the typical distribution range of Vogel's Pit Viper, making its presence highly likely. Scores range from 0.9 to 1.0.\n\n* **Malaysia:** While Vogel's Pit Viper is common in neighboring Thailand and Vietnam, its presence in Malaysia is less documented. However, given the proximity and suitable habitat, a score of 0.8 reflects a good likelihood. \n\n**Important Note:** This is a simplified assessment based on general distribution knowledge.  For precise information, consult herpetological databases and research specific to Vogel's Pit Viper. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "36433": {
+        "question": "Can you tell me if the \"Gem Anole\" (\"Anolis gemmosus\") can be found in the following countries:\n\nNorthern Mariana Islands\nSouth Georgia and the South Sandwich Islands\nPanama\nBrazil\nCabo Verde\nVenezuela (Bolivarian Republic of)\nPoland\nColombia\nPeru\nEcuador.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, based on the known range of the Gem Anole:\n\n```python\n[0, 0, 1, 0, 0, 1, 0, 1, 0, 1] \n```\n\n**Explanation:**\n\n* **Gem Anoles are native to northwestern South America.** This includes Panama, Colombia, Venezuela, and Ecuador, hence the score of 1 for those countries.\n* **The other locations are geographically distant and outside the natural range of this species.**  Therefore, they are highly unlikely to host wild populations of Gem Anoles. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "108348": {
+        "question": "Can you tell me if the \"Western Foxsnake\" (\"Pantherophis ramspotti\") can be found in the following countries:\n\nDjibouti\nUganda\nMexico\nEgypt\nCanada\nTurkmenistan\nSouth Georgia and the South Sandwich Islands\nRwanda\nWallis and Futuna\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Western Foxsnake (\"Pantherophis ramspotti\") being found in each location, formatted as a Python list:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 1] \n```\n\n**Explanation:**\n\n* **Western Foxsnakes are exclusively found in North America, specifically a region within the United States.**  They are not native to any other continent. \n\nLet me know if you'd like to explore the range of another species! \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "29808": {
+        "question": "Can you tell me if the \"Gray-banded Kingsnake\" (\"Lampropeltis alterna\") can be found in the following countries:\n\nMexico\nJamaica\nSomalia\nCanada\nCayman Islands\nUnited States of America\nGuatemala\nBahamas\nEcuador\nBelize.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding a Gray-banded Kingsnake in each country:\n\n```python\n[1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0] \n```\n\n**Explanation:**\n\n* **Mexico (1.0):**  Gray-banded Kingsnakes are native to Mexico.\n* **United States (1.0):** They are also found in the southwestern United States.\n* **All other countries (0.0):**  Gray-banded Kingsnakes are not naturally found in Jamaica, Somalia, Canada, Cayman Islands, Guatemala, Bahamas, Ecuador, or Belize. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "539693": {
+        "question": "Can you tell me if the \"Yellow-bellied Liophis\" (\"Erythrolamprus poecilogyrus\") can be found in the following countries:\n\nUruguay\nArgentina\nBolivia, Plurinational State of\nArmenia\nPeru\nColombia\nGuyana\nChile\nSuriname\nCyprus.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores based on the known distribution of the Yellow-bellied Liophis (Erythrolamprus poecilogyrus):\n\n```python\n[0.8, 0.8, 0.2, 0.0, 0.0, 0.0, 0.6, 0.1, 0.7, 0.0] \n```\n\n**Explanation:**\n\n* **Uruguay & Argentina (0.8):**  The Yellow-bellied Liophis is well-documented in these countries.\n* **Bolivia (0.2):**  While possible, records are scarce and it's on the edge of their potential range.\n* **Armenia (0.0):**  This species is native to South America, making its presence in Armenia impossible.\n* **Peru (0.0):**  No records exist of this snake in Peru.\n* **Colombia (0.0):**  No records exist of this snake in Colombia.\n* **Guyana (0.6):**  Records exist, though distribution might be limited.\n* **Chile (0.1):**  Highly unlikely. Their range extends slightly into southern Argentina, making Chile improbable.\n* **Suriname (0.7):**  Records exist, and it's within their expected habitat.\n* **Cyprus (0.0):**  Similar to Armenia, this species is exclusive to South America. \n",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "33187": {
+        "question": "Can you tell me if the \"Northern Spiny-tailed Gecko\" (\"Strophurus ciliaris\") can be found in the following countries:\n\nKiribati\nMexico\nT\u00fcrkiye\nMozambique\nAlbania\nVanuatu\nAustralia\nNew Caledonia\nChile\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the \"Northern Spiny-tailed Gecko\" in each country:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 0] \n```\n\n**Explanation:**\n\nThe Northern Spiny-tailed Gecko (\"Strophurus ciliaris\") is **endemic to Australia**. This means it's only found in Australia and nowhere else naturally.  Therefore, the likelihood score for Australia is 1, and for all other countries, it's 0. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "539050": {
+        "question": "Can you tell me if the \"Yarar\u00e1 Lancehead\" (\"Bothrops jararaca\") can be found in the following countries:\n\nParaguay\nFrench Guiana\nPeru\nBolivia (Plurinational State Of)\nUruguay\nBrazil\nArgentina\nSuriname\nVenezuela (Bolivarian Republic of)\nGuyana.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the \"Yarar\u00e1 Lancehead\" (\"Bothrops jararaca\") in the countries you listed, based on its known distribution:\n\n```python\n[0.9, 0.2, 0.1, 0.8, 0.9, 1.0, 0.9, 0.2, 0.1, 0.2] \n```\n\n**Explanation of the scores:**\n\n* **High Likelihood (0.8 - 1.0):** The Yarar\u00e1 Lancehead is well-documented and common in **Brazil, Paraguay, Uruguay, and Argentina**. \n* **Medium Likelihood (0.5 - 0.7):**  Bolivia borders areas where the snake is found, so there's a moderate chance of its presence.\n* **Low Likelihood (0.1 - 0.4):** While unlikely, there could be isolated populations or misidentifications in **French Guiana, Suriname, Venezuela, and Guyana**. These countries are on the edge or slightly outside the snake's generally accepted range.\n\n**Important Note:** This is a simplified representation based on general knowledge.  Distributions can be affected by factors like habitat changes and incomplete data. Always consult local herpetological resources for the most accurate information. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "28557": {
+        "question": "Can you tell me if the \"Red-bellied Snake\" (\"Storeria occipitomaculata\") can be found in the following countries:\n\nMexico\nNicaragua\nSouth Sudan\nAmerican Samoa\nBahrain\nTonga\nCanada\nItaly\nUnited States of America\nZambia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Red-bellied Snake's presence in each country:\n\n* **Mexico:** Moderate likelihood. Found in some northern regions of Mexico. Score: **0.6**\n* **Nicaragua:** Low likelihood.  Red-bellied Snakes are a North American species and Nicaragua is too far south. Score: **0.1**\n* **South Sudan:** Extremely unlikely.  Red-bellied Snakes are a North American species. Score: **0.0**\n* **American Samoa:** Extremely unlikely.  Red-bellied Snakes are a North American species. Score: **0.0**\n* **Bahrain:** Extremely unlikely.  Red-bellied Snakes are a North American species. Score: **0.0**\n* **Tonga:** Extremely unlikely.  Red-bellied Snakes are a North American species. Score: **0.0**\n* **Canada:** High likelihood. Found throughout southeastern Canada. Score: **0.9**\n* **Italy:** Extremely unlikely.  Red-bellied Snakes are a North American species. Score: **0.0**\n* **United States of America:** Very high likelihood. Widely distributed across the eastern and central US. Score: **1.0**\n* **Zambia:** Extremely unlikely.  Red-bellied Snakes are a North American species. Score: **0.0**\n\nHere is the Python list of scores:\n\n```python\n[0.6, 0.1, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, 1.0, 0.0]\n``` \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "35430": {
+        "question": "Can you tell me if the \"Spiny-footed Lizard\" (\"Acanthodactylus erythrurus\") can be found in the following countries:\n\nTunisia\nLibya\nAndorra\nFrance\nGibraltar\nSpain\nAlgeria\nMorocco\nPortugal\nMauritania.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the \"Spiny-footed Lizard\" in each country, based on known distribution data:\n\n```python\n[1, # Tunisia\n 1, # Libya\n 0, # Andorra\n 0.1, # France (small introduced population)\n 1, # Gibraltar \n 1, # Spain\n 1, # Algeria\n 1, # Morocco\n 0.2, # Portugal (small southern population)\n 1] # Mauritania\n```\n\n**Explanation:**\n\n* **High Likelihood (1):** The Spiny-footed Lizard is common and widespread in North Africa and the Iberian Peninsula. \n* **Low Likelihood (0):** Andorra lacks the suitable habitat for this species.\n* **France and Portugal (0.1 and 0.2):** These countries have very limited, isolated populations, likely due to introductions. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "29976": {
+        "question": "Can you tell me if the \"Brown-banded watersnake\" (\"Helicops angulatus\") can be found in the following countries:\n\nUruguay\nPanama\nNamibia\nTrinidad and Tobago\nFrench Guiana\nColombia\nParaguay\nBolivia, Plurinational State of\nSuriname\nGuyana.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can determine the likelihood of finding the Brown-banded Watersnake (\"Helicops angulatus\") in the countries you listed:\n\n* **Understanding the Species:** The Brown-banded Watersnake is native to South America. \n* **Geographic Range:**  Its range typically includes parts of northern South America and some Caribbean islands.\n\nLet's apply this knowledge to score each country:\n\n* **Uruguay:**  Southern South America - **Unlikely (0.1)**\n* **Panama:** Central America - **Very Unlikely (0.0)**\n* **Namibia:** Southern Africa - **Impossible (0.0)**\n* **Trinidad and Tobago:** Caribbean Islands - **Possible (0.6)**\n* **French Guiana:** Northern South America - **Likely (0.8)**\n* **Colombia:** Northern South America - **Highly Likely (0.9)**\n* **Paraguay:** Central South America - **Unlikely (0.2)**\n* **Bolivia, Plurinational State of:** Central South America - **Unlikely (0.2)**\n* **Suriname:** Northern South America - **Likely (0.8)**\n* **Guyana:** Northern South America - **Likely (0.8)**\n\n**Python List Output:**\n\n```python\n[0.1, 0.0, 0.0, 0.6, 0.8, 0.9, 0.2, 0.2, 0.8, 0.8] \n``` \n\n**Important Note:** These scores are estimations based on general distribution knowledge. To confirm the presence of this snake in these countries, it's crucial to consult detailed herpetological resources and distribution maps. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "73823": {
+        "question": "Can you tell me if the \"Green Whip Snake\" (\"Hierophis viridiflavus\") can be found in the following countries:\n\nSan Marino\nHoly See\nGibraltar\nBelgium\nMontenegro\nFrance\nGreece\nItaly\nSwitzerland\nMalta.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the \"Green Whip Snake\" in each country, based on its known distribution:\n\n```python\n[0.1, 0.1, 0, 0, 0.8, 1, 1, 1, 0.7, 0.2] \n```\n\n**Explanation:**\n\n* **San Marino (0.1):**  While technically within the range of the species, San Marino is extremely small and landlocked within Italy. There's a slight chance.\n* **Holy See (0.1):** Similar to San Marino, Vatican City is tiny and within Rome. A very low probability.\n* **Gibraltar (0):**  Too far west, outside the natural range.\n* **Belgium (0):** Too far north, outside the natural range.\n* **Montenegro (0.8):**  Within the species' range and known to have suitable habitat.\n* **France (1):**  The Green Whip Snake is common in many parts of France.\n* **Greece (1):**  The species is widespread in Greece.\n* **Italy (1):**  Italy is a core part of the Green Whip Snake's range.\n* **Switzerland (0.7):**  Present in southern Switzerland, particularly areas bordering Italy.\n* **Malta (0.2):**  While geographically closer than some, Malta's island ecosystem and distance from the mainland make it less likely. \n\n**Important Note:** This is a simplified assessment based on general distribution knowledge.  Microclimates, habitat availability, and other factors can influence the presence of a species in specific locations. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "33297": {
+        "question": "Can you tell me if the \"Four-striped Bent-toed Gecko\" (\"Cyrtodactylus quadrivirgatus\") can be found in the following countries:\n\nCambodia\nThailand\nMyanmar\nTunisia\nSingapore\nIndonesia\nLao People's Democratic Republic\nNamibia\nBrunei Darussalam\nMalaysia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores and the reasoning behind them:\n\n* **Cambodia:** 1 -  Highly likely. Cyrtodactylus quadrivirgatus is known to occur in Cambodia.\n* **Thailand:** 1 - Highly likely.  This species is well-documented in Thailand.\n* **Myanmar:** 0.8 -  Very likely.  Myanmar shares a similar habitat and range overlap with known locations of the species.\n* **Tunisia:** 0 - Extremely unlikely. Tunisia is in North Africa, far outside the native range of this Southeast Asian gecko.\n* **Singapore:** 0.2 -  Unlikely. While Singapore is geographically close, it's highly urbanized, which might limit the gecko's presence.\n* **Indonesia:** 0.7 - Likely. Indonesia has a vast archipelago, and this species is known to occur on some Indonesian islands. \n* **Lao People's Democratic Republic:** 0.9 - Very likely. Laos shares a border and similar habitats with known locations of the species.\n* **Namibia:** 0 - Extremely unlikely. Namibia is in Southern Africa, far outside the gecko's native range.\n* **Brunei Darussalam:** 0.7 - Likely. Brunei's location and habitat make it suitable for the species.\n* **Malaysia:** 1 - Highly likely. Cyrtodactylus quadrivirgatus is known to occur in Malaysia.\n\nHere's the Python list representing these likelihood scores:\n\n```python\n[1, 1, 0.8, 0, 0.2, 0.7, 0.9, 0, 0.7, 1]\n``` \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "35034": {
+        "question": "Can you tell me if the \"Yellow-faced Whipsnake\" (\"Demansia psammophis\") can be found in the following countries:\n\nSingapore\nKenya\nAustralia\nJordan\nFrench Polynesia\nMalaysia\nNamibia\nZambia\nFrench Guiana\nGrenada.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Yellow-faced Whipsnake (\"Demansia psammophis\") presence in each country, formatted as a Python list:\n\n```python\n[0, # Singapore - Not native, no records\n 0, # Kenya - Not native, no records\n 1, # Australia - Native and common\n 0, # Jordan - Not native, no records\n 0, # French Polynesia - Not native, no records\n 0, # Malaysia - Not native, no records\n 0, # Namibia - Not native, no records\n 0, # Zambia - Not native, no records\n 0, # French Guiana - Not native, no records\n 0  # Grenada - Not native, no records\n]\n```\n\n**Explanation:**\n\n* **\"Demansia psammophis\" is endemic to Australia.** This means it's naturally found only in Australia and nowhere else. \n* The other countries listed are geographically distant and have different ecosystems, making it highly improbable for the Yellow-faced Whipsnake to exist there naturally. \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "68530": {
+        "question": "Can you tell me if the \"Hump-nosed Viper\" (\"Hypnale hypnale\") can be found in the following countries:\n\nBhutan\nGreece\nBangladesh\nPakistan\nIndia\nMyanmar\nChina\nNepal\nSri Lanka\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Hump-nosed Viper in each country:\n\n```python\n[0.1, 0, 0.8, 0.2, 1, 0.9, 0, 0.3, 1, 0] \n```\n\n**Explanation of the Scores:**\n\n* **Bhutan (0.1):**  While not commonly known, there's a slight chance due to proximity to viper habitat in India.\n* **Greece (0):**  Hump-nosed Vipers are not found in Europe.\n* **Bangladesh (0.8):** High likelihood due to suitable habitat and proximity to known ranges in India and Myanmar.\n* **Pakistan (0.2):**  Low likelihood, as their range extends primarily eastward.\n* **India (1):**  Hump-nosed Vipers are common in India.\n* **Myanmar (0.9):**  High likelihood due to suitable habitat and proximity to known ranges.\n* **China (0):**  Hump-nosed Vipers are not found in China.\n* **Nepal (0.3):**  Possible presence in the southern Terai region bordering India.\n* **Sri Lanka (1):**  Hump-nosed Vipers are common in Sri Lanka.\n* **Namibia (0):**  Hump-nosed Vipers are only found in South Asia. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "29793": {
+        "question": "Can you tell me if the \"Scarlet Kingsnake\" (\"Lampropeltis elapsoides\") can be found in the following countries:\n\nMexico\nCanada\nGibraltar\nIran, Islamic Republic of\nNew Caledonia\nUnited States of America\nBurkina Faso\nKorea, Republic of\nBhutan\nAustria.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, based on the known range of the Scarlet Kingsnake:\n\n```python\n[0.1, 0, 0, 0, 0, 1, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **Mexico (0.1):** While Scarlet Kingsnakes are primarily found in the Eastern US, their range extends slightly into northeastern Mexico. Hence, a low probability.\n* **Canada (0):** Scarlet Kingsnakes are not found in Canada. Their range is limited to the warmer climates of the Southern and Eastern US.\n* **Gibraltar (0):**  Scarlet Kingsnakes are native to North America and not found in Europe.\n* **Iran (0):** Scarlet Kingsnakes are a North American species and not found in Asia.\n* **New Caledonia (0):** Scarlet Kingsnakes are a North American species and not found in Oceania.\n* **United States of America (1):** This is the primary habitat of the Scarlet Kingsnake, particularly in the eastern and southeastern states.\n* **Burkina Faso (0):** Scarlet Kingsnakes are a North American species and not found in Africa.\n* **Korea (0):** Scarlet Kingsnakes are a North American species and not found in Asia.\n* **Bhutan (0):** Scarlet Kingsnakes are a North American species and not found in Asia.\n* **Austria (0):** Scarlet Kingsnakes are native to North America and not found in Europe. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "476523": {
+        "question": "Can you tell me if the \"Australian Wood Frog\" (\"Papurana daemeli\") can be found in the following countries:\n\nBelize\nNamibia\nMalaysia\nPapua New Guinea\nNiger\nYemen\nHong Kong\nIndonesia\nAustralia\nTimor-Leste.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Australian Wood Frog (\"Papurana daemeli\") presence in each country:\n\n* **Belize (0):**  Central America - highly unlikely.\n* **Namibia (0):** Southern Africa - highly unlikely.\n* **Malaysia (0):** Southeast Asia, but outside the known range - unlikely.\n* **Papua New Guinea (1):**  Shares an island with Australia and within the species' known range - very likely.\n* **Niger (0):**  West Africa - highly unlikely.\n* **Yemen (0):** Arabian Peninsula - highly unlikely.\n* **Hong Kong (0):**  East Asia, far outside the known range - highly unlikely.\n* **Indonesia (0.2):** Some Indonesian islands are close to Papua New Guinea, but the species' range is generally limited to Australia and PNG - low likelihood.\n* **Australia (1):**  Part of the species' common name and known range - very likely.\n* **Timor-Leste (0.8):** Shares an island with Indonesia, very close to the known range in West Papua - high likelihood.\n\nHere's the Python list representing these likelihoods:\n\n```python\n[0, 0, 0, 1, 0, 0, 0, 0.2, 1, 0.8]\n``` \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "26729": {
+        "question": "Can you tell me if the \"Ringed Salamander\" (\"Ambystoma annulatum\") can be found in the following countries:\n\nFalkland Islands (Malvinas)\nUnited States of America\nPakistan\nCanada\nWestern Sahara\nMexico\nSpain\nMali\nSaudi Arabia\nAlgeria.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Ringed Salamander in each country:\n\n```python\n[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\n**Explanation:**\n\n* **United States (1):** The Ringed Salamander is native to the United States, specifically in a central band from Arkansas to Missouri and Illinois. \n* **All other countries (0):**  This salamander is endemic to a specific region of the US and is not found anywhere else. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "26197": {
+        "question": "Can you tell me if the \"Edible bullfrog\" (\"Pyxicephalus edulis\") can be found in the following countries:\n\nSouth Africa\nZambia\nSomalia\nChad\nUganda\nDjibouti\nSouth Sudan\nBurundi\nTanzania, United Republic of\nCameroon.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Edible bullfrog (\"Pyxicephalus edulis\") in the countries you listed, based on its known distribution:\n\n```python\n[1, 0.8, 0, 0.2, 0.9, 0, 0.7, 0.6, 0.7, 0.3] \n```\n\n**Explanation of Scores:**\n\n* **South Africa (1):**  Edible bullfrogs are **very common** in South Africa.\n* **Zambia (0.8):**  High likelihood, as it's within the species' known range and shares suitable habitats with nearby countries.\n* **Somalia (0):**  Very unlikely. Somalia's climate and environment are not conducive to this species.\n* **Chad (0.2):**  Low likelihood. While the very southern tip of Chad might touch the edge of the species' range, it's not typical habitat.\n* **Uganda (0.9):**  Very high likelihood. Uganda is well within the species' range and has suitable habitats.\n* **Djibouti (0):**  Similar to Somalia, Djibouti's environment is not suitable for this species.\n* **South Sudan (0.7):**  Good likelihood. South Sudan shares suitable habitats with neighboring countries where the species is found.\n* **Burundi (0.6):**  Moderate likelihood. Burundi is on the edge of the species' known range.\n* **Tanzania (0.7):**  Good likelihood, particularly in areas bordering Zambia and other countries where the species is common.\n* **Cameroon (0.3):**  Low to moderate likelihood. The very eastern edge of Cameroon might touch the species' range, but it's not a core area.\n\n**Important Note:** This is a simplified assessment based on general distribution data.  Factors like micro-habitats, recent range expansions/contractions, and the accuracy of available data can influence the actual presence in specific locations. \n",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "65212": {
+        "question": "Can you tell me if the \"Barking Frog\" (\"Craugastor augusti\") can be found in the following countries:\n\nGuatemala\nUnited States of America\nCanada\nHoly See (Vatican City State)\nCuba\nBelize\nSierra Leone\nDenmark\nMexico\nPalau.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can determine the likelihood of finding the Barking Frog (Craugastor augusti) in each country and represent it as a Python list:\n\n**Understanding the Barking Frog's Habitat**\n\nThe Barking Frog is native to a specific region in North America.  \n\n**Analyzing the List of Countries**\n\n* **Guatemala, Belize, Mexico:** These countries are within or bordering the natural range of the Barking Frog.\n* **United States of America:** Parts of the southern US are within the frog's range.\n* **Canada, Holy See, Cuba, Sierra Leone, Denmark, Palau:** These countries are geographically far outside the natural habitat of the Barking Frog.\n\n**Python List of Likelihood Scores:**\n\n```python\nlikelihood_scores = [\n    0.8,  # Guatemala\n    0.7,  # United States of America\n    0.0,  # Canada\n    0.0,  # Holy See (Vatican City State)\n    0.0,  # Cuba\n    0.6,  # Belize\n    0.0,  # Sierra Leone\n    0.0,  # Denmark\n    0.9,  # Mexico\n    0.0   # Palau\n]\n```\n\n**Explanation of Scores:**\n\n* Scores close to 1 (like 0.9, 0.8, 0.7) indicate a high likelihood of the frog being present in those countries.\n* Scores of 0 indicate that the country is far outside the frog's known range, making its presence highly unlikely. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "22846": {
+        "question": "Can you tell me if the \"Amazonian Horned Frog\" (\"Ceratophrys cornuta\") can be found in the following countries:\n\nParaguay\nPeru\nUruguay\nArgentina\nFrench Guiana\nGuyana\nPanama\nBrazil\nChile\nVenezuela, Bolivarian Republic of.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Amazonian Horned Frog (\"Ceratophrys cornuta\") in the countries you listed:\n\n```python\n[0.8, 0.9, 0.0, 0.1, 0.9, 0.7, 0.3, 1.0, 0.0, 0.9] \n```\n\n**Explanation of Scores:**\n\n* **Paraguay (0.8):**  While the Amazon Basin doesn't extend into Paraguay, the eastern part of the country shares similar biogeographic regions, making it plausible for the species to be present.\n* **Peru (0.9):** High likelihood.  Peru encompasses a significant portion of the Amazon rainforest.\n* **Uruguay (0.0):** Very unlikely. Uruguay's habitats are too far south and differ significantly from the Amazon.\n* **Argentina (0.1):**  Low likelihood. Only a tiny portion of northeastern Argentina touches the edge of the species' potential range.\n* **French Guiana (0.9):** High likelihood. French Guiana is located within the Amazon rainforest.\n* **Guyana (0.7):**  Likely. Guyana is within the Guiana Shield, which shares many species with the Amazon.\n* **Panama (0.3):**  Unlikely. Panama's rainforests are separated from the Amazon by the Andes Mountains.\n* **Brazil (1.0):**  Almost certain. Brazil contains the largest portion of the Amazon rainforest.\n* **Chile (0.0):**  Impossible. Chile's climate and ecosystems are far too different from the Amazon.\n* **Venezuela (0.9):**  High likelihood. Venezuela includes a significant portion of the Amazon Basin. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "67258": {
+        "question": "Can you tell me if the \"Sand Toad\" (\"Vandijkophrynus angusticeps\") can be found in the following countries:\n\nLesotho\nUnited States of America\nMozambique\nNew Caledonia\nBotswana\nSouth Africa\nNamibia\nSint Maarten (Dutch part)\nEswatini\nZimbabwe.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Sand Toad (\"Vandijkophrynus angusticeps\") in each country:\n\n```python\n[0.9, 0, 0, 0, 0.2, 1, 0.8, 0, 0.7, 0.3] \n```\n\n**Explanation:**\n\n* **Lesotho (0.9):**  Sand Toads are found in areas bordering Lesotho, making their presence highly likely.\n* **United States of America (0):**  Sand Toads are native to Southern Africa and would not be found in the USA.\n* **Mozambique (0):** Mozambique is too far north of the Sand Toad's known range.\n* **New Caledonia (0):**  New Caledonia is an island in the Pacific Ocean, far outside the Sand Toad's natural habitat.\n* **Botswana (0.2):**  While some sources suggest a potential range extension into Botswana, it's not considered a core part of their distribution.\n* **South Africa (1):**  South Africa is the heartland of the Sand Toad's distribution.\n* **Namibia (0.8):**  Sand Toads are found in significant portions of Namibia.\n* **Sint Maarten (Dutch part) (0):**  Sint Maarten is a Caribbean island, completely outside the Sand Toad's natural range.\n* **Eswatini (0.7):**  Eswatini is located within the Sand Toad's known range.\n* **Zimbabwe (0.3):**  The Sand Toad's range might extend slightly into Zimbabwe, but it's not a primary area for the species. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "27658": {
+        "question": "Can you tell me if the \"Korean Crevice Salamander\" (\"Karsenia koreana\") can be found in the following countries:\n\nLesotho\nFaroe Islands\nPoland\nQatar\nCyprus\nMaldives\nKorea, Republic of\nKorea (Democratic People's Republic of)\nRussian Federation\nKazakhstan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Korean Crevice Salamander (\"Karsenia koreana\") being found in each location, formatted as a Python list:\n\n```python\n[0, # Lesotho - Southern Africa, no chance\n 0, # Faroe Islands - North Atlantic, no chance\n 0, # Poland - Central Europe, no chance\n 0, # Qatar - Arabian Peninsula, desert environment, no chance\n 0, # Cyprus - Mediterranean island, no chance\n 0, # Maldives - Tropical Indian Ocean islands, no chance\n 1, # Korea, Republic of -  Its namesake, highly likely\n 1, # Korea (Democratic People's Republic of) - Shares the Korean peninsula, highly likely\n 0, # Russian Federation -  Vast country, but this species is highly specific to the Korean peninsula\n 0] # Kazakhstan - Central Asia, no chance \n``` \n\n**Explanation:**\n\nThe Korean Crevice Salamander is *endemic* to the Korean peninsula. This means it's found exclusively in that region and nowhere else in the world. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "67188": {
+        "question": "Can you tell me if the \"Lowland Burrowing Tree Frog\" (\"Smilisca fodiens\") can be found in the following countries:\n\nUnited States of America\nCanada\nBelize\nBelgium\nGuinea-Bissau\nMexico\nFiji\nGuatemala\nAfghanistan\nBosnia and Herzegovina.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores for the Lowland Burrowing Tree Frog (\"Smilisca fodiens\") presence, formatted as a Python list:\n\n```python\n[0.9, 0, 0.7, 0, 0, 1, 0, 0.6, 0, 0] \n```\n\n**Explanation:**\n\n* **United States (0.9):**  The Lowland Burrowing Tree Frog is found in southern Texas, making its presence in the US highly likely.\n* **Canada (0):** Too far north. This species is associated with Central America and wouldn't survive in the Canadian climate.\n* **Belize (0.7):**  Belize is within the natural range of similar Smilisca species, making the presence of the Lowland Burrowing Tree Frog likely.\n* **Belgium (0):**  Definitely not. This is a Central/North American species.\n* **Guinea-Bissau (0):**  Definitely not. This is in Africa, far outside the frog's natural range.\n* **Mexico (1):**  Mexico is a core part of the Lowland Burrowing Tree Frog's range.\n* **Fiji (0):**  Definitely not. Fiji is in the Pacific Ocean, far from the Americas.\n* **Guatemala (0.6):** Guatemala is within the general range of related species, making the presence of the Lowland Burrowing Tree Frog plausible.\n* **Afghanistan (0):**  Definitely not. This is in Asia, far outside the frog's natural range.\n* **Bosnia and Herzegovina (0):**  Definitely not. This is in Europe, far outside the frog's natural range. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "64975": {
+        "question": "Can you tell me if the \"Chihuahuan Green Toad\" (\"Anaxyrus debilis\") can be found in the following countries:\n\nCanada\nBelize\nGuatemala\nT\u00fcrkiye\nNorway\nMadagascar\nBurkina Faso\nMauritius\nUnited States of America\nMexico.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Chihuahuan Green Toad (\"Anaxyrus debilis\") in each country:\n\n```python\n[0, # Canada\n 0, # Belize\n 0, # Guatemala\n 0, # T\u00fcrkiye \n 0, # Norway\n 0, # Madagascar\n 0, # Burkina Faso\n 0, # Mauritius\n 1, # United States of America\n 1] # Mexico\n```\n\n**Explanation:**\n\nThe Chihuahuan Green Toad is primarily found in the Chihuahuan Desert region, which spans parts of the southwestern United States and Mexico.  Therefore, it's highly likely to be present in those two countries. The other countries listed are geographically distant and have vastly different climates, making it extremely unlikely for this toad species to be found there. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "23654": {
+        "question": "Can you tell me if the \"Broad-palmed Rocket Frog\" (\"Litoria latopalmata\") can be found in the following countries:\n\nBotswana\nSaudi Arabia\nCentral African Republic\nAustria\nNamibia\nGabon\nJordan\nSaint Pierre and Miquelon\nFinland\nAustralia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Broad-palmed Rocket Frog (Litoria latopalmata) in each country:\n\n```python\n[0, 0, 0, 0, 0, 0, 0, 0, 0, 1]\n```\n\n**Explanation:**\n\n* **Litoria** is a genus of frogs found primarily in Australia and New Guinea. \n* The Broad-palmed Rocket Frog is a specific species within this genus found **exclusively in Australia**.\n\nTherefore, the likelihood is extremely low (effectively 0) for all countries except Australia, which receives a 1. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "135055": {
+        "question": "Can you tell me if the \"Balearic Green Toad\" (\"Bufotes balearicus\") can be found in the following countries:\n\nSlovenia\nBelgium\nAustria\nItaly\nFrance\nGibraltar\nSpain\nSan Marino\nSwitzerland\nMorocco.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the \"Balearic Green Toad\" in each country:\n\n```python\n[0.0, 0.0, 0.0, 0.8, 0.7, 0.0, 1.0, 0.0, 0.0, 0.0] \n```\n\n**Explanation:**\n\n* **Spain:** The Balearic Green Toad is **native to** Spain, specifically the Balearic Islands. Hence, the score is 1.0.\n* **Italy:** This species is also found in parts of Italy, particularly Sardinia and Corsica (though its presence in Corsica is debated). Therefore, the score is 0.8.\n* **France:**  The toad's range extends to southeastern France, so the score is 0.7.\n* **Slovenia, Belgium, Austria, Gibraltar, San Marino, Switzerland, Morocco:** The Balearic Green Toad is **not found** in these countries. Hence, the score for each is 0.0. \n\n**Important Note:** This is a simplified representation based on general distribution knowledge. Microhabitats and specific locations within a country can significantly influence the presence of a species. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "27005": {
+        "question": "Can you tell me if the \"Mexican Mushroomtongue Salamander\" (\"Bolitoglossa mexicana\") can be found in the following countries:\n\nViet Nam\nMontenegro\nUnited States of America\nNicaragua\nMexico\nLebanon\nGuatemala\nHonduras\nBelize\nEl Salvador.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the \"Mexican Mushroomtongue Salamander\" in each country:\n\n```python\n[0, # Viet Nam\n 0, # Montenegro\n 0, # United States of America\n 0.8, # Nicaragua\n 1, # Mexico\n 0, # Lebanon\n 0.9, # Guatemala\n 0.9, # Honduras\n 0.2, # Belize \n 0.7] # El Salvador\n```\n\n**Explanation:**\n\n* **Mexico:** The species name \"mexicana\" strongly suggests it's found in Mexico.\n* **Guatemala, Honduras, Nicaragua:** These countries are adjacent to Mexico within a suitable geographic range for the species.\n* **El Salvador:** Also close to Mexico, making it likely.\n* **Belize:**  While geographically possible, Belize's salamander fauna is less diverse than its neighboring countries.\n* **All other countries:**  Geographically very distant and outside the known range of this type of salamander. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "22974": {
+        "question": "Can you tell me if the \"Oven Frog\" (\"Leptodactylus latinasus\") can be found in the following countries:\n\nArgentina\nPeru\nVenezuela (Bolivarian Republic of)\nBrazil\nUruguay\nChile\nGuyana\nParaguay\nBolivia, Plurinational State of\nFrench Guiana.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Oven Frog (\"Leptodactylus latinasus\") in the countries you listed, based on its known range:\n\n```python\n[1, 0, 0, 1, 1, 0, 0, 1, 0, 0] \n```\n\n**Explanation:**\n\n* **Argentina, Brazil, Uruguay, Paraguay:** The Oven Frog is known to be common in these countries. Hence, the score is 1.\n* **Peru, Venezuela, Chile, Guyana, Bolivia, French Guiana:**  This species is not typically found in these countries. Therefore, the score is 0.\n\n**Important Note:** This is a simplified representation based on general distribution knowledge.  Species distributions can be complex and influenced by factors like microhabitats and ongoing research. For the most accurate and up-to-date information, always consult specialized resources and distribution maps. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "64987": {
+        "question": "Can you tell me if the \"Texas Toad\" (\"Anaxyrus speciosus\") can be found in the following countries:\n\nBelize\nUnited States of America\nCroatia\nCuba\nMexico\nGuatemala\nCanada\nJamaica\nQatar\nParaguay.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can determine the likelihood of finding the Texas Toad in those countries:\n\n* **Known Range:** The Texas Toad is primarily found in the south-central United States and northeastern Mexico. \n* **Habitat:** They prefer arid and semi-arid environments.\n\nWith this in mind, here's a Python list with likelihood scores:\n\n```python\n[0.0, # Belize - Out of range, unsuitable habitat\n 1.0, # United States of America - Within known range\n 0.0, # Croatia - Out of range, different continent\n 0.0, # Cuba - Out of range, island nation\n 0.8, # Mexico - Northern Mexico is within known range\n 0.1, # Guatemala - Possible marginal overlap, but less likely\n 0.0, # Canada - Too far north, unsuitable climate\n 0.0, # Jamaica - Out of range, island nation\n 0.0, # Qatar - Out of range, different continent\n 0.0] # Paraguay - Out of range, too far south \n``` \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "517130": {
+        "question": "Can you tell me if the \"Barred Monkey Frog\" (\"Callimedusa tomopterna\") can be found in the following countries:\n\nGuyana\nPanama\nEcuador\nFrench Guiana\nUruguay\nParaguay\nVenezuela, Bolivarian Republic of\nArgentina\nColombia\nChile.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of the Barred Monkey Frog (\"Callimedusa tomopterna\") presence in each country:\n\n```python\n[0.9, 0.8, 1, 0.95, 0, 0, 1, 0, 1, 0]\n```\n\n**Explanation:**\n\n* **Guyana, French Guiana, Venezuela, Colombia:** These countries fall within the known range of the Barred Monkey Frog, making their presence highly likely (0.9 - 1).\n* **Panama, Ecuador:** While these countries are close to the known range, there's a slightly lower chance of finding the species (0.8 - 1).\n* **Uruguay, Paraguay, Argentina, Chile:** These countries are geographically distant from the known range of the Barred Monkey Frog, making their presence highly unlikely (0). \n\n**Important Note:** This is a simplified representation based on general distribution knowledge.  For accurate and detailed information, consult specialized resources and databases on amphibian distribution. \n",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "26747": {
+        "question": "Can you tell me if the \"Northwestern Salamander\" (\"Ambystoma gracile\") can be found in the following countries:\n\nColombia\nMongolia\nMorocco\nSpain\nAlbania\nAnguilla\nCanada\nMexico\nUnited States of America\nCook Islands.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can determine the likelihood of finding the Northwestern Salamander in each country:\n\n* **Distribution:** The Northwestern Salamander is native to the Pacific Northwest region of North America. \n* **Biogeography:**  Salamanders in the *Ambystoma* genus are not found outside of North America.\n\nConsidering this, here's a Python list with the likelihood scores:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 1, 0] \n```\n\n**Explanation:**\n\n* **Canada, United States of America:** Score of 1 because this is the salamander's native range.\n* **All other countries:** Score of 0 because they are geographically far outside the known range of the Northwestern Salamander and its genus. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "24268": {
+        "question": "Can you tell me if the \"Spring Peeper\" (\"Pseudacris crucifer\") can be found in the following countries:\n\nYemen\nAnguilla\nHoly See (Vatican City State)\nSlovenia\nGuadeloupe\nUnited States of America\nPeru\nCanada\nMexico\nKorea, Democratic People's Republic of.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores and the reasoning behind them:\n\n* **Yemen (0):**  Spring Peepers are North American frogs. Yemen's climate and location make it extremely unlikely.\n* **Anguilla (0):**  Similar to Yemen, Anguilla is a Caribbean island far outside the Spring Peeper's natural range.\n* **Holy See (Vatican City State) (0):** Vatican City is a highly urbanized microstate within Rome, offering no suitable habitat.\n* **Slovenia (0):** Slovenia is in Europe, far from the Spring Peeper's natural range.\n* **Guadeloupe (0):**  Another Caribbean island, Guadeloupe is not a suitable habitat for this North American frog.\n* **United States of America (1):** Spring Peepers are common throughout the eastern United States.\n* **Peru (0):** Peru's Amazonian and Andean ecosystems are vastly different from the Spring Peeper's habitat.\n* **Canada (0.7):** Spring Peepers are found in southeastern Canada. While not as widespread as in the US, their presence is significant.\n* **Mexico (0.1):**  The extreme northern edges of Mexico *might* have suitable conditions, but it's on the very edge of possibility.\n* **Korea, Democratic People's Republic of. (0):**  North Korea's climate and distance from North America make it highly improbable.\n\nHere's the Python list representing these likelihoods:\n\n```python\n[0, 0, 0, 0, 0, 1, 0, 0.7, 0.1, 0] \n``` \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "26395": {
+        "question": "Can you tell me if the \"Java Bubble-Nest Frog\" (\"Philautus aurifasciatus\") can be found in the following countries:\n\nC\u00f4te d'Ivoire\nSint Maarten (Dutch part)\nFrench Polynesia\nFiji\nTimor-Leste\nMayotte\nIndonesia\nMalaysia\nMongolia\nPapua New Guinea.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can determine the likelihood of finding the Java Bubble-Nest Frog in those locations:\n\n* **Species Distribution:** The Java Bubble-Nest Frog (\"Philautus aurifasciatus\") is named for a reason - its known range is primarily within Java, an island in Indonesia. \n\n* **Biogeography:**  It's crucial to consider the biological and geographical factors that limit a species' distribution. Frogs are often restricted by water bodies and climates.  The listed countries span vastly different regions and habitats, making it highly unlikely for this specific frog to be found in most of them.\n\n**Likelihood Scores:**\n\n```python\nlikelihood_scores = [\n    0,  # C\u00f4te d'Ivoire - West Africa, extremely unlikely\n    0,  # Sint Maarten - Caribbean, extremely unlikely\n    0,  # French Polynesia - Pacific Ocean, extremely unlikely\n    0,  # Fiji - Pacific Ocean, extremely unlikely\n    0,  # Timor-Leste - Southeast Asia, but significantly west of Java, unlikely\n    0,  # Mayotte -  Indian Ocean, off Africa, extremely unlikely\n    0.9, # Indonesia - **High likelihood, specifically Java**\n    0.1, # Malaysia - Close to Indonesia, slight chance of a fringe population\n    0,  # Mongolia - Central Asia, completely unsuitable habitat, extremely unlikely\n    0   # Papua New Guinea -  Oceania, different island region, unlikely\n]\n``` \n\n**Important Note:** These scores are estimations based on general distribution knowledge. To confirm the presence of a species in a particular location, you would need to consult scientific literature, databases, or experts specializing in herpetology and that region. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "517053": {
+        "question": "Can you tell me if the \"Guttural Toad\" (\"Sclerophrys gutturalis\") can be found in the following countries:\n\nDjibouti\nMauritius\nUganda\nEthiopia\nCongo\nBotswana\nMozambique\nSouth Africa\nLesotho\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of the Guttural Toad (\"Sclerophrys gutturalis\") presence in each country, based on its known distribution:\n\n```python\n[0.1, 0, 0.9, 0.7, 0.8, 0.3, 0.9, 1, 0.2, 0.1] \n```\n\n**Explanation of Scores:**\n\n* **Djibouti (0.1):**  While the Guttural Toad's range extends to the Horn of Africa, Djibouti is on the very edge of its potential distribution. Low likelihood.\n* **Mauritius (0):**  This species is not found on islands far off the African mainland. Very unlikely.\n* **Uganda (0.9):**  Uganda is well within the core range of the Guttural Toad. Very likely.\n* **Ethiopia (0.7):**  Parts of Ethiopia fall within the species' range. Likely.\n* **Congo (0.8):**  The Congo Basin is a prime habitat for the Guttural Toad. Very likely. \n* **Botswana (0.3):**  Botswana is on the drier, western edge of the species' potential range. Moderate likelihood.\n* **Mozambique (0.9):**  Mozambique is well within the Guttural Toad's distribution. Very likely.\n* **South Africa (1):**  South Africa has well-documented populations of this toad. Extremely likely.\n* **Lesotho (0.2):**  Lesotho is higher in elevation and potentially less suitable. Low likelihood.\n* **Namibia (0.1):**  Namibia represents the very southwestern edge of the species' potential range. Low likelihood.\n\n**Important Note:** This is a simplified representation based on general distribution knowledge. Microclimates, habitat availability, and other factors can influence the presence of a species in specific locations within a country. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "64978": {
+        "question": "Can you tell me if the \"Canadian Toad\" (\"Anaxyrus hemiophrys\") can be found in the following countries:\n\nMexico\nCzechia\nPanama\nCanada\nUnited States of America\nTokelau\nFiji\nThailand\nSerbia\nSudan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Canadian Toad (\"Anaxyrus hemiophrys\") in each country, based on its known North American range:\n\n```python\n[0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]\n```\n\n**Explanation:**\n\n* **Canada and the United States:** The Canadian Toad is native to these countries, hence the score of 1.0.\n* **Mexico:** While some toad species have ranges extending into northern Mexico, the Canadian Toad is generally not found there.\n* **All other countries:** These countries are geographically distant and have vastly different climates and ecosystems compared to the Canadian Toad's natural habitat.  Therefore, it's highly unlikely to find them there. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "22066": {
+        "question": "Can you tell me if the \"Great Barred Frog\" (\"Mixophyes fasciolatus\") can be found in the following countries:\n\nCongo\nAndorra\nNamibia\nSaudi Arabia\nFaroe Islands\nMozambique\nAustralia\nHaiti\nMicronesia, Federated States of \nSierra Leone.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list of likelihood scores, along with an explanation:\n\n```python\n[0, 0, 0, 0, 0, 0, 1, 0, 0, 0] \n```\n\n**Explanation:**\n\nThe Great Barred Frog (*Mixophyes fasciolatus*) is **native to Australia only**.  Therefore, the likelihood score is 1 for Australia and 0 for all other countries listed. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "64972": {
+        "question": "Can you tell me if the \"Yosemite Toad\" (\"Anaxyrus canorus\") can be found in the following countries:\n\nSpain\nUnited States of America\nMyanmar\nIndia\nCanada\nNew Caledonia\nGuinea\nMexico\nSwitzerland\nMaldives.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Yosemite Toad in each country:\n\n```python\n[0, 1, 0, 0, 0, 0, 0, 0, 0, 0]\n```\n\n**Explanation:**\n\nThe Yosemite Toad (\"Anaxyrus canorus\") is **endemic** to the Sierra Nevada mountains of **California, USA**. This means it's only found in this specific region and nowhere else in the world. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "65996": {
+        "question": "Can you tell me if the \"Montezuma Leopard Frog\" (\"Lithobates montezumae\") can be found in the following countries:\n\nUnited States of America\nMexico\nIsle of Man\nCyprus\nBelize\nAnguilla\nGuatemala\nTokelau\nNiger\nSouth Sudan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Montezuma Leopard Frog's presence in each location:\n\n```python\n[0.1, # United States of America (Southernmost range edge, unlikely but possible)\n 1,   # Mexico (Core range)\n 0,   # Isle of Man (Island, far outside range)\n 0,   # Cyprus (Island, far outside range)\n 0,   # Belize (South of known range)\n 0,   # Anguilla (Island, far outside range)\n 0.2, # Guatemala (Possible range edge, but no confirmed records)\n 0,   # Tokelau (Islands, far outside range)\n 0,   # Niger (Africa, far outside range)\n 0,   # South Sudan (Africa, far outside range)\n]\n```\n\n**Explanation:**\n\n* **United States (0.1):** While the Montezuma Leopard Frog's primary range is in Mexico, there might be a tiny chance of finding it in the extreme southern parts of the United States. This is a low probability, hence the score of 0.1.\n* **Mexico (1):** This is the heartland of the Montezuma Leopard Frog's distribution. A score of 1 reflects this high certainty.\n* **Guatemala (0.2):**  Guatemala is south of the known range, but suitable habitats might exist. There's a small chance, hence the score of 0.2.\n* **All other locations (0):** These locations are geographically distant, separated by oceans or continents, and have unsuitable climates for this frog species. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "13350": {
+        "question": "Can you tell me if the \"Bronze Sunbird\" (\"Nectarinia kilimensis\") can be found in the following countries:\n\nSomalia\nSouth Africa\nEthiopia\nZimbabwe\nEritrea\nBurundi\nCongo\nEswatini\nMalawi\nMozambique.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's how we can figure out the likelihood of finding the Bronze Sunbird in each country and represent it as a Python list:\n\n```python\nlikelihood_scores = [\n    0.0,  # Somalia - Not within typical range\n    0.9,  # South Africa - Common in eastern parts\n    0.8,  # Ethiopia -  Within known range, common in highlands\n    0.9,  # Zimbabwe - Common in eastern highlands\n    0.7,  # Eritrea - Southern parts overlap with range\n    0.9,  # Burundi - Well within range, common\n    0.2,  # Congo -  Ambiguous, likely refers to DRC where it's less common\n    0.0,  # Eswatini -  Slightly outside typical range\n    0.9,  # Malawi -  Common in suitable habitats\n    0.8,  # Mozambique -  Present in western regions\n]\n```\n\n**Explanation:**\n\n* **Distribution:** The Bronze Sunbird is primarily found in eastern and southern Africa.\n* **Habitat:** They prefer areas with flowering plants, including gardens, forests, and woodlands.\n\nLet me know if you'd like to explore the likelihood of other bird species in these countries! \n",
+        "correct_answers": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+        ]
+    },
+    "20379": {
+        "question": "Can you tell me if the \"Elf Owl\" (\"Micrathene whitneyi\") can be found in the following countries:\n\nMexico\nGuatemala\nBelize\nChina\nCentral African Republic\nCura\u00e7ao\nMadagascar\nCanada\nCroatia\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Elf Owl in each country:\n\n```python\n[1, 0.8, 0.2, 0, 0, 0, 0, 0.1, 0, 1]\n```\n\n**Explanation:**\n\n* **Mexico (1):** Elf Owls are common in suitable habitats throughout Mexico.\n* **Guatemala (0.8):** Elf Owls are found in Guatemala, though their range might be slightly smaller than in Mexico.\n* **Belize (0.2):**  While not impossible, Elf Owls are at the edge of their range in Belize and sightings are rare.\n* **China (0), Central African Republic (0), Cura\u00e7ao (0), Madagascar (0), Croatia (0):** These countries are far outside the Elf Owl's natural range.\n* **Canada (0.1):** Elf Owls are primarily found in the southwestern United States. While there might be extremely rare vagrant sightings in southern Canada, it's highly unlikely.\n* **United States of America (1):** Elf Owls are found in the southwestern United States. \n\n**Important Note:** This is a simplified representation. The actual distribution of a species can be complex and influenced by factors like habitat availability and seasonality. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "8046": {
+        "question": "Can you tell me if the \"Fan-tailed Raven\" (\"Corvus rhipidurus\") can be found in the following countries:\n\nJordan\nTanzania (the United Republic of)\nLebanon\nIraq\nGuinea\nEgypt\nSomalia\nCameroon\nNigeria\nChad.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Fan-tailed Raven (\"Corvus rhipidurus\") in the countries you listed, based on its known distribution:\n\n```python\n[1, 0, 1, 1, 0, 1, 1, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **Jordan, Lebanon, Iraq, Egypt, Somalia:** The Fan-tailed Raven is known to be present in these countries and is relatively common in arid regions.\n* **Tanzania, Guinea, Cameroon, Nigeria, Chad:** This species is not found in these sub-Saharan African countries. \n\n**Important Note:** This is a simplified representation based on general distribution knowledge.  Micro-habitats and specific locations within a country can influence the presence of a species. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "14637": {
+        "question": "Can you tell me if the \"Madagascar Bulbul\" (\"Hypsipetes madagascariensis\") can be found in the following countries:\n\nComoros\nBhutan\nUnited States of America\nNamibia\nMayotte\nSeychelles\nSaint Kitts and Nevis\nMadagascar\nPanama\nSweden.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Madagascar Bulbul in each country:\n\n```python\n[0.8, 0, 0, 0, 1, 0.2, 0, 1, 0, 0] \n```\n\n**Explanation:**\n\n* **Comoros (0.8):**  The Madagascar Bulbul is known to occur on some islands in the Comoros archipelago.\n* **Bhutan (0):**  Bhutan is in Asia, far outside the Madagascar Bulbul's range.\n* **United States of America (0):**  The USA is far outside the natural range of this bird.\n* **Namibia (0):** Namibia is in southern Africa, far from Madagascar.\n* **Mayotte (1):** Mayotte is part of the Comoros archipelago and the Madagascar Bulbul is known to be present there.\n* **Seychelles (0.2):** While closer to Madagascar than some other locations, the Seychelles have a distinct avifauna. There might be a very slight chance of vagrancy.\n* **Saint Kitts and Nevis (0):**  These Caribbean islands are far outside the bird's natural range.\n* **Madagascar (1):** This is where the bird gets its name from \u2013 it's native to Madagascar.\n* **Panama (0):** Panama is in Central America, far from the bird's natural range.\n* **Sweden (0):** Sweden is in northern Europe, far outside the bird's natural range. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "4585": {
+        "question": "Can you tell me if the \"African Jacana\" (\"Actophilornis africanus\") can be found in the following countries:\n\nBotswana\nAlgeria\nGuinea\nWestern Sahara\nMalawi\nLibya\nSudan\nEritrea\nGabon\nDjibouti.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the African Jacana in each country, based on its known distribution:\n\n```python\n[1, 0, 0.8, 0, 1, 0, 0.9, 0.2, 0.8, 0.3] \n```\n\n**Explanation:**\n\n* **Botswana (1):**  African Jacanas are common in Botswana, especially in the Okavango Delta.\n* **Algeria (0):**  African Jacanas are not found in North Africa. \n* **Guinea (0.8):**  They are present in West Africa, including Guinea, though perhaps not as abundant as in southern Africa.\n* **Western Sahara (0):**  The desert habitat of Western Sahara is unsuitable for African Jacanas.\n* **Malawi (1):**  Malawi, with its lake systems, is a prime location for African Jacanas.\n* **Libya (0):** Similar to Algeria, Libya's climate is not conducive to African Jacanas.\n* **Sudan (0.9):**  Parts of Sudan, particularly near the Nile and its tributaries, offer suitable habitat.\n* **Eritrea (0.2):**  While they might occasionally be found in Eritrea, it's on the edge of their range, making it less likely.\n* **Gabon (0.8):**  Gabon's wetlands and waterways make it a suitable habitat.\n* **Djibouti (0.3):**  Djibouti is on the very edge of their potential range, so sightings would be rare if any. \n",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "144484": {
+        "question": "Can you tell me if the \"Yellow-wattled Lapwing\" (\"Vanellus malabaricus\") can be found in the following countries:\n\nBangladesh\nChina\nMyanmar\nIran (Islamic Republic of)\nBhutan\nNamibia\nIndonesia\nMalaysia\nNepal\nPakistan.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Yellow-wattled Lapwing in each country, based on its known range:\n\n```python\n[1, 0, 0.2, 0.1, 0.1, 0, 0, 0.8, 0.9, 1] \n```\n\n**Explanation of Scores:**\n\n* **Bangladesh (1):**  The Yellow-wattled Lapwing is common and widespread in Bangladesh.\n* **China (0):** This species is not found in China.\n* **Myanmar (0.2):** While the Yellow-wattled Lapwing's primary range doesn't include Myanmar, there could be very rare vagrant sightings, hence the low but non-zero score.\n* **Iran (0.1):** Similar to Myanmar, the species is not known to reside in Iran, but vagrancy is always a slight possibility.\n* **Bhutan (0.1):**  The species is not typically found in Bhutan, but its presence in neighboring Nepal makes vagrancy a slight possibility.\n* **Namibia (0):** The Yellow-wattled Lapwing is an Asian species and is not found in Africa.\n* **Indonesia (0):** This species is not found in Indonesia.\n* **Malaysia (0.8):** The Yellow-wattled Lapwing is found in parts of Malaysia, particularly in the peninsula.\n* **Nepal (0.9):** The species is present in Nepal, though perhaps not as widespread as in Bangladesh or Pakistan.\n* **Pakistan (1):** The Yellow-wattled Lapwing is common and widespread in Pakistan. \n",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1
+        ]
+    },
+    "143853": {
+        "question": "Can you tell me if the \"Black-billed Magpie\" (\"Pica hudsonia\") can be found in the following countries:\n\nPhilippines\nUnited States of America\nBolivia, Plurinational State of\nMexico\nT\u00fcrkiye\nCanada\nNamibia\nIsrael\nTajikistan\nChina.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Black-billed Magpie (\"Pica hudsonia\") in each country:\n\n```python\n[0, 1, 0, 0.8, 0, 1, 0, 0, 0.2] \n```\n\n**Explanation:**\n\n* **Philippines (0):** Black-billed Magpies are not found in the Philippines. Their range is restricted to North America and parts of East Asia.\n* **United States of America (1):**  This is a core part of the Black-billed Magpie's range.\n* **Bolivia (0):**  Black-billed Magpies are not found in South America.\n* **Mexico (0.8):**  Black-billed Magpies extend into northern Mexico, so there's a high likelihood of finding them there.\n* **T\u00fcrkiye (0):** Black-billed Magpies are not found in this part of Eurasia.\n* **Canada (1):** This is a core part of the Black-billed Magpie's range.\n* **Namibia (0):** Black-billed Magpies are not found in Africa.\n* **Israel (0):** Black-billed Magpies are not found in this part of the Middle East.\n* **China (0.2):**  While the Black-billed Magpie's primary range is North America, a closely related species, the Eurasian Magpie (Pica pica), is found throughout much of Asia. There might be some very limited overlap or potential for vagrancy in far western China, hence the low score. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "5286": {
+        "question": "Can you tell me if the \"Square-tailed Kite\" (\"Lophoictinia isura\") can be found in the following countries:\n\nAustralia\nBurundi\nUnited Arab Emirates\nThailand\nRussian Federation\nGuinea\nPalestine, State of\nComoros\nArgentina\nNamibia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Square-tailed Kite in each country:\n\n```python\n[1, 0, 0, 0, 0, 0, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **Australia (1):** The Square-tailed Kite is endemic to Australia, meaning it's only found there.\n* **All other countries (0):**  The Square-tailed Kite's range is restricted to Australia. It's not found in any of the other listed countries. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "19482": {
+        "question": "Can you tell me if the \"Red-necked Nightjar\" (\"Caprimulgus ruficollis\") can be found in the following countries:\n\nLiberia\nFrance\nDenmark\nItaly\nSerbia\nMali\nTogo\nHoly See\nSwitzerland\nC\u00f4te d'Ivoire.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Red-necked Nightjar in each country:\n\n```python\n[0.1, 0.8, 0, 0.6, 0.2, 0.3, 0.2, 0, 0, 0.1] \n```\n\n**Explanation:**\n\n* **Liberia (0.1):** While within the same continent as the bird's range, Liberia's rainforest habitat is less suitable.\n* **France (0.8):**  Red-necked Nightjars are known to breed in France, particularly in the southern regions.\n* **Denmark (0):**  Too far north of their known range.\n* **Italy (0.6):**  They are found in parts of Italy, especially the islands and southern regions.\n* **Serbia (0.2):**  On the edge of their potential range, sightings are possible but less likely.\n* **Mali (0.3):**  Within their potential wintering grounds, but the Sahel region might not be their primary habitat.\n* **Togo (0.2):** Similar to Mali, on the edge of their potential wintering range.\n* **Holy See (0):**  A tiny, urban country within Rome, highly unlikely.\n* **Switzerland (0):**  North of their known range and lacking suitable habitat.\n* **C\u00f4te d'Ivoire (0.1):** Similar to Liberia, rainforest habitat is less suitable. \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "3924": {
+        "question": "Can you tell me if the \"African Snipe\" (\"Gallinago nigripennis\") can be found in the following countries:\n\nSomalia\nNamibia\nDjibouti\nCongo, The Democratic Republic of the\nCentral African Republic\nChad\nEritrea\nEswatini\nNamibia\nLesotho.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the African Snipe (\"Gallinago nigripennis\") in the countries you listed, based on its known distribution:\n\n```python\n[0.1, 0.9, 0.2, 0.8, 0.7, 0.3, 0.9, 0.9, 0.5] \n```\n\n**Explanation of the scores:**\n\n* **Somalia (0.1):**  While Somalia is within the general African Snipe range, it's on the very edge and considered an uncommon vagrant.\n* **Namibia (0.9):**  High likelihood. Namibia is well within the core range of the African Snipe.\n* **Djibouti (0.2):**  Low likelihood. Djibouti is on the very edge of the species' range and sightings are rare.\n* **Congo, The Democratic Republic of the (0.8):** High likelihood. The DRC has a large suitable habitat for the African Snipe.\n* **Central African Republic (0.7):** Good likelihood. The CAR is within the species' range, though perhaps not as common as in some southern African countries.\n* **Chad (0.3):**  Moderate likelihood. Chad represents the northern edge of the African Snipe's range. Sightings are possible but less frequent.\n* **Eritrea (0.9):** High likelihood. Eritrea is within the core range of the African Snipe.\n* **Eswatini (0.9):** High likelihood. Eswatini is well within the core range of the African Snipe.\n* **Lesotho (0.5):** Moderate likelihood. Lesotho is within the range, but the species' preference for wetter habitats might make it less common there. \n\n**Important Note:** These scores are estimations based on general distribution maps and knowledge.  For precise information, it's always best to consult up-to-date ornithological data and field guides specific to each country. \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            1
+        ]
+    },
+    "4385": {
+        "question": "Can you tell me if the \"California Gull\" (\"Larus californicus\") can be found in the following countries:\n\nCanada\nSan Marino\nPeru\nUnited States of America\nMexico\nGuatemala\nBelize\nEcuador\nBouvet Island\nColombia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores and the reasoning behind them:\n\n* **Canada:** 1 - California Gulls breed in Canada and migrate through parts of the country.\n* **San Marino:** 0 - San Marino is a small, landlocked country in Europe. California Gulls are North American birds.\n* **Peru:** 0 -  California Gulls are North American birds and do not reach South America.\n* **United States of America:** 1 - This is a core part of their range, including California.\n* **Mexico:** 1 - California Gulls winter in Mexico and migrate through the country.\n* **Guatemala:** 0.1 - While very unlikely, there could be extremely rare vagrant sightings, hence a very low probability.\n* **Belize:** 0.1 - Similar to Guatemala, a vagrant sighting is extremely unlikely but not impossible.\n* **Ecuador:** 0 -  California Gulls are North American birds and do not reach South America.\n* **Bouvet Island:** 0 - This remote island in the South Atlantic is far outside their range.\n* **Colombia:** 0 -  California Gulls are North American birds and do not reach South America.\n\nHere's the Python list representing these likelihoods:\n\n```python\n[1, 0, 0, 1, 1, 0.1, 0.1, 0, 0, 0]\n``` \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "73078": {
+        "question": "Can you tell me if the \"Taiwan Whistling-Thrush\" (\"Myophonus insularis\") can be found in the following countries:\n\nTunisia\nNigeria\nIndonesia\nTaiwan, Province of China\nTajikistan\nNamibia\nAruba\nCyprus\nPalestine, State of\nAntarctica.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Taiwan Whistling-Thrush (\"Myophonus insularis\") being present in each location, formatted as a Python list:\n\n```python\n[0, # Tunisia\n 0, # Nigeria\n 0, # Indonesia \n 1, # Taiwan, Province of China \n 0, # Tajikistan\n 0, # Namibia\n 0, # Aruba\n 0, # Cyprus\n 0, # Palestine, State of\n 0] # Antarctica \n```\n\n**Explanation:**\n\nThe Taiwan Whistling-Thrush, as its name strongly suggests, is endemic to **Taiwan**. This means it's found exclusively in Taiwan and nowhere else naturally.  All other locations listed are far outside its known range and habitat. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "11858": {
+        "question": "Can you tell me if the \"Cliff Swallow\" (\"Petrochelidon pyrrhonota\") can be found in the following countries:\n\nGuadeloupe\nSaint Kitts and Nevis\nDominica\nEstonia\nFinland\nGeorgia\nAruba\nUnited States of America\nGuyana\nMongolia.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a breakdown of the likelihood scores and the reasoning behind them:\n\n* **Guadeloupe (0.1):** Cliff Swallows are North American birds. While they can wander off course during migration, the Caribbean is a bit far off their usual path. A sighting is possible but unlikely.\n* **Saint Kitts and Nevis (0.1):** Similar reasoning to Guadeloupe.\n* **Dominica (0.1):** Similar reasoning to Guadeloupe.\n* **Estonia (0):**  Cliff Swallows are not found in Europe.\n* **Finland (0):** Cliff Swallows are not found in Europe.\n* **Georgia (0.1):**  This is ambiguous as Georgia could refer to the US state or the country. Assuming the country, the score is 0 as it's not in their range. If it's the US state, the score would be closer to 0.8 (see USA).\n* **Aruba (0.1):** Similar reasoning to Guadeloupe.\n* **United States of America (0.9):** Cliff Swallows are common throughout much of the US during their breeding season.\n* **Guyana (0.2):**  While Guyana is in South America, Cliff Swallows might be spotted there during their wintering in the northern parts of the continent. \n* **Mongolia (0):** Cliff Swallows are not found in Asia.\n\nHere's the Python list representing these likelihoods:\n\n```python\n[0.1, 0.1, 0.1, 0, 0, 0.1, 0.1, 0.9, 0.2, 0] \n``` \n",
+        "correct_answers": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "508977": {
+        "question": "Can you tell me if the \"Yellow-tinted Honeyeater\" (\"Ptilotula flavescens\") can be found in the following countries:\n\nLao People's Democratic Republic\nPapua New Guinea\nNamibia\nCayman Islands\nAustralia\nLithuania\nIndonesia\nBahamas\nMicronesia, Federated States of \nNauru.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the breakdown of the likelihood scores for the Yellow-tinted Honeyeater's presence in each country:\n\n* **Lao People's Democratic Republic:** 0 - Honeyeaters are generally not found in mainland Southeast Asia.\n* **Papua New Guinea:** 0 -  While New Guinea has honeyeaters, the Yellow-tinted Honeyeater's range is restricted to Australia.\n* **Namibia:** 0 - Honeyeaters are not found in Africa.\n* **Cayman Islands:** 0 - Honeyeaters are not found in the Caribbean.\n* **Australia:** 1 - This is within the Yellow-tinted Honeyeater's native range.\n* **Lithuania:** 0 - Honeyeaters are not found in Europe.\n* **Indonesia:** 0.1 -  While most of Indonesia is outside its range, some western Indonesian islands are very close to known Yellow-tinted Honeyeater territory. A vagrant individual is incredibly unlikely but theoretically possible.\n* **Bahamas:** 0 - Honeyeaters are not found in the Atlantic.\n* **Micronesia, Federated States of:** 0 - Honeyeaters are not found in Micronesia.\n* **Nauru:** 0 - Honeyeaters are not found in Nauru.\n\n**Python list of likelihood scores:**\n\n```python\n[0, 0, 0, 0, 1, 0, 0.1, 0, 0, 0]\n``` \n",
+        "correct_answers": [
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "9491": {
+        "question": "Can you tell me if the \"Lined Seedeater\" (\"Sporophila lineola\") can be found in the following countries:\n\nParaguay\nEcuador\nBrazil\nColombia\nVenezuela, Bolivarian Republic of\nChile\nSuriname\nUruguay\nDenmark\nCosta Rica.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Lined Seedeater (\"Sporophila lineola\") in the countries you listed, based on its known range:\n\n```python\n[0.8, 0.2, 1, 0.7, 0.9, 0, 0.6, 0.9, 0, 0.3] \n```\n\n**Explanation of the Scores:**\n\n* **Paraguay (0.8):**  Lined Seedeaters are common in Paraguay during their breeding season.\n* **Ecuador (0.2):**  While they might rarely stray into extreme southern Ecuador, it's not within their typical range.\n* **Brazil (1):** Brazil is a core part of their range, both for breeding and wintering.\n* **Colombia (0.7):**  Found in eastern Colombia, particularly during migration.\n* **Venezuela (0.9):**  Common in Venezuela, especially during the breeding season.\n* **Chile (0):**  Lined Seedeaters are not found in Chile.\n* **Suriname (0.6):**  Present in Suriname, but potentially less common than in some other countries on the list.\n* **Uruguay (0.9):**  Uruguay is within their primary breeding range.\n* **Denmark (0):**  Lined Seedeaters are a Neotropical species and would never be found in Denmark.\n* **Costa Rica (0.3):**  Possible vagrant, but very unlikely to be seen regularly.\n\n**Important Note:** This is a simplified representation. Bird distributions can be complex and influenced by factors like habitat, seasonality, and migration patterns. For precise information, consult detailed range maps and field guides. \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "5430": {
+        "question": "Can you tell me if the \"Lizard Buzzard\" (\"Kaupifalco monogrammicus\") can be found in the following countries:\n\nGuinea\nC\u00f4te d'Ivoire\nLesotho\nTanzania, United Republic of\nMalawi\nSierra Leone\nEritrea\nLibya\nDjibouti\nEgypt.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Lizard Buzzard in each country, based on its known distribution:\n\n```python\n[0.9, 0.9, 0, 0.7, 0.8, 0.8, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **Guinea, C\u00f4te d'Ivoire, Sierra Leone:** These West African countries fall well within the Lizard Buzzard's range, hence the high scores (0.9, 0.9, 0.8).\n* **Tanzania, Malawi:**  These East African countries are also part of the species' range, though sightings might be less frequent than in West Africa (0.7, 0.8).\n* **Lesotho:** This Southern African nation is outside the known range of the Lizard Buzzard (0).\n* **Eritrea, Libya, Djibouti, Egypt:** These North and Northeast African countries are not part of the Lizard Buzzard's typical habitat (all 0). \n",
+        "correct_answers": [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "728": {
+        "question": "Can you tell me if the \"Jungle Bush-Quail\" (\"Perdicula asiatica\") can be found in the following countries:\n\nNamibia\nBhutan\nChina\nPakistan\nIndia\nCongo\nMyanmar\nSri Lanka\nBangladesh\nNepal.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Jungle Bush-Quail in each country:\n\n```python\n[0, 0.8, 0, 1, 1, 0, 1, 0.2, 1, 0.9] \n```\n\n**Explanation:**\n\n* **Namibia, Congo:** Jungle Bush-Quail are found in Asia, making their presence in African countries like Namibia and Congo impossible. Hence, the score is 0.\n* **Bhutan, Nepal:**  These countries are within the known range of the Jungle Bush-Quail, but their habitat might be less suitable in some areas. Therefore, the score is a cautious 0.8 and 0.9, respectively.\n* **China:** While the Jungle Bush-Quail's range extends to parts of Southeast Asia, it's not typically found in China. Hence, the score is 0.\n* **Pakistan, India, Myanmar, Bangladesh:** These countries fall squarely within the core range of the Jungle Bush-Quail, making their presence highly likely. The score is 1.\n* **Sri Lanka:**  While Sri Lanka is an island near India, the Jungle Bush-Quail is not considered a resident species there. There might be a slight chance of vagrant individuals, so the score is a low 0.2. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1
+        ]
+    },
+    "9419": {
+        "question": "Can you tell me if the \"Green-tailed Towhee\" (\"Pipilo chlorurus\") can be found in the following countries:\n\nNamibia\nCanada\nCuba\nSomalia\nGuinea-Bissau\nMexico\nBelize\nCyprus\nGuatemala\nUnited States of America.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding a Green-tailed Towhee in each country:\n\n```python\n[0, 0.9, 0, 0, 0, 1, 0.1, 0, 0.2, 1] \n```\n\n**Explanation:**\n\n* **Namibia, Somalia, Guinea-Bissau, Cyprus:** These countries are outside the known range of the Green-tailed Towhee, so they receive a score of 0.\n* **Canada, USA:** The Green-tailed Towhee is common in parts of the western United States and a rare visitor to southern Canada, hence scores of 0.9 and 1 respectively.\n* **Mexico:**  Mexico is within the breeding and overwintering range of the Green-tailed Towhee, making its presence highly likely (score of 1).\n* **Belize, Guatemala:** These countries are on the southern edge of the Green-tailed Towhee's range during winter. While possible, it's less likely than in the core range (scores of 0.1 and 0.2 respectively).\n* **Cuba:**  While Cuba is geographically closer to the Green-tailed Towhee's range, it's not a typical migratory path, making its presence highly unlikely (score of 0). \n",
+        "correct_answers": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "13702": {
+        "question": "Can you tell me if the \"Japanese Wagtail\" (\"Motacilla grandis\") can be found in the following countries:\n\nKorea, Democratic People's Republic of\nLatvia\nNepal\nRussian Federation\nUkraine\nJapan\nTaiwan, Province of China\nChina\nBhutan\nNorway.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Japanese Wagtail in each country, based on its known range:\n\n```python\n[0.1, 0, 0.1, 0.8, 0, 1, 1, 0.9, 0, 0] \n```\n\n**Explanation:**\n\n* **Korea, DPRK (0.1):**  While the Japanese Wagtail's range includes South Korea, its presence in North Korea is less certain, hence a low score.\n* **Latvia (0):**  Outside the Japanese Wagtail's known range.\n* **Nepal (0.1):**  Outside the typical range, but vagrant birds are possible, hence a very low score.\n* **Russian Federation (0.8):**  Present in the far eastern regions of Russia, so a high likelihood.\n* **Ukraine (0):**  Outside the Japanese Wagtail's known range.\n* **Japan (1):**  Japan is a core part of its range.\n* **Taiwan (1):**  Taiwan is a core part of its range.\n* **China (0.9):**  Present in significant portions of eastern China, hence a high likelihood.\n* **Bhutan (0):**  Outside the Japanese Wagtail's known range.\n* **Norway (0):**  Outside the Japanese Wagtail's known range. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "7123": {
+        "question": "Can you tell me if the \"Southern Pochard\" (\"Netta erythrophthalma\") can be found in the following countries:\n\nMozambique\nParaguay\nMalawi\nCongo\nLebanon\nUganda\nGuyana\nPeru\nSouth Africa\nCentral African Republic.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's a Python list representing the likelihood of finding the Southern Pochard in each country, based on its known distribution:\n\n```python\n[0.8, 0.9, 0.7, 0.6, 0.0, 0.9, 0.9, 0.8, 0.5, 0.4] \n```\n\n**Explanation of the Scores:**\n\n* **Mozambique (0.8):**  Southern Pochards are common in southern Africa, including Mozambique.\n* **Paraguay (0.9):**  A core part of their South American range.\n* **Malawi (0.7):**  Present, but potentially less common than in countries further south.\n* **Congo (0.6):** Found in both the Republic of the Congo and the Democratic Republic of the Congo, but not as widespread.\n* **Lebanon (0.0):**  Outside their natural range. They are a South American and African species.\n* **Uganda (0.9):**  A known part of their East African range.\n* **Guyana (0.9):**  Within their South American range.\n* **Peru (0.8):**  Part of their South American range.\n* **South Africa (0.5):**  Present, but their distribution is more concentrated in the eastern and northern parts of the country.\n* **Central African Republic (0.4):**  Possible vagrant, but not commonly found. \n\n**Important Note:** These scores are estimations based on general distribution knowledge. The actual presence and abundance of Southern Pochards can vary due to factors like habitat availability, seasonality, and conservation status. \n",
+        "correct_answers": [
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "9611": {
+        "question": "Can you tell me if the \"Black Rosy-Finch\" (\"Leucosticte atrata\") can be found in the following countries:\n\nSudan\nMexico\nSaint Helena, Ascension and Tristan da Cunha\nUnited States of America\nCanada\nSlovenia\nMarshall Islands\nIsrael\nRomania\nGuadeloupe.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding a Black Rosy-Finch in each country:\n\n```python\n[0, 0.1, 0, 1, 0.2, 0, 0, 0, 0, 0] \n```\n\n**Explanation:**\n\n* **United States of America (1):**  Black Rosy-Finches are primarily found in the western United States. This is their core range.\n* **Canada (0.2):** While they breed primarily in the US, there might be some seasonal overlap into southern Canada.\n* **Mexico (0.1):**  There's a very slight chance of vagrancy into northern Mexico during extreme winters, but it's rare.\n* **All other countries (0):** These countries are geographically far outside the Black Rosy-Finch's known range and habitat. \n",
+        "correct_answers": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "116877": {
+        "question": "Can you tell me if the \"Black-capped Donacobius\" (\"Donacobius atricapilla\") can be found in the following countries:\n\nGuyana\nBrunei Darussalam\nUruguay\nLithuania\nFrench Guiana\nPeru\nArgentina\nCosta Rica\nChile\nParaguay.\n\nPlease respond with a score for each country between 0 and 1, where 1 indicates that you think the species is very likely to be present there. Provide your answer as a Python list containing only the likelihood scores.",
+        "response": "Here's the Python list representing the likelihood of finding the Black-capped Donacobius in each country:\n\n```python\n[0.9, 0, 0.8, 0, 0.9, 0.7, 0.8, 0, 0, 0.9] \n```\n\n**Explanation:**\n\n* **Guyana, French Guiana, Paraguay:** These countries fall within the heart of the Black-capped Donacobius's range. Hence, a high score of 0.9.\n* **Uruguay, Argentina:**  The species is found in these countries, but their range within these countries is slightly more limited. Hence, a score of 0.8.\n* **Peru:** The Black-capped Donacobius can be found in Peru, but its distribution is less extensive compared to other countries in its range. Hence, a score of 0.7.\n* **Brunei Darussalam, Lithuania, Costa Rica, Chile:** These countries are outside the natural range of the Black-capped Donacobius. Therefore, the score is 0. \n",
+        "correct_answers": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1
+        ]
+    }
+}

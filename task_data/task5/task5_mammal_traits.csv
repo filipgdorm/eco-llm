@@ -1,0 +1,401 @@
+index,inat_id,common_name,scientific_name,trait,correct_answers,units
+42983_adult body length,42983,Koala,Phascolarctos cinereus,adult body length,850.0,millimeters
+41822_adult body length,41822,Zorilla,Ictonyx striatus,adult body length,359.5,millimeters
+42304_adult body length,42304,Bohor Reedbuck,Redunca redunca,adult body length,1375.0,millimeters
+45568_adult body length,45568,Striped Field Mouse,Apodemus agrarius,adult body length,106.081,millimeters
+41906_adult body length,41906,Common Dwarf Mongoose,Helogale parvula,adult body length,230.795,millimeters
+42336_adult body length,42336,Grey Rhebok,Pelea capreolus,adult body length,1250.0,millimeters
+59815_adult body length,59815,Masked Shrew,Sorex cinereus,adult body length,69.28,millimeters
+40569_adult body length,40569,Evening Bat,Nycticeius humeralis,adult body length,50.0,millimeters
+42384_adult body length,42384,Klipspringer,Oreotragus oreotragus,adult body length,987.495,millimeters
+74442_adult body length,74442,Capybara,Hydrochoerus hydrochaeris,adult body length,1254.195,millimeters
+225741_adult body length,225741,Gray-footed Chipmunk,Neotamias canipes,adult body length,131.4,millimeters
+1077384_adult body length,1077384,Piute Ground Squirrel,Urocitellus mollis,adult body length,289.575,millimeters
+42069_adult body length,42069,Red Fox,Vulpes vulpes,adult body length,630.0,millimeters
+42888_adult body length,42888,Eastern Grey Kangaroo,Macropus giganteus,adult body length,1138.08,millimeters
+45997_adult body length,45997,Deppe's Squirrel,Sciurus deppei,adult body length,257.745,millimeters
+45314_adult body length,45314,Fawn-footed Melomys,Melomys cervinipes,adult body length,156.83,millimeters
+41800_adult body length,41800,Stone Marten,Martes foina,adult body length,499.315,millimeters
+46093_adult body length,46093,Olympic Marmot,Marmota olympus,adult body length,600.0,millimeters
+180010_adult body length,180010,Golden-mantled Ground Squirrel,Callospermophilus lateralis,adult body length,310.19,millimeters
+46255_adult body length,46255,White-tailed Antelope Squirrel,Ammospermophilus leucurus,adult body length,159.535,millimeters
+47083_adult body length,47083,Six-banded Armadillo,Euphractus sexcinctus,adult body length,470.83,millimeters
+74731_adult body length,74731,Mexican Greater Funnel-eared Bat,Natalus mexicanus,adult body length,46.0,millimeters
+552456_adult body length,552456,Paraguay Hairy Dwarf Porcupine,Coendou spinosus,adult body length,419.924,millimeters
+44899_adult body length,44899,Arizona Cotton Rat,Sigmodon arizonae,adult body length,200.0,millimeters
+41900_adult body length,41900,Egyptian Mongoose,Herpestes ichneumon,adult body length,611.64,millimeters
+179993_adult body length,179993,Round-tailed Ground Squirrel,Xerospermophilus tereticaudus,adult body length,280.265,millimeters
+40522_adult body length,40522,Eastern Red Bat,Lasiurus borealis,adult body length,65.656,millimeters
+74481_adult body length,74481,Geoffroy's Cat,Leopardus geoffroyi,adult body length,700.0,millimeters
+42657_adult body length,42657,Big-eared Opossum,Didelphis aurita,adult body length,396.35,millimeters
+46283_adult body length,46283,Common Treeshrew,Tupaia glis,adult body length,207.5,millimeters
+42007_adult body length,42007,Mountain Lion,Puma concolor,adult body length,1677.665,millimeters
+45437_adult body length,45437,Southern Vlei Rat,Otomys irroratus,adult body length,190.24,millimeters
+41396_adult body length,41396,Proboscis Bat,Rhynchonycteris naso,adult body length,47.97,millimeters
+852245_adult body length,852245,Middle Eastern Molerat,Nannospalax ehrenbergi,adult body length,270.0,millimeters
+42341_adult body length,42341,Northern Bushbuck,Tragelaphus scriptus,adult body length,1373.55,millimeters
+40348_adult body length,40348,Cave Myotis,Myotis velifer,adult body length,65.0,millimeters
+46180_adult body length,46180,Gunnison's Prairie Dog,Cynomys gunnisoni,adult body length,304.56,millimeters
+43813_adult body length,43813,Brazilian Guinea Pig,Cavia aperea,adult body length,400.0,millimeters
+74617_adult body length,74617,Cozumelan Golden Bat,Mimon cozumelae,adult body length,75.0,millimeters
+74659_adult body length,74659,Northern Red Muntjac,Muntiacus vaginalis,adult body length,1157.495,millimeters
+75115_adult body length,75115,Siamang,Symphalangus syndactylus,adult body length,862.495,millimeters
+74191_adult body length,74191,Tantalus Monkey,Chlorocebus tantalus,adult body length,660.0,millimeters
+42025_adult body length,42025,Serval,Leptailurus serval,adult body length,916.255,millimeters
+40281_adult body length,40281,Geoffroy's Bat,Myotis emarginatus,adult body length,50.0,millimeters
+41627_adult body length,41627,African Civet,Civettictis civetta,adult body length,840.07,millimeters
+42809_adult body length,42809,Short-eared Brush-tailed Possum,Trichosurus caninus,adult body length,580.0,millimeters
+41824_adult body length,41824,Lesser Grison,Galictis cuja,adult body length,436.645,millimeters
+41789_adult body length,41789,American Badger,Taxidea taxus,adult body length,639.175,millimeters
+42733_adult body length,42733,Striped Possum,Dactylopsila trivirgata,adult body length,273.0,millimeters
+43606_adult body length,43606,Gmelin's Woolly Lemur,Avahi laniger,adult body length,362.5,millimeters
+43043_adult body length,43043,Eastern European Hedgehog,Erinaceus concolor,adult body length,237.17,millimeters
+46272_adult body length,46272,Southern Flying Squirrel,Glaucomys volans,adult body length,171.49,millimeters
+40187_adult body length,40187,Yellow-footed Antechinus,Antechinus flavipes,adult body length,114.62,millimeters
+43047_adult body length,43047,Amur Hedgehog,Erinaceus amurensis,adult body length,249.64,millimeters
+43042_adult body length,43042,Common Hedgehog,Erinaceus europaeus,adult body length,268.585,millimeters
+46969_adult body length,46969,Iberian mole,Talpa occidentalis,adult body length,140.0,millimeters
+42405_adult body length,42405,African Buffalo,Syncerus caffer,adult body length,2962.93,millimeters
+47107_adult body length,47107,Giant Anteater,Myrmecophaga tridactyla,adult body length,1512.36,millimeters
+43439_adult body length,43439,Yucatán Black Howler Monkey,Alouatta pigra,adult body length,740.97,millimeters
+45863_adult body length,45863,European Garden Dormouse,Eliomys quercinus,adult body length,156.87,millimeters
+47078_adult body length,47078,Pichi,Zaedyus pichiy,adult body length,316.25,millimeters
+44570_adult body length,44570,Australian Bush Rat,Rattus fuscipes,adult body length,159.25,millimeters
+47075_adult body length,47075,Nine-banded Armadillo,Dasypus novemcinctus,adult body length,507.895,millimeters
+43119_adult body length,43119,Granada Hare,Lepus granatensis,adult body length,459.0,millimeters
+47014_adult body length,47014,Eastern Mole,Scalopus aquaticus,adult body length,147.605,millimeters
+424254_adult body length,424254,Daubenton's bat,Myotis daubentonii,adult body length,47.7,millimeters
+225754_adult body length,225754,Sonoma Chipmunk,Neotamias sonomae,adult body length,146.815,millimeters
+41387_adult body length,41387,Gray Sac-winged Bat,Balantiopteryx plicata,adult body length,53.0,millimeters
+45955_adult body length,45955,Prevost's Squirrel,Callosciurus prevostii,adult body length,263.5,millimeters
+41974_adult body length,41974,Canada Lynx,Lynx canadensis,adult body length,806.15,millimeters
+852334_adult body length,852334,Mountain Viscacha,Lagidium viscacia,adult body length,396.185,millimeters
+45932_adult body length,45932,Dassie Rat,Petromus typicus,adult body length,200.0,millimeters
+43339_adult body length,43339,Grévy's Zebra,Equus grevyi,adult body length,2850.0,millimeters
+183164_adult body length,183164,Canyon Bat,Parastrellus hesperus,adult body length,57.73,millimeters
+41147_adult body length,41147,California Leaf-nosed Bat,Macrotus californicus,adult body length,62.68,millimeters
+47051_adult body length,47051,American Shrewmole,Neurotrichus gibbsii,adult body length,81.38,millimeters
+41939_adult body length,41939,White-tailed Mongoose,Ichneumia albicauda,adult body length,640.845,millimeters
+74476_adult body length,74476,Western Yellow Bat,Lasiurus xanthinus,adult body length,75.0,millimeters
+55908_adult body length,55908,Mountain Hare,Lepus timidus,adult body length,559.5,millimeters
+179988_adult body length,179988,Thirteen-lined Ground Squirrel,Ictidomys tridecemlineatus,adult body length,271.75,millimeters
+40232_adult body length,40232,Tasmanian Devil,Sarcophilus harrisii,adult body length,678.93,millimeters
+41110_adult body length,41110,Seba's Short-tailed Bat,Carollia perspicillata,adult body length,66.995,millimeters
+183166_adult body length,183166,Tricolored Bat,Perimyotis subflavus,adult body length,55.0,millimeters
+42176_adult body length,42176,Common Red Brocket,Mazama americana,adult body length,1350.0,millimeters
+44282_adult body length,44282,Field Vole,Microtus agrestis,adult body length,128.085,millimeters
+42783_adult body length,42783,Greater Glider,Petauroides volans,adult body length,440.0,millimeters
+42236_adult body length,42236,Vicuña,Vicugna vicugna,adult body length,1737.5,millimeters
+64102_adult body length,64102,Big-eared Woodrat,Neotoma macrotis,adult body length,218.19,millimeters
+607212_adult body length,607212,Brown Agouti,Dasyprocta variegata,adult body length,620.0,millimeters
+46007_adult body length,46007,Andean Squirrel,Sciurus pucheranii,adult body length,315.0,millimeters
+40192_adult body length,40192,Agile Antechinus,Antechinus agilis,adult body length,104.152,millimeters
+42220_adult body length,42220,Mule Deer,Odocoileus hemionus,adult body length,1808.25,millimeters
+42042_adult body length,42042,Caracal,Caracal caracal,adult body length,827.14,millimeters
+42228_adult body length,42228,Marsh Deer,Blastocerus dichotomus,adult body length,1835.0,millimeters
+58393_adult body length,58393,Western Spotted Skunk,Spilogale gracilis,adult body length,349.46,millimeters
+40695_adult body length,40695,Lesser Horseshoe Bat,Rhinolophus hipposideros,adult body length,39.995,millimeters
+46179_adult body length,46179,Black-tailed Prairie Dog,Cynomys ludovicianus,adult body length,330.0,millimeters
+44395_adult body length,44395,White-footed Mouse,Peromyscus leucopus,adult body length,100.705,millimeters
+43446_adult body length,43446,Lion-tailed Macaque,Macaca silenus,adult body length,655.675,millimeters
+180008_adult body length,180008,Rock Squirrel,Otospermophilus variegatus,adult body length,339.75,millimeters
+42983_gestation length,42983,Koala,Phascolarctos cinereus,gestation length,31.0,days
+41822_gestation length,41822,Zorilla,Ictonyx striatus,gestation length,36.523,days
+42304_gestation length,42304,Bohor Reedbuck,Redunca redunca,gestation length,228.195,days
+45568_gestation length,45568,Striped Field Mouse,Apodemus agrarius,gestation length,20.75,days
+41906_gestation length,41906,Common Dwarf Mongoose,Helogale parvula,gestation length,54.785,days
+42336_gestation length,42336,Grey Rhebok,Pelea capreolus,gestation length,262.892,days
+59815_gestation length,59815,Masked Shrew,Sorex cinereus,gestation length,18.11,days
+40569_gestation length,40569,Evening Bat,Nycticeius humeralis,gestation length,98.759,days
+42384_gestation length,42384,Klipspringer,Oreotragus oreotragus,gestation length,206.66,days
+74442_gestation length,74442,Capybara,Hydrochoerus hydrochaeris,gestation length,150.73,days
+225741_gestation length,225741,Gray-footed Chipmunk,Neotamias canipes,gestation length,30.19,days
+1077384_gestation length,1077384,Piute Ground Squirrel,Urocitellus mollis,gestation length,23.87,days
+42069_gestation length,42069,Red Fox,Vulpes vulpes,gestation length,52.352,days
+42888_gestation length,42888,Eastern Grey Kangaroo,Macropus giganteus,gestation length,36.28,days
+45997_gestation length,45997,Deppe's Squirrel,Sciurus deppei,gestation length,44.665,days
+45314_gestation length,45314,Fawn-footed Melomys,Melomys cervinipes,gestation length,37.698,days
+41800_gestation length,41800,Stone Marten,Martes foina,gestation length,30.0,days
+46093_gestation length,46093,Olympic Marmot,Marmota olympus,gestation length,30.218,days
+180010_gestation length,180010,Golden-mantled Ground Squirrel,Callospermophilus lateralis,gestation length,30.436,days
+46255_gestation length,46255,White-tailed Antelope Squirrel,Ammospermophilus leucurus,gestation length,29.19,days
+47083_gestation length,47083,Six-banded Armadillo,Euphractus sexcinctus,gestation length,64.66,days
+74731_gestation length,74731,Mexican Greater Funnel-eared Bat,Natalus mexicanus,gestation length,244.85,days
+552456_gestation length,552456,Paraguay Hairy Dwarf Porcupine,Coendou spinosus,gestation length,118.398,days
+44899_gestation length,44899,Arizona Cotton Rat,Sigmodon arizonae,gestation length,27.0,days
+41900_gestation length,41900,Egyptian Mongoose,Herpestes ichneumon,gestation length,74.306,days
+179993_gestation length,179993,Round-tailed Ground Squirrel,Xerospermophilus tereticaudus,gestation length,27.785,days
+40522_gestation length,40522,Eastern Red Bat,Lasiurus borealis,gestation length,80.0,days
+74481_gestation length,74481,Geoffroy's Cat,Leopardus geoffroyi,gestation length,74.784,days
+42657_gestation length,42657,Big-eared Opossum,Didelphis aurita,gestation length,14.0,days
+46283_gestation length,46283,Common Treeshrew,Tupaia glis,gestation length,46.0,days
+42007_gestation length,42007,Mountain Lion,Puma concolor,gestation length,92.3,days
+45437_gestation length,45437,Southern Vlei Rat,Otomys irroratus,gestation length,40.043,days
+41396_gestation length,41396,Proboscis Bat,Rhynchonycteris naso,gestation length,125.597,days
+852245_gestation length,852245,Middle Eastern Molerat,Nannospalax ehrenbergi,gestation length,29.18,days
+42341_gestation length,42341,Northern Bushbuck,Tragelaphus scriptus,gestation length,187.79,days
+40348_gestation length,40348,Cave Myotis,Myotis velifer,gestation length,64.385,days
+46180_gestation length,46180,Gunnison's Prairie Dog,Cynomys gunnisoni,gestation length,30.0,days
+43813_gestation length,43813,Brazilian Guinea Pig,Cavia aperea,gestation length,63.0,days
+74617_gestation length,74617,Cozumelan Golden Bat,Mimon cozumelae,gestation length,124.799,days
+74659_gestation length,74659,Northern Red Muntjac,Muntiacus vaginalis,gestation length,210.0,days
+75115_gestation length,75115,Siamang,Symphalangus syndactylus,gestation length,231.0,days
+74191_gestation length,74191,Tantalus Monkey,Chlorocebus tantalus,gestation length,167.99,days
+42025_gestation length,42025,Serval,Leptailurus serval,gestation length,71.829,days
+40281_gestation length,40281,Geoffroy's Bat,Myotis emarginatus,gestation length,65.325,days
+41627_gestation length,41627,African Civet,Civettictis civetta,gestation length,68.4,days
+42809_gestation length,42809,Short-eared Brush-tailed Possum,Trichosurus caninus,gestation length,16.2,days
+41824_gestation length,41824,Lesser Grison,Galictis cuja,gestation length,41.154,days
+41789_gestation length,41789,American Badger,Taxidea taxus,gestation length,43.8,days
+42733_gestation length,42733,Striped Possum,Dactylopsila trivirgata,gestation length,24.07,days
+43606_gestation length,43606,Gmelin's Woolly Lemur,Avahi laniger,gestation length,136.556,days
+43043_gestation length,43043,Eastern European Hedgehog,Erinaceus concolor,gestation length,35.612,days
+46272_gestation length,46272,Southern Flying Squirrel,Glaucomys volans,gestation length,40.0,days
+40187_gestation length,40187,Yellow-footed Antechinus,Antechinus flavipes,gestation length,30.0,days
+43047_gestation length,43047,Amur Hedgehog,Erinaceus amurensis,gestation length,36.068,days
+43042_gestation length,43042,Common Hedgehog,Erinaceus europaeus,gestation length,36.068,days
+46969_gestation length,46969,Iberian mole,Talpa occidentalis,gestation length,31.336,days
+42405_gestation length,42405,African Buffalo,Syncerus caffer,gestation length,333.355,days
+47107_gestation length,47107,Giant Anteater,Myrmecophaga tridactyla,gestation length,184.0,days
+43439_gestation length,43439,Yucatán Black Howler Monkey,Alouatta pigra,gestation length,187.768,days
+45863_gestation length,45863,European Garden Dormouse,Eliomys quercinus,gestation length,22.97,days
+47078_gestation length,47078,Pichi,Zaedyus pichiy,gestation length,60.872,days
+44570_gestation length,44570,Australian Bush Rat,Rattus fuscipes,gestation length,26.0,days
+47075_gestation length,47075,Nine-banded Armadillo,Dasypus novemcinctus,gestation length,133.0,days
+43119_gestation length,43119,Granada Hare,Lepus granatensis,gestation length,42.605,days
+47014_gestation length,47014,Eastern Mole,Scalopus aquaticus,gestation length,41.539,days
+424254_gestation length,424254,Daubenton's bat,Myotis daubentonii,gestation length,54.285,days
+225754_gestation length,225754,Sonoma Chipmunk,Neotamias sonomae,gestation length,31.408,days
+41387_gestation length,41387,Gray Sac-winged Bat,Balantiopteryx plicata,gestation length,138.81,days
+45955_gestation length,45955,Prevost's Squirrel,Callosciurus prevostii,gestation length,47.785,days
+41974_gestation length,41974,Canada Lynx,Lynx canadensis,gestation length,63.0,days
+852334_gestation length,852334,Mountain Viscacha,Lagidium viscacia,gestation length,132.547,days
+45932_gestation length,45932,Dassie Rat,Petromus typicus,gestation length,86.105,days
+43339_gestation length,43339,Grévy's Zebra,Equus grevyi,gestation length,405.714,days
+183164_gestation length,183164,Canyon Bat,Parastrellus hesperus,gestation length,72.319,days
+41147_gestation length,41147,California Leaf-nosed Bat,Macrotus californicus,gestation length,260.145,days
+47051_gestation length,47051,American Shrewmole,Neurotrichus gibbsii,gestation length,21.27,days
+41939_gestation length,41939,White-tailed Mongoose,Ichneumia albicauda,gestation length,80.913,days
+74476_gestation length,74476,Western Yellow Bat,Lasiurus xanthinus,gestation length,93.11,days
+55908_gestation length,55908,Mountain Hare,Lepus timidus,gestation length,50.1,days
+179988_gestation length,179988,Thirteen-lined Ground Squirrel,Ictidomys tridecemlineatus,gestation length,27.75,days
+40232_gestation length,40232,Tasmanian Devil,Sarcophilus harrisii,gestation length,26.0,days
+41110_gestation length,41110,Seba's Short-tailed Bat,Carollia perspicillata,gestation length,95.0,days
+183166_gestation length,183166,Tricolored Bat,Perimyotis subflavus,gestation length,44.855,days
+42176_gestation length,42176,Common Red Brocket,Mazama americana,gestation length,225.0,days
+44282_gestation length,44282,Field Vole,Microtus agrestis,gestation length,20.72,days
+42783_gestation length,42783,Greater Glider,Petauroides volans,gestation length,23.542,days
+42236_gestation length,42236,Vicuña,Vicugna vicugna,gestation length,345.45,days
+64102_gestation length,64102,Big-eared Woodrat,Neotoma macrotis,gestation length,32.127,days
+607212_gestation length,607212,Brown Agouti,Dasyprocta variegata,gestation length,109.825,days
+46007_gestation length,46007,Andean Squirrel,Sciurus pucheranii,gestation length,49.414,days
+40192_gestation length,40192,Agile Antechinus,Antechinus agilis,gestation length,27.575,days
+42220_gestation length,42220,Mule Deer,Odocoileus hemionus,gestation length,207.0,days
+42042_gestation length,42042,Caracal,Caracal caracal,gestation length,73.959,days
+42228_gestation length,42228,Marsh Deer,Blastocerus dichotomus,gestation length,270.576,days
+58393_gestation length,58393,Western Spotted Skunk,Spilogale gracilis,gestation length,37.24,days
+40695_gestation length,40695,Lesser Horseshoe Bat,Rhinolophus hipposideros,gestation length,71.255,days
+46179_gestation length,46179,Black-tailed Prairie Dog,Cynomys ludovicianus,gestation length,35.415,days
+44395_gestation length,44395,White-footed Mouse,Peromyscus leucopus,gestation length,25.262,days
+43446_gestation length,43446,Lion-tailed Macaque,Macaca silenus,gestation length,176.0,days
+180008_gestation length,180008,Rock Squirrel,Otospermophilus variegatus,gestation length,30.0,days
+42983_max longevity,42983,Koala,Phascolarctos cinereus,max longevity,8066.5,days
+41822_max longevity,41822,Zorilla,Ictonyx striatus,max longevity,5252.958,days
+42304_max longevity,42304,Bohor Reedbuck,Redunca redunca,max longevity,6570.0,days
+45568_max longevity,45568,Striped Field Mouse,Apodemus agrarius,max longevity,1460.0,days
+41906_max longevity,41906,Common Dwarf Mongoose,Helogale parvula,max longevity,6570.0,days
+42336_max longevity,42336,Grey Rhebok,Pelea capreolus,max longevity,4501.667,days
+59815_max longevity,59815,Masked Shrew,Sorex cinereus,max longevity,912.5,days
+40569_max longevity,40569,Evening Bat,Nycticeius humeralis,max longevity,8760.0,days
+42384_max longevity,42384,Klipspringer,Oreotragus oreotragus,max longevity,9453.5,days
+74442_max longevity,74442,Capybara,Hydrochoerus hydrochaeris,max longevity,5511.5,days
+225741_max longevity,225741,Gray-footed Chipmunk,Neotamias canipes,max longevity,2703.753,days
+1077384_max longevity,1077384,Piute Ground Squirrel,Urocitellus mollis,max longevity,1274.458,days
+42069_max longevity,42069,Red Fox,Vulpes vulpes,max longevity,7774.5,days
+42888_max longevity,42888,Eastern Grey Kangaroo,Macropus giganteus,max longevity,9125.0,days
+45997_max longevity,45997,Deppe's Squirrel,Sciurus deppei,max longevity,2792.25,days
+45314_max longevity,45314,Fawn-footed Melomys,Melomys cervinipes,max longevity,1843.3,days
+41800_max longevity,41800,Stone Marten,Martes foina,max longevity,6643.0,days
+46093_max longevity,46093,Olympic Marmot,Marmota olympus,max longevity,5527.818,days
+180010_max longevity,180010,Golden-mantled Ground Squirrel,Callospermophilus lateralis,max longevity,3796.0,days
+46255_max longevity,46255,White-tailed Antelope Squirrel,Ammospermophilus leucurus,max longevity,4088.0,days
+47083_max longevity,47083,Six-banded Armadillo,Euphractus sexcinctus,max longevity,8066.5,days
+74731_max longevity,74731,Mexican Greater Funnel-eared Bat,Natalus mexicanus,max longevity,7300.0,days
+552456_max longevity,552456,Paraguay Hairy Dwarf Porcupine,Coendou spinosus,max longevity,2535.229,days
+44899_max longevity,44899,Arizona Cotton Rat,Sigmodon arizonae,max longevity,1898.0,days
+41900_max longevity,41900,Egyptian Mongoose,Herpestes ichneumon,max longevity,7300.0,days
+179993_max longevity,179993,Round-tailed Ground Squirrel,Xerospermophilus tereticaudus,max longevity,3248.5,days
+40522_max longevity,40522,Eastern Red Bat,Lasiurus borealis,max longevity,939.875,days
+74481_max longevity,74481,Geoffroy's Cat,Leopardus geoffroyi,max longevity,8471.042,days
+42657_max longevity,42657,Big-eared Opossum,Didelphis aurita,max longevity,2555.0,days
+46283_max longevity,46283,Common Treeshrew,Tupaia glis,max longevity,4532.083,days
+42007_max longevity,42007,Mountain Lion,Puma concolor,max longevity,8687.0,days
+45437_max longevity,45437,Southern Vlei Rat,Otomys irroratus,max longevity,669.167,days
+41396_max longevity,41396,Proboscis Bat,Rhynchonycteris naso,max longevity,5784.067,days
+852245_max longevity,852245,Middle Eastern Molerat,Nannospalax ehrenbergi,max longevity,5645.333,days
+42341_max longevity,42341,Northern Bushbuck,Tragelaphus scriptus,max longevity,5584.5,days
+40348_max longevity,40348,Cave Myotis,Myotis velifer,max longevity,4135.45,days
+46180_max longevity,46180,Gunnison's Prairie Dog,Cynomys gunnisoni,max longevity,2217.375,days
+43813_max longevity,43813,Brazilian Guinea Pig,Cavia aperea,max longevity,3650.0,days
+74617_max longevity,74617,Cozumelan Golden Bat,Mimon cozumelae,max longevity,5400.936,days
+74659_max longevity,74659,Northern Red Muntjac,Muntiacus vaginalis,max longevity,6862.0,days
+75115_max longevity,75115,Siamang,Symphalangus syndactylus,max longevity,15695.0,days
+74191_max longevity,74191,Tantalus Monkey,Chlorocebus tantalus,max longevity,16790.0,days
+42025_max longevity,42025,Serval,Leptailurus serval,max longevity,8395.0,days
+40281_max longevity,40281,Geoffroy's Bat,Myotis emarginatus,max longevity,8285.5,days
+41627_max longevity,41627,African Civet,Civettictis civetta,max longevity,10220.0,days
+42809_max longevity,42809,Short-eared Brush-tailed Possum,Trichosurus caninus,max longevity,6205.0,days
+41824_max longevity,41824,Lesser Grison,Galictis cuja,max longevity,4310.042,days
+41789_max longevity,41789,American Badger,Taxidea taxus,max longevity,9490.0,days
+42733_max longevity,42733,Striped Possum,Dactylopsila trivirgata,max longevity,3504.0,days
+43606_max longevity,43606,Gmelin's Woolly Lemur,Avahi laniger,max longevity,9144.442,days
+43043_max longevity,43043,Eastern European Hedgehog,Erinaceus concolor,max longevity,5110.0,days
+46272_max longevity,46272,Southern Flying Squirrel,Glaucomys volans,max longevity,6935.0,days
+40187_max longevity,40187,Yellow-footed Antechinus,Antechinus flavipes,max longevity,1423.5,days
+43047_max longevity,43047,Amur Hedgehog,Erinaceus amurensis,max longevity,5110.0,days
+43042_max longevity,43042,Common Hedgehog,Erinaceus europaeus,max longevity,5110.0,days
+46969_max longevity,46969,Iberian mole,Talpa occidentalis,max longevity,2555.0,days
+42405_max longevity,42405,African Buffalo,Syncerus caffer,max longevity,10877.0,days
+47107_max longevity,47107,Giant Anteater,Myrmecophaga tridactyla,max longevity,11506.625,days
+43439_max longevity,43439,Yucatán Black Howler Monkey,Alouatta pigra,max longevity,7300.0,days
+45863_max longevity,45863,European Garden Dormouse,Eliomys quercinus,max longevity,2007.5,days
+47078_max longevity,47078,Pichi,Zaedyus pichiy,max longevity,4562.5,days
+44570_max longevity,44570,Australian Bush Rat,Rattus fuscipes,max longevity,1934.5,days
+47075_max longevity,47075,Nine-banded Armadillo,Dasypus novemcinctus,max longevity,8151.667,days
+43119_max longevity,43119,Granada Hare,Lepus granatensis,max longevity,3248.5,days
+47014_max longevity,47014,Eastern Mole,Scalopus aquaticus,max longevity,2263.0,days
+424254_max longevity,424254,Daubenton's bat,Myotis daubentonii,max longevity,10220.0,days
+225754_max longevity,225754,Sonoma Chipmunk,Neotamias sonomae,max longevity,2467.921,days
+41387_max longevity,41387,Gray Sac-winged Bat,Balantiopteryx plicata,max longevity,2533.589,days
+45955_max longevity,45955,Prevost's Squirrel,Callosciurus prevostii,max longevity,7701.5,days
+41974_max longevity,41974,Canada Lynx,Lynx canadensis,max longevity,9782.0,days
+852334_max longevity,852334,Mountain Viscacha,Lagidium viscacia,max longevity,7117.5,days
+45932_max longevity,45932,Dassie Rat,Petromus typicus,max longevity,2579.333,days
+43339_max longevity,43339,Grévy's Zebra,Equus grevyi,max longevity,11384.958,days
+183164_max longevity,183164,Canyon Bat,Parastrellus hesperus,max longevity,2220.113,days
+41147_max longevity,41147,California Leaf-nosed Bat,Macrotus californicus,max longevity,6375.333,days
+47051_max longevity,47051,American Shrewmole,Neurotrichus gibbsii,max longevity,1514.489,days
+41939_max longevity,41939,White-tailed Mongoose,Ichneumia albicauda,max longevity,5402.0,days
+74476_max longevity,74476,Western Yellow Bat,Lasiurus xanthinus,max longevity,6655.928,days
+55908_max longevity,55908,Mountain Hare,Lepus timidus,max longevity,6570.0,days
+179988_max longevity,179988,Thirteen-lined Ground Squirrel,Ictidomys tridecemlineatus,max longevity,2883.5,days
+40232_max longevity,40232,Tasmanian Devil,Sarcophilus harrisii,max longevity,4766.292,days
+41110_max longevity,41110,Seba's Short-tailed Bat,Carollia perspicillata,max longevity,6205.0,days
+183166_max longevity,183166,Tricolored Bat,Perimyotis subflavus,max longevity,5475.0,days
+42176_max longevity,42176,Common Red Brocket,Mazama americana,max longevity,6241.5,days
+44282_max longevity,44282,Field Vole,Microtus agrestis,max longevity,1761.125,days
+42783_max longevity,42783,Greater Glider,Petauroides volans,max longevity,5475.0,days
+42236_max longevity,42236,Vicuña,Vicugna vicugna,max longevity,22435.333,days
+64102_max longevity,64102,Big-eared Woodrat,Neotoma macrotis,max longevity,304.167,days
+607212_max longevity,607212,Brown Agouti,Dasyprocta variegata,max longevity,5037.0,days
+46007_max longevity,46007,Andean Squirrel,Sciurus pucheranii,max longevity,2670.583,days
+40192_max longevity,40192,Agile Antechinus,Antechinus agilis,max longevity,1974.042,days
+42220_max longevity,42220,Mule Deer,Odocoileus hemionus,max longevity,8030.0,days
+42042_max longevity,42042,Caracal,Caracal caracal,max longevity,7409.5,days
+42228_max longevity,42228,Marsh Deer,Blastocerus dichotomus,max longevity,5000.5,days
+58393_max longevity,58393,Western Spotted Skunk,Spilogale gracilis,max longevity,5110.0,days
+40695_max longevity,40695,Lesser Horseshoe Bat,Rhinolophus hipposideros,max longevity,7738.0,days
+46179_max longevity,46179,Black-tailed Prairie Dog,Cynomys ludovicianus,max longevity,6570.0,days
+44395_max longevity,44395,White-footed Mouse,Peromyscus leucopus,max longevity,2920.0,days
+43446_max longevity,43446,Lion-tailed Macaque,Macaca silenus,max longevity,14663.875,days
+180008_max longevity,180008,Rock Squirrel,Otospermophilus variegatus,max longevity,3583.083,days
+42983_adult mass,42983,Koala,Phascolarctos cinereus,adult mass,5646.87,grams
+41822_adult mass,41822,Zorilla,Ictonyx striatus,adult mass,811.02,grams
+42304_adult mass,42304,Bohor Reedbuck,Redunca redunca,adult mass,41644.475,grams
+45568_adult mass,45568,Striped Field Mouse,Apodemus agrarius,adult mass,21.2,grams
+41906_adult mass,41906,Common Dwarf Mongoose,Helogale parvula,adult mass,274.8,grams
+42336_adult mass,42336,Grey Rhebok,Pelea capreolus,adult mass,23865.665,grams
+59815_adult mass,59815,Masked Shrew,Sorex cinereus,adult mass,5.1,grams
+40569_adult mass,40569,Evening Bat,Nycticeius humeralis,adult mass,6.65,grams
+42384_adult mass,42384,Klipspringer,Oreotragus oreotragus,adult mass,13000.0,grams
+74442_adult mass,74442,Capybara,Hydrochoerus hydrochaeris,adult mass,51572.455,grams
+225741_adult mass,225741,Gray-footed Chipmunk,Neotamias canipes,adult mass,66.05,grams
+1077384_adult mass,1077384,Piute Ground Squirrel,Urocitellus mollis,adult mass,209.905,grams
+42069_adult mass,42069,Red Fox,Vulpes vulpes,adult mass,4580.3,grams
+42888_adult mass,42888,Eastern Grey Kangaroo,Macropus giganteus,adult mass,41454.945,grams
+45997_adult mass,45997,Deppe's Squirrel,Sciurus deppei,adult mass,249.5,grams
+45314_adult mass,45314,Fawn-footed Melomys,Melomys cervinipes,adult mass,82.6,grams
+41800_adult mass,41800,Stone Marten,Martes foina,adult mass,1700.0,grams
+46093_adult mass,46093,Olympic Marmot,Marmota olympus,adult mass,6299.995,grams
+180010_adult mass,180010,Golden-mantled Ground Squirrel,Callospermophilus lateralis,adult mass,227.3,grams
+46255_adult mass,46255,White-tailed Antelope Squirrel,Ammospermophilus leucurus,adult mass,99.37,grams
+47083_adult mass,47083,Six-banded Armadillo,Euphractus sexcinctus,adult mass,4850.0,grams
+74731_adult mass,74731,Mexican Greater Funnel-eared Bat,Natalus mexicanus,adult mass,5.3,grams
+552456_adult mass,552456,Paraguay Hairy Dwarf Porcupine,Coendou spinosus,adult mass,1250.39,grams
+44899_adult mass,44899,Arizona Cotton Rat,Sigmodon arizonae,adult mass,172.3,grams
+41900_adult mass,41900,Egyptian Mongoose,Herpestes ichneumon,adult mass,2950.01,grams
+179993_adult mass,179993,Round-tailed Ground Squirrel,Xerospermophilus tereticaudus,adult mass,147.57,grams
+40522_adult mass,40522,Eastern Red Bat,Lasiurus borealis,adult mass,13.0,grams
+74481_adult mass,74481,Geoffroy's Cat,Leopardus geoffroyi,adult mass,4000.0,grams
+42657_adult mass,42657,Big-eared Opossum,Didelphis aurita,adult mass,1149.875,grams
+46283_adult mass,46283,Common Treeshrew,Tupaia glis,adult mass,159.0,grams
+42007_adult mass,42007,Mountain Lion,Puma concolor,adult mass,48000.0,grams
+45437_adult mass,45437,Southern Vlei Rat,Otomys irroratus,adult mass,114.45,grams
+41396_adult mass,41396,Proboscis Bat,Rhynchonycteris naso,adult mass,4.14,grams
+852245_adult mass,852245,Middle Eastern Molerat,Nannospalax ehrenbergi,adult mass,162.175,grams
+42341_adult mass,42341,Northern Bushbuck,Tragelaphus scriptus,adult mass,43250.39,grams
+40348_adult mass,40348,Cave Myotis,Myotis velifer,adult mass,10.995,grams
+46180_adult mass,46180,Gunnison's Prairie Dog,Cynomys gunnisoni,adult mass,807.3,grams
+43813_adult mass,43813,Brazilian Guinea Pig,Cavia aperea,adult mass,341.0,grams
+74617_adult mass,74617,Cozumelan Golden Bat,Mimon cozumelae,adult mass,26.195,grams
+74659_adult mass,74659,Northern Red Muntjac,Muntiacus vaginalis,adult mass,17611.59,grams
+75115_adult mass,75115,Siamang,Symphalangus syndactylus,adult mass,10869.5,grams
+74191_adult mass,74191,Tantalus Monkey,Chlorocebus tantalus,adult mass,4961.5,grams
+42025_adult mass,42025,Serval,Leptailurus serval,adult mass,11999.96,grams
+40281_adult mass,40281,Geoffroy's Bat,Myotis emarginatus,adult mass,9.28,grams
+41627_adult mass,41627,African Civet,Civettictis civetta,adult mass,13666.67,grams
+42809_adult mass,42809,Short-eared Brush-tailed Possum,Trichosurus caninus,adult mass,3115.06,grams
+41824_adult mass,41824,Lesser Grison,Galictis cuja,adult mass,1000.0,grams
+41789_adult mass,41789,American Badger,Taxidea taxus,adult mass,8000.0,grams
+42733_adult mass,42733,Striped Possum,Dactylopsila trivirgata,adult mass,406.705,grams
+43606_adult mass,43606,Gmelin's Woolly Lemur,Avahi laniger,adult mass,1093.355,grams
+43043_adult mass,43043,Eastern European Hedgehog,Erinaceus concolor,adult mass,771.0,grams
+46272_adult mass,46272,Southern Flying Squirrel,Glaucomys volans,adult mass,65.4,grams
+40187_adult mass,40187,Yellow-footed Antechinus,Antechinus flavipes,adult mass,44.665,grams
+43047_adult mass,43047,Amur Hedgehog,Erinaceus amurensis,adult mass,774.475,grams
+43042_adult mass,43042,Common Hedgehog,Erinaceus europaeus,adult mass,777.95,grams
+46969_adult mass,46969,Iberian mole,Talpa occidentalis,adult mass,87.53,grams
+42405_adult mass,42405,African Buffalo,Syncerus caffer,adult mass,646332.99,grams
+47107_adult mass,47107,Giant Anteater,Myrmecophaga tridactyla,adult mass,29531.83,grams
+43439_adult mass,43439,Yucatán Black Howler Monkey,Alouatta pigra,adult mass,9386.03,grams
+45863_adult mass,45863,European Garden Dormouse,Eliomys quercinus,adult mass,114.61,grams
+47078_adult mass,47078,Pichi,Zaedyus pichiy,adult mass,1500.0,grams
+44570_adult mass,44570,Australian Bush Rat,Rattus fuscipes,adult mass,127.29,grams
+47075_adult mass,47075,Nine-banded Armadillo,Dasypus novemcinctus,adult mass,3949.01,grams
+43119_adult mass,43119,Granada Hare,Lepus granatensis,adult mass,2323.94,grams
+47014_adult mass,47014,Eastern Mole,Scalopus aquaticus,adult mass,74.6,grams
+424254_adult mass,424254,Daubenton's bat,Myotis daubentonii,adult mass,7.902,grams
+225754_adult mass,225754,Sonoma Chipmunk,Neotamias sonomae,adult mass,75.0,grams
+41387_adult mass,41387,Gray Sac-winged Bat,Balantiopteryx plicata,adult mass,6.57,grams
+45955_adult mass,45955,Prevost's Squirrel,Callosciurus prevostii,adult mass,400.0,grams
+41974_adult mass,41974,Canada Lynx,Lynx canadensis,adult mass,9682.82,grams
+852334_adult mass,852334,Mountain Viscacha,Lagidium viscacia,adult mass,1392.495,grams
+45932_adult mass,45932,Dassie Rat,Petromus typicus,adult mass,212.0,grams
+43339_adult mass,43339,Grévy's Zebra,Equus grevyi,adult mass,384000.0,grams
+183164_adult mass,183164,Canyon Bat,Parastrellus hesperus,adult mass,3.56,grams
+41147_adult mass,41147,California Leaf-nosed Bat,Macrotus californicus,adult mass,12.0,grams
+47051_adult mass,47051,American Shrewmole,Neurotrichus gibbsii,adult mass,10.0,grams
+41939_adult mass,41939,White-tailed Mongoose,Ichneumia albicauda,adult mass,3500.0,grams
+74476_adult mass,74476,Western Yellow Bat,Lasiurus xanthinus,adult mass,12.2,grams
+55908_adult mass,55908,Mountain Hare,Lepus timidus,adult mass,3027.715,grams
+179988_adult mass,179988,Thirteen-lined Ground Squirrel,Ictidomys tridecemlineatus,adult mass,182.0,grams
+40232_adult mass,40232,Tasmanian Devil,Sarcophilus harrisii,adult mass,6500.0,grams
+41110_adult mass,41110,Seba's Short-tailed Bat,Carollia perspicillata,adult mass,16.4,grams
+183166_adult mass,183166,Tricolored Bat,Perimyotis subflavus,adult mass,6.62,grams
+42176_adult mass,42176,Common Red Brocket,Mazama americana,adult mass,23000.0,grams
+44282_adult mass,44282,Field Vole,Microtus agrestis,adult mass,31.935,grams
+42783_adult mass,42783,Greater Glider,Petauroides volans,adult mass,1141.0,grams
+42236_adult mass,42236,Vicuña,Vicugna vicugna,adult mass,50000.0,grams
+64102_adult mass,64102,Big-eared Woodrat,Neotoma macrotis,adult mass,219.5,grams
+607212_adult mass,607212,Brown Agouti,Dasyprocta variegata,adult mass,4100.0,grams
+46007_adult mass,46007,Andean Squirrel,Sciurus pucheranii,adult mass,803.0,grams
+40192_adult mass,40192,Agile Antechinus,Antechinus agilis,adult mass,26.25,grams
+42220_adult mass,42220,Mule Deer,Odocoileus hemionus,adult mass,57000.0,grams
+42042_adult mass,42042,Caracal,Caracal caracal,adult mass,14000.0,grams
+42228_adult mass,42228,Marsh Deer,Blastocerus dichotomus,adult mass,102500.0,grams
+58393_adult mass,58393,Western Spotted Skunk,Spilogale gracilis,adult mass,612.0,grams
+40695_adult mass,40695,Lesser Horseshoe Bat,Rhinolophus hipposideros,adult mass,4.585,grams
+46179_adult mass,46179,Black-tailed Prairie Dog,Cynomys ludovicianus,adult mass,1125.0,grams
+44395_adult mass,44395,White-footed Mouse,Peromyscus leucopus,adult mass,22.3,grams
+43446_adult mass,43446,Lion-tailed Macaque,Macaca silenus,adult mass,6570.0,grams
+180008_adult mass,180008,Rock Squirrel,Otospermophilus variegatus,adult mass,663.03,grams
