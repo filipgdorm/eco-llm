@@ -132,10 +132,13 @@ python create_task5_datasets.py
 ##  🙏 Citation
 ```
 @article{Dorm2025,
-    author = {Dorm, Filip and Millard, Joseph and Purves, Drew and Harfoot, Michael and Mac Aodha, Oisin},
-    title = {Large language models possess some ecological knowledge, but how much?},
-    journal = {bioRxiv},
-    year = {2025}
+  author = {Filip Dorm and Joseph Millard and Drew Purves and Michael Harfoot and Oisin Mac Aodha},
+  title = {Large language models possess some ecological knowledge, but how much?},
+  journal = {bioRxiv},
+  year = {2025},
+  doi = {10.1101/2025.02.10.637097},
+  url = {https://doi.org/10.1101/2025.02.10.637097},
+  publisher = {Cold Spring Harbor Laboratory}
 }
 ```
 
