@@ -1,5 +1,5 @@
 # Large language models possess some ecological knowledge, but how much? 🌿🤖
-Code for evaluating large language models (LLMs) such as Gemini and GPT-4 on ecological tasks. This code enables the recreation of the results from our preprint [Large language models possess some ecological knowledge, but how much?](https://www.biorxiv.org/content/10.1101/2025.02.10.637097v2).
+Code for evaluating large language models (LLMs) such as Gemini and GPT-4 on ecological tasks. This code enables the recreation of the results from our preprint [Large language models possess some ecological knowledge, but how much?](https://www.sciencedirect.com/science/article/pii/S1574954126001056)
 
 ## 🌍 Overview
 ![](images/eco-llm.drawio.png)
